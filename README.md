@@ -3,8 +3,12 @@
 The published output of the [astra](https://github.com/jbassin/astra) campaign pipeline and
 the campaign wiki. **A bot writes this repo**: the pipeline produces the files, and astra's
 `linguist-commit` timer and heartwood recipes commit and push them. Hand edits are fine
-for the wiki (`akasha/content/`): pull first, keep the commit small, and push promptly, since
-a bot commit to the same lines makes the bots' rebase fail. Don't hand-edit the generated
+for the wiki (`akasha/content/`), made in your own clone, never in the live clone at
+`/ruby/data/astra-state/astra-data` (an uncommitted edit there makes heartwood refuse to run).
+Pull first, keep the commit small, and push promptly, since a bot commit to the same lines
+makes the bots' rebase fail. A pushed edit goes live with the next heartwood publish or
+session, or with `just deploy akasha-frontend` once the linguist-commit timer has pulled it (it fetches
+every 15 minutes). Don't hand-edit the generated
 files; change the code in astra instead.
 
 The history starts at a snapshot commit; older history of these files is in the astra repo,
