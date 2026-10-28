@@ -29196,8 +29196,8 @@
       "isMain": true,
       "date": "2026-10-19",
       "dateSortKey": 20261019,
-      "title": "A Faucet with a Halo",
-      "episodeTitle": "A Faucet with a Halo",
+      "title": "Six Spigots and the Sky That Does Nothing",
+      "episodeTitle": "Six Spigots and the Sky That Does Nothing",
       "hosts": {
         "A": {
           "name": "Bram",
@@ -29205,988 +29205,1833 @@
         },
         "B": {
           "name": "Maeve",
-          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a short, plain sentence — she finishes her sentences and finishes them short — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
         },
         "C": {
           "name": "Nell",
-          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Speaks in quick, complete, slightly-too-eager sentences that often end in a question; by the end of the night she's more invested than either of them"
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
         }
       },
       "synopsis": "The party finishes sweeping the Hesperid 3 outpost — its refinery left silent, its machinery gone strangely, symmetrically wrong — and rides the train north across a horizonless gray waste toward a headquarters that stopped answering seventy years ago. The crossing brings a storm that moves in patterns far too orderly to be natural, and it ends somewhere stranger still: a colossal wrecked ship, multiplied into kaleidoscopic copies that don't all agree on what year it is. Somewhere inside are the barrels of phlogiston they need — past halls where gravity takes turns and down a skull-lined shaft glowing with a sickly, iridescent light, wreathed in a curse too vast for mortal hands — and somewhere in the static, a voice warns that it isn't safe here.",
-      "durationMs": 2117486,
+      "durationMs": 2247549,
       "hasAudio": true,
       "hasTranscript": true,
-      "audioVersion": "204f8a8-6ad6f135",
+      "audioVersion": "224b9a3-6ae27de4",
       "transcript": [
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "No, no — the spigot is the whole night in miniature, that's my thesis and I'm committing to it, because everything after that is the same wrongness at bigger and bigger scale, and at the refinery it's just sitting there being a faucet, and nobody at that table could tell you why it was wrong. They just knew."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Okay, hold on, I need the picture first — we're still at the mining outpost from the episode I heard, right? Hesperid three?"
+          "text": "Okay, but the spigot. Everything else last night was enormous, and somehow I'm still thinking about one little tap pretending to be a flower."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Same place, next morning, more or less. They finish sweeping the refinery wing — the room with the red pool and the impellers."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "The refinery, so — two tanks, pipes, and each tank's supposed to have the one spigot dripping phlogiston into a barrel, very sensible plumbing, except the second tank doesn't have one spigot, it has six. Fanned out in a perfect ring, sixty degrees apart, like something copy-pasted the faucet five extra times without ever checking what faucets are for — and only the one pointing down could fill anything. The rest just point. Outward. At nothing."
+          "text": "Six spigots. One pointing down where it belonged, five more repeated around it."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And there's no explanation at all?"
-        },
-        {
-          "speaker": "B",
-          "name": "Maeve",
-          "text": "No tool marks. Not welded, not sculpted, not art. Josh would only go as far as: it exists as that shape now. Argyle did the full work — perception, religion, is this a curse — and the answer came back clean."
+          "text": "And Argyle got \"not a curse\" on that?"
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Clean! That's what killed me. Not a curse, seems fine — while the entire table is going, it is NOT fine, it's a faucet with a halo, and the check's going, looks normal to me!"
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "That's the trap of a clean read at that level of wrong, though. It's not \"it's fine,\" it's \"your character can't name the problem\" — and when the object is that wrong, not being able to name it basically is the answer."
+          "text": "Clean as a whistle, which is going to age like milk, but yes, and that's what makes it so nasty, because everybody can see the thing is wrong and nobody can make their hands agree with their eyes."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And the only reason they know it's abnormal at all is the correct spigot sitting right next to it. The working one is the control group."
+          "text": "It wasn't bent. It wasn't welded together. There weren't tool marks."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Wait — didn't he reroll that curse check? I remember a faction thing firing, some second-chance boon."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "He burned his Scale favor on the faucet, yes. Spent the goodwill of an entire celestial bureaucracy to be extra sure the plumbing was fine."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Which, okay, that's another one I have to ask about, because Argyle's a Scale guy working for Iconoclasm and nobody ever explains that pairing. Is that normal?"
+          "text": "So not saboteur-with-a-wrench wrong."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Not especially. The Scale's the Judge's hand — order, balance, citadel in the Opaline Mountains, the whole posture. Argyle's a custode, out on loan to Iconoclasm, which is the mercenary company that got famous studying the Voidsong after the founder and half their people started hearing it in their dreams."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "The Voidsong?"
+          "text": "Right. Smooth enough that you could almost believe it was manufactured, except five of the spigots don't connect to anything useful."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "We'll get there — tonight it's the train. Point is, the celestial looked at the wrongness, used his reroll, and the universe said no notes."
-        },
-        {
-          "speaker": "B",
-          "name": "Maeve",
-          "text": "The uneasy part is what he did with that. They walked past it. Clean read, no warning, onward — and you spend the rest of the night learning what the six-fold does when it grows up."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Which — okay, I promised myself I'd do these in order. The console. The Anzu console moment."
+          "text": "It's the world's worst faucet bouquet, and Argyle does his whole religious once-over, even gets another crack at it, and the answer is basically, nope, nothing here you recognize."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "The crit. Finally."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "So the brains of the refinery is up on a platform, an entire airplane cockpit flattened onto a desk — dials, sliders, gauges, everything — and Tanner has been waiting his whole life for a machine like this, and he crits. With Johnny helping, and he spends a mythic point because Jorge was riding him about the earlier failed read on the impellers —"
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Which is the correct use of a mythic point, for the record. That's a player who understands the assignment."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "— and Josh just hands him the refinery's whole diary. He can tell you what Ulrich did."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "The mail-logs sergeant, right? The one they put down last week when he came back wrong."
+          "text": "That's such a mean little information state. They don't get a warning; they get permission to stop worrying."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Same man. Near the end he'd been tampering, trying to force the yield up — the pressure graphs show a sudden drop, then a violent spike, right at the six spigots."
+          "text": "Yeah. And they still don't entirely stop."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "And Tanner stands up — greatest moment of his career — and delivers his professional opinion, as a phlogiston extractor: the system's compromised. Restart it, and you're more likely to get horrors from the unknown than a barrel."
+          "text": "No, because Anzu's looking at it like it personally insulted his family, but what are they going to do, fight the plumbing? They bag the barrels and move on."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Okay, I have to ask the beginner question, because the show says \"phlogiston\" like I grew up with it — what is it, and why do they need sixteen barrels?"
+          "text": "Okay, before the cursed plumbing — phlogiston. I know it's fuel, but fuel for what, and why are barrels suddenly worth all this?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Fuel out of the ground — except never straight out. The extraction's exacting enough that buyers deal with specialists rather than learn the trade. Which is why nobody in that party can just fire up the refinery."
+          "text": "It comes out of the ground, but you don't just dig up a neat barrel of it. Extraction and refining are fiddly enough that buyers go to specialists."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Which Ocelith warned them about —"
+          "text": "And the strider needs thirteen barrels for the big jump, which is already a ghastly shopping list, and then Ulrich's little homemade spaceship enters the picture and suddenly they want fuel for that too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Thirteen for the strider. And they've got five?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Oceloth. The owl that rode along with them. Ocelith is the Harlequins' librarian, different bird entirely."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "The owl! Fine! The owl warned them, and the crit proves it, because even the crit says — I can find the on button, I cannot tell you what the on button does. And Josh, because he's a sweetheart, tacks on a reward: from here on, Anzu's just flatly better around phlogiston machinery. Permanently. He's the professional now, and the game agrees."
+          "text": "Five in the bag at this point, yeah."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "That's my favorite kind of reward, honestly — nobody handed him gold, the character got better at the thing the character does. Tanner owns a niche now."
+          "text": "So the refinery isn't optional optimism. That's potentially a huge shortcut."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "And there's this gorgeous dumb beat right after, because Jorge floats ripping out the hard drive to bring home for study — give it to the Machine God, let him run it —"
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Wait, who's the Machine God? That name's floated past me twice and I keep nodding."
+          "text": "Exactly! Which is why Tanner's big moment is so good and so immediately awful."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "An old Heart — one of the divine-spark entities. He lives in a fane down in the Providence's lower hull; his body's the broken upper half of a mechanical man with a glowing orb in the chest, voice like a grinder in a gravel driveway. He used to be the strider's eyes and ears."
+          "text": "He finally gets the console to make sense. Johnny's helping with the language, Anzu throws everything he has at understanding the machinery, and it just clicks."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And the strider is the giant they need the thirteen barrels to move. Okay. And a fane is like a church? How does a Heart work?"
+          "text": "The crit?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The crit of a lifetime. He goes from bird standing in front of an airplane cockpit to chief phlogiston engineer in one afternoon."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "A Heart is what you get when someone stuffs a divine spark into an idea. It picks one body it can never change, builds a fane around itself, and can't leave without exploding. The Machine God's an old one, which mostly means stubborn."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And Josh has to stop the whole bit to tell Jorge, you don't know what a hard drive is. Computers like that don't exist on Faerrin. And Tanner says he found a floppy disk."
+          "text": "Not quite engineer. He can find the on switch. He can read the gauges. He still can't tune it."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "He did not."
+          "text": "That distinction matters."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Canonically, somewhere in that refinery, there is a floppy disk."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Okay, but the actual decision — they leave the refinery off, right? Because that's a real choice with a price tag."
+          "text": "It's the whole scene. The impellers are ridiculously complex, and Ulrich had been messing with the yield before everything went bad."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "They leave it, and I want the price on the record: even the rigged version — the version that broke the spigot — was producing one barrel every two weeks. They need sixteen before the clock runs out. The haunted machine at its very best doesn't come close; they'd be babysitting horrors for a year."
+          "text": "Because poor Ulrich looks at the slowest industrial process known to thinking beings and goes, what if I made it worse in an exciting new way?"
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "So it's not even a gamble, it's a bad bet. The choice only looks close until you do the math."
+          "text": "And the pressure graph shows it?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "So the refinery goes on the someday-list next to Hesperid one and two, and they go find the map room — the last console in the outpost."
+          "text": "A sudden drop, then a huge spike, right in the component with the six spigots. Then it settles back down. Anzu can see that turning it on as-is would invite the same sequence."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The map room, which is where the night quietly loads the gun. The network: here's Hesperid three, a line running north to the place just labeled Hesperid — that's the ship, the HQ — and off the HQ, lines to Hesperid one and two. Both dead. Both crossed out."
+          "text": "And the machine did produce! That's the nasty little carrot. Whatever Ulrich did got a barrel out in about two weeks, which for this place is apparently lightning speed."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "But the line north is still lit."
+          "text": "But two weeks is still useless to them."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Seventy years of silence and the connection's live. And when Argyle squints — the display's an old fuzzy thing — the one line north is actually six lines packed so tight they read as one, and the HQ blurs over itself in six after-images, just barely offset. Maybe a quirk of the display. Maybe not."
+          "text": "Useless for the clock they're on, and possibly packaged with another breach."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Sixty years of nobody answering and the phone's still off the hook —"
+          "text": "So Anzu puts on his little professional-extractor hat and tells them, more or less, that they're likelier to manufacture an unknown horror than a useful barrel."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they listen?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Seventy."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Seventy years, fine — the point stands. Somebody's still plugged in out there. And then the table does the thing where they can't leave a dead woman alone, and honestly, this once I get it — the Sybil question."
+          "text": "They listen. They leave it off."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Sybil — she's the dwarf of the miner trio? The one who kept riding the train north and coming back empty?"
+          "text": "That's a real cost, though. They walked away from the only machine they'd found that could make the thing they need, after finally getting someone who could operate it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes! It's not just a joke about Tanner becoming a fuel guy. It's a genuinely responsible decision, which feels almost out of character for the table."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Elf. Thurston was the dwarf. Sybil's the one who took the train toward HQ and returned with nothing, over and over — and then died first of the three, of old age, which Johnny's medicine check flags as deeply strange for an elf that young-looking."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "So the table's immediately going — the rides did something to her, the rail took a toll — and I'll cop to my theory, I think she reached the ship, and whatever's up there now took the years as payment —"
+          "text": "Careful. They still have a whole train ride ahead."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Do we actually know she reached it?"
+          "text": "Fair."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "We know nothing! She came back empty and then got old! I'm saying the vibe is — okay. The vibe is unproven. Fine."
+          "text": "But he gets to keep the expertise. Josh basically says Anzu understands this family of machinery now, so everywhere they run into phlogiston equipment after that, he's got an edge."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, that's lovely. Not a consolation prize — an actual new capability."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "It's a fair thing to wonder, though. She rode that line more than anyone, and it never once worked for her — which is why half the party didn't believe the rail worked at all, right up until it carried them north."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Okay, so then the night part — they rest, right? That's the bunker scene?"
+          "text": "And immediately everyone wants him to reverse-engineer the entire computer system and hand it to the Machine God."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The bunker scene! They step out to fetch the escorts, and Tamara and Yao have spent the hour building a genuine fortification — three feet of sandbag wall, firing slits, a mounted machine gun zeroed on the one door — and there's this half-second when our heroes open that door where the gun has to decide whether they're still our heroes."
+          "text": "Argyle starts asking about hard drives, which is a beautiful idea except for the tiny problem that neither Argyle nor the world he lives in knows what a hard drive is."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Who are they, again? The Protectorate — I keep hearing the name like a faction I should already know."
+          "text": "Okay, two names there. Oceloth gets cited about the refinery, and the Machine God keeps coming up. Who are they, and why does their advice carry weight?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oceloth's the owl."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Brith's private army for hire — the one that helped Brithwyn split from Calaria. Tamara and Yao drove the second car out; their whole job is holding the exit while the party does something unwise indoors."
+          "text": "Oceloth is the party's owl familiar, yes. Ocelith is the Harlequins' librarian. Different bird-adjacent problem for the names in your notes."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And come morning the party just boards the train without them?"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Not without — the escorts trail behind in the cars, keeping the retreat alive, but the train itself is the four of them and the owl. Oh — and before any of that, I need the record to show that Argyle tried to jump-start the Franken-ship by casting healing magic into the hull."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "He did not."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Fifth rank, palms flat on the metal, nothing. Josh rules it does absolutely nothing, and Tanner tells him his useless divine magics are nothing before technology."
+          "text": "So Oceloth, the familiar, repeated the warning at the outpost?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "In fairness to the ship, it does run on the loot — put a phlogiston barrel in the rack and the whole dash lights up, windshield goes clear. Anzu tried to work out its fuel efficiency and failed the roll, because Anzu grew up with roughly nineteen sixties technology and it shows."
+          "text": "Right. And Ocelith had already made the basic point back in her library: this is specialist work, not something clever adventurers can casually copy."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "So — the train. Josh has established that Benny's a savant at vehicles he's never seen, which is canon now and I treasure it — yoke forward, yoke back, anyone can drive a train — and the nine-year-old takes them north. And it's the comfiest horror ride ever? No bumps, no sense of acceleration at all, just the alien numbers on the dial going up and up until the train tops out at some obviously round number and cruises."
+          "text": "Which offends every clever adventurer on a spiritual level."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Six hours of gray nothing. No suns setting, no landmarks, one horizon, nothing."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And in hour six, Jorge wants to spend his augury on should we keep going, and the table detonates into the best rules argument of the year, which is: the gods can only see thirty minutes ahead."
+          "text": "And the librarian's worth trusting because she actually knows the strange old material they've been digging through?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "That's the spell. It predicts results up to thirty minutes out. Past that, the gods are exactly as blind as we are."
+          "text": "She's the caretaker of that library, and she's been right about the shape of the problem. Not \"press this button\" right — \"don't mistake intelligence for training\" right."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "That cannot be the actual theology."
+          "text": "Got it. Oceloth is the owl, Ocelith is the librarian, and both are saying don't improvise fuel refining."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Meanwhile the Machine God is exactly the sort of person you would hand a stolen hard drive to if you had one and no moral compass."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "It's what's written! Jorge's whole position was, no, surely the gods see everything and the thirty minutes is just the answering window, and Josh's ruling amounts to: you're asking the gods — the gods have a bandwidth."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And Jorge's defense, which made perfect sense at the time, was a salmon analogy — if you ask the gods should I order the salmon, and the salmon arrives within thirty minutes, the god can weigh in on the salmon. Beyond that, you're alone with the burger."
+          "text": "He's an old Heart living in a fane down in the Providence's lower hull. Broken upper half of a mechanical man, glowing orb in his chest, horrible grinding voice."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "So what did they actually ask?"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Should they keep riding north for the phlogiston before Anzu's sister wakes up. Ten minutes of ritual, nothing for a moment, and then it ends on a good note. A shrug that leans yes. Throttle stays down."
+          "text": "And he matters to moving the strider because…?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And that's when the storm shows up. This thing rising off the horizon until it fills the entire edge of the world — a wall of weather, and it's moving at them while they move at it."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And the party handles this existential decision in about eleven seconds, because Johnny announces he's pro-plunge, and that's the whole meeting."
+          "text": "He used to be its eyes and ears. He wants the strider back, and the party's goals have lined up with that so far."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "To be fair, there were two items: stop and hunker, or go through. And the compromise position was Argyle wedging his shield against one door and Johnny standing in front of the other with his arms out."
+          "text": "He also understands adventurers. They rescue him, they ask about loot, and he basically has a little lowercase laugh, like, ah yes, I know what you are."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, that's charming."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "One door barricaded with a shield, one door barricaded with a bard."
+          "text": "It is. Doesn't make him simple. He's still an old power in a body he can't change, in a place he controls."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "It's one of those choices where the price stays hidden until later — if it had gone badly, there's no getting off those rails. Full commitment."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Full throttle, and the train is getting ROCKED — there's a moment where it tips past where you think it comes back — zero visibility, sand packed on the windshield, no wipers anywhere on the console — and this is where Argyle's mountain survival training pays off, and the answer is the creepiest possible one: the storm's not alive. It's not malevolent. It's arranged."
+          "text": "Wait, is that what a Heart is? A god stuffed into a machine?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Every gust that hits the train hits everywhere else the same way, at the same time. Left to right here, left to right over there — tessellated, the same wind repeated around a circle, over and over. Whatever is true of the spigot is true of the weather."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Hold on — so the six-fold is in the wind."
+          "text": "Close enough for the shape of it: a divine spark stuffed into an idea. Each one chooses a body and a fane, and the fane is theirs to shape."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The wind, the faucet, the map — and hold that thought, because the payoff's coming — and right then, out of the dust, dead ahead: a boulder. On the tracks."
+          "text": "And they can't just pack up and leave without going bang, which is important when your friend is a giant broken man in the basement."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And Benny's save there is the save of the session for me, because it isn't a dodge. He pulls the yoke back, he already knows it's pointless — and the success tells him the yoke goes sideways. On a train. That only has forward and back."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "So he yeets it. Full left, no hesitation — the lever snaps back to center, the rock is just gone, not dodged, GONE, and a beat later there's an explosion off to the right, up the line, right about where the rock should've been."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "So the rock didn't vanish. The rock went somewhere else. They moved, and it... stayed. For somebody."
+          "text": "So \"fane\" is the territory as much as the temple."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Something hit it. And afterward, the glint off to the right is dimmer than it was."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Because there were glints — metal catching light through the dust, left and right, up above the horizon — and that's the other tracks. Six rails out there, running in that same ring. Most of them have trains on them. The right one's missing."
+          "text": "Yeah. And fanes can join into bigger spaces. Older Hearts are supposed to be stronger, but that's a generality, not a character reference."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Okay, this is where I actually need the lore, because I've been saving this question up: what is the Infinite Horizon? Are those other trains on other worlds? Other times? Both?"
+          "text": "Okay. That explains why everyone pays attention when something feels like power on that scale."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It also explains why Argyle spends the evening going, divine, not divine, divine, please let this one not be divine."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Both, and it's newer than you'd think. Færrin isn't one planet anymore — it's a chain of them, Færrin after Færrin, linked by ephemeral little crossings, and with a slide — or a very determined train — you can slip sideways to the adjacent one. Close enough to be recognizable. Far enough that the copy of you might've made different choices."
+          "text": "We'll get to his terrible evening."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And tonight's answer is that the copies are the same place, at different years."
+          "text": "Right, sorry. Refinery off, five barrels bagged, one console left?"
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "And here's the bit I can't shake: the missing train on the right. The rock appears on the line, they dodge left, and something over there meets the rock. I don't think they dodged it, Nell. I think they handed it to somebody."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Oh, that's awful. Do we know there was anyone on that track?"
+          "text": "One console left, and this is where the whole night turns from sad mining ghost story into, uh… into whatever you call the rest of it."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "We know there was a glint, and then less glint. Nobody's confirmed a thing."
+          "text": "The network map. Hesperid 3 down where they are, a live line north to Hesperid — that's HQ — and broken connections from HQ to Hesperid 1 and 2."
         },
         {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "I'm just saying the timing works. And I want it on record before the voice shows up, because I have a theory about the voice."
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So there are two more outposts nobody's searched."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Foreshadowing yourself in the recap. Bold."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "So the last stretch of storm — they catch the single luckiest break of the night, whatever Josh rolled for the weather comes up as good as that die knows how to be, and it isn't a fade, it's a threshold. One second, sand. Next, open air."
+          "text": "Two more possible fuel stops, yes. But both lines read broken. Only the HQ line still shows active after roughly seventy years of silence."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "And Josh is very careful to mention they could still turn around. Any time. Which is funny, because he's saying it about a train. The man was worried about railroading them."
+          "text": "And Johnny looks closely and it isn't one line! It's six skinny lines packed together so tightly the old screen can barely show them, and HQ itself has these little ghost copies around it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, the six was on the map already?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And the perception check when they clear the wall — that's the moment. The table goes quiet. Genuinely quiet."
+          "text": "Barely. Easy to call it display fuzz if you want to."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The ship. Okay. Image of the season. This is the best episode of the campaign — top five — top ten — it's up there, don't make me rank it at one in the morning. They come out, and the rails they're on are one of six, arcing around a circle — two more tracks sixty degrees up, and up, and one directly overhead — and dead ahead, the Hesperium —"
+          "text": "Which, to be fair, I wanted to. Old screen, weird alien technology, give me one normal explanation before the sky starts doing geometry."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the rail is why they think the whole thing might be a dead end, right? Sybil tried it?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Hesperid."
+          "text": "Sybil rode toward HQ more than once and kept coming back empty-handed. Then she died of old age, according to Ulrich."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The Hesperid — miles long, on its side like a toppled skyscraper, top sheared clean off, engine bells on the far end you can see from here, and it is not one ship. It's been broken into six and rotated around a point in the sky. Five copies of a colossal wreck hanging in formation, and every few seconds there's this heartbeat you feel more than hear, and pieces of the ships SWAP. Whole sections rotate through each other, settle, heartbeat, again. A kaleidoscope the size of a city. And everyone just sat there. I kept checking my volume. You had to be there."
+          "text": "An elf dying of old age while not looking especially elderly in the picture, which Johnny immediately files under \"fishy,\" because Johnny has two data points and a deep desire to connect them."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "The thing I kept rewinding is that you can hear it land. And it's the same name they've been reading off consoles all season, right — the outposts were named for the ship?"
+          "text": "Could she have been riding for that long?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Six times over, painted on the side. Whatever the miners were, they belonged to that thing — crew, or cargo, or both."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And Anzu reads it. That's his big occultism moment?"
+          "text": "Maybe. That's a guess. The logs don't tell us what she experienced on those trips."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "His huge one, and the read is so clean: two things happened here, and they're not the same thing. First, whatever harmed the ship — the wound that stranded it — that's old, that's why the outposts exist at all, someone sent them out to mine fuel for a broken mother ship. The kaleidoscope came later. Something else entirely. And the heartbeat is a living thing — whatever's trading the pieces around, it's not a mechanism."
+          "text": "But think about being her. You keep getting on the train to ask why nobody's answering, and you keep coming home with nothing, and then Ulrich and Thurston just… carry on slowly becoming the last two people in the world."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Poor Sybil."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And it's the spigot pattern. Same signature, same six-fold ring. He couldn't say whether it spread from the outpost to the ship or the other way — or whether it follows phlogiston itself. But it's one disease, and now they've seen it on a faucet and on a horizon-filling wreck."
+          "text": "Poor all three of them. And the map is the first thing that makes her failure look like something other than a broken train."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "So the question that's been bugging me — and tell me if it's dumb — is six a signature? Has the number meant anything before, or is this new?"
+          "text": "Because the train could be working perfectly and still not take her to the HQ she expected."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes. Put a pin in that, then immediately lose the pin because Benny finds the spaceship."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "I went back through the old episodes in my head hunting for a six and I can't find one. The nearest cousin is the corrupted-material stuff they fought in the strider — matter gone wrong, things pushing through walls — but that was wrong in a wetter, more organic way. This is wrong like geometry."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "The table asked it in the moment too — Jorge starts riffing, our world's got six gods and six evil gods, maybe out here something corrupts things into sixes, maybe six is just what wrong looks like far from home — and Josh says absolutely nothing, which from Josh is a whole paragraph."
+          "text": "Not finds. They already found it. He tries to assess whether Ulrich's train-spaceship hybrid is remotely fuel-efficient."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "It's too specific to be an accident. Six spigots, six rails, six ships, six lines on the map pretending to be one."
+          "text": "Is it?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anzu is many things. Rocket scientist remains conspicuously absent from the list."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And here's the wrinkle I keep chewing on — the ship is one thing that became six, but the map line was six things pretending to be one. You can't tell which way the tide is running. Is it multiplying, or is it trying to fold back?"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And then Argyle has a line I treasure, because Jorge looks at the impossible physics of it and essentially recuses himself — this isn't divine, this is arcane, that's your department — tells Anzu to have a little faith in the gods and get to the front of the train. The celestial, formally opting out."
+          "text": "They put a barrel on the rack and the whole craft wakes up. Lights, dashboard, windshield clearing. Take the barrel away and it goes dead again."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "So they ride in. And this is where the gravity starts, right? Because the cargo bay is folded?"
+          "text": "That's so good. No gauge, just \"feed me the incredibly valuable explosive fuel and maybe I'll have windows.\""
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Folded — the road they roll in on turns a flat ninety degrees and runs up the wall, and there are traffic cones ON the wall like it's always been a road, cars parked flat against it, the tarmac wraps up over the ceiling, and the loading dock greets them: an arm reaches into the train, grabs the empty space where a barrel should be, and carefully unloads the nothing."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "The nothing."
+          "text": "Argyle tries pouring divine healing into it, because at some point every healer decides their god might be a battery."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "They didn't bring any phlogiston to deliver, and nobody told the dock that. It processes the nothing with tremendous diligence. Puts the nothing on a pallet."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And then the shack — a watch post thrown together out of scrap, and inside it, the intake ledger. And it's current. It was updated three days ago."
+          "text": "Nothing happens."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "...Seventy years of silence, and the paperwork's current."
+          "text": "Worth testing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, absolutely. Terrible result, great afternoon."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And Josh does this beautiful fake-out where he starts to say it went dead decades back, catches himself, apologizes — no. Three days ago. One barrel received. Three logged in total, and the crew expected a two-year posting. And the date at the top of the page: year seventy-two."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Year seventy-two! And you can hear Tanner doing the math in real time — year seventy-two is the start of Ulrich's logs. The miners arrive, the shipwreck, all of it. The three barrels Ulrich's outpost shipped over twenty years all landed here within about a week. Two weeks, tops, have passed inside this ship. Seventy years went by outside."
+          "text": "They pull the barrel back out and rest. They're low on spells, nobody knows how long the ride will be, and Tamara and Yao have spent the hour building a small military installation outside."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And the first thing out of Anzu's mouth is about his sister."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Just — flat, immediate, horrified: his sister is going to kill everybody. Because that's the clock."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Okay, this is the one I actually need caught up on, because people say her name like \"the bomb is ticking.\" Who is Galzu?"
+          "text": "I've been meaning to ask about them. Who are Tamara and Yao, and why did the party bring Protectorate backup to this specifically?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Anzu's sister. A tengu, like him. She turned up on the Providence after somebody broke into an archive in Belvedere, eyes gone faintly yellow — wrong in a way nobody could undo — so they put her in a Lifeline suspension pod, and the pod is a multi-week timer. When it runs out, she wakes up. Nobody's sure how much of her wakes up."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And if two weeks in here is seventy years out there —"
+          "text": "They're the two Protectorate escorts who drove the second car. The Protectorate's a Brith army-for-hire — the one that helped Brithwyn break from Calaria."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Then every hour inside the Hesperid, the pod out there drains like a bathtub. That's why the reveal lands like a horror sting and not a fun puzzle — the countdown is suddenly on their side of the glass. The whole table's stomach drops at once."
+          "text": "And their job is not \"come solve the dungeon for us.\" Their job is cars, perimeter, escape route, and looking extremely professional while the adventurers exhaust themselves in one fight."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So they're insurance, not extra damage."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And then — because it's this table — the stomach drop lasts about ninety seconds before it becomes a loot strategy."
+          "text": "Exactly. They'd built sandbag walls, set up firing positions, and had a mounted gun pointed at the door when Anzu first opened it."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "The hopping. They just get back on the train and start pulling the lever left, over and over, and every pull is a different year. Same dock, same shack, same folded bay, different decade. I cannot get over how casually they did that."
+          "text": "Did they almost shoot him?"
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Year eighty-two: never received a barrel, not one. Ninety-four: one, logged. One-twelve: nothing. One-twenty-two: nothing. And then one-thirty-one —"
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Five barrels. Physically present. Sitting right there at the dock."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And Noah basically declares squatting rights — this copy of reality is theirs now, they're staying. Like they're picking a checkout line."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Which is the most correct greedy play I've ever watched? The tracks are a catalog and they found the copy of the world where the loot's still on the shelf — but nobody stops to ask who put five barrels in a dead ship in the year one-thirty-one, decades after every miner in that network was in the ground. That's the part that itches."
+          "text": "There's a half-second where everybody goes, friend, possessed friend, or new problem? And then they stand down, which honestly feels like a well-run checkpoint."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "That's my itch too. Someone in this chain has been receiving barrels long after there was anyone to receive them. And the year-seventy-two copy has three more logged into storage that the party never went looking for — they left three barrels in the past, at a stop they can apparently revisit whenever they like."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "It's an ATM they walked past. But fine — five in hand, decision made. Except the pallet has no motor, no crank, no steering — it's a shelf on wheels — and Johnny attempts to help drive the shelf and critically fails, which is the most Johnny outcome available."
+          "text": "The Protectorate even dryly sympathizes about needing a whole day to recover after one encounter."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And that's when Anzu just walks at the wall."
+          "text": "One hour of adventuring, catastrophic resource expenditure. Yeah, that's a party."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They drag the whole camp inside, seal up the bad room, bring in the vehicles, and make the least haunted corner of a haunted mining base into home for the night."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Because the way onward is the door on the ceiling. So he puts one foot on the wall, picks the other up, and gravity changes its mind — whatever you're touching is down. He walks up, onto the ceiling, and calls back that it's totally safe. One brave bird."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And the ceiling door isn't a door, it's an elevator shaft. Empty — no car — and the shaft is turning. In time with the heartbeat. The whole tube re-arranging itself every few seconds, pieces rotating through each other."
+          "text": "There's preserved food, at least. Johnny brought sandwiches anyway."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Lined with skulls. The entire shaft, an ossuary — and Josh describes them as tastefully placed, which I think about a lot."
+          "text": "Smart. Seventy-year-old mystery labels in several alphabets is not dinner."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then morning comes, except it doesn't, because the sky is just gray forever, and they take the ordinary train north."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Leaving the cars and the Protectorate holding the way back?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Out of place for the ship's whole aesthetic, but tidy about it. Bones between the machinery. And at the bottom of the shaft — the door. Huge, glowing, iridescent."
+          "text": "Right. No navigation spells needed on a rail, supposedly. Benny gets a yoke, forward and backward, and the ride is smooth enough that they can't even feel it accelerating."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Except wrong. The episode keeps reaching for that word and it's the right one — because the light over Calaria is iridescent too, and everyone here has seen that one."
+          "text": "The numbers go up, the numbers are in an alphabet they don't know, the units could be miles or soup, and Hesperid 3 drops behind the horizon in about two minutes."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Okay, so what is over Calaria? Because you all say \"iridescent\" like I've seen the skyline."
+          "text": "And then nothing?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "The Iridescent Host. An Outer God — its light hangs over Calaria like a second weather. Arctos, the bear, was awakened by its grace, back at the start of all that. So when this door glows the same color, but sickly — like the light's gone rancid — that's not a new color. It's a familiar one, gone wrong."
+          "text": "Hours and hours of gray waste. They give it half a day, ask an augury whether continuing after the phlogiston is worthwhile, and get a good answer after a worrying little silence."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The light of an Outer God through a dirty window. And Argyle religion-checks the shaft — crits — and Josh goes, essentially: this is what the spigots have, but worse. This is a curse. More intricate, more powerful than anything Argyle has ever touched — nothing on the Scale's level, nothing he believes mortal hands could build. Something divine did this. A perversion of a god's power, pouring up out of that door."
+          "text": "Which means Argyle spends the rest of the ride feeling tremendously vindicated about religion. The gods said keep driving, therefore everything after this is Anzu's department."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is not what an augury means."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It is if you're Argyle and you've just remembered why you keep the gods in your spell preparation."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And it isn't one of his friends. Josh was specific about that. Divine, and not friendly."
+          "text": "They push on for hours more. Then something starts rising across the whole horizon."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "So walk the spigot back with me — because the curse check on the faucet came back clean. Same pattern, same signature. Either the spigot genuinely isn't cursed and it's a symptom rather than the disease... or the clean read was the miss of the campaign."
+          "text": "The storm wall?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A curtain of weather with no edge to it, and at first it’s just sitting on the horizon, and then it keeps getting taller, and then they realize it’s moving toward them too."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "That's what I went to bed on. Argyle broke a curse a few weeks back — he knows the feel of one. So either the six-fold is something curses can't see... or it reads as clean on purpose, which I refuse to think about before lunch."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Oh, I hate the second one. Say the first one again, but slower and less scary."
+          "text": "Dust, probably. There’s no water out there. Just this wall coming to meet the fastest vehicle they’ve got."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Okay, the speakers. Because the shaft's got grates between the bones, and there's static coming out of them."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And Tanner — hero — puts his ear right up against the grate, in the ossuary, in snatching distance, as the table immediately points out, and Josh makes him save."
+          "text": "And the actual choice is stop and hunker or push through?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "A will save. And while it's resolving, Josh describes what's inside the noise, and it's a spiral: chanting, or screaming, or your family telling you they hate you, or an animal crying, or dripping that you know in your bones is blood — the static finds whatever you'd least want it to be."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And he makes it — barely, and it matters, because a voice comes through. Faint, like someone talking into a mic across a room, apologizing the whole way — doesn't know who they are, doesn't know how they got here — \"it's not safe where you are.\" You have to get somewhere else. You have to."
+          "text": "That’s the choice Josh puts in front of them. They kick around shielding the train with rock, sealing vents, waiting it out."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "And seconds later the skull sockets go red and the skulls blow, and things come out of the spaces — and the only reason the party isn't caught flat is the save he just made. The warning and the ambush arrive in one breath. Help and threat out of the same speaker."
+          "text": "Johnny considers the available evidence, weighs none of it, and announces, “I’m pro-plunge.”"
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And Anzu turns to the party and tells them the hate box says it's dangerous here."
+          "text": "I mean… stopping costs time, and they don’t know the storm will ever end. Pushing risks the train, but waiting risks Galzu’s whole clock. It’s not pure nonsense."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "The hate box! It's canon in my heart forever. The speaker grate is the hate box."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Okay, the fight, because the stat block is genuinely mean and it's Tanner's other coronation. He recalls knowledge on the things — first recall crit of the entire campaign, he's practically vibrating, and the crit even hands him a mythic point back —"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Knowledge that pays for itself. The economy of being smart."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "— and what he learns is a horror show: weak to area damage and splash damage. That's it. Immune to essentially everything else on the sheet — bleed, poison, fear, mental, spirit, vitality, void. You cannot scare them, drain them, or unmake them. And their lowest save is Will — which, per Josh, is the save you'd appeal to if you wanted to give one a hug — and that's the save the psychic and the bard happen to target with the exact damage these things don't take."
+          "text": "No, it’s perhaps thirty percent nonsense, which for Johnny is practically a thesis defense."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Their kryptonite is a bomb, and nobody in that party is a bomb."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "It's the purest Josh stat block — the puzzle isn't how do I hit it, it's why is anything I'm doing working. Anzu's choir does real work because it's an area, Johnny's noise blast does real work, and then Johnny tries to terrify them and Josh has to gently explain you cannot frighten a strut. They're metal. They're furious metal."
+          "text": "They barricade one door with Argyle’s shield and the other door with Johnny."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And they keep coming — every round, another cluster of skulls pops. It's not a fight you win, it's a fight you leave, and the party figures that out at exactly the right moment. The exit was the win condition."
+          "text": "Sorry, with Johnny?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny is the barricade. He just stands there like a heroic coat rack while Benny puts the throttle all the way down."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Anzu's read mid-fight is what saves them — the animating force, all of it, is coming from the door at the bottom. And Benny wanted to just jump down the shaft into it — skip to the end of the dungeon, fight Satan today — and Anzu's answer is, if here is dangerous, that is worse."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Not today, Satan becomes the party's official tactical doctrine. And then —"
+          "text": "And it nearly works out very badly. The wind starts rocking the train hard enough to lift it toward the point where it would leave the rail."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "The baby. Do the baby."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "The baby! Second religion crit of the night, Argyle on the shaft again — a curse of this scale does not happen quickly. The metal didn't wake up last week. It's been steeping in that light for years. Decades, maybe. And if you'd caught it earlier — before the curse had sunk in — it'd be weaker. Or it wouldn't exist at all."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And Anzu just says it: they have to root out the evil when it's just a baby."
+          "text": "But their speed helps, right? The wind can’t get the same purchase?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And the entire table, as one organism, turns to look at the train. The train that goes left through the years. The train they'd just used to comparison-shop barrels."
+          "text": "Yeah. They feel it tip, and then momentum carries them through. Full throttle probably saves the plunge."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "They've been sitting on a time machine since the storm, Nell. They used it to pick the copy of the world with the best shelf, and only now, mid-losing-fight, does somebody go — wait. We could ride this thing to before."
+          "text": "Then they’re inside and can’t see anything. Sand everywhere, no windshield wipers anybody can identify, and Argyle staring out the window like the world’s most confused lighthouse keeper."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And that's the note I'd made an hour earlier paying off — left climbs the decades, so the other way runs down toward year seventy-two, toward the beginning, toward the shipwreck. The curse needs decades to steep, and they've got six copies of the same building at six different ages. The dungeon is a clock. A clock you can board."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "And Josh — you can hear how happy he is — reminds them they've done a version of this already. Campaign one. The golden needle. The dragon they could go back and deal with as a baby."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Wait, is that why everyone groaned at \"time shenanigans\"? What did he do in campaign one?"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "Beloved and feared in equal measure. And he gets very professorial about it — that one wasn't time travel, actually, it was an alternate reality, completely different, how dare you —"
+          "text": "Is that when he catches the metal?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "And this one, he announces, is both. Forward and back in time and an alternate reality, matched together — because he loves time shenanigans, and he trusts us to keep up."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "He said that? That he trusts you?"
+          "text": "Little glints to either side, just at the edge of his detection. Same steel alloy, same titanium, same traces of rare metal as the train and rail they’re on."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "Something about how most media won't do fun time shenanigans because they don't trust the audience to be media literate, but he trusts us — and Noah says he's seen Bill and Ted's Excellent Adventure, and it just keeps going from there. Happiest that man has ever been while a party flees an elevator shaft full of furious geometry."
+          "text": "Which is a horrible thing to learn gradually. There is stuff beside you, it’s made of the same stuff as you, and the weather won’t let you look at it."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Which is how it ends, right — no win, no wipe. They just walk out. Leave the things writhing in the shaft, regroup in the folded bay."
+          "text": "And the survival read rules out the storm being alive?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Which brings me to the thing that's going to haunt me, because — the five barrels. They pocketed them before the wall-walk. Five into the bag of holding, I'd swear to it."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Wait, WAIT — no they didn't! That's the thing nobody said out loud! The pallet is still sitting at the dock with five barrels on it — they clocked the door, then the shaft, then the skulls, then the fight, and the session ends with them walking back into the bay empty-handed. They came north with five, they were one hoist away from ten, and they left the loot on the shelf — in the one timeline where it was on the shelf!"
+          "text": "Argyle considers that first, then rules it out. It doesn’t feel organic or awakened. It feels regular."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "...No. No, they — say the last minute again."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "Johnny's own line at the end is the confession — they got so wrapped up in getting the five barrels, they never thought to use the time shenanigans for anything else. Getting. Not got. The barrels are a plan, not a possession."
+          "text": "He stands there for minutes watching dust, which sounds like the least interesting thing that happened all night and is actually one of the worst."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "...Well, damn. Then next week opens with a heist the party thinks it already finished."
+          "text": "A head-on gust hits them, and the dust off to the sides shows the same head-on gust. A left-to-right hit repeats over there too."
         },
         {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "This is why we need you. Seasons of Maeve being right about everything, and the one fact that slips is the loot count."
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Not mirrored. Repeated."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "In my defense, I was distracted by the exploding ossuary. So — the to-do list: secure the barrels, check the pod clock, and take the train the other way down the years, toward a much smaller curse."
+          "text": "Tessellated. Patterned around and around. Not malicious weather. Arranged weather."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "And somebody has to figure out who's on the other end of the hate box. That voice knew they were in danger before the danger arrived — in a building that's been dead for seventy years, on a speaker system that shouldn't have anyone left to talk into."
+          "text": "Oh, that’s worse than alive."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "My theory, and I'll die on this hill until Josh kills me on it: the missing train. The right-hand track. They handed somebody that rock, and whoever survived it ended up in the walls of the Hesperid, warning people away from the shaft."
+          "text": "Thank you! Alive is a problem with teeth. Arranged means something with a preference did this."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "It's a good theory. It's even self-consistent — the voice didn't know who they were, and nobody riding those tracks should be expecting visitors. Everyone out there is equally surprised."
+          "text": "And the preference is showing up in the same six-fold shape as the refinery."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Unless the voice is from behind the door. Which is the theory I like least — because it would mean the thing cursing the ship is also trying to keep people away from the curse, and I don't love what that says about its plans."
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "See, I want the voice to be a friendly — okay, no, even I can't run that one at full speed. Help and threat in the same breath. That's the line of the night."
+          "text": "So the pattern really is new? Not some recurring campaign symbol I missed?"
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "So the party walks out of the shaft, the metal keeps writhing behind them, a voice that may be their only ally watches them go, and somewhere far away a pod keeps counting."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "And the pallet just sits there. At the dock. In the dark. Unguarded."
+          "text": "The symmetry is new to them. Corrupted material doing strange things isn’t — they fought void-infused corruption in the strider that pushed through walls — but this exact repeated six is new."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "...Unless — no. No, I'm not saying it."
+          "text": "Before anybody can have a nice little breakdown about that, there’s a boulder on the track."
         },
         {
           "speaker": "C",
           "name": "Nell",
-          "text": "Say it."
+          "text": "Of course there is."
         },
         {
           "speaker": "A",
           "name": "Bram",
-          "text": "If I say it out loud, Josh hears it and does it. Nobody check the pallet. The pallet is fine."
-        },
-        {
-          "speaker": "C",
-          "name": "Nell",
-          "text": "What if the pallet's already in a different year, though —"
-        },
-        {
-          "speaker": "A",
-          "name": "Bram",
-          "text": "NO."
+          "text": "Benny tries to brake, immediately understands that braking is a rumor, and then realizes the yoke can move sideways on a vehicle that only goes forward and backward."
         },
         {
           "speaker": "B",
           "name": "Maeve",
-          "text": "Don't give him ideas. The man loves time shenanigans."
+          "text": "He pulls left. The lever snaps back to center. The boulder in front of them is gone."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And something hits it off to the right."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Explosion! Not a dodge, not a near miss, just the rock ceases to be their problem and becomes a loud problem in somebody else’s afternoon."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That’s the first real proof the train is sliding between tracks. He didn’t move around the boulder; he changed which version of the track they were occupying."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And afterward there’s less metal glinting on the right. The train over there seems to be the one that hit it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh no. Did they destroy another train?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They don’t know. Empty train, loaded train, automated train — nobody stops to conduct an investigation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny’s response is essentially, great, keep going left, which is both sound tactical thinking and a terrifying approach to metaphysics."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It got them out, though."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It did. One moment they’re being sandblasted, the next they’re in clear air."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then the clear air has six railroads in it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Six physical rails around a circle?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Theirs on the ground, the others rotated around it, including one overhead. Five trains present, one gap where the right-hand train should be."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which already deserves a little lie-down, and then Josh says, by the way, that isn’t the impossible architecture."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The ship."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The ship! Miles long, lying on its side like somebody picked up a Calarian skyscraper and dropped it, top sheared away, floors exposed, engine bells at the far end on a scale nobody has any business looking at."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And six instances of it around a central point. Pieces rotate and trade places every time that heartbeat sounds."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Not six complete stable copies. One wreck whose pieces keep swapping between versions?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That’s how it looks. The table gets very quiet trying to hold the image."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I had to rewind the description, and then I just sat there looking at my own wall like it might start rotating."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Is the heartbeat the machine?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu thinks there’s magic and something living behind it. He can also tell this isn’t the ship’s intended condition."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny takes his sunglasses off, cleans them, puts them back on, and contributes absolutely nothing, which is maybe the most honest reaction anybody has."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And is it Calarian? The comparison made me wonder."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It reminds them of Calaria’s scale, but it isn’t marked as a Calarian ship. The name on it is Hesperid."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The miners’ blue uniforms have that sixteen-dot star, and we still don’t have a name for whoever that is. Just an off-world organization with very nice machinery and an atrocious employee-retention record."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So no known faction badge, no answer about who abandoned the outposts?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not yet. But Anzu separates two events. First, something grievously damaged the ship and stranded it. That gives you the mining outposts and the search for fuel."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the tessellation came later?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That’s his read. Wreck first, kaleidoscope later. Not necessarily the same attacker or the same cause."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which kills my beautiful simple theory that one thing did everything, so naturally I replace it with six evil gods and a much worse theory."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Six because there are six of everything?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Look, I was cooking until Maeve asked whether I had any evidence besides counting."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It was a gentle question."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It was devastating."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could the phlogiston extraction be spreading it? The spigot had it too."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Could be. Could be the link between the outposts. Could be something that touched both places independently. Anzu explicitly can’t tell direction or cause."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But for the first time, Ulrich’s letters read differently. H-Q stopped answering, yes. That doesn’t necessarily mean H-Q packed up and forgot them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "H-Q might not have been capable of answering in any way Ulrich could survive understanding."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yeah. And the train still delivers them straight into it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Into a cargo bay that used to be long and rectangular and is now square because the room has been folded. Roads go up walls. Traffic cones stay on the walls. Vehicles sit sideways."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does gravity just let them walk anywhere?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Whatever surface you make contact with becomes the surface holding you. Step onto the wall, lift your other foot, and gravity turns with you."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But first the station notices the train and starts automatically unloading it, which is such a little thing and so depressing. An arm reaches in, grabs the empty rack, and carefully unloads nothing."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Still doing its job."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Still receiving shipments too, apparently. The shack has an intake ledger, and the last entry is three days old."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, after seventy years?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Three days ago! One barrel received, signed for, sent to storage. Three barrels total over about a week."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And the current date in that H-Q is year seventy-two."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Year twenty-seven if you’re me reading my notes upside down."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Seventy-two."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wasn’t year seventy-two when Ulrich’s first logs started? When they’d just been wrecked?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. Anzu puts it together: the three barrels Ulrich sent over decades at Hesperid three have arrived here across roughly a week."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So they’re standing in an H-Q where the miners have only just gotten started, while the friends who sent those barrels lived whole sad lives and died at the other end."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That’s not just time running faster outside. Different tracks are holding different dates entirely."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That’s what the next few hops confirm."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, is that the Infinite Horizon, then? Are these different planets, or different times of the same one?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Infinite Horizon is a chain of Færrins, adjacent worlds linked by connections that can appear and fade. A slide can take you to the next one."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Normally the party treats that as geography, deeply weird geography but still geography. Here the train seems to be sliding between neighboring versions of H-Q whose calendars don’t agree."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So it isn’t simply six planets and it isn’t simply rewinding one timeline."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. Both descriptions miss part of what they just saw."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Different realities, different dates, same cargo bay."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Anzu’s face falls through the floor, because if they spend a week sightseeing in the wrong one, his sister is going to wake up and kill everybody."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, Galzu. I’ve heard her name and the countdown jokes, but who is she, and why is her waking up the worst-case scenario?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She’s Anzu’s sister, a tengu from Austrene. Her eyes have started glowing faintly yellow."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "She turned up aboard the Providence after a break-in at a Belvedere archive, things went extremely badly at Tali’s Heart, and now she’s in a Lifeline suspension pod."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Suspended, not cured. The pod bought them a multi-week timer. Nobody at the table talks about it as though they’ve solved her."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu thinks she’ll hurt people when she wakes?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anzu thinks “hurt people” is going to be a wildly inadequate description. Every time the date changes, you can see Tanner mentally checking how much pod is left."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So choosing to wait out the storm wasn’t free either."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. That’s why the plunge had a real argument behind it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anyway, instead of racing home, they do the only natural thing and start grocery shopping across reality."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The ledger hops?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "First left takes them to year eighty-two. No barrels received. Next is ninety-four, one barrel. Then one-twelve, none. One-twenty-two, none."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then year one-thirty-something, jackpot."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Year one-thirty-one. Five barrels."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Johnny just decides that’s the good universe?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Immediately. This is the timeline, they’re staying, please cancel the other realities, they’ve found the one with the good snacks."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is such greedy glee over something that should scare them. They’re choosing a reality by inventory count."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And there might be people in those other versions. The ledgers imply activity. They don’t meet anyone, but they also don’t look very hard."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There’s an ethical seminar available at every stop, and the party instead says, but what if barrel?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait. Did they actually collect the five in year one-thirty-one?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Ah. You’ve spotted the tiny administrative oversight."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The ledger says five received and sent to storage. There aren’t five loose barrels sitting in the cargo bay. They still have to find storage."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So they haven’t secured anything beyond the five they brought from Hesperid three."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Correct."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay. Just making sure, because “five-barrel timeline” sounds like mission accomplished and it absolutely isn’t."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It’s mission located. Possibly. If the ledger is honest, if storage exists, if storage isn’t full of angry geometry."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There’s a little automated barrel pallet at the dock, but no controls they can find. So they give up on driving their loot around and head for the door on the ceiling."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Naturally."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Walking up the wall is one of those things that sounds fun until you picture your inner ear resigning, and then they reach the door and discover it isn’t a hallway."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It’s an elevator shaft. No elevator."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Up and down?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Both. The shaft rotates and reconfigures with the heartbeat. At the bottom is a huge glowing door, and the light is iridescent but sickly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Also skulls. Just a complete design commitment to skulls, lining the whole shaft like somebody opened an ossuary inside a spaceship elevator."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Iridescent like the light over Calaria?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Related enough that they recognize it, wrong enough that it makes them sick to look at. Calaria's normal iridescence comes from the Iridescent Host."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the Outer God whose grace awakened Arctos?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. So Argyle and the others know what that light ought to feel like. This is a perversion of something familiar, not a pretty color they can't identify."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the bones are an exciting new architectural feature, because nothing else on the ship has been going for \"tasteful skull hallway.\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Please tell me Argyle checks for a curse again."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He does, and this time the answer comes back with both hands around his throat."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Same underlying phenomenon as the spigots, vastly worse. Definitely a curse. More intricate and powerful than anything he's ever dealt with."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He broke the curse on Lance Vesper, didn't he? So he has a comparison point."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He does. This isn't \"harder than last time.\" He can't conceive of a mortal working it alone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Plus there's god-power coming off the glowing focal point in a shaft full of bones, and Argyle's professional assessment is that whichever divine entity helped make this is not one of his friends."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's why the \"too vast for mortal hands\" part matters. In this setting, god-scale power can literally inhabit and reshape a place."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes, though I wouldn't leap from that to \"a Heart definitely did it.\" Hearts and fanes just give them a frame for how enormous that kind of working can be."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And it retroactively makes the little clean check at the refinery so much worse. Not because Argyle failed to see a tiny curse, but because the tiny thing genuinely wasn't one yet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Or wasn't readable as one from that end."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. A fingerprint, not the hand."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could the door be the source, then?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That's the theory I want, because it gives them somewhere to aim. But all they know at this point is that the light's coming up from it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu wants to find the barrels instead of conducting theology in the bone elevator. Very reasonable. Unfortunately, there's no call button."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So he tests gravity?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny offers to lean over the edge while Benny holds his hand, which has \"two people falling in different directions\" written all over it, and Anzu quite sensibly uses the fact that he can fly."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He puts a foot beneath the lip, leans out, commits the other foot, and gravity catches him. Suddenly he's standing on the shaft wall below the others."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Still hate it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He calls back that it's totally safe, and approximately one second later the wall starts hissing at him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Speaker grates set between the bones. Static, with something faint underneath. He has to get right up against one to listen."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's such a bad place to put your ear."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Tengu ear-hole directly to the haunted intercom. A bold scientific method."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The noise tries to pull him sideways. Chanting, screaming, his family telling him they hate him, animal cries — his mind keeps offering shapes for it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And he holds on?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He does. That's important. He cuts through it instead of getting lost, and hears a person speaking faintly, like they're away from the microphone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The voice doesn't know who they are or how they got there, but it tells them, \"it's not safe where you are,\" and says they have to get somewhere else."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And then the skulls explode."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Immediately. Red eyes, skulls bursting, metal pulling itself out of the bone, and Anzu announces that the hate box thinks it's dangerous here."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The hate box."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny names it that almost before the fight starts. Priorities intact."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But because Anzu fought through the static, they aren't surprised?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. The warning costs him something, but it also forewarns everybody. Help and ambush arrive in the same breath."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So now I want to know who's on the other end. Somebody in another year? Somebody still alive in a sealed part of the ship? Somebody who can see all six cargo bays and watched five trains arrive?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could it be the person still updating the intake ledger?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Could be, but the voice sounds surprised they got there at all. A regular dockworker would have a very different first question."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "\"Where's my barrel?\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Honestly, reasonable."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "My first read was that it was the curse imitating a helpful voice to move them somewhere. I think I was wrong about that."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The things attack after the warning, not because Anzu follows it. And he has to force his way through the static to hear it. That sounds more like somebody fighting the same interference."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It could also be warning them away from itself."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes! Not \"come help me,\" not \"go toward the light,\" just get out of wherever you are. Which is unusually considerate for a voice in a skull wall."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Doesn't mean it's safe. Means it might not be the thing that just attacked."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And what attacked is pieces of the elevator?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Metal struts from the original shaft, themselves tessellated into that six-fold pattern, wound up with energy. Some of them behave like machinery, some like living incantations."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Angry elevator bacon."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No, don't make them sound delicious. They looked miserable."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You… you had to be there."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The important part is that the party's first good answers don't stay good for long."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yeah, can I take the fight read for a second? Because this is where the night stops being eerie and becomes a really bad resource problem."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Please. I was just going to say \"hard metal, many,\" which is why you're here."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They're hard enough that ordinary damage gets shaved down, they're weak to area and splash, and their immunity list deletes half the party's favorite buttons."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny tries fear and has to pull it back. Mental immunity."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Exactly. Benny's spirit-damage boost doesn't help. Anzu finds their lowest save, but a lot of his cleanest ways to exploit that run into mental or void immunity."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So the psychic, the bard, and the little spirit robot all stare at the list like it's a restaurant with nothing they can eat."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Argyle can unravel some of them, sure, but not an endless roomful. Their early area effects work — Anzu catches a bunch, Johnny gets a noise blast into a cluster, Benny rings through several at once."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A few blow apart. It looks briefly manageable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then four dissipate and four new clusters come out of the walls."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Josh says possibly innumerable in that calm voice he uses when he would like everyone to notice the exit."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That changes the whole calculation. If every round costs spells and mythic points just to restore the board to where it started, there's no winning by damage."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They're also crowding the approaches. Some can't reach anyone and have to wait their turn, which is the only thing keeping it from getting uglier faster."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny's plan at this point is to jump down toward the glowing door, because if they're going to fight Satan anyway, they might as well fight Satan with all their spell slots."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is not an insane player instinct. Don't spend your whole resource pool on the encounter in front of the encounter."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "But Anzu checks the idea and gets two crucial pieces: the door seems to be the animating force, and going toward it would be more dangerous, not less."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Also, if these things can erupt here, they can erupt somewhere else in the shaft. Up isn't automatically clean either."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So retreating to the cargo bay is the only option that actually removes them from the replenishing space."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu calls the bail. Everyone follows."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "With some grabbing on the way out, because the creatures can reach through the lip of the shaft even if they can't come pouring through the doorway after them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That doorway limitation is huge. It turns \"run away\" from a maybe into a viable exit."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And they take it. Back onto the folded tarmac, no five barrels in hand, no curse broken, no answer about the voice."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Great trip. Lovely little excursion. Found the world's worst elevator."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But they got the baby-evil read before leaving, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle gets one more deep religious read of the place. A curse on this scale doesn't happen all at once."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The metal has to soak in that horrible light for years, decades maybe, before it can wake up and start doing synchronized murder in the walls."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "So if they'd encountered it earlier, the creatures might be weaker. They might not exist at all."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And that's when everybody remembers they spent the last hour hopping dates."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anzu says they have to \"root out the evil when it's just a baby,\" and suddenly the entire night snaps into a different shape."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because the train isn't just a loot menu anymore. It might be the only way to reach the curse before it becomes impossible to handle."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Might. Johnny also realizes they got so excited about five barrels that nobody used the date-hopping for the actual problem."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Baby evil first, barrel second. A sentence that should never be put on a mission statement."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why did everybody immediately groan about Josh and time shenanigans, though? What did he do in campaign one?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Golden needle, dragon, terrible fight, and the solution involved finding the dragon when it was much smaller and much less of a civic emergency."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That was an alternate reality, not going back in time. Josh was very proud of the distinction."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And this is both?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's his claim. Alternate realities with different dates, so he's finally been allowed to combine his two favorite toys."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He trusts the table to follow it, which is touching, because half the table was still arguing about which direction was left."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, but as a plan, baby curse has a giant rules question attached. If they pick an early year and break it, are they changing their own HQ's past, or just cleaning up one neighbor?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. Nothing they saw proves they can rewrite the Hesperid 3 they came from."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And if they pull five barrels out of year one thirty-one, do the barrels slide with them? Do they arrive home with fuel, or with a very educational absence of fuel?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Also, which year is early enough? Year seventy-two might already be too late. The ship was wrecked before the tessellation, but nobody dated the curse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Those are the right questions. And every experiment might cost time Galzu doesn't have."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So now the voice matters even more, because it might be the only person who understands which side of all this they're standing on."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Or the only person who knows what's behind the door."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Or what happened to the sixteen-star crew. Somebody logged a shipment three days ago in one version. That's a thread I can't leave alone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And what's in storage in year one thirty-one? Five barrels, yes, according to a form. I have met forms. Forms are optimistic little liars."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "You think the barrels aren't there?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I think the party ran out before checking, so now my brain gets to put literally anything in that room. Empty racks, more skulls, six copies of the same barrel arguing with each other."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That last one would be annoyingly elegant."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could they just go back to one thirty-one, avoid the elevator, find storage, take the fuel, and leave?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Maybe. That's the maddening part. The simple version might work."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then they've got enough to stop doing archaeology with their faces, get back to the strider, and deal with Galzu before the pod opens."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But if the curse keeps spreading to places like Hesperid 3, leaving might just bring the problem home later."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's the pull. Fuel is the urgent task. The curse is the thing that makes every abandoned console and broken outpost look like part of a much larger emergency."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Plus Hesperid 1 and 2 are still sitting there with broken lines and potentially more barrels, which normally I'd call the next stop, except now \"broken line\" sounds like something that happened to a whole reality."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the refinery's still off. Anzu could go back with help and actually make it safe."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Could. None of these are free. That's why last night felt so good — every new answer made three perfectly reasonable plans more expensive."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I just keep picturing the loading arm grabbing nothing. Somewhere in year seventy-two, three barrels have arrived, Ulrich is still alive enough to be hopeful, and seventy years away his friends are already dead."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yeah. That got me more than the skulls."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Me too. The skulls are a threat. The ledger is somebody's whole life arriving three days late."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the train's still sitting there with a sideways lever."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Five barrels in the ledger, not in the bag."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Year one thirty-one."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Year one thirty-one. Don't let them forget the year…"
         }
       ]
     },
