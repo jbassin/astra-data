@@ -1506,11 +1506,11 @@
       "target": "Org/The Harlequins/Harlequin Town"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "Divinity/The Eye",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "Voidsong",
@@ -8478,11 +8478,11 @@
       "target": "Org/The Harlequins/Providence"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "Org/The Harlequins/Harlequin Town",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "zabubs",
@@ -8541,11 +8541,11 @@
       "target": "Phenomena/Keystone"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "Org/The Harlequins/People/Chuck",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "Johnny",
@@ -8558,28 +8558,28 @@
       "alias": "Harlequin Town",
       "heading": null,
       "resolved": "Org/The Harlequins/Harlequin Town",
-      "source": "Org/The Harlequins/People/Ocelith",
+      "source": "Org/The Harlequins/People/Osyluth",
       "target": "Org/The Harlequins/Harlequin Town"
     },
     {
       "alias": "Providence",
       "heading": null,
       "resolved": "Org/The Harlequins/Providence/index",
-      "source": "Org/The Harlequins/People/Ocelith",
+      "source": "Org/The Harlequins/People/Osyluth",
       "target": "Org/The Harlequins/Providence"
     },
     {
       "alias": "Anzu",
       "heading": null,
       "resolved": "People/Anzu",
-      "source": "Org/The Harlequins/People/Ocelith",
+      "source": "Org/The Harlequins/People/Osyluth",
       "target": "People/Anzu"
     },
     {
       "alias": "Othello",
       "heading": null,
       "resolved": "People/Othello",
-      "source": "Org/The Harlequins/People/Ocelith",
+      "source": "Org/The Harlequins/People/Osyluth",
       "target": "People/Othello"
     },
     {
@@ -9171,11 +9171,11 @@
       "target": "Org/The Harlequins/Harlequin Town"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "Org/The Harlequins/index",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "Chuck",
@@ -9416,11 +9416,11 @@
       "target": "People/Argyle"
     },
     {
-      "alias": "Macarius Vesper",
+      "alias": "Macharius Vesper",
       "heading": null,
-      "resolved": "Org/The Scale/People/Macarius Vesper",
+      "resolved": "Org/The Scale/People/Macharius Vesper",
       "source": "Org/The Scale/People/Lance Vesper",
-      "target": "Org/The Scale/People/Macarius Vesper"
+      "target": "Org/The Scale/People/Macharius Vesper"
     },
     {
       "alias": "void-thing",
@@ -9440,28 +9440,28 @@
       "alias": "the Scale",
       "heading": null,
       "resolved": "Org/The Scale/index",
-      "source": "Org/The Scale/People/Macarius Vesper",
+      "source": "Org/The Scale/People/Macharius Vesper",
       "target": "Org/The Scale/index"
     },
     {
       "alias": "Lance Vesper",
       "heading": null,
       "resolved": "Org/The Scale/People/Lance Vesper",
-      "source": "Org/The Scale/People/Macarius Vesper",
+      "source": "Org/The Scale/People/Macharius Vesper",
       "target": "Org/The Scale/People/Lance Vesper"
     },
     {
       "alias": "Dame Quay",
       "heading": null,
       "resolved": "Org/The Scale/People/Dame Quay",
-      "source": "Org/The Scale/People/Macarius Vesper",
+      "source": "Org/The Scale/People/Macharius Vesper",
       "target": "Org/The Scale/People/Dame Quay"
     },
     {
       "alias": "Argyle",
       "heading": null,
       "resolved": "People/Argyle",
-      "source": "Org/The Scale/People/Macarius Vesper",
+      "source": "Org/The Scale/People/Macharius Vesper",
       "target": "People/Argyle"
     },
     {
@@ -9668,11 +9668,11 @@
       "target": "People/Farrow Cross"
     },
     {
-      "alias": "Macarius Vesper",
+      "alias": "Macharius Vesper",
       "heading": null,
-      "resolved": "Org/The Scale/People/Macarius Vesper",
+      "resolved": "Org/The Scale/People/Macharius Vesper",
       "source": "Org/The Scale/index",
-      "target": "Org/The Scale/People/Macarius Vesper"
+      "target": "Org/The Scale/People/Macharius Vesper"
     },
     {
       "alias": "Voice of Many",
@@ -10186,11 +10186,11 @@
       "target": "Phenomena/Void Atlas"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "People/Alastair Moss",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "Harlequin Town",
@@ -10543,11 +10543,11 @@
       "target": "Org/The Scale/index"
     },
     {
-      "alias": "Macarius Vesper",
+      "alias": "Macharius Vesper",
       "heading": null,
-      "resolved": "Org/The Scale/People/Macarius Vesper",
+      "resolved": "Org/The Scale/People/Macharius Vesper",
       "source": "People/Argyle",
-      "target": "Org/The Scale/People/Macarius Vesper"
+      "target": "Org/The Scale/People/Macharius Vesper"
     },
     {
       "alias": "Roundhat Gang",
@@ -13462,11 +13462,11 @@
       "target": "Phenomena/Infinite Horizon"
     },
     {
-      "alias": "Ocelith",
+      "alias": "Osyluth",
       "heading": null,
-      "resolved": "Org/The Harlequins/People/Ocelith",
+      "resolved": "Org/The Harlequins/People/Osyluth",
       "source": "Phenomena/Void Atlas",
-      "target": "Org/The Harlequins/People/Ocelith"
+      "target": "Org/The Harlequins/People/Osyluth"
     },
     {
       "alias": "Harlequin Town",
@@ -15600,9 +15600,9 @@
           "target": "Org/The Harlequins/Harlequin Town"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "Voidsong",
@@ -23723,9 +23723,9 @@
           "target": "Org/The Harlequins/Providence"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "zabubs",
@@ -23783,9 +23783,9 @@
           "target": "Phenomena/Keystone"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "Johnny",
@@ -23840,7 +23840,7 @@
         "tags": [],
         "title": null
       },
-      "path": "Org/The Harlequins/People/Ocelith"
+      "path": "Org/The Harlequins/People/Osyluth"
     },
     {
       "crossrefs": [
@@ -24408,9 +24408,9 @@
           "target": "Org/The Harlequins/Harlequin Town"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "Chuck",
@@ -24688,9 +24688,9 @@
           "target": "People/Argyle"
         },
         {
-          "alias": "Macarius Vesper",
+          "alias": "Macharius Vesper",
           "heading": null,
-          "target": "Org/The Scale/People/Macarius Vesper"
+          "target": "Org/The Scale/People/Macharius Vesper"
         },
         {
           "alias": "void-thing",
@@ -24752,7 +24752,7 @@
         ],
         "title": null
       },
-      "path": "Org/The Scale/People/Macarius Vesper"
+      "path": "Org/The Scale/People/Macharius Vesper"
     },
     {
       "crossrefs": [
@@ -24976,9 +24976,9 @@
           "target": "People/Farrow Cross"
         },
         {
-          "alias": "Macarius Vesper",
+          "alias": "Macharius Vesper",
           "heading": null,
-          "target": "Org/The Scale/People/Macarius Vesper"
+          "target": "Org/The Scale/People/Macharius Vesper"
         },
         {
           "alias": "Voice of Many",
@@ -25710,9 +25710,9 @@
           "target": "Phenomena/Void Atlas"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "Harlequin Town",
@@ -26046,9 +26046,9 @@
           "target": "Org/The Scale/index"
         },
         {
-          "alias": "Macarius Vesper",
+          "alias": "Macharius Vesper",
           "heading": null,
-          "target": "Org/The Scale/People/Macarius Vesper"
+          "target": "Org/The Scale/People/Macharius Vesper"
         },
         {
           "alias": "Roundhat Gang",
@@ -29266,9 +29266,9 @@
           "target": "Phenomena/Infinite Horizon"
         },
         {
-          "alias": "Ocelith",
+          "alias": "Osyluth",
           "heading": null,
-          "target": "Org/The Harlequins/People/Ocelith"
+          "target": "Org/The Harlequins/People/Osyluth"
         },
         {
           "alias": "Harlequin Town",

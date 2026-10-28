@@ -181,6 +181,9 @@ entity "Auger" kind="creature" page="Bestiary/Auger" {
 entity "Augury" kind="phenomenon" page="Phenomena/Augury" {
     source "akasha"
 }
+entity "Aurelia" {
+    source "defs"
+}
 entity "Aurideon" kind="place" page="Geography/Calaria/Hallia/Aurideon/index" {
     alias "Iridiu[mn]"
     alias "Oridia[mn]"
@@ -189,6 +192,10 @@ entity "Aurideon" kind="place" page="Geography/Calaria/Hallia/Aurideon/index" {
     alias "Orinion"
     alias "Eridian"
     source "akasha"
+    source "defs"
+}
+entity "Aurthalaxus" {
+    alias "Orthalax[iu]s"
     source "defs"
 }
 entity "Austrene" kind="place" page="Geography/Austrene/index" {
@@ -527,6 +534,9 @@ entity "Eerie" kind="org" page="Org/Iconoclasm/Eerie" {
     alias "Ear that Hears the Truth"
     source "akasha"
 }
+entity "Egan" {
+    source "defs"
+}
 entity "Eilebrin Observatory" kind="place" page="Geography/Calaria/Eilebrin Observatory" {
     alias "Eilebrin Observatories"
     source "akasha"
@@ -718,6 +728,9 @@ entity "gale" {
     alias "gaol"
     source "defs"
 }
+entity "Galzu" {
+    source "defs"
+}
 entity "game" {
     alias "Kate"
     source "defs"
@@ -762,6 +775,9 @@ entity "Geography" kind="place" page="Geography/index" {
 entity "Ghosts of Raelion" kind="org" page="Org/Ghosts of Raelion" {
     alias "ghosts\\s*of\\s*Raelio"
     source "akasha"
+    source "defs"
+}
+entity "Giacomo" {
     source "defs"
 }
 entity "Giacomo's" kind="org" page="Org/The Harlequins/Providence/Giacomo's" {
@@ -868,6 +884,11 @@ entity "Hellsmith" kind="place" page="Geography/Hellsmith" {
 entity "Helm" kind="org" page="Org/The Harlequins/Providence/Helm" {
     source "akasha"
 }
+entity "Helmyster" {
+    alias "Hell?m[ie]ster"
+    alias "Helmstier"
+    source "defs"
+}
 entity "Herald" kind="deity" page="Divinity/Ashen Pact/Herald" {
     alias "True Kin"
     alias "true kin"
@@ -879,6 +900,7 @@ entity "Herald" kind="deity" page="Divinity/Ashen Pact/Herald" {
 entity "Hesperid" kind="place" page="Geography/Hesperid" {
     alias "HQ"
     source "akasha"
+    source "defs"
 }
 entity "Hesperid 3" kind="place" page="Geography/Hesperid 3" {
     source "akasha"
@@ -1161,7 +1183,11 @@ entity "Low-Mechanitor Exitum-ρ-15" {
 entity "Luxottica" kind="org" page="Org/Luxottica/index" {
     source "akasha"
 }
-entity "Macarius Vesper" kind="person" page="Org/The Scale/People/Macarius Vesper" {
+entity "Macharius" {
+    alias "Macarius"
+    source "defs"
+}
+entity "Macharius Vesper" kind="person" page="Org/The Scale/People/Macharius Vesper" {
     source "akasha"
 }
 entity "Machine God" kind="org" page="Org/The Harlequins/Providence/Machine God" {
@@ -1318,9 +1344,6 @@ entity "occultism" {
     alias "Heraclitism"
     source "defs"
 }
-entity "Ocelith" kind="person" page="Org/The Harlequins/People/Ocelith" {
-    source "akasha"
-}
 entity "of Hallia" {
     alias "of Hellion"
     alias "of\\s*Alia"
@@ -1376,6 +1399,13 @@ entity "orts" {
 entity "Ossain Madrun" kind="person" page="Org/Amber Call/People/Ossain Madrun" {
     alias "Ossain"
     source "akasha"
+}
+entity "Osyluth" kind="person" page="Org/The Harlequins/People/Osyluth" {
+    alias "Ocel[aeio]th"
+    alias "Oceliff"
+    alias "Ocelus"
+    source "akasha"
+    source "defs"
 }
 entity "our door" {
     alias "Ardor"
@@ -1444,7 +1474,11 @@ entity "Pharos" kind="place" page="Geography/Black and White/Pharos" {
     source "defs"
 }
 entity "Phlogiston" kind="phenomenon" page="Phenomena/Phlogiston" {
+    alias "fl[oia]gist[oa]n"
+    alias "phagiston"
+    alias "logiston"
     source "akasha"
+    source "defs"
 }
 entity "Pilgrimage" kind="phenomenon" page="Phenomena/Pilgrimage" {
     source "akasha"
@@ -1799,6 +1833,7 @@ entity "Syrin" kind="person" page="Org/Amber Call/People/Syrin" {
 }
 entity "Tali" kind="org" page="Org/The Harlequins/Providence/Tali" {
     source "akasha"
+    source "defs"
 }
 entity "Tally" kind="org" page="Org/The Harlequins/Providence/Tally" {
     source "akasha"
@@ -2002,6 +2037,9 @@ entity "Ugathal" kind="creature" page="Bestiary/Ugathal" {
     alias "Ukathal"
     alias "Ukathals"
     source "akasha"
+    source "defs"
+}
+entity "Ulrich" {
     source "defs"
 }
 entity "Undead" kind="creature" page="Bestiary/Undead" {
