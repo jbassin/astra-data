@@ -6,10 +6,14 @@ the campaign wiki. **A bot writes this repo**: the pipeline produces the files, 
 for the wiki (`akasha/content/`), made in your own clone, never in the live clone at
 `/ruby/data/astra-state/astra-data` (an uncommitted edit there makes heartwood refuse to run).
 Pull first, keep the commit small, and push promptly, since a bot commit to the same lines
-makes the bots' rebase fail. A pushed edit goes live with the next heartwood publish or
-session, or with `just deploy akasha-frontend` once the linguist-commit timer has pulled it (it fetches
-every 15 minutes). Don't hand-edit the generated
-files; change the code in astra instead.
+makes the bots' rebase fail. akasha-frontend bakes `akasha/snapshot/akasha-snapshot.json`, not
+the pages, so a page edit needs the snapshot (and, for a new or renamed page, the entity
+registry) regenerated in the same clone: from an astra checkout, run
+`ASTRA_CONTENT_ROOT=<your clone> uv run akasha-snapshot` and
+`ASTRA_CONTENT_ROOT=<your clone> uv run astra-ontology-entity-seed`, and commit both files. A
+pushed edit goes live with the next heartwood publish or session, or with `just deploy
+akasha-frontend` once the linguist-commit timer has pulled it (it fetches every 15 minutes).
+Don't hand-edit the generated files; change the code in astra instead.
 
 The history starts at a snapshot commit; older history of these files is in the astra repo,
 where they lived until October 2026.
