@@ -1479,7 +1479,7 @@
 001479	Gamemaster: people building something  
 001480	Argyle: All right  
 001481	Gamemaster: you had been told originally when you were talking  
-001482	Gamemaster: to Ocelith  
+001482	Gamemaster: to Osyluth  
 001483	Gamemaster: that this area is kind  
 001484	Gamemaster: of a graveyard  
 001485	Gamemaster: for ships starships  
@@ -2016,11 +2016,11 @@
 002016	Gamemaster: You're welcome to roll a perception check for either of those if you wanted to investigate  
 002017	Gamemaster: them further.  
 002018	Argyle: We ask.  
-002019	Argyle: Ocelot.  
+002019	Argyle: Osyluth.  
 002020	Gamemaster: To the right is that pool of red liquid, and then to the left are the workstations, the  
 002021	Gamemaster: scientific equipment, and a big console.  
-002022	Argyle: I gotta 38 and can we ask Ocelot if the red stuff is  
-002023	Gamemaster: yeah you could do that uh if you like pick up ocelot and just kind of point him  
+002022	Argyle: I gotta 38 and can we ask Osyluth if the red stuff is  
+002023	Gamemaster: yeah you could do that uh if you like pick up Osyluth and just kind of point him  
 002024	Argyle: logistic?  
 002025	Argyle: This is going to be unrefined Thank you I just trying to find  
 002026	Johnny: Thank you you And do we need raw phlogiston or do we need refined phlogiston  
@@ -2052,7 +2052,7 @@
 002052	Gamemaster: What were you investigating? The liquid or the workstations?  
 002053	Gamemaster: okay um with a 38 crit looking around the the design language of the stuff built here is not  
 002054	Gamemaster: familiar to you uh which is not particularly surprising to you i think given that uh the  
-002055	Gamemaster: implication of what ocelot said is that these people are not people native to Færrin  
+002055	Gamemaster: implication of what Osyluth said is that these people are not people native to Færrin  
 002056	Gamemaster: and as such wouldn't build things in the same way that you do on Færrin um and so you see weird  
 002057	Gamemaster: things, like the rivets and screws that they use are different shapes than what you would  
 002058	Gamemaster: expect, but fundamentally, the construction result is something that is familiar to you  
@@ -2714,14 +2714,14 @@
 002714	Johnny: 10 years per barrel.  
 002715	Gamemaster: Uh, that would have been 94.  
 002716	Argyle: When did  
-002717	Gamemaster: Um, so, are you just, I mean, are you just asking Ocelith?  
+002717	Gamemaster: Um, so, are you just, I mean, are you just asking Osyluth?  
 002718	Benny: Yeah, why not?  
 002719	Johnny: yeah  
-002720	Argyle: Oceloth convince that civilization  
+002720	Argyle: Osyluth convince that civilization  
 002721	Argyle: to blow up  
 002722	Argyle: Yeah  
 002723	Argyle: Yeah  
-002724	Gamemaster: Uh, Ocelith will say, well, I mean, it was like a decade ago at this point.  
+002724	Gamemaster: Uh, Osyluth will say, well, I mean, it was like a decade ago at this point.  
 002725	Argyle: Okay, and north from here isn't  
 002726	Argyle: towards that crater, right?  
 002727	Argyle: Or is it? I got.  
@@ -2861,7 +2861,7 @@
 002861	Johnny: and we pull him out really close  
 002862	Johnny: so his perspective is just the one barrel.  
 002863	Gamemaster: Okay, that's fine.  
-002864	Gamemaster: and you just asking him if this is flogiston and he say probably I never saw it I not a mechanic I not an engineer I don know what you want from me I a librarian Okay Absolutely  
+002864	Gamemaster: and you just asking him if this is phlogiston and he say probably I never saw it I not a mechanic I not an engineer I don know what you want from me I a librarian Okay Absolutely  
 002865	Johnny: Yeah you Yeah  
 002866	Benny: Do we have the good stuff  
 002867	Gamemaster: From the 16 stars. Sure.  
@@ -3689,7 +3689,7 @@
 003689	Benny: I can just pull it up.  
 003690	Gamemaster: I think. Yeah, can you double check that?  
 003691	Gamemaster: Because in my head, I think it's four to jumpstart  
-003692	Gamemaster: and then one per every million that you have to travel along the horizon And while you doing that let this once Ulric roll in Do his turn  
+003692	Gamemaster: and then one per every million that you have to travel along the horizon And while you doing that let this once Ulrich roll in Do his turn  
 003693	Anzu: What?  
 003694	Benny: No, it was Thurston.  
 003695	Anzu: Didn't I kill him?  
@@ -3860,8 +3860,8 @@
 003860	Gamemaster: can you see one's bazalric  
 003861	Johnny: I will...  
 003862	Johnny: I don't want to do anything.  
-003863	Johnny: And I can't see Once Was Ulric.  
-003864	Johnny: Oh wait, I can see Once Was Ulric.  
+003863	Johnny: And I can't see Once Was Ulrich.  
+003864	Johnny: Oh wait, I can see Once Was Ulrich.  
 003865	Gamemaster: he does have he has lesser cover from you because there a wall in the way but you can see him  
 003866	Johnny: the more i am i don care Albatross curse  
 003867	Benny: Can you see Benny  
@@ -4100,7 +4100,7 @@
 004100	Benny: I will jog up  
 004101	Benny: to  
 004102	Benny: once was  
-004103	Benny: Ulric because my last  
+004103	Benny: Ulrich because my last  
 004104	Benny: action is the hasted actually do I lose the  
 004105	Benny: hasted action or do I lose I have to lose a real  
 004106	Benny: action right like a turn action  
@@ -4253,7 +4253,7 @@
 004253	Anzu: We're playing Pathfinder.  
 004254	Anzu: We're doing it.  
 004255	Anzu: debuff the enemies  
-004256	Gamemaster: Absolutely. That's the first time anybody's dealt any damage to Ulric!  
+004256	Gamemaster: Absolutely. That's the first time anybody's dealt any damage to Ulrich!  
 004257	Johnny: Finally, we figured it out guys.  
 004258	Gamemaster: He doesn't get to do anything when that happens, but... yeah.  
 004259	Gamemaster: Okay.  

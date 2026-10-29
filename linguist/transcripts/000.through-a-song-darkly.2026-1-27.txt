@@ -1103,7 +1103,7 @@
 001103	Gamemaster: You're sure welcome to do.  
 001104	Johnny: oh wow  
 001105	Arctos: I go.  
-001106	Benny: Penny Arden.  
+001106	Benny: Benny Arden.  
 001107	Gamemaster: Okay.  
 001108	Gamemaster: Sure.  
 001109	Gamemaster: This is a perception-heavy series of walking abouts, so we'll do another perception check as you enter into the main street.  

@@ -2600,7 +2600,7 @@
 002600	Anzu: Well, there's something somewhere.  
 002601	Gamemaster: And I get... Sorry, who's the one that asked if he wanted to go home?  
 002602	Johnny: Hmm.  
-002603	Benny: Penny.  
+002603	Benny: Benny.  
 002604	Arctos: Bye.  
 002605	Gamemaster: Benny, roll a diplomacy check.  
 002606	Benny: Yay.  
@@ -3280,7 +3280,7 @@
 003280	Gamemaster: But he is responsible for Raelion no longer existing.  
 003281	Gamemaster: He is responsible for Brithwyn having separated from Calaria.  
 003282	Johnny: Wait, wait.  
-003283	Gamemaster: He is responsible for... We're going back a little bit, but I believe he's responsible for Orthalaxis the Plaguebearer, wiping out almost half of the population on Færrin close to 200 years ago.  
+003283	Gamemaster: He is responsible for... We're going back a little bit, but I believe he's responsible for Aurthalaxus the Plaguebearer, wiping out almost half of the population on Færrin close to 200 years ago.  
 003284	Gamemaster: Yeah.  
 003285	Johnny: Why?  
 003286	Johnny: What?  

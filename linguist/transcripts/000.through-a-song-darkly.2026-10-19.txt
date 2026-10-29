@@ -820,7 +820,7 @@
 000820	Johnny: Well, we cannot give also the body.  
 000821	Argyle: the group of the Harlequins  
 000822	Argyle: and we get  
-000823	Argyle: Ocelot the body  
+000823	Argyle: Osyluth the body  
 000824	Argyle: because he can tell the future but not about us  
 000825	Argyle: and then he  
 000826	Argyle: runs Polymarket for us  
@@ -996,16 +996,16 @@
 000996	Benny: passage the buff um i do have in my notes that we crit three times for the navigation and descent  
 000997	Benny: so we essentially backflip the car like it's a tesla roadster out of the strider and uh flex  
 000998	Benny: on them as we navigate with such ease it almost like we been here before We haven That not sarcasm We just good at it  
-000999	Gamemaster: Hesperide 3.  
+000999	Gamemaster: Hesperid 3.  
 001000	Benny: We get to the outpost.  
 001001	Benny: It's a big building.  
 001002	Benny: I think there's tracks going in.  
 001003	Benny: It's built into the ground.  
-001004	Benny: This is Hesperad  
+001004	Benny: This is Hesperid  
 001005	Benny: 3.  
-001006	Gamemaster: Hesperide 3.  
+001006	Gamemaster: Hesperid 3.  
 001007	Gamemaster: No, esperid.  
-001008	Benny: Hespervid?  
+001008	Benny: Hesperid?  
 001009	Benny: Oh, Hesperid.  
 001010	Gamemaster: One second.  
 001011	Benny: Oh, okay.  
@@ -1025,7 +1025,7 @@
 001025	Benny: we find  
 001026	Benny: an absolute maze of  
 001027	Benny: tracks  
-001028	Benny: flogiston  
+001028	Benny: phlogiston  
 001029	Benny: bunch of notes  
 001030	Benny: we get a lot of  
 001031	Benny: fallout  
@@ -1187,7 +1187,7 @@
 001187	Gamemaster: Wait, sorry, is that a yes or a no?  
 001188	Gamemaster: Oh, that's a no. Okay.  
 001189	Johnny: That's a no.  
-001190	Johnny: I'm not going to do that in this room full of logiston.  
+001190	Johnny: I'm not going to do that in this room full of phlogiston.  
 001191	Gamemaster: Sure.  
 001192	Gamemaster: It's your prerogative, you're welcome to do so.  
 001193	Johnny: Baggo barrels.  
@@ -1256,7 +1256,7 @@
 001256	Gamemaster: That's crazy!  
 001257	Gamemaster: Okay, well...  
 001258	Johnny: Oh, if you hit Q, it makes you go down five feet.  
-001259	Gamemaster: Penny levitates  
+001259	Gamemaster: Benny levitates  
 001260	Johnny: If you hit E, you go up.  
 001261	Gamemaster: 150 feet into the air  
 001262	Gamemaster: right of course  
@@ -1300,7 +1300,7 @@
 001300	Argyle: Write that down!  
 001301	Benny: Oh, Jesus.  
 001302	Anzu: Any phlogiston down there?  
-001303	Johnny: Well, Flogiston.  
+001303	Johnny: Well, phlogiston.  
 001304	Argyle: Argyle's writing it down.  
 001305	Gamemaster: And there is...  
 001306	Gamemaster: Oh my god, Argyle is descending  
@@ -1363,10 +1363,10 @@
 001363	Gamemaster: 31 medicine check is pretty good.  
 001364	Gamemaster: I don't know if...  
 001365	Gamemaster: Okay, so Sybil was an elf.  
-001366	Gamemaster: like the three people that lived here were Ulric the human, Sybil the elf, and Thurston the dwarf.  
+001366	Gamemaster: like the three people that lived here were Ulrich the human, Sybil the elf, and Thurston the dwarf.  
 001367	Gamemaster: Sybil was an elf and in the picture that you had seen of Sybil was not a particularly elderly elf  
 001368	Argyle: Oh, it's just a Giant blast.  
-001369	Gamemaster: but she did die first according to Ulric of old age.  
+001369	Gamemaster: but she did die first according to Ulrich of old age.  
 001370	Gamemaster: Just putting that out there.  
 001371	Argyle: Can I guess if this is...  
 001372	Gamemaster: Roll a religion check.  
@@ -1468,7 +1468,7 @@
 001468	Johnny: Go on, shoot him.  
 001469	Gamemaster: The breakage in the wiring was underneath those rocks, and you fixed that.  
 001470	Johnny: Ah.  
-001471	Gamemaster: When you had first entered the Hesperin III, this outpost, it had implied that there was  
+001471	Gamemaster: When you had first entered the Hesperid III, this outpost, it had implied that there was  
 001472	Gamemaster: a breach somewhere, but it didn't give me more information than that, unfortunately.  
 001473	Johnny: Just...  
 001474	Johnny: Those were two different things though, I understand.  
@@ -1648,7 +1648,7 @@
 001648	Gamemaster: And looking at the readouts,  
 001649	Gamemaster: Anzu, despite that ridiculous crit, does not know how to tune this thing properly.  
 001650	Gamemaster: You would have no way of meaningfully adjusting it.  
-001651	Gamemaster: There is a reason why Oceloth told you  
+001651	Gamemaster: There is a reason why Osyluth told you  
 001652	Gamemaster: that it generally takes somebody who has a lot of experience in this field  
 001653	Gamemaster: in order to get any meaningful stuff out.  
 001654	Gamemaster: It is very complicated,  
@@ -1674,9 +1674,9 @@
 001674	Argyle:   
 001675	Gamemaster: system that Anzu's coming up against, and he's an intellectual, is that I think you're  
 001676	Gamemaster: going to gain, for the rest of your time here in the Far Realms, a plus one circumstance  
-001677	Gamemaster: bonus to any other check looking at Phlogistine Machinery.  
+001677	Gamemaster: bonus to any other check looking at phlogiston Machinery.  
 001678	Argyle: Oh.  
-001679	Anzu: As I said, Phlegist and extractor professional.  
+001679	Anzu: As I said, phlogiston and extractor professional.  
 001680	Argyle: I do have a question for you.  
 001681	Johnny: Or is it not even worth it messing with it and we should just camp and then go to Hesperid?  
 001682	Anzu: I think that if we find that we're having a lot,  
@@ -1843,7 +1843,7 @@
 001843	Gamemaster: turn on, and you can see that the dash in the front lights up, and the front windshield,  
 001844	Benny: okay  
 001845	Benny: I'm getting there.  
-001846	Anzu: Okay, so now the question is, can we afford to use phagiston on this craft?  
+001846	Anzu: Okay, so now the question is, can we afford to use phlogiston on this craft?  
 001847	Gamemaster: which had turned opaque when the barrels were taken out of it, turns clear again.  
 001848	Argyle: Guys.  
 001849	Anzu: Because we don't know the burn rate.  
@@ -2373,7 +2373,7 @@
 002373	Gamemaster: Even if you did know what the numbers were, you wouldn't know what units they're in, so it doesn't really matter.  
 002374	Gamemaster: But numbers go up, which tells you that you're going places.  
 002375	Gamemaster: And very, very quickly, over the course of maybe two minutes or so,  
-002376	Gamemaster: You see that the Hesperd III quickly vanishes in your rear view mirror as it falls beyond the horizon.  
+002376	Gamemaster: You see that the Hesperid III quickly vanishes in your rear view mirror as it falls beyond the horizon.  
 002377	Gamemaster: I suppose maybe that a bit comforting that there is a horizon still here The rest of the place is weird but that still acts the same And you continue north  
 002378	Gamemaster: There is a lot of nothing for a pretty long time.  
 002379	Gamemaster: You are moving quickly.  
@@ -3269,7 +3269,7 @@
 003269	Anzu: Yeah, we should check the stand, yeah.  
 003270	Gamemaster: Six wheels with a rack on it similar to the one that's inside of the train, used for holding  
 003271	Gamemaster: barrels, that is just sat at the loading dock.  
-003272	Gamemaster: Okay absolutely Well the doors are already open that happened automatically but you are more than welcome to walk out The interior here is much like it was in the Hesperd III in  
+003272	Gamemaster: Okay absolutely Well the doors are already open that happened automatically but you are more than welcome to walk out The interior here is much like it was in the Hesperid III in  
 003273	Anzu: The shack, whatever.  
 003274	Gamemaster: that outpost you were in. It is drier than normal, it is cooler than normal, it's not  
 003275	Gamemaster: uncomfortable, it's just like not quite the temperature you would have set for your own  

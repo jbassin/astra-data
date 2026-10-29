@@ -3430,7 +3430,7 @@
 003430	Anzu: I haven't.  
 003431	Argyle: You know, there's one scene where Ron Swanson writes a permission slip for himself.  
 003432	Argyle: He's just like, I can do what I want.  
-003433	Argyle: That's what Penny's permission slip is.  
+003433	Argyle: That's what Benny's permission slip is.  
 003434	Gamemaster: So, Benny just rolled a zero, if I'm reading that right.  
 003435	Argyle: Yeah.  
 003436	Benny: You give me a minus four, so.  

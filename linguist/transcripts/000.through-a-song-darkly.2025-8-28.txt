@@ -1750,7 +1750,7 @@
 001750	Argyle: Where were you?  
 001751	Argyle: Where were you again when it happened?  
 001752	Johnny: I was just over the border.  
-001753	Johnny: I lived on Helmstier, from Helmstier.  
+001753	Johnny: I lived on Helmyster, from Helmyster.  
 001754	Johnny: It was like a little town up in the mountains.  
 001755	Johnny: It was like right on the border.  
 001756	Argyle: And you were a barkeep?  

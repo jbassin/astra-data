@@ -2377,13 +2377,13 @@
 002377	Argyle: Wait a second.  
 002378	Argyle: Does your sleeve, does everything get put together?  
 002379	Argyle: Or are they separate?  
-002380	Anzu: I'm not putting it in the ocelot's sleeve.  
+002380	Anzu: I'm not putting it in the Osyluth's sleeve.  
 002381	Anzu: It's going in the other sleeve.  
 002382	Argyle: Okay.  
 002383	Argyle: I want to call that out.  
 002384	Anzu: no it's going  
 002385	Argyle: I don't want that thing reading this.  
-002386	Anzu: Ocelith is in what was once my  
+002386	Anzu: Osyluth is in what was once my  
 002387	Argyle: I would kill to be a fly in the wall  
 002388	Johnny: One sleeve is for sentient things, one sleeve is for items.  
 002389	Gamemaster: All right.  
@@ -2662,11 +2662,11 @@
 002662	Argyle: the second you said silver I was like oh no okay  
 002663	Anzu: We totally flipped who went to which adventure.  
 002664	Johnny: Wait, this is a town in Raelion and we didn't bring Johnny?  
-002665	Gamemaster: This is Hellmester.  
+002665	Gamemaster: This is Helmyster.  
 002666	Gamemaster: This is a town in Raelion.  
 002667	Argyle: Oh wow  
 002668	Gamemaster: Yeah.  
-002669	Johnny: Wait, this is Helmister?  
+002669	Johnny: Wait, this is Helmyster?  
 002670	Gamemaster: Yeah.  
 002671	Johnny: Isn't that where Johnny's from?  
 002672	Gamemaster: Yeah.  
@@ -3511,7 +3511,7 @@
 003511	Gamemaster: you imagine this is supposed  
 003512	Anzu: So we want him to die.  
 003513	Johnny: If I just take a wild swing through both of them,  
-003514	Gamemaster: to be Orthalaxis the Plaguebearer in his fight with one of the Aurelias.  
+003514	Gamemaster: to be Aurthalaxus the Plaguebearer in his fight with one of the Aurelias.  
 003515	Gamemaster: He fought two different Aurelias.  
 003516	Gamemaster: I don't think you would know with the 27 which one this is.  
 003517	Gamemaster: Correct.  
@@ -5005,7 +5005,7 @@
 005005	Gamemaster: kind of god eater off in the distance, just a tie-in there. They navigated through the library,  
 005006	Gamemaster: eventually making it to the core of the library and or the gyroscopic ring, since they were  
 005007	Gamemaster: swapping between the two, where they found the control room, as well as the bone devil,  
-005008	Gamemaster: Ocelith. They cut a deal with the Ocelith, they asked it some questions, figured out some  
+005008	Gamemaster: Osyluth. They cut a deal with the Osyluth, they asked it some questions, figured out some  
 005009	Gamemaster: information there before deciding to head on back home with Ossoth head the only bit of it that had survived the disaster that caused them to go looking in the first place  
 005010	Gamemaster: this kind of strider being yanked far, far, far starward on the infinite horizon.  
 005011	Gamemaster: So they went back home, they got settled again, got re-situated,  

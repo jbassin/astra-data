@@ -4352,7 +4352,7 @@
 004352	Johnny: No.  
 004353	Benny: How many threes?  
 004354	Benny: Oh my god.  
-004355	Johnny: Penny.  
+004355	Johnny: Benny.  
 004356	Benny: Josh, can you reseed this?  
 004357	Gamemaster: And Benny critically fails.  
 004358	Gamemaster: No!  
