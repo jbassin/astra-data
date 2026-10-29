@@ -6,9 +6,9 @@
     "synopsis": "The party of Iconoclasm spends their final week before the Strider's departure making the rounds of unmet factions — connecting three new hearts to their skein network (Garrick Textiles, Alkahest Freight, Radiant Arms) while being rebuffed by the Pale Lantern Society and the Ministry of Cultural Progress. At the kickoff gala, the Master of Ceremonies reveals the Strider requires a weekly 'tithe' of Voidsong energy from all attendees; Mr. Obratz of Garrick Textiles lacks sufficient energy and is violently wrung dry, spawning monsters from his remains as combat begins.",
     "key_beats": [
       "Argyle arranges downtime crafting: the twins craft a Dream Message scroll (1 day, 27 gold), Argyle finishes a healing potion early and makes holy water. Chuck delivers a blue crystal totem linked to the party's heart, enabling telepathic communication with Eerie at range.",
-      "Party tours unmet factions. At the RunGunners, they meet Ceres, a fetchling in oil-stained overalls whose fane is a fortified racetrack built around a smuggled 18-wheeler garage. He is amiable but refuses information-sharing or road access.",
-      "At Garrick Textiles, the party finds Mr. Obratz — an old-money tiefling with an ornate cane — and his overwhelmed pixie secretary, living in a half-finished fane next to Amber Call. Despite pleas to move in with Iconoclasm, Obratz refuses, insisting he'll build it out himself. The party connects his heart ('Whirling in Rags') to their skein network as a lifeline.",
-      "The Pale Lantern Society's fane is a sprawling complex staffed by skinless muscle-skeleton drones directed by two pale elves, Manus (reeking of formaldehyde) and Brienne. Manus refuses to join the network or share the reincarnation ritual, declaring it 'often the position of the weak to band together.' He snaps his fingers and summons drones to underscore the dismissal.",
+      "Party tours unmet factions. At the RunGunners, they meet Ceres, a fetchling in oil-stained overalls whose Fane is a fortified racetrack built around a smuggled 18-wheeler garage. He is amiable but refuses information-sharing or road access.",
+      "At Garrick Textiles, the party finds Mr. Obratz — an old-money tiefling with an ornate cane — and his overwhelmed pixie secretary, living in a half-finished Fane next to Amber Call. Despite pleas to move in with Iconoclasm, Obratz refuses, insisting he'll build it out himself. The party connects his heart ('Whirling in Rags') to their skein network as a lifeline.",
+      "The Pale Lantern Society's Fane is a sprawling complex staffed by skinless muscle-skeleton drones directed by two pale elves, Manus (reeking of formaldehyde) and Brienne. Manus refuses to join the network or share the reincarnation ritual, declaring it 'often the position of the weak to band together.' He snaps his fingers and summons drones to underscore the dismissal.",
       "At Alkahest Freight, the party meets Kadou Floch, a friendly elven logistics manager. He shares a theory that Raelion wasn't destroyed but thrown voidward past the wall by the bomb, and the Voidsong is its cry for help. Johnny is deeply shaken. The party connects Kadou's heart ('Chromatic Drift') to the skein.",
       "The party skips Ternion Heavy Industries (building an airstrip/airplane) because they compete with ally Hildebrandt. At Radiant Arms, they meet Y'shael, a porcelain-faced android in a brownstone filled with decorative firearms. Y'shael is friendly, lets Benny test-fire a .75 cal prototype pistol, and joins the skein ('Final Caliber').",
       "Anzu casts Dream Message to his sister, inviting her to brunch at Giacomo's restaurant. At brunch, she doesn't appear. Anzu meets Lark Crowe, a battle-scarred tengu gun salesman from Sable & Suns — the same Lark Crowe who supplied firearms to the Ghosts bandits. The party also encounters Giannos from the Ministry of Cultural Progress, an unsettlingly average-looking figure with an iridescent raiment who projects a mental aversion field and coldly refuses to join the network.",
@@ -42,12 +42,12 @@
     ],
     "locations": [
       "The Strider (top layer)",
-      "RunGunners fane (racetrack/18-wheeler garage)",
-      "Garrick Textiles fane (unfinished atelier)",
-      "Pale Lantern Society fane (complex with columbarium diorama)",
-      "Alkahest Freight fane (plain concrete line building)",
-      "Ternion Heavy Industries fane (airstrip, seen from distance)",
-      "Radiant Arms fane (brownstone with arrow slits)",
+      "RunGunners Fane (racetrack/18-wheeler garage)",
+      "Garrick Textiles Fane (unfinished atelier)",
+      "Pale Lantern Society Fane (complex with columbarium diorama)",
+      "Alkahest Freight Fane (plain concrete line building)",
+      "Ternion Heavy Industries Fane (airstrip, seen from distance)",
+      "Radiant Arms Fane (brownstone with arrow slits)",
       "Giacomo's restaurant (brunch spot)",
       "Gala/convention hall (ballroom)"
     ],
@@ -79,7 +79,7 @@
       "Whirling in Rags heart (Garrick Textiles)",
       "Chromatic Drift heart (Alkahest Freight)",
       "Final Caliber heart (Radiant Arms)",
-      "Obratz's pocket watch (donated to expand Garrick Textiles' fane)"
+      "Obratz's pocket watch (donated to expand Garrick Textiles' Fane)"
     ],
     "cliffhanger": "Monsters — deer-horse-chitinous hybrids and barghests — erupt from the black liquid pooled around Obratz's mangled corpse, and the party must roll initiative as the Master of Ceremonies casually exits the gala, leaving everyone to fend for themselves."
   }

@@ -13425,7 +13425,7 @@
     {
       "start": "01:03:12",
       "second": 3792.7,
-      "text": "Penny has monkey bars.",
+      "text": "Benny has monkey bars.",
       "user": {
         "name": "Mike",
         "color": "--textMike"
@@ -13495,7 +13495,7 @@
     {
       "start": "01:03:21",
       "second": 3801.44,
-      "text": "Penny does have monkey bars.",
+      "text": "Benny does have monkey bars.",
       "user": {
         "name": "Josh",
         "color": "--textJosh"
@@ -16545,7 +16545,7 @@
     {
       "start": "01:16:18",
       "second": 4578.5,
-      "text": "Penny opens the door.",
+      "text": "Benny opens the door.",
       "user": {
         "name": "Mike",
         "color": "--textMike"
