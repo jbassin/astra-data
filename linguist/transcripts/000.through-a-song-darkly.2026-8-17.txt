@@ -1414,7 +1414,7 @@
 001414	Gamemaster: okay  
 001415	Gamemaster: all four  
 001416	Benny: Where the choice cuts  
-001417	Argyle: Penny's shadowboxing  
+001417	Argyle: Benny's shadowboxing  
 001418	Gamemaster: Benny is shadowboxing  
 001419	Benny: As holy as possible  
 001420	Argyle: I was looking as holy as possible  

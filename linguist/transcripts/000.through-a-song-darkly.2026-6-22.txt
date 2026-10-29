@@ -2854,7 +2854,7 @@
 002854	Johnny: What?  
 002855	Gamemaster: 29 that's good  
 002856	Gamemaster: Argyle is not hidden  
-002857	Gamemaster: from Ocelot  
+002857	Gamemaster: from Osyluth  
 002858	Gamemaster: which is good to know  
 002859	Gamemaster: with the 22  
 002860	Gamemaster: we got a 17 from Johnny  

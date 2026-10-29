@@ -1878,7 +1878,7 @@
 001878	Gamemaster: because it summons a web out of the stump of its arm  
 001879	Argyle: The rocket.  
 001880	Gamemaster: and launches it at you.  
-001881	Argyle: It's Penny Parker.  
+001881	Argyle: It's Benny Parker.  
 001882	Gamemaster: It's a spider robot.  
 001883	Johnny: Spobot!  
 001884	Benny: A robot.  
@@ -3787,7 +3787,7 @@
 003787	Gamemaster: Anything else?  
 003788	Johnny: This whole fight, Johnny's just been running after Benny,  
 003789	Johnny: singing Sweet Victory.  
-003790	Benny: I like the sheet music that Penny handed him.  
+003790	Benny: I like the sheet music that Benny handed him.  
 003791	Johnny: That's sweet!  
 003792	Johnny: He's covered in bug guts.  
 003793	Benny: Like, what is that?  

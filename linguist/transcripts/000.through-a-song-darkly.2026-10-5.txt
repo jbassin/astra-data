@@ -2119,7 +2119,7 @@
 002119	Gamemaster: but it was manned by the Harlequins and bad things have happened to them in recent times.  
 002120	Gamemaster: The answer is that you might be able to sell to someone else on the Strider.  
 002121	Gamemaster: either that or perhaps  
-002122	Gamemaster: you had been told by Oceloth  
+002122	Gamemaster: you had been told by Osyluth  
 002123	Gamemaster: that there are people who live out  
 002124	Gamemaster: in the distance  
 002125	Argyle: are staffs of healing made with a lot of  
@@ -3250,7 +3250,7 @@
 003250	Anzu: if the planes have found a civilization  
 003251	Anzu: we just  
 003252	Anzu: all we need  
-003253	Anzu: is flogistan and we'll be  
+003253	Anzu: is phlogiston and we'll be  
 003254	Anzu: fine  
 003255	Anzu: all right  
 003256	Argyle: Do we think she would get more powerful in a week  
@@ -3778,7 +3778,7 @@
 003778	Gamemaster: argyle will put together where have i heard lance vesper from like why is that familiar to me uh and  
 003779	Argyle: Cool.  
 003780	Johnny: Yeah.  
-003781	Gamemaster: then you remember that his you assume dad by the reference is macarius vesper uh the second in  
+003781	Gamemaster: then you remember that his you assume dad by the reference is Macharius vesper uh the second in  
 003782	Gamemaster: command of the entirety of uh the Scale um it just kind of sticks out to you there uh you don't know  
 003783	Argyle: Cool. That's not that crazy.  
 003784	Gamemaster: why his kid is running around with a curse  
@@ -3819,7 +3819,7 @@
 003819	Gamemaster: let me actually get his title, I have it.  
 003820	Argyle: grandmother is the head of the  
 003821	Gamemaster: Give me half a second.  
-003822	Gamemaster: Uh, yes. No. He is, uh, he is Custode Macarius Vesper. Yes, he is Custode Macarius Vesper of the Order of the Everchain.  
+003822	Gamemaster: Uh, yes. No. He is, uh, he is Custode Macharius Vesper. Yes, he is Custode Macharius Vesper of the Order of the Everchain.  
 003823	Argyle: arbiters  
 003824	Argyle: oh so he's a timekeeper  
 003825	Argyle: oh so he's  
@@ -4342,7 +4342,7 @@
 004342	Gamemaster: yeah this would be to you  
 004343	Argyle: oh yeah  
 004344	Gamemaster: worth 62 gold pieces  
-004345	Anzu: We could try it for Flagistan  
+004345	Anzu: We could try it for phlogiston  
 004346	Gamemaster: I mean 62 energy  
 004347	Gamemaster: or alternatively you could sell it for I don know Like there  
 004348	Argyle: To who Josh  
@@ -4491,9 +4491,9 @@
 004491	Gamemaster: but he did see that it looked like lights and stuff were on at that particular facility,  
 004492	Gamemaster: so he gathered that it was still active in some way.  
 004493	Argyle: and ask  
-004494	Argyle: Osliff if  
+004494	Argyle: Osyluth if  
 004495	Argyle: phlogiston can be  
-004496	Gamemaster: Ocelith will say it pretty complicated Yes you do have to start mining downward but the phlogiston that you getting isn actually out of the ground that just kind of the first  
+004496	Gamemaster: Osyluth will say it pretty complicated Yes you do have to start mining downward but the phlogiston that you getting isn actually out of the ground that just kind of the first  
 004497	Argyle: mined from the planet or is it  
 004498	Argyle: how do they get it from somewhere else So if there a  
 004499	Gamemaster: step of the process um but then he'll say to be honest i can't really explain the process to you  
@@ -4521,7 +4521,7 @@
 004521	Gamemaster: there wouldn't be anybody around to get angry at us.  
 004522	Gamemaster: There might be some stuff.  
 004523	Gamemaster: There won't be any people.  
-004524	Argyle: probably no fligiston right  
+004524	Argyle: probably no phlogiston right  
 004525	Gamemaster: Oh, absolutely not.  
 004526	Anzu: we go to the minds that he saw  
 004527	Argyle: yeah  
@@ -4539,14 +4539,14 @@
 004539	Anzu: I guess if it's quick.  
 004540	Anzu: He said he saw mist in the crater.  
 004541	Gamemaster: the bottom of it seemed relatively flat  
-004542	Anzu: I mean, Ocelith, what is up with the mist?  
+004542	Anzu: I mean, Osyluth, what is up with the mist?  
 004543	Gamemaster: as far as he could tell  
 004544	Gamemaster: and he could see the shadows of what looked to be  
 004545	Gamemaster: structures in it  
 004546	Gamemaster: but most of it was obscured by this pretty dense  
 004547	Gamemaster: looking mist or fog  
 004548	Gamemaster: or some kind of very low cloud cover  
-004549	Gamemaster: Oceloth will say  
+004549	Gamemaster: Osyluth will say  
 004550	Anzu: Like, what did you guys actually do?  
 004551	Gamemaster: we didn't  
 004552	Gamemaster: we technically didn't do  
@@ -4647,14 +4647,14 @@
 004647	Argyle: No,  
 004648	Argyle: I know.  
 004649	Argyle: I'm just trying to wonder,  
-004650	Argyle: does Ocelus think,  
+004650	Argyle: does Osyluth think,  
 004651	Argyle: cause what he described as the other civilization was much bigger,  
 004652	Gamemaster: yeah  
 004653	Argyle: right?  
 004654	Argyle: They only had four.  
 004655	Gamemaster: yeah  
 004656	Gamemaster: yeah  
-004657	Gamemaster: Osliff will say  
+004657	Gamemaster: Osyluth will say  
 004658	Argyle: I guess we're probably not going to get,  
 004659	Argyle: double digits over here, but we can try.  
 004660	Argyle: Yeah.  
@@ -4669,7 +4669,7 @@
 004669	Gamemaster: It's really just...  
 004670	Gamemaster: You get into a groove...  
 004671	Argyle: Thank you yeah  
-004672	Anzu: wise beyond your years Oceleth I see you soon  
+004672	Anzu: wise beyond your years Osyluth I see you soon  
 004673	Johnny: Okay Okay  
 004674	Gamemaster: You don know how old I am And you put him back in your sleeve or you put him in the jail or you do away with him in some form  
 004675	Argyle: yeah  

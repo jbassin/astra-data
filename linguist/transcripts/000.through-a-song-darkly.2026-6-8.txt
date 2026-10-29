@@ -2733,7 +2733,7 @@
 002733	Gamemaster: Yes.  
 002734	Benny: Yeah, they're the people in birth four.  
 002735	Benny: So something bad could have happened.  
-002736	Gamemaster: They are the people in Bertha Ford.  
+002736	Gamemaster: They are the people in Berth Four.  
 002737	Argyle: Should we go... Should we go visit... Should we go visit Berth 4?  
 002738	Benny: It's not like they're strong.  
 002739	Benny: Birth four is sussy.  
@@ -3555,7 +3555,7 @@
 003555	Gamemaster: You all seem to be dancing around the issue, and I wanted to put that plainly.  
 003556	Gamemaster: We'll see.  
 003557	Gamemaster: At the very least, I am loathe to work with some of the other members of the faction substantially more than I am with you.  
-003558	Gamemaster: So Prime Marudine, at least for the time being, agrees to this plan of yours, which will contribute what resources we are free to.  
+003558	Gamemaster: So Prime Meridian, at least for the time being, agrees to this plan of yours, which will contribute what resources we are free to.  
 003559	Argyle: And non-bullshitting Angel Argyle is like, I appreciate your candor here.  
 003560	Argyle: And it's a genuine.  
 003561	Anzu: I'll turn back to Kadou.  
@@ -3622,7 +3622,7 @@
 003622	Gamemaster: If  
 003623	Gamemaster: If you wanted Radiant Arms specifically to join, it would take a little bit of needling.  
 003624	Argyle: Yeah.  
-003625	Gamemaster: The two immediate yeses are Alkahest Freight and Solaria Subservice, both of which don't have any combatants and would jump on the chance to join up with another group.  
+003625	Gamemaster: The two immediate yeses are Alkahest Freight and Solari Sub-surface, both of which don't have any combatants and would jump on the chance to join up with another group.  
 003626	Argyle: So what would that be then?  
 003627	Argyle: That'd be three groups or four groups?  
 003628	Johnny: you you  
@@ -3771,7 +3771,7 @@
 003771	Gamemaster: We don't need it.  
 003772	Argyle: Yeah.  
 003773	Gamemaster: Prime Meridian said absolutely yes.  
-003774	Gamemaster: Of the remaining ones, Hiltabrand is similarly not going to say no if you're offering it.  
+003774	Gamemaster: Of the remaining ones, Hildebrandt is similarly not going to say no if you're offering it.  
 003775	Gamemaster: But from your roll earlier, I don't think you think that that's a deal breaker necessarily if you don't offer it to them.  
 003776	Benny: you  
 003777	Argyle: What if we give the territory to Protectorate?  
@@ -3799,7 +3799,7 @@
 003799	Benny: you  
 003800	Gamemaster: So if you take that part, you'll get 10.  
 003801	Argyle: So we'll get 10.  
-003802	Gamemaster: And then Alkahazprate has 30.  
+003802	Gamemaster: And then Alkahest Freight has 30.  
 003803	Gamemaster: So you'll get 15.  
 003804	Johnny: Nice.  
 003805	Argyle: Okay.  
@@ -3833,7 +3833,7 @@
 003833	Anzu: Well, they can retain, yeah, they can retain their heart.  
 003834	Argyle: Yeah.  
 003835	Argyle: There'll be a forward deployed base, so.  
-003836	Anzu: Okay, and so, just so Tanner understands, this means that the folks of Solari Sub-surface and the folks of Alkahaz Freight are coming to live with us.  
+003836	Anzu: Okay, and so, just so Tanner understands, this means that the folks of Solari Sub-surface and the folks of Alkahest Freight are coming to live with us.  
 003837	Argyle: Yes.  
 003838	Gamemaster: Right.  
 003839	Johnny: We're mates.  

@@ -3153,7 +3153,7 @@
 003153	Gamemaster: You would need to roll the TC5 flat check.  
 003154	Benny: Hmm.  
 003155	Johnny: Okay.  
-003156	Gamemaster: Okay, so we had a success from Sbrtlbyand a failure from the Pusk.  
+003156	Gamemaster: Okay, so we had a success from Sbrtlby and a failure from the Pusk.  
 003157	Gamemaster: So let's see.  
 003158	Gamemaster: It's a basic reflex save, so the Pusk takes full damage.  
 003159	Arctos: Probably takes half.  
@@ -3454,7 +3454,7 @@
 003454	Arctos: Seven!  
 003455	Gamemaster: He's not looking great.  
 003456	Gamemaster: He's just barely bloodied.  
-003457	Gamemaster: And then Sbrtlbywill take half of that damage.  
+003457	Gamemaster: And then Sbrtlby will take half of that damage.  
 003458	Gamemaster: So he takes three.  
 003459	Gamemaster: He's fine.  
 003460	Gamemaster: Benny, it's your turn.  

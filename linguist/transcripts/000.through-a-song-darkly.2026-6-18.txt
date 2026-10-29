@@ -1548,7 +1548,7 @@
 001548	Anzu: All right.  
 001549	Gamemaster: who would best know where that would be located would be in the library on the  
 001550	Gamemaster: Strider. You'd be looking for the... not librarian, what would it be? Curator?  
-001551	Gamemaster: Curator Oceloth? That would be who you wish to speak to.  
+001551	Gamemaster: Curator Osyluth? That would be who you wish to speak to.  
 001552	Johnny: awesome  
 001553	Johnny: where  
 001554	Gamemaster: I'm afraid I can't tell you anymore. That's not my purview.  
@@ -2906,7 +2906,7 @@
 002906	Benny: Have you looked directly in front of us?  
 002907	Johnny: Is this a bone? Is this a bone devil?  
 002908	Johnny: Oh my gosh.  
-002909	Gamemaster: No, that's Ocelith.  
+002909	Gamemaster: No, that's Osyluth.  
 002910	Gamemaster: What do you mean, is that a bone devil?  
 002911	Gamemaster: He has a name.  
 002912	Anzu: We need to speak with him.  
@@ -2974,7 +2974,7 @@
 002974	Gamemaster: It scuttles along to one of the bookshelves  
 002975	Gamemaster: and it grabs a pretty hefty looking book in its mandible things  
 002976	Gamemaster: and it starts skittering back over towards you  
-002977	Gamemaster: before giving it to Ocelith,  
+002977	Gamemaster: before giving it to Osyluth,  
 002978	Gamemaster: who will reach down with one of his claws  
 002979	Gamemaster: and pick up the book.  
 002980	Gamemaster: I have it right here.  

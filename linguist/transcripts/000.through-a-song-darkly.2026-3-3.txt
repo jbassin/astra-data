@@ -3287,7 +3287,7 @@
 003287	Gamemaster: Okay.  
 003288	Gamemaster: It's this guy's turn.  
 003289	Gamemaster: He's going to spend three actions just running right into the fray.  
-003290	Gamemaster: Penny, it's your turn.  
+003290	Gamemaster: Benny, it's your turn.  
 003291	Benny: Oh, nice.  
 003292	Benny: Let's see what we can do.  
 003293	Benny: I'm just going to strike the happy time enforcer.  

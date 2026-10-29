@@ -787,7 +787,7 @@
 000787	Gamemaster: That last bit was fine, except it's an ink ribbon, not a tape recorder.  
 000788	Gamemaster: It's a completely different thing.  
 000789	Gamemaster: But, like, generally, yeah.  
-000790	Gamemaster: The ocelot asked you to come down here to get an ink ribbon,  
+000790	Gamemaster: The Osyluth asked you to come down here to get an ink ribbon,  
 000791	Gamemaster: and when you were down here you found the ink ribbon amongst some other stuff, including but not limited  
 000792	Gamemaster: to some pamphlets of perfection, some mongrel folk tinctures,  
 000793	Gamemaster: and a key with a skeleton emblazoned on it, with a skull on it.  
@@ -1183,13 +1183,13 @@
 001183	Gamemaster: around you, and, uh, there's always at least one harlequin looking at you as you walk through.  
 001184	Gamemaster: It doesn't move to interact with you at all.  
 001185	Gamemaster: It's just kind of staring as you walk by.  
-001186	Gamemaster: But you can make your way into the study into the library where Oceliff and his zububs are Zububs of course you remember being those half half monstrosities that maintain the books and the like  
+001186	Gamemaster: But you can make your way into the study into the library where Osyluth and his zububs are Zububs of course you remember being those half half monstrosities that maintain the books and the like  
 001187	Gamemaster: But you all navigate your way in. It is, as you left it, a huge rift of purple energy in the  
 001188	Gamemaster: out of it and grabbing at the air for nothing. Uh, beetle babies flying around sorting books.  
 001189	Argyle: I don't like beetle babies.  
 001190	Gamemaster: Um, uh, uh, like, that's what they are. I don't know, like, I don't know where you are from me.  
 001191	Gamemaster: They're beetle babies. This is the, the body of a baby except for the bits that are beetles.  
-001192	Gamemaster: Um, and you meet the, uh, the, the curator of this library, uh, again, uh, Ocelith, this, uh,  
+001192	Gamemaster: Um, and you meet the, uh, the, the curator of this library, uh, again, uh, Osyluth, this, uh,  
 001193	Gamemaster: eight to nine foot tall, bony, draconic-looking devil creature, which looks over at all of you as you walk in and says,  
 001194	Benny: We've done this before.  
 001195	Anzu: Feast your eyes on this.  
@@ -1420,7 +1420,7 @@
 001420	Benny: weak we like well this is easier now I mean if there Hopefully  
 001421	Argyle: yeah  
 001422	Johnny: everyone weak next to benny you hit once well and it over the only way to defeat Benny is not get hit  
-001423	Gamemaster: You're hanging out in front of Ocelith, the caretaker of this library.  
+001423	Gamemaster: You're hanging out in front of Osyluth, the caretaker of this library.  
 001424	Benny: All right.  
 001425	Gamemaster: You gonna read it here?  
 001426	Argyle: we can leave  
@@ -1456,8 +1456,8 @@
 001456	Benny: we auger it  
 001457	Benny: and then we add it to the  
 001458	Benny: fucking list  
-001459	Gamemaster: Ocelot?  
-001460	Johnny: Hey, Ocelith, Ocelith, nailed it. Is there a store in town or anywhere around here we can buy gear?  
+001459	Gamemaster: Osyluth?  
+001460	Johnny: Hey, Osyluth, Osyluth, nailed it. Is there a store in town or anywhere around here we can buy gear?  
 001461	Gamemaster: No.  
 001462	Gamemaster: I'm afraid the Harlequins are a commune.  
 001463	Gamemaster: They don't really have need for money for purchasing things.  
