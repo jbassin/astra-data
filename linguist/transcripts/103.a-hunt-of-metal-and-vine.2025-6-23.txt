@@ -2999,7 +2999,7 @@
 002999	Gamemaster: But at the same time, there is a...  
 003000	Gamemaster: a banging sound as something hits onto the door that you used to enter.  
 003001	Gamemaster: There's nothing barricading it, but the door seems to be locked in some fashion.  
-003002	Gamemaster: You gather that's somehow Voice of Penny's doing.  
+003002	Gamemaster: You gather that's somehow Voice of Benny's doing.  
 003003	Gamemaster: But another six seconds passed, another full round passes.  
 003004	Gamemaster: And at that point, you start to see things emerge out of the walls, having caught up to you.  
 003005	Reverend: Down the hall!  

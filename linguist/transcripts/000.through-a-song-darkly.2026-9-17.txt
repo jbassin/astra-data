@@ -1340,14 +1340,14 @@
 001340	Anzu: yeah  
 001341	Anzu: I'll fly  
 001342	Anzu: to the edge  
-001343	Benny: Penny has monkey bars.  
+001343	Benny: Benny has monkey bars.  
 001344	Gamemaster: Okay.  
 001345	Gamemaster: I...  
 001346	Argyle: I can air walk us there.  
 001347	Argyle: Well, I can air walk myself.  
 001348	Argyle: Benny can hold on my back.  
 001349	Anzu: Like some  
-001350	Gamemaster: Penny does have monkey bars.  
+001350	Gamemaster: Benny does have monkey bars.  
 001351	Argyle: Would it still be better for you to hold my back though?  
 001352	Benny: Benny is the archetype of persistence.  
 001353	Johnny: That's really funny.  
@@ -1652,7 +1652,7 @@
 001652	Argyle: Do you want me to?  
 001653	Gamemaster: Okay.  
 001654	Argyle: All right.  
-001655	Benny: Penny opens the door.  
+001655	Benny: Benny opens the door.  
 001656	Gamemaster: Betty puts his hands on the thing and pulls and pushes.  
 001657	Gamemaster: And there is a hissing sound as you open the door,  
 001658	Gamemaster: as if either some air is newly entering the interior  
