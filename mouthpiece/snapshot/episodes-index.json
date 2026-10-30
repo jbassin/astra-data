@@ -32818,6 +32818,1880 @@
           "text": "It really is. Okay. We'll get there."
         }
       ]
+    },
+    {
+      "id": "000.through-a-song-darkly.2026-10-29",
+      "kind": "session",
+      "arcNo": 0,
+      "arcSlug": "through-a-song-darkly",
+      "arcTitle": "Through a Song, Darkly",
+      "episodeNo": 24,
+      "isMain": true,
+      "date": "2026-10-29",
+      "dateSortKey": 20261029,
+      "title": "The Voice Behind the Wall",
+      "episodeTitle": "The Voice Behind the Wall",
+      "hosts": {
+        "A": {
+          "name": "Bram",
+          "persona": "warm, boisterous, fluent but imprecise; the storyteller who relives the best moments with relish and happily embellishes. Talks in long, rolling run-on sentences that pile clause on clause; makes big sweeping claims he then has to walk back; reliably gets a name, number, or detail wrong and gets corrected (usually by Maeve); now and then runs clean out of sentence and lands on a shrug like \"you... you had to be there.\" Drives the recap forward and overshoots"
+        },
+        "B": {
+          "name": "Maeve",
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+        },
+        "C": {
+          "name": "Nell",
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
+        }
+      },
+      "synopsis": "The kaleidoscope carries the crew into the wrecked ship's oldest hour, where the machinery finally makes sense — even if gravity refuses to — and a curtain of freezing, sparking blue liquid bars the way forward. Static from another of the ship's hate boxes resolves into a voice: someone is still alive inside the wreck, sealed behind a door the vessel folded shut around them. The ritual that could set them free carries a terrible catch — it must grant the crushing anomaly life so that life can be ended — and the ship answers the opening circles with smoke, storms of blades, and whispers of the void. When the last glyph closes and the walls finally unfurl, what comes shuffling out rewrites everything the crew thought they knew about the sky.",
+      "durationMs": 0,
+      "hasAudio": false,
+      "hasTranscript": false,
+      "audioVersion": "",
+      "transcript": [
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "—and the klaxon goes off, and this enormous metal door starts rolling up, and for a second the impossible part is that the lobby has just unfolded, and then you see the three people behind it and everything gets much, much bigger."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The ship is so calm about it, too. The room puts itself back, there's a fountain, an exit, an alarm. Ordinary machinery doing something obscene."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, I knew the rescue worked, but I did not know the room unfolded. Can we back up? Because last episode ended with them leaving the skull shaft, yes?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Tactically leaving. There is a difference, apparently, and the difference is that Benny gets to say they spared the hallway."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They walked away from a fight that was about to cost them more than the room was worth. That's just correct."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is. And then they went looking for the version of the hallway before it grew all the skulls."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Right, so they ride the kaleidoscope back from the present, year hundred-and-forty-something, to the oldest copy, year seventy... one?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Seventy-two. The present copy is one forty-two. And the oldest one is where they first came in, so they already know it's marginally less awful."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Just to anchor me: the Hesperid is the wreck, and also H-Q, and there are six of it because of the rails?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. It's the company's ship and the base they called H-Q. Miles of hull lying on its side out in the gray waste, top torn open, floors exposed."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then somebody took that already extremely bad situation and made six overlapping versions of it, all trading pieces around a point in the air, with a heartbeat underneath it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "One copy per rail, each stuck in a different year. Okay. And the same pattern was on Hesperid three."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The part I keep thinking about is the barrel manifest. Three deliveries here, none in the next year, then one, then five in the present. So time isn't even pretending to line up?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, and Argyle immediately tries to invent a barrel-duplication scheme, because you give these people causality and the first thing they want is infinite fuel."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "To be fair, Josh clocked it instantly. You can't carry barrels backward and make the manifests multiply. The numbers don't form one clean history."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good. I mean, good that they tested it, because otherwise I'd spend the whole episode waiting for them to become barrel billionaires."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "While we're on fuel, Nell has been making a face every time someone says phlogiston."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I have! What is it, and why are they always short of barrels? Is it just fuel?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's fuel. Hesperid three was mining and refining it for the ship. It's volatile, the containers matter, and the party has been hauling it around because the machinery they're trying to use needs it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And because if you see a mysterious barrel in this campaign and leave it behind, apparently you have failed some fundamental test of character."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fuel, finite, awkward to transport. Got it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Also, the whole reason they're hurrying is still hanging over them. Anzu's sister is out there somewhere becoming more powerful, and Benny's recap gives them, uh, roughly a month before she eclipses the sun."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, where is she? And is the month literal?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not on the Hesperid, and the recap doesn't give us a location. The useful part is the clock: she's growing in power, they expect catastrophe in about a month, and they need time to prepare."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny described the training arrangements somewhat more colorfully."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So every long detour through history is coming straight out of their preparation time. Okay, that makes the rescue choice matter more."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It really does."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anyway, year seventy-two. No skulls in the shaft, no sick rainbow door at the bottom, just an elevator with sealed doors, which Benny and Argyle solve by pulling until something inside snaps."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is a success with a bill attached."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. The doors open, the mechanism is broken, and every later trip in that elevator is a little worse because of it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They call the car, get in, discover there are four floors, and head down into the maintenance space under the cargo bay. And this is the first bit of the ship that isn't, you know, cargo or nightmares."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's what I loved. It's pipes. Power conduits. Maintenance access. Comprehensible work by people who solve problems the same way Færrin might, just a little farther along."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "If you'd dropped it under Calaria, they'd have assumed somebody clever built it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's almost scarier than incomprehensible alien machinery. It means the off-worlders aren't magic in every part of their lives. They have infrastructure."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And maintenance carts. And cardboard boxes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And a hallway that's been twisted like you're wringing water out of it, except you never feel yourself turn. You walk, the world rotates around you, and suddenly the elevator behind you is upside down."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But down stays down for them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Always. Their gravity is fine. It's the room's idea of a straight line that's broken."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The heartbeat is louder down there, too. Every time the ship turns, that beat goes through everything."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they have a choice there: static one way, cold air the other."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They pick cold, which is reasonable, because cold might mean habitable and static might mean the thing that screams directly into your brain."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle also works out that the cold passage curves up, away from the ground, not deeper underground. Assuming the ship isn't lying about how much space exists, which is a large assumption."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "At first the pipes near the broken edge are silent. Then they get farther in and the ship starts sounding alive again — liquid moving, power running, frost forming on whatever's carrying the cold stuff."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the wound is at the open edge, but the system beyond it is still working."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And Færrin's air and moisture have gotten into machinery that was supposed to stay dry and sealed."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which gives us the wall. And it is gorgeous, in the way that something you absolutely should not touch is gorgeous."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is the blue curtain."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "This bright, fluorescent blue liquid comes sheeting out of a cracked pipe overhead, freezing whatever it hits and vanishing into vapor, and every so often a spark jumps through the whole thing."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It isn't a frozen wall. It's still flowing. The floor is icing over around it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So cold is the barrier, electricity is the immediate kill-you part, and the spray is also damaging the ship while they stand there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Right, and Argyle's first idea is perfectly sensible: mend the pipe."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Except mending requires touch, and the pipe is cold enough that his fingers start sticking almost immediately."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He gets his hand back. Keeps his fingerprints, which Josh felt was important."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good for him, but that tells them conventional repair is off the table unless they can insulate the contact somehow."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Anzu has the clean little idea that makes the whole scene work. Don't solve the liquid yet. Solve the sparks."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He traces the frayed conduit back, well away from the curtain, and cuts it with a telekinetic projectile. The arc starts snapping at the new cut instead, safely away from the spray."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's so satisfying. No roll to defeat the whole obstacle, just separate the two hazards and make the next decision possible."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And it turns the wall from absolutely not to merely a terrible idea."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Which is progress on this ship."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Did they try to bottle it after that? I feel like somebody suggested bottling it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle suggested bottling everything. He's got empty phlogiston barrels, he's thinking magic thermos, he's thinking funnel, he's thinking maybe they can show up later and pour freezing death on Grayson."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There is also a brief career in cold welding."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A very brief career."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But the liquid itself — is it phlogiston?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "My first read was phlogiston, full stop. Same impossible blue, same fuel machinery."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They couldn't establish that, though, could they? Only that it felt like a close relative of the other blue liquids?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. I overcalled it. The cold behavior doesn't match anything they've established, and \"blue\" is doing most of the work in that theory."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "To be fair, blue was doing most of the work at the table, too. Anzu even offers to taste it before everyone remembers they like him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What kills the telekinetic-hand plan? Because carrying a wooden panel into the spray sounds at least testable."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The heartbeat kills it. Literally removes it. On the next turn of the ship, the hand and the wood are simply gone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Anzu does the sensible experimental thing and tries again at different distances, and it doesn't matter. Next heartbeat, gone. Even if the hand is right beside him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, so no timing a sprint between beats. They don't know whether it would delete a person too, but that's not a hypothesis you test with Anzu."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny nearly does."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Nearly is carrying some weight there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They follow the pipe back looking for a valve, and the flow fades toward the elevator, which means it's coming from the other side of the curtain. The shutoff, if there is one, is somewhere they can't reach."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So they preserve their big resources and give up the route for now. That's a real cost, but it's the right kind. They don't burn their best spell just to learn there's a broom closet behind it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. They go back toward the static."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the cut wire pays off again, because there's another speaker grate tangled up in that mess, positioned right by a line that would still be sparking if Anzu hadn't clipped it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, the hate box. I heard the joke last episode, but what actually is it? Just a speaker?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A speaker that hates you, Nell, I don't know what else to call — no, sorry, it's these grates in the ship, and when you listen you get little chopped-up pieces of screaming and groaning and chains and pigs and metal, and it does actual mental damage."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's unholy, whatever it is. Anzu heard it in the later-year shaft, kept his mind together, and caught a warning underneath it. The warning arrived much too late to be useful."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So \"ring the hate box from a safe distance\" was their plan for getting the warning without the brain damage."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And tonight Anzu basically does exactly that, after Johnny and Argyle both stick their heads in first."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Of course they do."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny gets snippets of pain and noise and nothing useful. Argyle listens too, gets a worse dose, and still learns nothing. Then Anzu takes his turn with guidance and the benefit of having survived it before."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And he just... tunes out the haters."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He earned that."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Under all the horror, there's somebody saying hello and asking anyone to pick up. And it's the same voice he heard seventy years later in the shaft."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Very faint, very damaged intercom, but yes. Same voice."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, so last episode's too-late warning and tonight's survivor are connected directly?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's all they know. Same voice. No explanation yet."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The voice identifies himself as Lieutenant Slade, says the ship twisted around them and sealed them in, they're running out of food, and if anyone's near the lobby, could they please come and do something about the gravitational anomaly."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "How long has he been in there?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Almost three days."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Anzu, god love him, immediately starts asking questions like a man trying to conduct a technical survey. Do you control the craft, where are the controls, what year is your mission?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh no."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Slade is starving and terrified and cannot understand why his rescuer doesn't know what year it is. He more or less asks whether Anzu has taken a head injury."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu does salvage it. Slade's in crisis; the first living voice on the line gets a lot of latitude."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But the year question sounds completely reasonable to the party and completely unhinged to him. That's such a good way to show the gap."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then comes the really quiet little revelation. Josh has Anzu work out that the conversation just happened in two languages."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Slade wasn't speaking theirs. Some enchantment in the exchange was letting both sides understand, and it wasn't anything the party cast."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Technology or magic?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They don't know. Magic is their guess."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny's guess is that the evil box has learned to be helpful, which is somehow worse."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "If the malevolent thing wants to talk, yes, I'd also be suspicious. But the person behind it sounds genuinely trapped."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And Slade mentions the helm if they want to pilot the ship. He doesn't hand them a route to it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, and before they go anywhere, Argyle resonates near the speaker and the entire ship answers back off-key."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Off-key how?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Adjacent to the Voidsong, near what they've felt around the Herald song and the Embercall, but not the same harmony. Whatever the ship is caught in, it isn't isolated to one room."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So naturally they go up to the fourth floor to look for a pipe button."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A pipe button?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny's theory is that there's a button specifically for that pipe, and honestly, after seventy years of company mail, who knows."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The fourth floor doesn't have a button. It has been compressed and sheared until there's nowhere a person could go."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The elevator door opens, the debris that was resting against it loses its support, and a huge piece of the floor falls into the car with them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So that collapse isn't a fight, but it's still damage and still a route gone. And their broken elevator is now carrying loose wreckage."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Which then rips a chunk out of the top of the car when they descend and the wreckage stays put."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "This incredibly advanced civilization, and their party is traveling around in a bucket they've progressively dismantled."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The third floor is the lobby, though?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And it's the first space meant for somebody important. Art deco, gold inlay, booths, plants. Reception, not maintenance."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or it was. Half of it's been folded over and over until the passages don't exist anymore, and beyond one fold there's part of a white-painted sign and a red alarm light blinking over a buried door."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The shelter."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The shelter, with its own little speaker, so Argyle takes a turn at the hate box."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He gets through cleanly this time. Slade recognizes the situation, asks if they've arrived, and is plainly much happier talking to Argyle than to Anzu."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle tells him he's the team lead, which is technically a response to a question nobody asked."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does Slade ask if he's a sergeant?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He does, and Argyle just moves on. Beautiful crisis leadership."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Slade explains that when the explosions started, he got the people with him into the bunker. Then the door stopped opening. He needs the anomaly undone, and asks whether Argyle is a trained ritualist."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Is he?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Enough to say yes with confidence and then ask for instructions."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Slade hands them over to the liaison officer, and this is where we get Vestira... Koy?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Koi. Vestira Koi. She's calm, practical, and immediately asks how many rescuers there are and whether they can fight, because opening the door is going to attract resistance."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So she knows the cost before she offers the ritual."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. She's not tricking them. She warns them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then she has to describe three concentric rings of glyphs over a broken intercom by giving coordinates, plus incantations, plus the phrase that finishes it, and Benny becomes the hero of office administration."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is the record-keeping bit, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Benny's record-keeping lore is excellent, and Josh lets it apply because exact notes are exactly what this needs. The android child takes dictation beautifully."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He very nearly ruins it afterward by asking for a date to put on the record."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "His date device is at home, presumably."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Presumably."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The important thing is that the notes work. They have the whole suppression ritual, not a vague ritual-shaped suggestion."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, tell me the catch, because giving a crushing anomaly life so they can kill it sounds less like suppression and more like deliberately making a boss."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It is absolutely deliberately making a boss."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The working gives the effect sentience and movement. It makes the thing pressing on that part of the ship into something living, and killing that living expression is how the suppression happens."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "While they're drawing and speaking and pushing the ritual forward, pieces of the magic start tearing loose and attacking them, and there is no point where the enemies politely stop so everyone can concentrate."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And anyone can advance it from anywhere in the room, but advancing costs part of their turn. So every glyph is an action not spent healing, defending, or removing a threat."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's the whole fight."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And killing things isn't sufficient. If they just stabilize and never touch the circle, they eventually get buried."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes! They have to choose to lose ground in the present in order to end the fight later, and they know it before they start, which somehow makes it worse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They do get to prepare. Benny advances the working early and then sets himself to receive whatever comes to him. Anzu spends his first turn learning what the smoke things are instead of touching the circle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which pays off, because he finds the area-damage weakness."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Splash and area effects, yes. They resist fire, and their bodies are tougher against the sort of save he'd least like to target."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Anzu unleashes his psyche and starts charging the big outburst, and everyone feels this tug at the back of their mind toward him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's a two-turn commitment, isn't it?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Exactly, and while he's charging, the other things are whispering void into the party and the blade troops are closing in."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny, Argyle and Anzu all pick up lingering void damage. Argyle still advances the ritual and puts needles into one of the smoke creatures. Johnny uses his performance to help the working along."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the party's spending actions correctly, but the persistent damage is taxing their attention every round."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the blades start arriving in these ridiculous little storms. At first they catch just Anzu and Othello, then another group gets close enough to catch nearly everyone."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle's champion reactions matter here. Johnny takes a hit that simply never reaches him; later Anzu gets the same protection."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Even when the prevented damage looks small, that reaction isn't available for the next attack. That's going to matter."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You say that like you know what's coming."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I know what happens to a psychic standing in blade range."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Fair. Anyway, Anzu finishes gathering every brain in the room, the pull on his allies disappears, and he just goes, \"I explode.\""
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's an enormous mental detonation. Whole clusters of the manifestations stop existing. Others are hurled backward, broken apart, left easy for Benny and Argyle to finish."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And because he knew they were weak to area damage, that's not just a big spell; it's the correct big spell at the correct density."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It was beautiful. He spent the setup and his best slot and it looked like exactly what that investment should buy."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Benny gets his own ridiculous moment right after. Two of the things come back into his reach and he cuts both apart with a reaction before his actual turn."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So now the enemies have a reason not to approach the child with swords."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Some of them learn! The others are manifestations of gravitational misery and perhaps don't have a robust curriculum."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle's Divine Wrath catches another packed group and breaks them apart too. But each time the party tears through one threshold of the fight, more of the anomaly takes shape at the edges."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the nasty part. Their success keeps changing the board, and they can't assume the next round will be quieter just because this one went well."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And they're getting surrounded by smoke and knives and these strange little invocations that can throw Anzu's own telekinetic nonsense back at him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They try to slow him first. He spends a mythic point rather than spend the rest of the ritual moving in syrup."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good use. Being slowed during an action-tax fight is brutal."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Meanwhile the void keeps chewing on people, Argyle is healing himself and still feeding the circle, Johnny is shaking off his own lingering damage, and Benny hits one group so hard that there's almost nothing left except the next problem."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The room never lets them feel ahead. Even when they're plainly winning the exchanges, the ritual still isn't done."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu's still the softest target, still carrying lingering effects, and still close enough to be convenient."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He catches fire at one point, because the void wasn't providing enough variety."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh no."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He uses Sanguine Mist on the smoke things, advances the ritual again, and then moves to get away from the cluster and, I think, to drag some attention with him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Here's where I read it a little differently. I get why he moves, but he puts himself in easy reach of the invocations with almost no margin left."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He also gets clipped while moving. The opportunity effect doesn't stop him, but it takes another bite."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and he knows he's in rough shape. You can hear the little \"maybe it's fine\" in his voice, which is the sound of a man reviewing his options and finding them all flammable."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He does put the fire out."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Small mercy."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then the invocations decide he'd make a better target than the people in the circle, and one of them throws a rock at him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "After everything else, that's what drops him?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A telekinetic projectile. His own trick, as he immediately points out."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And down goes Anzu while the ritual is still not finished. Just flat on the floor, dying, and the smoke and blades are still everywhere."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, what is Othello? I've seen people mention the heal, but is Othello a familiar or another character?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I always want to call it a familiar, but that's not — Maeve, you say it properly."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Othello is Anzu's healer's gift, with a healing ability Anzu can use. It isn't an autonomous extra party member running around making decisions."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So it's a resource Anzu still has available while he's down, not an ally who can independently rescue him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And before anyone even gets to properly panic about how to use it, Argyle has one more turn and one more action to put into the working."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He clears another cluster with Divine Wrath, spends his last action on the ritual, and that is the final piece. Just barely."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the margin isn't only Anzu's health. It's whether they keep advancing while he's down."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Exactly. If Argyle spends that turn trying to solve Anzu instead of the circle, maybe the room gets another whole enemy phase."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the closest call of the night for me."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Mine too."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The last glyph closes, and every living piece of the anomaly simply ceases. Not falls down, not runs away. Gone."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And then Othello brings Anzu back?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. The healing gets him conscious again, wounded but alive, and Argyle follows with enough healing that the difference between Anzu's health and Anzu's entire capacity becomes very funny."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The man is mostly made of potential health."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Squishy is the technical term."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And while that's happening, the world unfurls. The folded parts of the lobby open back out, there's the fountain, there's a way farther into the ship, and the red light is suddenly above an entire massive door instead of a little folded corner of one."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then the klaxon. Then the door starts rising. It's triumphant, but the ship doesn't give them music. It gives them a work alarm."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is perfect, because they just performed an incredibly strange magical rescue and the building treats it like clearing a fault."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You... you had to be there."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He says that, but he is right."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Inside is a cramped emergency shelter, very much not built for three days of occupancy, and three haggard people come shuffling out. The smell arrives with them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No injuries?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. Starved, thirsty, exhausted. Alive."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And this is the part where the floor quietly falls out of the whole campaign, because there is a teenage human officer, a dwarven woman, and a very old elf, and none of them are wearing raiments and none of them speak any language the party knows."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They're shimmering too, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Slightly. Like heat haze clinging to them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And they've all got the same insignia. The, uh, fourteen-point star."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sixteen."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the company mark from Hesperid Three, isn't it? I remember the star in the outpost episode."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. The off-world company's mark, also on the outside of this wreck. Ulrich Benda spent decades writing to the people behind that symbol."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now the symbol has walked out of a room and asked for a sandwich."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who are the three, exactly?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The boy is Lieutenant Slade, junior grade, barely eighteen and much too young for what just happened to him. The dwarf is Vestira Koi, their liaison officer and the ritualist."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the old elf is Pella Concho... Reyes?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Pella Conquo Reyes. Xenobiologist. He's the worst worn of the three and also the first one to go looking through desks for food."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Slade's the voice, Vestira's the instructions, Pella's new."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Pella finds a granola bar and looks like a man achieving his life's ambition."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle offers them the packed sandwiches too. Slade is shutting down, Pella is eating, and Vestira is trying to do first contact."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, if the intercom translated before, why can't they understand each other in the room?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly the right snag. Whatever helped the intercom conversation isn't helping them face to face."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle casts translation on Johnny, which nearly makes the survivors think they've walked into a trap, and then Pella does his own version with a feather and a little copper coin."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not the spell the party knows, but close enough in effect. His casting looks unfamiliar too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So both sides have magic, but not the same magical vocabulary. And something in the ship's communication system already bridged that gap once."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That's my guess, anyway — ship system, shelter system, something attached to the intercom. They don't establish it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What does Vestira think the party are?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Locals at first. She asks if they're natives, then whether they crashed there from another sphere, and starts flipping through a little book of insignia to find a civilization they recognize."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "None of it lands. Fifth Empire of the Sundom, Coalition of the Stars, a page just for Thessians, Orbits-Upon-Light. The party might as well be reading soup."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I love that she has a first-contact booklet."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She is extremely prepared in some directions and completely unprepared in ours."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Argyle describes the enormous wall around the planet that nobody can get through, and she knows that thing, just not by their name. He says firmament, and suddenly she has a category for them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "People trapped inside the shell."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. She's not cruel about it, but she does treat them as people who've been cut off from basic facts about the outside."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle also asks whether they're demons, because first contact has apparently not made him less Argyle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they're not."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. Not fiends, not demons. Just people from very far away."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Vestira says she's from Ushas. All three of them are. It's seventy-two years since the founding — or second founding, technically, because their group has a whole history they are not getting into while starving."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Ushas is a world, not a city or a ship?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A home world, far away. They know nothing of Færrin as Færrin. Their people crashed a few days ago, and they're fighting a collection of eldritch beings that want to end living things generally."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "At which point the party starts tossing out names, because if you've got an off-world expert on cosmic horrors, you use her."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "War means nothing to her under that name. Pyre, Herald and Giant do."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, stop there, because I've heard Ashen Pact on the show but I don't have the whole picture. What is it, and what are the six god doors?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, this is the room under the Gas-n-Go, with the Heart and the — Maeve, you do the shape, you'll get it right."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A heptagonal fane. Six wrought-iron doors, each bearing one of the Ashen Pact: Pyre, Herald, Giant, War, Esoterica and Regent."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The Heart there calls them its gods, inherited from whoever made it, and says they come from a Godhome and want to bring blessings to Færrin."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Six beings, six doors. And the party already has history with Pyre, Herald and Giant?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Pyre is tied to the Embercall and to Tywelwyn learning how to make a Heart. Herald's song has been running under things. Aut told them Giant is caught behind the firmament at the far starward edge."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So these aren't six portraits they found last week and forgot about. They're recurring... presences."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And now an off-world liaison officer recognizes three of the names as belonging to her side's enemy too."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "More than that. She calls some of them a common foe, and she did not expect people inside the firmament to know them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then she asks whether they know Gremory."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They don't, right?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Not under that name. She says Gremory is why they're there. He was close to ascending, they chased him to Færrin, and when they found him performing some ritual, they flew the ship straight into him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They rammed a would-be god with their ship."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "At full speed, yes. It wasn't standard procedure. It was the thing they could still do."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And she thinks it didn't stop him. She can't confirm the ascension, but the ship folding itself around them is not filling her with optimism."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So where is Gremory now?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She assumes he's still where they hit him. That's an assumption. She also guesses the heartbeat might be about a quarter of a mile away."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which made me sit up, because we've been wondering what's alive behind the turning since last episode, and now there's an ascended god-shaped candidate."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But only a candidate. The heartbeat could be the anomaly, the ship, Gremory, or something they've all mislabeled."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. No confirmation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Nell's favorite word arrives."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Thessians. Yes! Why did everyone go quiet? What are they?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "As close as something gets to true godhood. Vestira calls them archetypes of the world, part of how reality is put together, and fundamentally incompatible with mortal life."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is a much more upsetting answer than \"very strong wizard.\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So not simply a power tier. A category of being."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. And the Ashen Pact are all Thessians."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "All six?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "All six."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Vestira also talks about higher kind, which is their broader context here. Usually a world might have one to three. Six around Færrin is enough to make her wonder whether that's what drew Gremory."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because he was looking for power, and an unusual concentration of godlike beings would be worth investigating."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That's her read. She says powering himself up is very much his pattern."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What did he look like before the crash?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Her records are decades old, but humanoid, pallid, far too many arms. He was comparatively weak among Thessians and exceptionally good at manipulating magic."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the party has a picture on one of those doors of a robed figure with a forest of gray arms, every hand holding a different magical instrument, and one green eye."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Esoterica."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Esoterica."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That's when the table went silent."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So to be completely sure I'm following: the being the party knows as Esoterica is the being Vestira knows as Gremory. Their gods and her enemies aren't counterparts. They're the same individuals."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Same beings, different names and different points in their history."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then it gets worse, because she has good records for the other two unknown door figures too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "War and Regent."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "War is Astaroth. Regent is Paimon."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "For a second I had Paimon as War and Astaroth as — no, you've said it right, keep going."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Gremory, Astaroth and Paimon are all fourth-generation Thessians. Esoterica, War and Regent. And all three have ascended."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Not just Gremory, then. The three names Vestira didn't know are three new ascensions her organization hasn't accounted for."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And she calls that approximately the worst news available."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Because those three weren't in the original set she knows. Something has found a way to produce more of them, or move them upward, without the old structure."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does she mean the name changes happen at ascension? Did Gremory choose to become Esoterica?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Her understanding is that higher kind used to assign names when beings ascended. That service isn't operating anymore, so the fourth generation found another mechanism, and the universe assigns whatever domain now fits."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is her understanding, not a user manual the table found on the floor."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Still, it explains why one being can have an older off-world name and a local god-name without anybody deliberately inventing a disguise."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And it explains why Esoterica feels different now, but not what the ascension actually did to the ship or time or the heartbeat."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. Those are still separate questions."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Also, this does not map every Færrin god. They throw out names of inner gods and outer gods and get blank looks. The clear correspondence is within the Ashen Pact."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good distinction. Pyre, Herald and Giant are recognized; Esoterica, War and Regent are identified under new names; everything else is still unknown."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Look at you, already doing the campaign chart."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I am absolutely doing the campaign chart."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There is a chart."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There's always been a chart, it's just on fire now."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What does Vestira want to do with this information?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Contact H-Q — her H-Q, the living organization, not the wreck they're standing in. That becomes priority one. After that, she wants to find any other surviving crew."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Especially because she and Pella are noncombatants, and Slade is sitting there hugging his knees and staring at nothing."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Poor kid."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He was not trained for this."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Vestira also points out that the party getting this far probably means Esoterica doesn't know they're there yet. The longer they remain, the better the chance that changes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So she gives them a reason not to rush and a reason not to linger. Find help, but don't assume the god is distracted forever."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And then the party mentions that they might already have a way to un-ascend somebody."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is a very polite description of their plan, because their plan is the god-killing gun."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, The End. I know the name from listening, but not the story. What is it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A revolver the Menhir gave them when they called on it. Pale, ivory-like material, gold filigree, and a chamber made for short golden spikes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They used one spike on a single standing stone and the entire Menhir ring came down. It killed the thing."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So it's demonstrated against the Menhir, not demonstrated against a Thessian."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But if you're Benny, you have now successfully connected \"gun that kills gods\" to \"person currently described as a god,\" and the rest is ballistics."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What does Vestira know about killing them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Rare natural growths of a particular metal, found on perhaps one world in every few. Shaped into spikes, they can limit a Thessian's divine power. Her people have only managed it a handful of times."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And she asks whether they happen to have a little gold spike-shaped piece of metal, at which point the entire party develops amnesia about its pockets."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They lie to her."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They do, and she believes them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's fascinating, because I understand not handing unknown ammunition to three strangers, but she has just told them it's the only method she knows. They're withholding the thing most likely to make them useful to each other."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and Benny immediately undercuts the secrecy by being extremely excited about having a gun."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not necessarily the same thing in her mind. They can admit a weapon without admitting compatible spikes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "True. And the party doesn't know her spikes and The End's ammunition are actually the same material."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Right! Gold, spike-shaped, limits divinity — it rhymes so loudly you want it to be a complete sentence, but they never confirm it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's the thread to pull. Whether the Menhir gave them a supply of this rare growth, or whether there are two different answers to the same problem."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And if it's the same metal, every spike is both incredibly rare ammunition and proof they lied to the only expert who's offered help."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is a very this-party problem."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Vestira, to her credit, doesn't keep demanding the weapon. She asks them to help find somebody with more information before they charge at Gremory."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny points out that her organization's own approach was to charge at Gremory in a ship."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "She has a ready answer for that: yes, and look at the ship."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Quite."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The table still ends on the unbeatable image of possessing the god-killing revolver and being unable to get past the blue juice."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I mean, yes! Cosmic revelation does not repair the frozen fuel line."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They haven't solved the curtain. They've solved the lobby. Those are different routes and different problems."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now the lobby has another open hallway because it unfolded, plus the curtain route, plus four other years they've barely touched."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Don't forget the helm."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Or the fourth floor, which is currently impassable and may or may not have anything to do with reaching it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And whether these three people can leave year seventy-two at all. They were shimmering, Anzu heard Slade seventy years later, and nobody at the table knows if they've rescued people or... an extremely convincing continuation of something."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, that's where my brain goes too. If Slade can speak in year one forty-two, does that mean the survivors eventually get out? Or just that the intercom carries their voices?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Just that his voice is there. Nothing promises a rescue in both directions."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I want them to put the survivors on the train and change years, immediately, which is probably why nobody lets me plan the session."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It would be a test, but a pretty ruthless one if the shimmer means they don't survive the transition."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. They don't know enough to make them experimental cargo."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Still, after Ulrich's seventy years of letters to an H-Q that never answered, I keep thinking about that door opening and H-Q turning out to be a frightened teenager, a tired dwarf and an old man looking for snacks."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The company stopped being an emblem tonight. It became three people who'd run out of water."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And one of them knows Pyre. From another world. That's the part I can't put down."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, because suddenly Faerrin isn't the whole miserable snow globe. It's the miserable snow globe somebody outside has been looking for."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Perhaps. We still don't know why Gremory chose it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Or whether ramming him caused the six-fold working, or merely interrupted something that was already making it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or whether the heartbeat is him dreaming in the walls, which I don't actually believe, except that I said it and now I do a little."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Put that one at the bottom of the chart."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No, keep it, but label it Bram's least-confirmed theory. Right next to infinite barrels."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The barrels remain a sound investment."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And on Monday they still have to decide which door comes first."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The blue curtain, the new hallway, another year, Vestira's crew, the helm — okay, no, I need all five answers now."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "We'll get there. Or, well, they will, assuming Anzu lets somebody else stand nearest the rocks."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He can stand near the rocks if Othello's ready. That's what concerns me."
+        }
+      ]
     }
   ]
 }
