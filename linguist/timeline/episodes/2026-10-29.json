@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "show": "through-a-song-darkly",
+  "summary": {
+    "title": "First Contact: The Castaways of the Hesperid",
+    "synopsis": "The party navigates the time-shifted wreckage of the alien ship Hesperid, descending through its floors and into its maintenance tunnels. After bypassing a wall of super-cold liquid and surviving the \"hate box\" speakers, they make contact with trapped crew members via intercom. A liaison officer guides them through a ritual of suppression that manifests the ship's gravitational anomalies as killable creatures. Victorious, they open the shelter door and make first contact with three castaways — Lieutenant Slade, liaison officer Vestira Koi, and xenobiologist Pella — who reveal they are fighting the Thessians, that Gremory has ascended, and that the Ashen Pact's unknown members may be newly-ascended fourth-generation Thessians.",
+    "key_beats": [
+      "The party returns to the cargo bay train and travels clockwise on the ship's kaleidoscopic layout from year 142 back to year 72 — the earliest date they've encountered.",
+      "Benny and Argyle force open the sealed elevator doors (breaking the mechanism), call the elevator down, and descend to the first floor, entering maintenance tunnels beneath the cargo bay — their first glimpse of the ship's inner machinery, which is technologically comprehensible rather than alien.",
+      "Following a cold draft upward, they discover an alcove blocked by a curtain of ultra-cold blue liquid spraying from a cracked pipe, with electrical sparks arcing from a damaged wire conduit into the spray. Argyle attempts Mending on the pipe (taking cold damage), and Anzu cuts the frayed wire further back with Telekinetic Projectile to stop the arcing at the spray point.",
+      "Anzu's Telekinetic Hand experiment reveals that the ship's recurring 'heartbeat' (every 6 seconds) causes objects in the area to vanish. Unable to safely bypass the cold-liquid wall, the party redirects toward the staticky white-noise direction.",
+      "At the white-noise source, the party finds another 'hate box' speaker. Johnny listens (6 mental damage), Argyle critically fails (18 mental damage), but Anzu — with a 37 Will save boosted by prior inoculation — pushes through the terror and hears a faint voice: someone trapped, asking for help.",
+      "Anzu communicates with Lieutenant Slade, who reports his team has been sealed in for nearly three days with dwindling supplies. Slade directs them to the third floor. An arcana/occultism check reveals the intercom is enchanted to translate between languages.",
+      "The party ascends to the fourth floor — completely crushed and impassable, dealing falling-debris damage — then descends to the third floor: an ornate Art Deco lobby with gold inlay, booths, and plants, partially folded shut by gravitational anomalies.",
+      "Argyle contacts Slade again through the lobby's hate box. Slade's liaison officer, Vestira Koi, walks the party through the 5th-rank Ritual of Suppression: drawing three concentric rings, speaking incantations, and an activation phrase. The ritual gives life to the gravitational anomaly so it can be killed. Benny takes detailed notes (record keeping 32) and learns the ritual.",
+      "The party completes the ritual in combat against manifested anomaly creatures (smoke monsters, blade-throwers). Anzu's Psychic Outburst deals 58 mental damage and devastates the enemy clusters; Argyle contributes with needle darts and Divine Wrath; the party endures persistent void damage throughout. Anzu is downed but revived by Othello's healing ability. The ritual completes, all summoned creatures cease to exist, and the space unfolds around them.",
+      "The massive shelter door opens, revealing three castaways: Lieutenant Slade (a barely-18 human in military uniform), liaison officer Vestira Koi (a dwarven female), and xenobiologist Pella Conquo Reyes (an elderly elven man). After mutual translation spells, first contact begins.",
+      "The castaways reveal they are fighting the Thessians — archetypes of reality near true godhood, incompatible with mortal life. They crash-landed chasing Gremory, a fourth-generation Thessian who was attempting to ascend. He has apparently succeeded.",
+      "The party names the Ashen Pact: Vestira recognizes Pyre, Herald, and Giant as known Thessians, but Esoterica, Regent, and War are unknown — meaning they are newly-ascended fourth-generation Thessians (Esoterica = Gremory, the two-torsoed one = Astaroth, the many-crowned one = Paimon). This is devastating news to the castaways.",
+      "Vestira explains that Thessians can be killed using naturally-occurring rare metal spikes. Argyle's deception check (33) confirms the party has 16 such golden spikes — shocking the castaways. The party decides to explore more of the ship in this time period before confronting Gremory/Esoterica, agreeing to reconvene."
+    ],
+    "characters_present": [
+      "Anzu",
+      "Argyle",
+      "Benny",
+      "Johnny",
+      "Othello",
+      "Lieutenant Slade",
+      "Vestira Koi",
+      "Pella Conquo Reyes",
+      "Gremory (mentioned)"
+    ],
+    "locations": [
+      "The Hesperid (alien ship)",
+      "Cargo bay (year 72)",
+      "Elevator shaft",
+      "Maintenance tunnels (first floor)",
+      "Frozen-liquid alcove",
+      "White-noise dead-end corridor",
+      "Fourth floor (destroyed/crushed)",
+      "Third floor lobby",
+      "Shelter room behind the sealed door"
+    ],
+    "factions": [
+      "The Ashen Pact (Pyre, Herald, Giant, Esoterica/Gremory, Regent, War)",
+      "The Thessians",
+      "The castaways' organization (Sedecium military)",
+      "Fourth-generation Thessians (Gremory/Esoterica, Astaroth, Paimon)"
+    ],
+    "items": [
+      "Phlogiston barrels (5)",
+      "Golden spikes / god-killing metal spikes (16)",
+      "The 'hate box' intercom speakers",
+      "Ritual of Suppression (5th-rank, homebrew)",
+      "Healer's Gloves (Argyle)",
+      "Sovereign Steel weapons",
+      "Vestira's translation reagents (feather and copper coin)"
+    ],
+    "cliffhanger": "The party has made first contact with the Hesperid's castaways, learned that Gremory has ascended to Thessian godhood as Esoterica, and confirmed the party possesses 16 god-killing spikes. They plan to explore more of the ship in year 72 before confronting Esoterica — with the castaways warning that the longer they stay, the more likely the ascended god notices them."
+  }
+}
