@@ -603,6 +603,20 @@
       "target": "Geography/Calaria/Hallia/Widdershins/Gas-n-Go"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "the Hesperid",
+      "heading": null,
+      "resolved": "Geography/Hesperid",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "Geography/Hesperid"
+    },
+    {
       "alias": "Gas-n-Go",
       "heading": null,
       "resolved": "Geography/Calaria/Hallia/Widdershins/Gas-n-Go",
@@ -778,6 +792,13 @@
       "target": "Org/The Scale/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Ashen Pact/Regent",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "Gas-n-Go",
       "heading": null,
       "resolved": "Geography/Calaria/Hallia/Widdershins/Gas-n-Go",
@@ -818,6 +839,13 @@
       "resolved": "Org/Amber Call/index",
       "source": "Divinity/Ashen Pact/War",
       "target": "Org/Amber Call/index"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Ashen Pact/War",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "Pyre",
@@ -944,6 +972,69 @@
       "resolved": "Divinity/Ashen Pact/Giant",
       "source": "Divinity/Ashen Pact/index",
       "target": "Divinity/Ashen Pact/Giant"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Pyre",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Pyre",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Pyre"
+    },
+    {
+      "alias": "Herald",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Herald",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Herald"
+    },
+    {
+      "alias": "Giant",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Giant",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Giant"
+    },
+    {
+      "alias": "War",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/War",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/War"
+    },
+    {
+      "alias": "Esoterica",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Regent",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Regent",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Regent"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "Hallia",
@@ -1868,6 +1959,76 @@
       "resolved": "Org/The Harlequins/Providence/index",
       "source": "Divinity/The Narrative/index",
       "target": "Org/The Harlequins/Providence"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "Divinity/Thessians",
+      "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Thessians",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Thessians",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Pyre",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Pyre",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Pyre"
+    },
+    {
+      "alias": "Herald",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Herald",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Herald"
+    },
+    {
+      "alias": "Giant",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Giant",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Giant"
+    },
+    {
+      "alias": "Esoterica",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "War",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/War",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/War"
+    },
+    {
+      "alias": "Regent",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Regent",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Regent"
     },
     {
       "alias": null,
@@ -4068,6 +4229,20 @@
       "target": "Geography/Hesperid 3"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Hesperid",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Geography/Hesperid",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
       "alias": "Calaria",
       "heading": null,
       "resolved": "Geography/Calaria/index",
@@ -4458,6 +4633,27 @@
       "resolved": "Org/Iridescent Church/index",
       "source": "Geography/Tormeré/index",
       "target": "Org/Iridescent Church/index"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Geography/Færrin",
+      "source": "Geography/Ushas",
+      "target": "Færrin"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Ushas",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "Geography/Ushas",
+      "target": "Phenomena/Firmament"
     },
     {
       "alias": "Horizon",
@@ -8310,6 +8506,97 @@
       "target": "Geography/Calaria/Hallia/Diamond District/index"
     },
     {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "Org/Sedecium",
+      "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Hesperid",
+      "heading": null,
+      "resolved": "Geography/Hesperid",
+      "source": "Org/Sedecium",
+      "target": "Geography/Hesperid"
+    },
+    {
+      "alias": "Hesperid 3",
+      "heading": null,
+      "resolved": "Geography/Hesperid 3",
+      "source": "Org/Sedecium",
+      "target": "Geography/Hesperid 3"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas",
+      "source": "Org/Sedecium",
+      "target": "Geography/Ushas"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Geography/Færrin",
+      "source": "Org/Sedecium",
+      "target": "Færrin"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Pyre",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Pyre",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Pyre"
+    },
+    {
+      "alias": "Herald",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Herald",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Herald"
+    },
+    {
+      "alias": "Giant",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Giant",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Giant"
+    },
+    {
+      "alias": "Esoterica",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "War",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/War",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/War"
+    },
+    {
+      "alias": "Regent",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Regent",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Ashen Pact/Regent"
+    },
+    {
       "alias": "Belvedere",
       "heading": null,
       "resolved": "Org/Belvedere/index",
@@ -11873,6 +12160,27 @@
       "target": "Geography/Calaria/Hallia/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Pella Conquo Reyes",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "People/Pella Conquo Reyes",
+      "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Geography/Færrin",
+      "source": "People/Pella Conquo Reyes",
+      "target": "Færrin"
+    },
+    {
       "alias": "Radiant Arms",
       "heading": null,
       "resolved": "Org/Radiant Arms/index",
@@ -12188,6 +12496,34 @@
       "target": "Geography/Calaria/Hallia/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Slade",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "People/Slade",
+      "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": "Hesperid",
+      "heading": null,
+      "resolved": "Geography/Hesperid",
+      "source": "People/Slade",
+      "target": "Geography/Hesperid"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "People/Slade",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
       "alias": "Harlequins",
       "heading": null,
       "resolved": "Org/The Harlequins/index",
@@ -12389,6 +12725,34 @@
       "resolved": "People/Gerhard",
       "source": "People/Varian Khan",
       "target": "People/Gerhard"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Vestira Koi",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "People/Vestira Koi",
+      "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": "Ashen Pact",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/index",
+      "source": "People/Vestira Koi",
+      "target": "Divinity/Ashen Pact/index"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "People/Vestira Koi",
+      "target": "Divinity/Ashen Pact/Esoterica"
     },
     {
       "alias": "Calaria",
@@ -13432,6 +13796,20 @@
       "resolved": "People/Anzu",
       "source": "Phenomena/The End",
       "target": "People/Anzu"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Phenomena/The End",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/The End",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "Friends of Aut",
@@ -14568,13 +14946,23 @@
           "alias": "Gas-n-Go",
           "heading": null,
           "target": "Geography/Calaria/Hallia/Widdershins/Gas-n-Go"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "the Hesperid",
+          "heading": null,
+          "target": "Geography/Hesperid"
         }
       ],
-      "date": "2026-07-29T23:41:12-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "extra": {
-          "date": "2026-07-29T23:41:12-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -14756,13 +15144,18 @@
           "alias": "the Scale",
           "heading": null,
           "target": "Org/The Scale/index"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
         }
       ],
-      "date": "2026-07-29T23:41:12-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "extra": {
-          "date": "2026-07-29T23:41:12-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -14801,13 +15194,18 @@
           "alias": "Amber Call",
           "heading": null,
           "target": "Org/Amber Call/index"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
         }
       ],
-      "date": "2026-08-24T00:00:00-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "extra": {
-          "date": "2026-08-24T00:00:00-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -14906,13 +15304,58 @@
           "alias": "Giant",
           "heading": null,
           "target": "Divinity/Ashen Pact/Giant"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Pyre",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Pyre"
+        },
+        {
+          "alias": "Herald",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Herald"
+        },
+        {
+          "alias": "Giant",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Giant"
+        },
+        {
+          "alias": "War",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/War"
+        },
+        {
+          "alias": "Esoterica",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "Regent",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Regent"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
         }
       ],
-      "date": "2026-07-27T00:00:00-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "extra": {
-          "date": "2026-07-27T00:00:00-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -15972,6 +16415,71 @@
         "title": null
       },
       "path": "Divinity/The Narrative/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Pyre",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Pyre"
+        },
+        {
+          "alias": "Herald",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Herald"
+        },
+        {
+          "alias": "Giant",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Giant"
+        },
+        {
+          "alias": "Esoterica",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "War",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/War"
+        },
+        {
+          "alias": "Regent",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Regent"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Divinity/Thessians"
     },
     {
       "crossrefs": [
@@ -18460,6 +18968,16 @@
           "target": "Geography/Hesperid 3"
         },
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
           "alias": "Calaria",
           "heading": null,
           "target": "Geography/Calaria/index"
@@ -18470,13 +18988,13 @@
           "target": "Bestiary/Constructs"
         }
       ],
-      "date": "2026-10-19T00:00:00-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "HQ"
         ],
         "extra": {
-          "date": "2026-10-19T00:00:00-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -18963,6 +19481,36 @@
         "title": null
       },
       "path": "Geography/Tormeré/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Færrin"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Geography/Ushas"
     },
     {
       "crossrefs": [
@@ -23496,6 +24044,86 @@
       "path": "Org/Sableclutch Scrap/index"
     },
     {
+      "crossrefs": [
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Hesperid",
+          "heading": null,
+          "target": "Geography/Hesperid"
+        },
+        {
+          "alias": "Hesperid 3",
+          "heading": null,
+          "target": "Geography/Hesperid 3"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas"
+        },
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Færrin"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "Pyre",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Pyre"
+        },
+        {
+          "alias": "Herald",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Herald"
+        },
+        {
+          "alias": "Giant",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Giant"
+        },
+        {
+          "alias": "Esoterica",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "War",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/War"
+        },
+        {
+          "alias": "Regent",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Regent"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Sedecium"
+    },
+    {
       "crossrefs": [],
       "date": "2026-06-05T16:40:21-04:00",
       "frontmatter": {
@@ -27538,6 +28166,36 @@
     {
       "crossrefs": [
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Færrin"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Pella Conquo Reyes"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Radiant Arms",
           "heading": null,
           "target": "Org/Radiant Arms/index"
@@ -27879,6 +28537,43 @@
     {
       "crossrefs": [
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": "Hesperid",
+          "heading": null,
+          "target": "Geography/Hesperid"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Lieutenant Slade"
+        ],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Slade"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Harlequins",
           "heading": null,
           "target": "Org/The Harlequins/index"
@@ -28117,6 +28812,41 @@
         "title": null
       },
       "path": "People/Varian Khan"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": "Ashen Pact",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/index"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        }
+      ],
+      "date": "2026-10-29T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "extra": {
+          "date": "2026-10-29T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Vestira Koi"
     },
     {
       "crossrefs": [
@@ -29212,15 +29942,25 @@
           "alias": "Anzu",
           "heading": null,
           "target": "People/Anzu"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
         }
       ],
-      "date": "2026-08-17T00:00:00-04:00",
+      "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "the godkiller"
         ],
         "extra": {
-          "date": "2026-08-17T00:00:00-04:00"
+          "date": "2026-10-29T00:00:00-04:00"
         },
         "img": null,
         "tags": [],

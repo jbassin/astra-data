@@ -289,6 +289,7 @@ entity "Bennix's" {
 entity "Benny" kind="person" being="mike" {
     alias "Bennett"
     alias "Banny"
+    alias "(?-i:Penny)"
     source "defs"
     source "being"
 }
@@ -899,6 +900,7 @@ entity "Herald" kind="deity" page="Divinity/Ashen Pact/Herald" {
 }
 entity "Hesperid" kind="place" page="Geography/Hesperid" {
     alias "HQ"
+    alias "Hesper(?:ide|d|ad|vid|in)"
     source "akasha"
     source "defs"
 }
@@ -1404,6 +1406,8 @@ entity "Osyluth" kind="person" page="Org/The Harlequins/People/Osyluth" {
     alias "Ocel[aeio]th"
     alias "Oceliff"
     alias "Ocelus"
+    alias "Osliff"
+    alias "ocelot"
     source "akasha"
     source "defs"
 }
@@ -1477,6 +1481,8 @@ entity "Phlogiston" kind="phenomenon" page="Phenomena/Phlogiston" {
     alias "fl[oia]gist[oa]n"
     alias "phagiston"
     alias "logiston"
+    alias "phlogistine"
+    alias "phlegist"
     source "akasha"
     source "defs"
 }
@@ -1697,9 +1703,10 @@ entity "Second Sun Diner" kind="place" page="Geography/Calaria/Hallia/Sableclutc
     source "akasha"
     source "defs"
 }
-entity "Sedecium" {
+entity "Sedecium" kind="org" page="Org/Sedecium" {
     alias "sedicium"
     alias "Sedesium"
+    source "akasha"
     source "defs"
 }
 entity "Sentience Distributor" kind="phenomenon" page="Phenomena/Sentience Distributor" {
@@ -1960,6 +1967,9 @@ entity "The Zorbon" kind="deity" page="Divinity/Unknown Entities/The Zorbon" {
     source "akasha"
     source "defs"
 }
+entity "Thessians" kind="deity" page="Divinity/Thessians" {
+    source "akasha"
+}
 entity "Thistle Monroe" {
     alias "Fissel Monroe"
     source "defs"
@@ -2040,6 +2050,7 @@ entity "Ugathal" kind="creature" page="Bestiary/Ugathal" {
     source "defs"
 }
 entity "Ulrich" {
+    alias "Ulric"
     source "defs"
 }
 entity "Undead" kind="creature" page="Bestiary/Undead" {
@@ -2051,6 +2062,9 @@ entity "Undead" kind="creature" page="Bestiary/Undead" {
     source "akasha"
 }
 entity "Undercroft" kind="place" page="Geography/Istria/Iomenei/Undercroft" {
+    source "akasha"
+}
+entity "Ushas" kind="place" page="Geography/Ushas" {
     source "akasha"
 }
 entity "Vaino" {
