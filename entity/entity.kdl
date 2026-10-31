@@ -595,6 +595,9 @@ entity "Dame Quay" kind="person" page="Org/The Scale/People/Dame Quay" {
 entity "Damien" kind="place" page="Geography/Althane/The Hollow/Lava Ruin/Damien" {
     source "akasha"
 }
+entity "Dark Bramble" kind="deity" page="Divinity/Unknown Entities/Dark Bramble" {
+    source "akasha"
+}
 entity "Davar" kind="place" page="Geography/Althane/Realms/Davar" {
     source "akasha"
 }
@@ -1972,6 +1975,9 @@ entity "Pyrelight" kind="org" page="Org/Pyrelight/index" {
 entity "Qor Bahi" kind="place" page="Geography/Althane/El-Rasar/Qor Bahi" {
     source "akasha"
 }
+entity "Quarry" kind="creature" page="Bestiary/Quarry" {
+    source "akasha"
+}
 entity "Quiet Below" kind="place" page="Geography/Færrin/Quiet Below/index" {
     source "akasha"
 }
@@ -2475,6 +2481,9 @@ entity "The Hooded" kind="deity" page="Divinity/Fiends/The Hooded" {
     source "akasha"
 }
 entity "the Horizon" kind="place" page="Geography/Færrin/Calaria/Hallia/the Horizon/index" {
+    source "akasha"
+}
+entity "The Lighthouse" kind="phenomenon" page="Phenomena/Althane/The Lighthouse" {
     source "akasha"
 }
 entity "The Loam" kind="deity" page="Divinity/Fiends/The Loam" {

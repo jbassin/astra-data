@@ -456,6 +456,41 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Bestiary/Quarry",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "the Crystalpoint Lattice",
+      "heading": null,
+      "resolved": "People/Althane/The Crystalpoint Lattice",
+      "source": "Bestiary/Quarry",
+      "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Bestiary/Quarry",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Bestiary/Quarry",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Bestiary/Quarry",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
       "alias": "humans",
       "heading": "Human",
       "resolved": "Bestiary/Spark of Humanity",
@@ -2801,6 +2836,13 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Divinity/Thessians",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -2890,6 +2932,34 @@
       "resolved": "People/Althane/The Broker",
       "source": "Divinity/Thessians",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Divinity/Unknown Entities/Nox"
     },
     {
       "alias": null,
@@ -3074,13 +3144,6 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
-      "alias": "Karkov",
-      "heading": null,
-      "resolved": "People/Althane/Karkov",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "People/Althane/Karkov"
-    },
-    {
       "alias": "the Thirteenth Realm",
       "heading": null,
       "resolved": "Geography/Althane/The Thirteenth Realm",
@@ -3093,6 +3156,34 @@
       "resolved": "Divinity/Thessians",
       "source": "Divinity/Unknown Entities/The Deep",
       "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "duskwalker",
+      "heading": "Duskwalker",
+      "resolved": "Bestiary/Realmtouched",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Bestiary/Realmtouched"
+    },
+    {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
       "alias": "Grayson",
@@ -3921,6 +4012,20 @@
       "target": "Divinity/Unknown Entities/The Deep"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/Realms/Ilkyne",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Geography/Althane/Realms/Ilkyne",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -3954,13 +4059,6 @@
       "resolved": "Geography/Althane/index",
       "source": "Geography/Althane/Realms/index",
       "target": "Geography/Althane/index"
-    },
-    {
-      "alias": "Ilkyne",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
-      "source": "Geography/Althane/Realms/index",
-      "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
       "alias": "Dahn",
@@ -4504,9 +4602,9 @@
     {
       "alias": "the Lighthouse",
       "heading": null,
-      "resolved": "Divinity/Immix",
+      "resolved": "Phenomena/Althane/The Lighthouse",
       "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Divinity/Immix"
+      "target": "Phenomena/Althane/The Lighthouse"
     },
     {
       "alias": "Thessian",
@@ -4565,6 +4663,20 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Crystalpoint Lattice",
+      "heading": null,
+      "resolved": "People/Althane/The Crystalpoint Lattice",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
       "alias": "Crystal Sphere",
       "heading": null,
       "resolved": "Phenomena/Crystal Sphere",
@@ -4577,6 +4689,13 @@
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "Geography/Althane/index",
       "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Geography/Althane/index",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "the Hollow",
@@ -8002,6 +8121,13 @@
       "target": "People/Althane/Ezekiel Grimm"
     },
     {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Org/Althane/Church of the Thirteenth Realm",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -8464,7 +8590,7 @@
       "target": "Org/Althane/Followers of the Path"
     },
     {
-      "alias": "Deep",
+      "alias": "the Deep",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Org/Althane/The Mysteries",
@@ -8744,11 +8870,32 @@
       "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
-      "alias": "City of Yellow",
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Org/Althane/The Weft",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Ilkyne",
       "heading": null,
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Org/Althane/The Weft",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "Thyropae",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/Thyropae/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/Athrea/Thyropae/index"
     },
     {
       "alias": "Sanguis Noxa",
@@ -15282,6 +15429,13 @@
       "target": "Phenomena/Althane/Divine Amphora"
     },
     {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Henrik",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -16260,6 +16414,27 @@
       "resolved": "Org/Althane/The Trust",
       "source": "People/Althane/The Crystalpoint Lattice",
       "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "People/Althane/The Crystalpoint Lattice",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/The Crystalpoint Lattice",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "People/Althane/The Crystalpoint Lattice",
+      "target": "Phenomena/Althane/The Lighthouse"
     },
     {
       "alias": "Karkov",
@@ -18971,6 +19146,20 @@
       "target": "Divinity/Immix"
     },
     {
+      "alias": "The Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -19410,6 +19599,83 @@
       "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
       "source": "Phenomena/Althane/The Gun",
       "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "crystal sphere",
+      "heading": null,
+      "resolved": "Phenomena/Crystal Sphere",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Phenomena/Crystal Sphere"
+    },
+    {
+      "alias": "higher kind",
+      "heading": null,
+      "resolved": "Divinity/Higher Kind",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Divinity/Higher Kind"
+    },
+    {
+      "alias": "Immix",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "duskwalker",
+      "heading": "Duskwalker",
+      "resolved": "Bestiary/Realmtouched",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Bestiary/Realmtouched"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "People/Althane/Divex"
     },
     {
       "alias": "Salores",
@@ -21907,6 +22173,49 @@
         "title": null
       },
       "path": "Bestiary/Plants"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "the Crystalpoint Lattice",
+          "heading": null,
+          "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        }
+      ],
+      "date": "2025-05-05T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-05T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Quarry"
     },
     {
       "crossrefs": [
@@ -24625,6 +24934,11 @@
           "target": "Geography/Althane/Realms/Ilkyne"
         },
         {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
@@ -24707,6 +25021,44 @@
         "title": null
       },
       "path": "Divinity/Thessians"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        }
+      ],
+      "date": "2025-05-05T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-05T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Divinity/Unknown Entities/Dark Bramble"
     },
     {
       "crossrefs": [
@@ -24895,11 +25247,6 @@
           "target": "Geography/Althane/Realms/Ilkyne"
         },
         {
-          "alias": "Karkov",
-          "heading": null,
-          "target": "People/Althane/Karkov"
-        },
-        {
           "alias": "the Thirteenth Realm",
           "heading": null,
           "target": "Geography/Althane/The Thirteenth Realm"
@@ -24908,6 +25255,26 @@
           "alias": "Thessians",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "duskwalker",
+          "heading": "Duskwalker",
+          "target": "Bestiary/Realmtouched"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
       "date": "2026-01-13T00:00:00-04:00",
@@ -25563,14 +25930,14 @@
           "target": "People/Althane/The Crystalpoint Lattice"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -26410,16 +26777,26 @@
           "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2025-04-21T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-21T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -26667,11 +27044,6 @@
           "target": "Geography/Althane/index"
         },
         {
-          "alias": "Ilkyne",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
-        },
-        {
           "alias": "Dahn",
           "heading": null,
           "target": "Geography/Althane/Realms/Dahn"
@@ -26732,14 +27104,14 @@
           "target": "Geography/Althane/Realms/Vikar"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -27357,7 +27729,7 @@
         {
           "alias": "the Lighthouse",
           "heading": null,
-          "target": "Divinity/Immix"
+          "target": "Phenomena/Althane/The Lighthouse"
         },
         {
           "alias": "Thessian",
@@ -27398,9 +27770,19 @@
           "alias": "Thessian",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Crystalpoint Lattice",
+          "heading": null,
+          "target": "People/Althane/The Crystalpoint Lattice"
         }
       ],
-      "date": "2025-04-17T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "The Playwright"
@@ -27409,7 +27791,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-17T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -27432,19 +27814,24 @@
           "target": "Geography/Althane/Realms/Ilkyne"
         },
         {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
           "alias": "the Hollow",
           "heading": null,
           "target": "Geography/Althane/The Hollow/index"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -31647,6 +32034,11 @@
           "target": "People/Althane/Ezekiel Grimm"
         },
         {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
           "alias": "Althane",
           "heading": null,
           "target": "Geography/Althane/index"
@@ -31662,14 +32054,14 @@
           "target": "Bestiary/Realmtouched"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32374,7 +32766,7 @@
     {
       "crossrefs": [
         {
-          "alias": "Deep",
+          "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
         },
@@ -32384,14 +32776,14 @@
           "target": "Phenomena/Althane/Cycle"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32674,19 +33066,34 @@
           "target": "Geography/Althane/The Thirteenth Realm"
         },
         {
-          "alias": "City of Yellow",
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "Thyropae",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/Thyropae/index"
         }
       ],
-      "date": "2025-04-21T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-21T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41030,6 +41437,11 @@
           "target": "Phenomena/Althane/Divine Amphora"
         },
         {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
@@ -41055,14 +41467,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-04-21T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-21T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41303,7 +41715,7 @@
           "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
-      "date": "2025-04-21T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -41312,7 +41724,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-21T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -42251,16 +42663,31 @@
           "alias": "Trust",
           "heading": null,
           "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -45671,16 +46098,26 @@
           "alias": "the Lighthouse",
           "heading": null,
           "target": "Divinity/Immix"
+        },
+        {
+          "alias": "The Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-05-05T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -46351,6 +46788,79 @@
         "title": null
       },
       "path": "Phenomena/Althane/The Gun"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "crystal sphere",
+          "heading": null,
+          "target": "Phenomena/Crystal Sphere"
+        },
+        {
+          "alias": "higher kind",
+          "heading": null,
+          "target": "Divinity/Higher Kind"
+        },
+        {
+          "alias": "Immix",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "duskwalker",
+          "heading": "Duskwalker",
+          "target": "Bestiary/Realmtouched"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        }
+      ],
+      "date": "2025-05-05T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-05T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Althane/The Lighthouse"
     },
     {
       "crossrefs": [
