@@ -8422,7 +8422,7 @@
       "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
-      "alias": "Rhett",
+      "alias": "Ret",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
       "source": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
@@ -13315,7 +13315,7 @@
       "target": "Org/Omnivox/Tarv of the Rising Moon"
     },
     {
-      "alias": "Rhett",
+      "alias": "Ret",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
       "source": "Org/Omnivox/index",
@@ -35246,7 +35246,7 @@
           "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         },
         {
-          "alias": "Rhett",
+          "alias": "Ret",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
         },
@@ -41354,7 +41354,7 @@
           "target": "Org/Omnivox/Tarv of the Rising Moon"
         },
         {
-          "alias": "Rhett",
+          "alias": "Ret",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
         }
