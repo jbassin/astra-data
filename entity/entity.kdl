@@ -629,6 +629,13 @@ entity "Divex" kind="person" being="mike" {
     source "defs"
     source "being"
 }
+entity "Divine Amphora" kind="phenomenon" page="Phenomena/Althane/Divine Amphora" {
+    source "akasha"
+}
+entity "Divine Energy" kind="phenomenon" page="Phenomena/Althane/Divine Energy" {
+    alias "divine energy"
+    source "akasha"
+}
 entity "Divine Raiment" kind="deity" page="Divinity/Divine Raiment" {
     source "akasha"
 }
@@ -2508,6 +2515,8 @@ entity "The Spark" kind="person" page="Org/Pyrelight/People/The Spark" {
     source "akasha"
 }
 entity "The Stranger" kind="deity" page="Divinity/Althane/The Stranger" {
+    alias "the Feep"
+    alias "Vesper Feep"
     source "akasha"
 }
 entity "The Thirteenth Realm" kind="place" page="Geography/Althane/The Thirteenth Realm" {
