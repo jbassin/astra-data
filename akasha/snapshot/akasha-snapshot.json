@@ -85,6 +85,13 @@
       "target": "Verdant Expanse"
     },
     {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Bestiary/Celestials",
+      "target": "Geography/Ushas/index"
+    },
+    {
       "alias": "weave",
       "heading": null,
       "resolved": "Phenomena/Weave",
@@ -2309,6 +2316,13 @@
       "resolved": "Divinity/Formless",
       "source": "Divinity/Higher Kind",
       "target": "Divinity/Formless"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Divinity/Immix",
+      "target": "Bestiary/Kaathe"
     },
     {
       "alias": "Thessians",
@@ -24759,6 +24773,11 @@
     {
       "crossrefs": [
         {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
           "alias": "weave",
           "heading": null,
           "target": "Phenomena/Weave"
@@ -24800,7 +24819,8 @@
           "Ki-Rin"
         ],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "risk-of-ruin"
         ],
         "extra": {
           "date": "2026-10-01T00:00:00-04:00"
@@ -27466,6 +27486,11 @@
     },
     {
       "crossrefs": [
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
         {
           "alias": "Thessians",
           "heading": null,
