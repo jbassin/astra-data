@@ -1795,6 +1795,9 @@ entity "Oil of Unlife" kind="phenomenon" page="Phenomena/Oil of Unlife" {
 entity "Omnivox" kind="org" page="Org/Omnivox/index" {
     source "akasha"
 }
+entity "Oneiroscope" kind="phenomenon" page="Phenomena/Althane/Oneiroscope" {
+    source "akasha"
+}
 entity "Ontological Anchor" kind="phenomenon" page="Phenomena/Althane/Ontological Anchor" {
     source "akasha"
 }
@@ -2495,6 +2498,9 @@ entity "The Crowded Flea" kind="place" page="Geography/Færrin/Calaria/Hallia/Sa
 entity "The Deep" kind="deity" page="Divinity/Unknown Entities/The Deep" {
     source "akasha"
 }
+entity "The Descendants" kind="org" page="Org/Althane/The Descendants" {
+    source "akasha"
+}
 entity "The Elders" kind="org" page="Org/Althane/The Elders" {
     source "akasha"
 }
@@ -2628,6 +2634,9 @@ entity "The Vengeful Blood" kind="org" page="Org/Althane/The Vengeful Blood" {
 entity "The Weft" kind="org" page="Org/Althane/The Weft" {
     source "akasha"
 }
+entity "The Wick" kind="phenomenon" page="Phenomena/The Wick" {
+    source "akasha"
+}
 entity "The Zorbon" kind="deity" page="Divinity/Unknown Entities/The Zorbon" {
     alias "Zorbon"
     alias "the\\s*Sorbonne"
@@ -2695,6 +2704,10 @@ entity "Trevils" {
     alias "Trebills"
     alias "Trevilles"
     source "defs"
+}
+entity "Trip the Light Fantastic" kind="phenomenon" page="Phenomena/Althane/Trip the Light Fantastic" {
+    alias "the Trip"
+    source "akasha"
 }
 entity "TuRiin" {
     alias "Turin"

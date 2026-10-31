@@ -1366,6 +1366,34 @@
       "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
+      "alias": "Luce",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Uriel",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Divinity/Unknown Entities/Uriel"
+    },
+    {
+      "alias": "Rowan",
+      "heading": null,
+      "resolved": "People/Althane/Rowan",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "People/Althane/Rowan"
+    },
+    {
+      "alias": "an aspect of Immix",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "Echo Fragment",
+      "heading": null,
+      "resolved": "Phenomena/Echo Fragment",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Phenomena/Echo Fragment"
+    },
+    {
       "alias": "Gas-n-Go",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/Widdershins/Gas-n-Go",
@@ -2346,6 +2374,13 @@
       "target": "People/Althane/Lev"
     },
     {
+      "alias": "the Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "Divinity/Immix",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Færrin/Alternate Planes/Godhome",
@@ -3186,6 +3221,34 @@
       "target": "Divinity/Unknown Entities/Uriel"
     },
     {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Divinity/Unknown Entities/Dark Bramble",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -3200,11 +3263,11 @@
       "target": "Phenomena/Althane/The Lighthouse"
     },
     {
-      "alias": "Thessians",
+      "alias": "the Thirteenth Realm",
       "heading": null,
-      "resolved": "Divinity/Thessians",
+      "resolved": "Geography/Althane/The Thirteenth Realm",
       "source": "Divinity/Unknown Entities/Dark Bramble",
-      "target": "Divinity/Thessians"
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Nox",
@@ -3648,6 +3711,34 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Formless",
+      "heading": null,
+      "resolved": "Divinity/Formless",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Formless"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Dark Bramble",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Dark Bramble",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Unknown Entities/Dark Bramble"
+    },
+    {
       "alias": "Grayson",
       "heading": null,
       "resolved": "Org/Amber Call/People/Benjamin Grayson",
@@ -3772,6 +3863,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "Divinity/Unknown Entities/Uriel",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "the Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "Divinity/Unknown Entities/Uriel",
+      "target": "Divinity/Althane/The Stranger"
     },
     {
       "alias": "Færrin",
@@ -4131,6 +4229,34 @@
       "target": "People/Althane/The Crystalpoint Lattice"
     },
     {
+      "alias": "the Trust",
+      "heading": null,
+      "resolved": "Org/Althane/The Trust",
+      "source": "Geography/Althane/Illyara/index",
+      "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Oxas",
+      "heading": null,
+      "resolved": "People/Althane/Oxas",
+      "source": "Geography/Althane/Illyara/index",
+      "target": "People/Althane/Oxas"
+    },
+    {
+      "alias": "Ashmont",
+      "heading": null,
+      "resolved": "People/Althane/Ashmont",
+      "source": "Geography/Althane/Illyara/index",
+      "target": "People/Althane/Ashmont"
+    },
+    {
+      "alias": "the Wick",
+      "heading": null,
+      "resolved": "Phenomena/The Wick",
+      "source": "Geography/Althane/Illyara/index",
+      "target": "Phenomena/The Wick"
+    },
+    {
       "alias": "Aeternalis",
       "heading": null,
       "resolved": "Phenomena/Althane/Æternalis",
@@ -4213,6 +4339,27 @@
       "resolved": "Phenomena/Althane/Æternalis",
       "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
       "target": "Phenomena/Althane/Æternalis"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Grimm",
+      "heading": null,
+      "resolved": "People/Althane/Ezekiel Grimm",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
+      "target": "People/Althane/Ezekiel Grimm"
+    },
+    {
+      "alias": "Trip the Light Fantastic",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Trip the Light Fantastic",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
+      "target": "Phenomena/Althane/Trip the Light Fantastic"
     },
     {
       "alias": "Junction",
@@ -5340,6 +5487,34 @@
       "resolved": "People/Althane/The Crystalpoint Lattice",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Trip the Light Fantastic",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Trip the Light Fantastic",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Phenomena/Althane/Trip the Light Fantastic"
+    },
+    {
+      "alias": "the Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
     },
     {
       "alias": "Crystal Sphere",
@@ -9738,6 +9913,27 @@
       "target": "Org/Althane/Followers of the Path"
     },
     {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Org/Althane/The Descendants",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "Big Fish",
+      "heading": null,
+      "resolved": "People/Althane/Big Fish",
+      "source": "Org/Althane/The Descendants",
+      "target": "People/Althane/Big Fish"
+    },
+    {
+      "alias": "Dawn",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Org/Althane/The Descendants",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
       "alias": "Brejvasing",
       "heading": null,
       "resolved": "Geography/Althane/Brejvasing/index",
@@ -9955,11 +10151,11 @@
       "target": "People/Althane/Divex"
     },
     {
-      "alias": "Oxus",
+      "alias": "Oxas",
       "heading": null,
-      "resolved": "People/Althane/Oxus",
+      "resolved": "People/Althane/Oxas",
       "source": "Org/Althane/The Network",
-      "target": "People/Althane/Oxus"
+      "target": "People/Althane/Oxas"
     },
     {
       "alias": "Salores",
@@ -10004,11 +10200,11 @@
       "target": "People/Althane/Divex"
     },
     {
-      "alias": "Oxus",
+      "alias": "Oxas",
       "heading": null,
-      "resolved": "People/Althane/Oxus",
+      "resolved": "People/Althane/Oxas",
       "source": "Org/Althane/The Trust",
-      "target": "People/Althane/Oxus"
+      "target": "People/Althane/Oxas"
     },
     {
       "alias": "X-Dive",
@@ -16577,6 +16773,41 @@
       "target": "Org/Althane/Hester and Sons"
     },
     {
+      "alias": "Illyara",
+      "heading": null,
+      "resolved": "Geography/Althane/Illyara/index",
+      "source": "People/Althane/Ashmont",
+      "target": "Geography/Althane/Illyara/index"
+    },
+    {
+      "alias": "the Wick",
+      "heading": null,
+      "resolved": "Phenomena/The Wick",
+      "source": "People/Althane/Ashmont",
+      "target": "Phenomena/The Wick"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Ashmont",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Oxas",
+      "heading": null,
+      "resolved": "People/Althane/Oxas",
+      "source": "People/Althane/Ashmont",
+      "target": "People/Althane/Oxas"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Ashmont",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Pennywright's Last Stand",
       "heading": null,
       "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Pennywright's Last Stand",
@@ -16603,6 +16834,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Big Fish",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Descendants",
+      "heading": null,
+      "resolved": "Org/Althane/The Descendants",
+      "source": "People/Althane/Big Fish",
+      "target": "Org/Althane/The Descendants"
     },
     {
       "alias": "the Leviathan",
@@ -16941,11 +17179,11 @@
       "target": "Org/Althane/The Trust"
     },
     {
-      "alias": "Oxus",
+      "alias": "Oxas",
       "heading": null,
-      "resolved": "People/Althane/Oxus",
+      "resolved": "People/Althane/Oxas",
       "source": "People/Althane/Divex",
-      "target": "People/Althane/Oxus"
+      "target": "People/Althane/Oxas"
     },
     {
       "alias": "Broker",
@@ -17037,6 +17275,34 @@
       "resolved": "Bestiary/Visitors from Beyond",
       "source": "People/Althane/Ezekiel Grimm",
       "target": "Bestiary/Visitors from Beyond"
+    },
+    {
+      "alias": "the Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "People/Althane/Ezekiel Grimm",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/Ezekiel Grimm",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/Ezekiel Grimm",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
+      "source": "People/Althane/Ezekiel Grimm",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index"
     },
     {
       "alias": "Oreskalka Cabal",
@@ -17142,6 +17408,55 @@
       "resolved": "Geography/Althane/Oresk/RC3",
       "source": "People/Althane/Halidex Op-B",
       "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Toleros",
+      "heading": null,
+      "resolved": "Geography/Althane/Salores/Toleros/index",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "Geography/Althane/Salores/Toleros/index"
+    },
+    {
+      "alias": "Lady Grave",
+      "heading": null,
+      "resolved": "People/Althane/Lady Grave",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "People/Althane/Lady Grave"
+    },
+    {
+      "alias": "Aliaksandr Sarken",
+      "heading": null,
+      "resolved": "People/Althane/Aliaksandr Sarken",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "People/Althane/Aliaksandr Sarken"
+    },
+    {
+      "alias": "oneiroscope",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Oneiroscope",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "Phenomena/Althane/Oneiroscope"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "the Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "People/Althane/Karkov"
     },
     {
       "alias": "Oreskian",
@@ -17445,6 +17760,41 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
+      "alias": "Grimm",
+      "heading": null,
+      "resolved": "People/Althane/Ezekiel Grimm",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Ezekiel Grimm"
+    },
+    {
+      "alias": "Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/The Broker"
+    },
+    {
       "alias": "Ifrit",
       "heading": "Ifrit",
       "resolved": "Bestiary/Realmtouched",
@@ -17627,6 +17977,20 @@
       "target": "Phenomena/Althane/The Lighthouse"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Lev",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "People/Althane/Lev",
+      "target": "People/Althane/Marzo"
+    },
+    {
       "alias": "Trust",
       "heading": null,
       "resolved": "Org/Althane/The Trust",
@@ -17695,6 +18059,20 @@
       "resolved": "Geography/Althane/The Thirteenth Realm",
       "source": "People/Althane/Marzo",
       "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Marzo",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Lev'Myr",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Marzo",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": "Golden Sparrows",
@@ -17805,50 +18183,64 @@
       "alias": "the Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "Org/Althane/The Weft"
     },
     {
       "alias": "Illyara",
       "heading": null,
       "resolved": "Geography/Althane/Illyara/index",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "Geography/Althane/Illyara/index"
     },
     {
       "alias": "The Broker",
       "heading": null,
       "resolved": "People/Althane/The Broker",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "People/Althane/The Broker"
     },
     {
       "alias": "Crystalpoint Lattice",
       "heading": null,
       "resolved": "People/Althane/The Crystalpoint Lattice",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "People/Althane/The Crystalpoint Lattice"
     },
     {
       "alias": "Trust",
       "heading": null,
       "resolved": "Org/Althane/The Trust",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "Org/Althane/The Trust"
     },
     {
       "alias": "Divex",
       "heading": null,
       "resolved": "People/Althane/Divex",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "People/Althane/Divex"
     },
     {
       "alias": "Network",
       "heading": null,
       "resolved": "Org/Althane/The Network",
-      "source": "People/Althane/Oxus",
+      "source": "People/Althane/Oxas",
       "target": "Org/Althane/The Network"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Oxas",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Ashmont",
+      "heading": null,
+      "resolved": "People/Althane/Ashmont",
+      "source": "People/Althane/Oxas",
+      "target": "People/Althane/Ashmont"
     },
     {
       "alias": "Oresk",
@@ -18012,6 +18404,13 @@
       "target": "People/Althane/Big Fish"
     },
     {
+      "alias": "the Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "People/Althane/Rowan",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
       "alias": "Kaathe",
       "heading": null,
       "resolved": "Bestiary/Kaathe",
@@ -18124,6 +18523,20 @@
       "target": "Geography/Althane/Oresk/RC3"
     },
     {
+      "alias": "the Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "People/Althane/Tennobrin Er-K",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/Tennobrin Er-K",
+      "target": "People/Althane/Karkov"
+    },
+    {
       "alias": "the Broker's",
       "heading": null,
       "resolved": "People/Althane/The Broker",
@@ -18152,11 +18565,11 @@
       "target": "Geography/Althane/Illyara/index"
     },
     {
-      "alias": "Oxus",
+      "alias": "Oxas",
       "heading": null,
-      "resolved": "People/Althane/Oxus",
+      "resolved": "People/Althane/Oxas",
       "source": "People/Althane/The Broker",
-      "target": "People/Althane/Oxus"
+      "target": "People/Althane/Oxas"
     },
     {
       "alias": "Sedecium",
@@ -18332,6 +18745,41 @@
       "resolved": "Phenomena/Echo Fragment",
       "source": "People/Althane/The Broker",
       "target": "Phenomena/Echo Fragment"
+    },
+    {
+      "alias": "Oxas",
+      "heading": null,
+      "resolved": "People/Althane/Oxas",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Oxas"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "Big Fish",
+      "heading": null,
+      "resolved": "People/Althane/Big Fish",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Big Fish"
+    },
+    {
+      "alias": "Dawn",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "YuDaan",
+      "heading": null,
+      "resolved": "People/Althane/YuDaan",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/YuDaan"
     },
     {
       "alias": "Illyara",
@@ -21407,6 +21855,20 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
+      "alias": "Trip the Light Fantastic",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Trip the Light Fantastic",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Phenomena/Althane/Trip the Light Fantastic"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
       "alias": "Thessian",
       "heading": null,
       "resolved": "Divinity/Thessians",
@@ -21680,6 +22142,41 @@
       "target": "Geography/Althane/Realms/Dahn"
     },
     {
+      "alias": "Aliaksandr Sarken",
+      "heading": null,
+      "resolved": "People/Althane/Aliaksandr Sarken",
+      "source": "Phenomena/Althane/Oneiroscope",
+      "target": "People/Althane/Aliaksandr Sarken"
+    },
+    {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/Oneiroscope",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Phenomena/Althane/Oneiroscope",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "Phenomena/Althane/Oneiroscope",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "Phenomena/Althane/Oneiroscope",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
       "alias": "RC3",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/RC3",
@@ -21918,18 +22415,32 @@
       "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
     },
     {
-      "alias": "Althane",
-      "heading": null,
-      "resolved": "Geography/Althane/index",
-      "source": "Phenomena/Althane/The Lighthouse",
-      "target": "Geography/Althane/index"
-    },
-    {
       "alias": "Thessians",
       "heading": null,
       "resolved": "Divinity/Thessians",
       "source": "Phenomena/Althane/The Lighthouse",
       "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Dark Bramble",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Dark Bramble",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Divinity/Unknown Entities/Dark Bramble"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "crystal sphere",
@@ -21995,6 +22506,13 @@
       "target": "People/Althane/Divex"
     },
     {
+      "alias": "Grimm",
+      "heading": null,
+      "resolved": "People/Althane/Ezekiel Grimm",
+      "source": "Phenomena/Althane/The Lighthouse",
+      "target": "People/Althane/Ezekiel Grimm"
+    },
+    {
       "alias": "Salores",
       "heading": null,
       "resolved": "Geography/Althane/Salores/index",
@@ -22007,6 +22525,62 @@
       "resolved": "Geography/Althane/Salores/Vallastela",
       "source": "Phenomena/Althane/Tidal",
       "target": "Geography/Althane/Salores/Vallastela"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "cycle",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Cycle",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Phenomena/Althane/Cycle"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "the Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/Trip the Light Fantastic",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Oresk",
@@ -22168,6 +22742,20 @@
       "resolved": "Org/Sedecium",
       "source": "Phenomena/Cognitive Beacon",
       "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Ashmont",
+      "heading": null,
+      "resolved": "People/Althane/Ashmont",
+      "source": "Phenomena/Configuration Space",
+      "target": "People/Althane/Ashmont"
+    },
+    {
+      "alias": "the Wick",
+      "heading": null,
+      "resolved": "Phenomena/The Wick",
+      "source": "Phenomena/Configuration Space",
+      "target": "Phenomena/The Wick"
     },
     {
       "alias": "locality",
@@ -23603,6 +24191,48 @@
       "resolved": "Bestiary/Fiends",
       "source": "Phenomena/The Slip",
       "target": "Bestiary/Fiends"
+    },
+    {
+      "alias": "Ashmont",
+      "heading": null,
+      "resolved": "People/Althane/Ashmont",
+      "source": "Phenomena/The Wick",
+      "target": "People/Althane/Ashmont"
+    },
+    {
+      "alias": "configuration space",
+      "heading": null,
+      "resolved": "Phenomena/Configuration Space",
+      "source": "Phenomena/The Wick",
+      "target": "Phenomena/Configuration Space"
+    },
+    {
+      "alias": "aether",
+      "heading": null,
+      "resolved": "Phenomena/Aetheric Field",
+      "source": "Phenomena/The Wick",
+      "target": "Phenomena/Aetheric Field"
+    },
+    {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/The Wick",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Rowan",
+      "heading": null,
+      "resolved": "People/Althane/Rowan",
+      "source": "Phenomena/The Wick",
+      "target": "People/Althane/Rowan"
+    },
+    {
+      "alias": "Dawn",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Phenomena/The Wick",
+      "target": "People/Althane/Dawnmonger"
     },
     {
       "alias": "Friends of Aut",
@@ -25779,6 +26409,26 @@
           "alias": "the Gilded Spire",
           "heading": null,
           "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+        },
+        {
+          "alias": "Luce",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Uriel"
+        },
+        {
+          "alias": "Rowan",
+          "heading": null,
+          "target": "People/Althane/Rowan"
+        },
+        {
+          "alias": "an aspect of Immix",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Echo Fragment",
+          "heading": null,
+          "target": "Phenomena/Echo Fragment"
         }
       ],
       "date": "2025-04-07T00:00:00-04:00",
@@ -26860,6 +27510,11 @@
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "the Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
         }
       ],
       "date": "2025-03-10T00:00:00-04:00",
@@ -27789,6 +28444,26 @@
     {
       "crossrefs": [
         {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
           "alias": "Althane",
           "heading": null,
           "target": "Geography/Althane/index"
@@ -27799,9 +28474,9 @@
           "target": "Phenomena/Althane/The Lighthouse"
         },
         {
-          "alias": "Thessians",
+          "alias": "the Thirteenth Realm",
           "heading": null,
-          "target": "Divinity/Thessians"
+          "target": "Geography/Althane/The Thirteenth Realm"
         },
         {
           "alias": "Nox",
@@ -28230,6 +28905,26 @@
           "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Formless",
+          "heading": null,
+          "target": "Divinity/Formless"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Dark Bramble",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Dark Bramble"
         }
       ],
       "date": "2026-01-13T00:00:00-04:00",
@@ -28377,6 +29072,11 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
         },
         {
           "alias": "Færrin",
@@ -29028,6 +29728,26 @@
           "alias": "the Crystalpoint Lattice",
           "heading": null,
           "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
+          "alias": "the Trust",
+          "heading": null,
+          "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "Oxas",
+          "heading": null,
+          "target": "People/Althane/Oxas"
+        },
+        {
+          "alias": "Ashmont",
+          "heading": null,
+          "target": "People/Althane/Ashmont"
+        },
+        {
+          "alias": "the Wick",
+          "heading": null,
+          "target": "Phenomena/The Wick"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -29227,6 +29947,21 @@
           "alias": "Aeternalis",
           "heading": null,
           "target": "Phenomena/Althane/Æternalis"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Grimm",
+          "heading": null,
+          "target": "People/Althane/Ezekiel Grimm"
+        },
+        {
+          "alias": "Trip the Light Fantastic",
+          "heading": null,
+          "target": "Phenomena/Althane/Trip the Light Fantastic"
         }
       ],
       "date": "2024-08-17T00:00:00-04:00",
@@ -30943,6 +31678,26 @@
           "alias": "Crystalpoint Lattice",
           "heading": null,
           "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Trip the Light Fantastic",
+          "heading": null,
+          "target": "Phenomena/Althane/Trip the Light Fantastic"
+        },
+        {
+          "alias": "the Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -36362,6 +37117,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "Big Fish",
+          "heading": null,
+          "target": "People/Althane/Big Fish"
+        },
+        {
+          "alias": "Dawn",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        }
+      ],
+      "date": "2026-10-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2026-10-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Althane/The Descendants"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Brejvasing",
           "heading": null,
           "target": "Geography/Althane/Brejvasing/index"
@@ -36616,9 +37404,9 @@
           "target": "People/Althane/Divex"
         },
         {
-          "alias": "Oxus",
+          "alias": "Oxas",
           "heading": null,
-          "target": "People/Althane/Oxus"
+          "target": "People/Althane/Oxas"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
@@ -36691,9 +37479,9 @@
           "target": "People/Althane/Divex"
         },
         {
-          "alias": "Oxus",
+          "alias": "Oxas",
           "heading": null,
-          "target": "People/Althane/Oxus"
+          "target": "People/Althane/Oxas"
         },
         {
           "alias": "X-Dive",
@@ -44838,6 +45626,49 @@
     {
       "crossrefs": [
         {
+          "alias": "Illyara",
+          "heading": null,
+          "target": "Geography/Althane/Illyara/index"
+        },
+        {
+          "alias": "the Wick",
+          "heading": null,
+          "target": "Phenomena/The Wick"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Oxas",
+          "heading": null,
+          "target": "People/Althane/Oxas"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        }
+      ],
+      "date": "2026-10-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2026-10-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Althane/Ashmont"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Pennywright's Last Stand",
           "heading": null,
           "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Pennywright's Last Stand"
@@ -44876,6 +45707,11 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Descendants",
+          "heading": null,
+          "target": "Org/Althane/The Descendants"
         },
         {
           "alias": "the Leviathan",
@@ -45275,9 +46111,9 @@
           "target": "Org/Althane/The Trust"
         },
         {
-          "alias": "Oxus",
+          "alias": "Oxas",
           "heading": null,
-          "target": "People/Althane/Oxus"
+          "target": "People/Althane/Oxas"
         },
         {
           "alias": "Broker",
@@ -45399,6 +46235,26 @@
           "alias": "elven",
           "heading": "Kitsune",
           "target": "Bestiary/Visitors from Beyond"
+        },
+        {
+          "alias": "the Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index"
         }
       ],
       "date": "2024-08-20T00:00:00-04:00",
@@ -45556,6 +46412,41 @@
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Toleros",
+          "heading": null,
+          "target": "Geography/Althane/Salores/Toleros/index"
+        },
+        {
+          "alias": "Lady Grave",
+          "heading": null,
+          "target": "People/Althane/Lady Grave"
+        },
+        {
+          "alias": "Aliaksandr Sarken",
+          "heading": null,
+          "target": "People/Althane/Aliaksandr Sarken"
+        },
+        {
+          "alias": "oneiroscope",
+          "heading": null,
+          "target": "Phenomena/Althane/Oneiroscope"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "the Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
         }
       ],
       "date": "2025-01-22T00:00:00-04:00",
@@ -45894,13 +46785,36 @@
           "alias": "City of Yellow",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Grimm",
+          "heading": null,
+          "target": "People/Althane/Ezekiel Grimm"
+        },
+        {
+          "alias": "Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [
-          "Kharkov"
-        ],
+        "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
@@ -46129,11 +47043,23 @@
           "alias": "the Lighthouse",
           "heading": null,
           "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "Lev'Myr"
+        ],
         "campaigns": [
           "deep-eyes"
         ],
@@ -46219,6 +47145,16 @@
           "alias": "the Thirteenth Realm",
           "heading": null,
           "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Lev'Myr",
+          "heading": null,
+          "target": "People/Althane/Lev"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
@@ -46426,11 +47362,23 @@
           "alias": "Network",
           "heading": null,
           "target": "Org/Althane/The Network"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Ashmont",
+          "heading": null,
+          "target": "People/Althane/Ashmont"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "Oxide"
+        ],
         "campaigns": [
           "deep-eyes"
         ],
@@ -46441,7 +47389,7 @@
         "tags": [],
         "title": null
       },
-      "path": "People/Althane/Oxus"
+      "path": "People/Althane/Oxas"
     },
     {
       "crossrefs": [
@@ -46601,6 +47549,11 @@
           "alias": "Big Fish",
           "heading": null,
           "target": "People/Althane/Big Fish"
+        },
+        {
+          "alias": "the Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
         }
       ],
       "date": "2025-04-07T00:00:00-04:00",
@@ -46740,6 +47693,16 @@
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "the Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
         }
       ],
       "date": "2025-01-22T00:00:00-04:00",
@@ -46802,9 +47765,9 @@
           "target": "Geography/Althane/Illyara/index"
         },
         {
-          "alias": "Oxus",
+          "alias": "Oxas",
           "heading": null,
-          "target": "People/Althane/Oxus"
+          "target": "People/Althane/Oxas"
         },
         {
           "alias": "Sedecium",
@@ -46930,6 +47893,31 @@
           "alias": "Echo Fragment",
           "heading": null,
           "target": "Phenomena/Echo Fragment"
+        },
+        {
+          "alias": "Oxas",
+          "heading": null,
+          "target": "People/Althane/Oxas"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "Big Fish",
+          "heading": null,
+          "target": "People/Althane/Big Fish"
+        },
+        {
+          "alias": "Dawn",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "YuDaan",
+          "heading": null,
+          "target": "People/Althane/YuDaan"
         }
       ],
       "date": "2026-04-06T00:00:00-04:00",
@@ -50801,6 +51789,16 @@
           "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Trip the Light Fantastic",
+          "heading": null,
+          "target": "Phenomena/Althane/Trip the Light Fantastic"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -51203,6 +52201,49 @@
     {
       "crossrefs": [
         {
+          "alias": "Aliaksandr Sarken",
+          "heading": null,
+          "target": "People/Althane/Aliaksandr Sarken"
+        },
+        {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        }
+      ],
+      "date": "2026-10-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2026-10-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Oneiroscope"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
@@ -51556,14 +52597,24 @@
     {
       "crossrefs": [
         {
-          "alias": "Althane",
-          "heading": null,
-          "target": "Geography/Althane/index"
-        },
-        {
           "alias": "Thessians",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Dark Bramble",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Dark Bramble"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
         },
         {
           "alias": "crystal sphere",
@@ -51609,6 +52660,11 @@
           "alias": "Divex",
           "heading": null,
           "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Grimm",
+          "heading": null,
+          "target": "People/Althane/Ezekiel Grimm"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -51655,6 +52711,66 @@
         "title": null
       },
       "path": "Phenomena/Althane/Tidal"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "cycle",
+          "heading": null,
+          "target": "Phenomena/Althane/Cycle"
+        },
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "the Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        }
+      ],
+      "date": "2026-10-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "the Trip"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2026-10-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Trip the Light Fantastic"
     },
     {
       "crossrefs": [
@@ -51888,7 +53004,18 @@
       "path": "Phenomena/Cognitive Beacon"
     },
     {
-      "crossrefs": [],
+      "crossrefs": [
+        {
+          "alias": "Ashmont",
+          "heading": null,
+          "target": "People/Althane/Ashmont"
+        },
+        {
+          "alias": "the Wick",
+          "heading": null,
+          "target": "Phenomena/The Wick"
+        }
+      ],
       "date": "2024-08-20T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
@@ -53588,6 +54715,54 @@
         "title": null
       },
       "path": "Phenomena/The Slip"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Ashmont",
+          "heading": null,
+          "target": "People/Althane/Ashmont"
+        },
+        {
+          "alias": "configuration space",
+          "heading": null,
+          "target": "Phenomena/Configuration Space"
+        },
+        {
+          "alias": "aether",
+          "heading": null,
+          "target": "Phenomena/Aetheric Field"
+        },
+        {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Rowan",
+          "heading": null,
+          "target": "People/Althane/Rowan"
+        },
+        {
+          "alias": "Dawn",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        }
+      ],
+      "date": "2026-10-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2026-10-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/The Wick"
     },
     {
       "crossrefs": [
