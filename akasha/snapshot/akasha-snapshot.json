@@ -5986,11 +5986,123 @@
       "target": "Judge of Ages"
     },
     {
-      "alias": null,
+      "alias": "Heart",
       "heading": null,
-      "resolved": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Orilon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/Orilon/index",
+      "source": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes",
+      "target": "Geography/Færrin/Raelion/Orilon/index"
+    },
+    {
+      "alias": "The Compelled",
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/The Compelled",
+      "source": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes",
+      "target": "Divinity/Outer Gods/The Compelled"
+    },
+    {
+      "alias": "Raelion",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/index",
+      "source": "Geography/Færrin/Raelion/Orilon/index",
+      "target": "Geography/Færrin/Raelion/index"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Geography/Færrin/Raelion/Orilon/index",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Bones Have Eyes",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes",
+      "source": "Geography/Færrin/Raelion/Orilon/index",
+      "target": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes"
+    },
+    {
+      "alias": "Raelion",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/index",
+      "source": "Geography/Færrin/Raelion/Orilon/index",
+      "target": "Geography/Færrin/Raelion/index"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Geography/Færrin/Raelion/Orilon/index",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
       "source": "Geography/Færrin/Raelion/index",
-      "target": "Raelion"
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "The Compelled",
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/The Compelled",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Divinity/Outer Gods/The Compelled"
+    },
+    {
+      "alias": "Host",
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/Iridescent Host",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Iridescent Host"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "Iridescent Church",
+      "heading": null,
+      "resolved": "Org/Iridescent Church/index",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Org/Iridescent Church/index"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Orilon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/Orilon/index",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Geography/Færrin/Raelion/Orilon/index"
+    },
+    {
+      "alias": "ley line",
+      "heading": null,
+      "resolved": "Phenomena/Ley Line",
+      "source": "Geography/Færrin/Raelion/index",
+      "target": "Phenomena/Ley Line"
     },
     {
       "alias": "Orgs",
@@ -6061,6 +6173,13 @@
       "resolved": "Geography/Færrin/Raelion/index",
       "source": "Geography/Færrin/index",
       "target": "Geography/Færrin/Raelion/index"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Geography/Færrin/index",
+      "target": "Phenomena/Midnight Sun"
     },
     {
       "alias": "locality",
@@ -6222,6 +6341,83 @@
       "resolved": "Geography/Syrin (Locality)",
       "source": "Geography/index",
       "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Org/Actinium Convox/Gray Area",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "Org/Actinium Convox/Gray Area",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "Ethics Gradient",
+      "heading": null,
+      "resolved": "Org/Oculum Convox/Ethics Gradient",
+      "source": "Org/Actinium Convox/Gray Area",
+      "target": "Org/Oculum Convox/Ethics Gradient"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Org/Actinium Convox/index",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "Iridescent Church",
+      "heading": null,
+      "resolved": "Org/Iridescent Church/index",
+      "source": "Org/Actinium Convox/index",
+      "target": "Org/Iridescent Church/index"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Org/Actinium Convox/index",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Gray Area",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/Gray Area",
+      "source": "Org/Actinium Convox/index",
+      "target": "Org/Actinium Convox/Gray Area"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Org/Actinium Convox/index",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Ethics Gradient",
+      "heading": null,
+      "resolved": "Org/Oculum Convox/Ethics Gradient",
+      "source": "Org/Actinium Convox/index",
+      "target": "Org/Oculum Convox/Ethics Gradient"
+    },
+    {
+      "alias": "Oculum Convox",
+      "heading": null,
+      "resolved": "Org/Oculum Convox/index",
+      "source": "Org/Actinium Convox/index",
+      "target": "Org/Oculum Convox/index"
+    },
+    {
+      "alias": "John Kilgore",
+      "heading": null,
+      "resolved": "People/John Kilgore",
+      "source": "Org/Actinium Convox/index",
+      "target": "People/John Kilgore"
     },
     {
       "alias": "Alkahest Freight",
@@ -9358,6 +9554,69 @@
       "resolved": "Org/The Harlequins/Providence/index",
       "source": "Org/NecroLog/index",
       "target": "Org/The Harlequins/Providence"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Org/Oculum Convox/Ethics Gradient",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Oculum Convox",
+      "heading": null,
+      "resolved": "Org/Oculum Convox/index",
+      "source": "Org/Oculum Convox/Ethics Gradient",
+      "target": "Org/Oculum Convox/index"
+    },
+    {
+      "alias": "Gray Area",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/Gray Area",
+      "source": "Org/Oculum Convox/Ethics Gradient",
+      "target": "Org/Actinium Convox/Gray Area"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Org/Oculum Convox/Ethics Gradient",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Org/Oculum Convox/index",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Org/Oculum Convox/index",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "Ethics Gradient",
+      "heading": null,
+      "resolved": "Org/Oculum Convox/Ethics Gradient",
+      "source": "Org/Oculum Convox/index",
+      "target": "Org/Oculum Convox/Ethics Gradient"
+    },
+    {
+      "alias": "Gray Area",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/Gray Area",
+      "source": "Org/Oculum Convox/index",
+      "target": "Org/Actinium Convox/Gray Area"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "Org/Oculum Convox/index",
+      "target": "Org/Actinium Convox/index"
     },
     {
       "alias": "Widdershins",
@@ -13623,6 +13882,13 @@
       "target": "Divinity/Ashen Pact/Herald"
     },
     {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "People/Banyan",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
       "alias": "Undercroft",
       "heading": null,
       "resolved": "Geography/Færrin/Istria/Iomenei/Undercroft",
@@ -13880,6 +14146,13 @@
       "resolved": "Org/Amber Call/People/Mr. Whiskers",
       "source": "People/Cora Honeysap",
       "target": "Org/Amber Call/People/Mr. Whiskers"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "People/Crindle Vilksnake",
+      "target": "Org/Actinium Convox/index"
     },
     {
       "alias": "Vane",
@@ -14358,6 +14631,20 @@
       "target": "Divinity/Ashen Pact/Herald"
     },
     {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "People/Giancarlo Santucci",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "Host",
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/Iridescent Host",
+      "source": "People/Giancarlo Santucci",
+      "target": "Iridescent Host"
+    },
+    {
       "alias": "Undercroft",
       "heading": null,
       "resolved": "Geography/Færrin/Istria/Iomenei/Undercroft",
@@ -14489,6 +14776,27 @@
       "resolved": "Org/Bisney and Dixar/Arcane Intelligence",
       "source": "People/Jaskar",
       "target": "Org/Bisney and Dixar/Arcane Intelligence"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "People/John Kilgore",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "People/John Kilgore",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Orilon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/Orilon/index",
+      "source": "People/John Kilgore",
+      "target": "Geography/Færrin/Raelion/Orilon/index"
     },
     {
       "alias": "Iconoclasm",
@@ -16409,6 +16717,34 @@
       "target": "Org/NecroLog/index"
     },
     {
+      "alias": "weave",
+      "heading": null,
+      "resolved": "Phenomena/Weave",
+      "source": "Phenomena/Ley Line",
+      "target": "Phenomena/Weave"
+    },
+    {
+      "alias": "Orilon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/Orilon/index",
+      "source": "Phenomena/Ley Line",
+      "target": "Geography/Færrin/Raelion/Orilon/index"
+    },
+    {
+      "alias": "Midnight Sun",
+      "heading": null,
+      "resolved": "Phenomena/Midnight Sun",
+      "source": "Phenomena/Ley Line",
+      "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Raelion",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/index",
+      "source": "Phenomena/Ley Line",
+      "target": "Geography/Færrin/Raelion/index"
+    },
+    {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
@@ -16456,6 +16792,41 @@
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Phenomena/Manifestation",
       "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Actinium Convox",
+      "heading": null,
+      "resolved": "Org/Actinium Convox/index",
+      "source": "Phenomena/Midnight Sun",
+      "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "ley line",
+      "heading": null,
+      "resolved": "Phenomena/Ley Line",
+      "source": "Phenomena/Midnight Sun",
+      "target": "Phenomena/Ley Line"
+    },
+    {
+      "alias": "weave",
+      "heading": null,
+      "resolved": "Phenomena/Weave",
+      "source": "Phenomena/Midnight Sun",
+      "target": "Phenomena/Weave"
+    },
+    {
+      "alias": "Raelion",
+      "heading": null,
+      "resolved": "Geography/Færrin/Raelion/index",
+      "source": "Phenomena/Midnight Sun",
+      "target": "Geography/Færrin/Raelion/index"
+    },
+    {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Phenomena/Midnight Sun",
+      "target": "Phenomena/Hearts"
     },
     {
       "alias": "Hallia",
@@ -25301,9 +25672,127 @@
     {
       "crossrefs": [
         {
-          "alias": null,
+          "alias": "Heart",
           "heading": null,
-          "target": "Raelion"
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Orilon",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/Orilon/index"
+        },
+        {
+          "alias": "The Compelled",
+          "heading": null,
+          "target": "Divinity/Outer Gods/The Compelled"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Heart"
+        ],
+        "title": null
+      },
+      "path": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Raelion",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/index"
+        },
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Bones Have Eyes",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/Orilon/Bones Have Eyes"
+        },
+        {
+          "alias": "Raelion",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/index"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Geography/Færrin/Raelion/Orilon/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "The Compelled",
+          "heading": null,
+          "target": "Divinity/Outer Gods/The Compelled"
+        },
+        {
+          "alias": "Host",
+          "heading": null,
+          "target": "Iridescent Host"
+        },
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "Iridescent Church",
+          "heading": null,
+          "target": "Org/Iridescent Church/index"
+        },
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        },
+        {
+          "alias": "Orilon",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/Orilon/index"
+        },
+        {
+          "alias": "ley line",
+          "heading": null,
+          "target": "Phenomena/Ley Line"
         }
       ],
       "date": "2026-06-06T22:12:21-04:00",
@@ -25418,6 +25907,11 @@
           "alias": "Raelion",
           "heading": null,
           "target": "Geography/Færrin/Raelion/index"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
         }
       ],
       "date": "2026-06-06T22:12:21-04:00",
@@ -25662,6 +26156,102 @@
         "title": null
       },
       "path": "Geography/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        },
+        {
+          "alias": "Ethics Gradient",
+          "heading": null,
+          "target": "Org/Oculum Convox/Ethics Gradient"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Heart"
+        ],
+        "title": null
+      },
+      "path": "Org/Actinium Convox/Gray Area"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "Iridescent Church",
+          "heading": null,
+          "target": "Org/Iridescent Church/index"
+        },
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Gray Area",
+          "heading": null,
+          "target": "Org/Actinium Convox/Gray Area"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        },
+        {
+          "alias": "Ethics Gradient",
+          "heading": null,
+          "target": "Org/Oculum Convox/Ethics Gradient"
+        },
+        {
+          "alias": "Oculum Convox",
+          "heading": null,
+          "target": "Org/Oculum Convox/index"
+        },
+        {
+          "alias": "John Kilgore",
+          "heading": null,
+          "target": "People/John Kilgore"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Host",
+          "Weapons"
+        ],
+        "title": null
+      },
+      "path": "Org/Actinium Convox/index"
     },
     {
       "crossrefs": [
@@ -29976,6 +30566,91 @@
         "title": null
       },
       "path": "Org/NecroLog/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Oculum Convox",
+          "heading": null,
+          "target": "Org/Oculum Convox/index"
+        },
+        {
+          "alias": "Gray Area",
+          "heading": null,
+          "target": "Org/Actinium Convox/Gray Area"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Heart"
+        ],
+        "title": null
+      },
+      "path": "Org/Oculum Convox/Ethics Gradient"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "Ethics Gradient",
+          "heading": null,
+          "target": "Org/Oculum Convox/Ethics Gradient"
+        },
+        {
+          "alias": "Gray Area",
+          "heading": null,
+          "target": "Org/Actinium Convox/Gray Area"
+        },
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Host"
+        ],
+        "title": null
+      },
+      "path": "Org/Oculum Convox/index"
     },
     {
       "crossrefs": [
@@ -35426,6 +36101,31 @@
     {
       "crossrefs": [
         {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Orc"
+        ],
+        "title": null
+      },
+      "path": "People/Banyan"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Undercroft",
           "heading": null,
           "target": "Geography/Færrin/Istria/Iomenei/Undercroft"
@@ -35705,6 +36405,29 @@
         "title": null
       },
       "path": "People/Cora Honeysap"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Crindle Vilksnake"
     },
     {
       "crossrefs": [
@@ -36323,6 +37046,38 @@
     {
       "crossrefs": [
         {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        },
+        {
+          "alias": "Host",
+          "heading": null,
+          "target": "Iridescent Host"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Giancarlo"
+        ],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Human"
+        ],
+        "title": null
+      },
+      "path": "People/Giancarlo Santucci"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Undercroft",
           "heading": null,
           "target": "Geography/Færrin/Istria/Iomenei/Undercroft"
@@ -36510,6 +37265,41 @@
         "title": null
       },
       "path": "People/Jaskar"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        },
+        {
+          "alias": "Orilon",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/Orilon/index"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Dwarf"
+        ],
+        "title": null
+      },
+      "path": "People/John Kilgore"
     },
     {
       "crossrefs": [
@@ -39013,6 +39803,44 @@
     {
       "crossrefs": [
         {
+          "alias": "weave",
+          "heading": null,
+          "target": "Phenomena/Weave"
+        },
+        {
+          "alias": "Orilon",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/Orilon/index"
+        },
+        {
+          "alias": "Midnight Sun",
+          "heading": null,
+          "target": "Phenomena/Midnight Sun"
+        },
+        {
+          "alias": "Raelion",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/index"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Ley Line"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
@@ -39082,6 +39910,49 @@
         "title": null
       },
       "path": "Phenomena/Manifestation"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Actinium Convox",
+          "heading": null,
+          "target": "Org/Actinium Convox/index"
+        },
+        {
+          "alias": "ley line",
+          "heading": null,
+          "target": "Phenomena/Ley Line"
+        },
+        {
+          "alias": "weave",
+          "heading": null,
+          "target": "Phenomena/Weave"
+        },
+        {
+          "alias": "Raelion",
+          "heading": null,
+          "target": "Geography/Færrin/Raelion/index"
+        },
+        {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        }
+      ],
+      "date": "2024-10-21T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "the-midnight-sun"
+        ],
+        "extra": {
+          "date": "2024-10-21T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Midnight Sun"
     },
     {
       "crossrefs": [
@@ -40066,10 +40937,6 @@
     {
       "source": "Geography/Færrin/Calaria/Hallia/the Horizon/index",
       "target": "the Host"
-    },
-    {
-      "source": "Geography/Færrin/Raelion/index",
-      "target": "Raelion"
     },
     {
       "source": "Org/Chorath Engineering",

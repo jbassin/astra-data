@@ -15,6 +15,9 @@ entity "a Will save" {
     alias "Uh\\s*We'll\\s*save"
     source "defs"
 }
+entity "Actinium Convox" kind="org" page="Org/Actinium Convox/index" {
+    source "akasha"
+}
 entity "Adzuki" kind="person" being="noah" {
     source "being"
 }
@@ -358,6 +361,9 @@ entity "Black and White" kind="place" page="Geography/Færrin/Alternate Planes/B
 entity "Blackline" kind="org" page="Org/Blackline/index" {
     source "akasha"
 }
+entity "Bones Have Eyes" kind="place" page="Geography/Færrin/Raelion/Orilon/Bones Have Eyes" {
+    source "akasha"
+}
 entity "Bontillidarts" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Bontillidarts" {
     source "akasha"
 }
@@ -696,6 +702,9 @@ entity "Eternal Pulse" kind="deity" page="Divinity/Outer Gods/Eternal Pulse" {
 entity "Ethervolt" kind="org" page="Org/Ethervolt/index" {
     source "akasha"
 }
+entity "Ethics Gradient" kind="org" page="Org/Oculum Convox/Ethics Gradient" {
+    source "akasha"
+}
 entity "Ewan McFoster" kind="person" page="Org/Iridescent Church/Convox/Magical Crimes/People/Ewan McFoster" {
     alias "McFoster"
     alias "Ewan"
@@ -949,6 +958,9 @@ entity "Godly Interplay" kind="deity" page="Divinity/Godly Interplay" {
 }
 entity "Grant" kind="person" being="jorge" {
     source "being"
+}
+entity "Gray Area" kind="org" page="Org/Actinium Convox/Gray Area" {
+    source "akasha"
 }
 entity "Grayson" {
     alias "Graystone"
@@ -1387,6 +1399,9 @@ entity "Letov Obratz" kind="person" page="Org/Garrick Textiles/People/Letov Obra
 entity "Lev" kind="person" being="jorge" {
     source "being"
 }
+entity "Ley Line" kind="phenomenon" page="Phenomena/Ley Line" {
+    source "akasha"
+}
 entity "Lifeline" kind="org" page="Org/The Harlequins/Providence/Lifeline" {
     source "akasha"
 }
@@ -1532,6 +1547,9 @@ entity "Mickey Ironroots" kind="person" page="Org/Iridescent Church/Convox/Magic
     alias "Mickey"
     source "akasha"
 }
+entity "Midnight Sun" kind="phenomenon" page="Phenomena/Midnight Sun" {
+    source "akasha"
+}
 entity "Mika" kind="person" being="tanner" {
     source "being"
 }
@@ -1608,6 +1626,9 @@ entity "occultism" {
     alias "Heraclitism"
     source "defs"
 }
+entity "Oculum Convox" kind="org" page="Org/Oculum Convox/index" {
+    source "akasha"
+}
 entity "of Hallia" {
     alias "of Hellion"
     alias "of\\s*Alia"
@@ -1654,6 +1675,9 @@ entity "Org" kind="org" page="Org/index" {
     alias "Borg"
     source "akasha"
     source "defs"
+}
+entity "Orilon" kind="place" page="Geography/Færrin/Raelion/Orilon/index" {
+    source "akasha"
 }
 entity "orreries" {
     alias "oraries"
