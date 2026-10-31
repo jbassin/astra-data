@@ -7,8 +7,8 @@ for the wiki and its images (`akasha/content/`, `akasha/assets/`), made in your 
 in the live clone at
 `/ruby/data/astra-state/astra-data` (an uncommitted edit there makes heartwood refuse to run).
 Pull first, keep the commit small, and push promptly, since a bot commit to the same lines
-makes the bots' rebase fail. akasha-frontend bakes `akasha/snapshot/akasha-snapshot.json`, not
-the pages, so a page edit needs the snapshot (and, for a new or renamed page, the entity
+makes the bots' rebase fail. akasha-frontend takes page bodies from `akasha/content/` but the page
+list, titles and links from `akasha/snapshot/akasha-snapshot.json`, so a page edit needs the snapshot (and, for a new or renamed page, the entity
 registry) regenerated in the same clone: from an astra checkout, run
 `ASTRA_CONTENT_ROOT=<your clone> uv run akasha-snapshot` and
 `ASTRA_CONTENT_ROOT=<your clone> uv run astra-ontology-entity-seed`, and commit both files. A
