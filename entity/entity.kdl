@@ -340,6 +340,9 @@ entity "Bev Sirnow" {
     alias "Bev Cerno"
     source "defs"
 }
+entity "Billy Pebbles" kind="person" being="tanner" {
+    source "being"
+}
 entity "Bioarcanic Engineering" kind="phenomenon" page="Phenomena/Althane/Bioarcanic Engineering" {
     source "akasha"
 }
@@ -458,9 +461,10 @@ entity "Chorath Engineering" kind="org" page="Org/Chorath Engineering" {
 entity "Chris Gangle" kind="person" being="mike" {
     source "being"
 }
-entity "Chuck" kind="person" page="Org/The Harlequins/People/Chuck" {
+entity "Chuck" kind="person" page="Org/The Harlequins/People/Chuck" being="mike" {
     alias "Butler"
     source "akasha"
+    source "being"
 }
 entity "Church of Shadow" kind="org" page="Org/Althane/Church of Shadow" {
     source "akasha"
@@ -811,6 +815,9 @@ entity "Fracture Compound" kind="place" page="Geography/Færrin/Infinite Horizon
 entity "Friends of Aut" kind="org" page="Org/Friends of Aut" {
     source "akasha"
 }
+entity "Fulton" kind="person" being="josh" {
+    source "being"
+}
 entity "Færrin" kind="place" page="Geography/Færrin/index" {
     alias "Faerrin"
     alias "Farron"
@@ -977,6 +984,9 @@ entity "Guren and Guren" kind="org" page="Org/Guren and Guren/index" {
 }
 entity "Hadal Tap" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/Hadal Tap" {
     source "akasha"
+}
+entity "Hades" kind="person" being="jorge" {
+    source "being"
 }
 entity "Hallia" kind="place" page="Geography/Færrin/Calaria/Hallia/index" {
     alias "Halia"
@@ -1728,6 +1738,9 @@ entity "PaSuun" {
 entity "Pennywright's Last Stand" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Pennywright's Last Stand" {
     source "akasha"
 }
+entity "Pete" kind="person" being="josh" {
+    source "being"
+}
 entity "Petr" kind="deity" page="Divinity/The Narrative/Petr" {
     alias "P'ter"
     alias "Petr"
@@ -1880,6 +1893,9 @@ entity "Regent" kind="deity" page="Divinity/Ashen Pact/Regent" {
     source "akasha"
     source "defs"
 }
+entity "Ren" kind="person" being="jorge" {
+    source "being"
+}
 entity "Renge" kind="deity" page="Divinity/The Narrative/Renge" {
     alias "Renge"
     alias "the Fickle Mistress"
@@ -1932,6 +1948,9 @@ entity "RunGunners" kind="org" page="Org/RunGunners/index" {
     alias "run gunners"
     source "akasha"
     source "defs"
+}
+entity "Runway Brian" kind="person" being="mike" {
+    source "being"
 }
 entity "Sable and Suns" kind="org" page="Org/Sable and Suns/index" {
     alias "Sable and Sons"
