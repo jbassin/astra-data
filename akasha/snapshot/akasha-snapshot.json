@@ -1184,6 +1184,13 @@
       "target": "People/Althane/Karen Sill"
     },
     {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
       "alias": "the Broker",
       "heading": null,
       "resolved": "People/Althane/The Broker",
@@ -15695,6 +15702,13 @@
       "target": "Bestiary/Rule of Beasts"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Rowan",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Kaathe",
       "heading": null,
       "resolved": "Bestiary/Kaathe",
@@ -22339,6 +22353,11 @@
           "target": "People/Althane/Karen Sill"
         },
         {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
           "alias": "the Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
@@ -22349,7 +22368,7 @@
           "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-03-31T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "the Feep",
@@ -22359,7 +22378,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-03-31T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41223,6 +41242,29 @@
         "title": null
       },
       "path": "People/Althane/Reginald Atorvas"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        }
+      ],
+      "date": "2025-03-31T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-03-31T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Althane/Rowan"
     },
     {
       "crossrefs": [
