@@ -579,6 +579,9 @@ entity "Dame Quay" kind="person" page="Org/The Scale/People/Dame Quay" {
     source "akasha"
     source "defs"
 }
+entity "Damien" kind="place" page="Geography/Althane/The Hollow/Lava Ruin/Damien" {
+    source "akasha"
+}
 entity "Davar" kind="place" page="Geography/Althane/Realms/Davar" {
     source "akasha"
 }
@@ -961,6 +964,9 @@ entity "Godhome" kind="place" page="Geography/Færrin/Alternate Planes/Godhome" 
     source "defs"
 }
 entity "Godly Interplay" kind="deity" page="Divinity/Godly Interplay" {
+    source "akasha"
+}
+entity "Godpiercer" kind="phenomenon" page="Phenomena/Althane/Godpiercer" {
     source "akasha"
 }
 entity "Golden Sparrows" kind="org" page="Org/Althane/Golden Sparrows" {
@@ -1398,7 +1404,7 @@ entity "Lark Crowe" kind="person" page="Org/Sable and Suns/People/Lark Crowe" {
     source "akasha"
     source "defs"
 }
-entity "Lava Ruin" kind="place" page="Geography/Althane/The Hollow/Lava Ruin" {
+entity "Lava Ruin" kind="place" page="Geography/Althane/The Hollow/Lava Ruin/index" {
     source "akasha"
 }
 entity "Ledger, Ledger, and Light" kind="place" page="Geography/Færrin/Calaria/Hallia/Ledger, Ledger, and Light" {

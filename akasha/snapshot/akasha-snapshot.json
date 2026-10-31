@@ -3585,45 +3585,101 @@
       "target": "Org/Althane/The Triptych"
     },
     {
+      "alias": "Heart",
+      "heading": null,
+      "resolved": "Phenomena/Hearts",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "Phenomena/Hearts"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "People/Althane/Lev"
+    },
+    {
       "alias": "anticyclic",
       "heading": null,
       "resolved": "Phenomena/Althane/Cycle",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "Phenomena/Althane/Cycle"
     },
     {
       "alias": "Hollow",
       "heading": null,
       "resolved": "Geography/Althane/The Hollow/index",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "Geography/Althane/The Hollow/index"
     },
     {
       "alias": "Oresk",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/index",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "Geography/Althane/Oresk/index"
     },
     {
       "alias": "Damien",
       "heading": null,
       "resolved": "People/Althane/Damien",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "People/Althane/Damien"
     },
     {
       "alias": "Igni Sprites",
       "heading": "Igni Sprite",
       "resolved": "Bestiary/Elementals",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "Bestiary/Elementals"
+    },
+    {
+      "alias": "Damien",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "alias": "Damien",
+      "heading": null,
+      "resolved": "People/Althane/Damien",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "target": "People/Althane/Damien"
     },
     {
       "alias": "Hepatian",
       "heading": null,
       "resolved": "Phenomena/Althane/Hepatian",
-      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/index",
       "target": "Phenomena/Althane/Hepatian"
     },
     {
@@ -3664,7 +3720,7 @@
     {
       "alias": "lava ruin",
       "heading": null,
-      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
       "source": "Geography/Althane/The Hollow/index",
       "target": "Geography/Althane/The Hollow/Lava Ruin"
     },
@@ -7419,6 +7475,20 @@
       "resolved": "People/Althane/SeRaan",
       "source": "Org/Althane/The Weft",
       "target": "People/Althane/SeRaan"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+    },
+    {
+      "alias": "Damien",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
     },
     {
       "alias": "Sanguis Noxa",
@@ -13471,9 +13541,9 @@
     {
       "alias": "the lava ruin",
       "heading": null,
-      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
       "source": "People/Althane/Damien",
-      "target": "Geography/Althane/The Hollow/Lava Ruin"
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
     },
     {
       "alias": "Oreskian",
@@ -13516,6 +13586,20 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Dawnmonger",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
     },
     {
       "alias": "Lev",
@@ -14087,7 +14171,7 @@
     {
       "alias": "the lava ruin",
       "heading": null,
-      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
       "source": "People/Althane/Schism",
       "target": "Geography/Althane/The Hollow/Lava Ruin"
     },
@@ -16675,6 +16759,48 @@
       "target": "Org/Althane/The Trust"
     },
     {
+      "alias": "forge-heart",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+    },
+    {
+      "alias": "holy gold",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Phenomena/Holy Gold"
+    },
+    {
+      "alias": "narrative",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/index",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Divinity/The Narrative/index"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "People/Althane/The Broker"
+    },
+    {
       "alias": "Toleros",
       "heading": null,
       "resolved": "Geography/Althane/Salores/Toleros/index",
@@ -16712,7 +16838,7 @@
     {
       "alias": "the lava ruin",
       "heading": null,
-      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
       "source": "Phenomena/Althane/Hepatian",
       "target": "Geography/Althane/The Hollow/Lava Ruin"
     },
@@ -23726,6 +23852,56 @@
     {
       "crossrefs": [
         {
+          "alias": "Heart",
+          "heading": null,
+          "target": "Phenomena/Hearts"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        }
+      ],
+      "date": "2024-12-02T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-02T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "heart"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "anticyclic",
           "heading": null,
           "target": "Phenomena/Althane/Cycle"
@@ -23751,19 +23927,29 @@
           "target": "Bestiary/Elementals"
         },
         {
+          "alias": "Damien",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+        },
+        {
+          "alias": "Damien",
+          "heading": null,
+          "target": "People/Althane/Damien"
+        },
+        {
           "alias": "Hepatian",
           "heading": null,
           "target": "Phenomena/Althane/Hepatian"
         }
       ],
-      "date": "2024-11-11T00:00:00-04:00",
+      "date": "2024-12-02T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-11T00:00:00-04:00"
+          "date": "2024-12-02T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -23771,7 +23957,7 @@
         ],
         "title": null
       },
-      "path": "Geography/Althane/The Hollow/Lava Ruin"
+      "path": "Geography/Althane/The Hollow/Lava Ruin/index"
     },
     {
       "crossrefs": [
@@ -28713,16 +28899,26 @@
           "alias": "SeRaan",
           "heading": null,
           "target": "People/Althane/SeRaan"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+        },
+        {
+          "alias": "Damien",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
         }
       ],
-      "date": "2024-11-11T00:00:00-04:00",
+      "date": "2024-12-02T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-11T00:00:00-04:00"
+          "date": "2024-12-02T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -36450,7 +36646,7 @@
         {
           "alias": "the lava ruin",
           "heading": null,
-          "target": "Geography/Althane/The Hollow/Lava Ruin"
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
         },
         {
           "alias": "Oreskian",
@@ -36463,17 +36659,19 @@
           "target": "Geography/Althane/Athrea/Noxfell"
         }
       ],
-      "date": "2024-11-11T00:00:00-04:00",
+      "date": "2024-12-02T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-11T00:00:00-04:00"
+          "date": "2024-12-02T00:00:00-04:00"
         },
         "img": null,
-        "tags": [],
+        "tags": [
+          "human"
+        ],
         "title": null
       },
       "path": "People/Althane/Damien"
@@ -36499,16 +36697,26 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-02T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-02T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -40636,6 +40844,56 @@
         "title": null
       },
       "path": "Phenomena/Althane/Cycle"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "forge-heart",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+        },
+        {
+          "alias": "holy gold",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "narrative",
+          "heading": null,
+          "target": "Divinity/The Narrative/index"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        }
+      ],
+      "date": "2024-12-02T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-02T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "artifact"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Godpiercer"
     },
     {
       "crossrefs": [
