@@ -3354,6 +3354,27 @@
       "target": "Divinity/Unknown Entities/The Deep"
     },
     {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
       "alias": "Oresk",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/index",
@@ -7839,6 +7860,27 @@
       "resolved": "Bestiary/Mimics",
       "source": "Org/Althane/The Weft",
       "target": "Bestiary/Mimics"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/Oresk/RC3"
     },
     {
       "alias": "Sanguis Noxa",
@@ -14120,7 +14162,7 @@
       "target": "People/Althane/Aliaksandr Sarken"
     },
     {
-      "alias": "The Weft",
+      "alias": "the Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Halidex Op-B",
@@ -14132,6 +14174,13 @@
       "resolved": "People/Althane/Tennobrin Er-K",
       "source": "People/Althane/Halidex Op-B",
       "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Halidex Op-B",
+      "target": "Geography/Althane/Oresk/RC3"
     },
     {
       "alias": "Oreskian",
@@ -14631,18 +14680,25 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "First House",
+      "alias": "the First House",
       "heading": null,
       "resolved": "Org/Althane/The First House",
       "source": "People/Althane/Rampart",
       "target": "Org/Althane/The First House"
     },
     {
-      "alias": "Lev",
+      "alias": "the Weft",
       "heading": null,
-      "resolved": "People/Althane/Lev",
+      "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Rampart",
-      "target": "People/Althane/Lev"
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "The Slipseer",
+      "heading": null,
+      "resolved": "People/Althane/The Slipseer",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/The Slipseer"
     },
     {
       "alias": "Hali",
@@ -14657,6 +14713,27 @@
       "resolved": "People/Althane/Tennobrin Er-K",
       "source": "People/Althane/Rampart",
       "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Rampart",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "People/Althane/Rampart",
+      "target": "Divinity/Unknown Entities/Nox"
     },
     {
       "alias": "Crimson Sigil",
@@ -14757,6 +14834,13 @@
       "target": "People/Althane/Halidex Op-B"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Tennobrin Er-K",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
       "alias": "the Broker's",
       "heading": null,
       "resolved": "People/Althane/The Broker",
@@ -14813,7 +14897,7 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "Karkov's",
+      "alias": "Karkov",
       "heading": null,
       "resolved": "People/Althane/Karkov",
       "source": "People/Althane/The Slipseer",
@@ -14832,6 +14916,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/The Slipseer",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Rampart",
+      "heading": null,
+      "resolved": "People/Althane/Rampart",
+      "source": "People/Althane/The Slipseer",
+      "target": "People/Althane/Rampart"
     },
     {
       "alias": "Lev",
@@ -23988,16 +24079,31 @@
           "alias": "Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
         }
       ],
-      "date": "2025-01-13T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-13T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29723,14 +29829,14 @@
           "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2024-12-23T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-23T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -30010,16 +30116,31 @@
           "alias": "tzitzimitl",
           "heading": null,
           "target": "Bestiary/Mimics"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
         }
       ],
-      "date": "2024-12-23T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-23T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38088,7 +38209,7 @@
           "target": "People/Althane/Aliaksandr Sarken"
         },
         {
-          "alias": "The Weft",
+          "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
         },
@@ -38096,16 +38217,21 @@
           "alias": "Tenno",
           "heading": null,
           "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38348,7 +38474,7 @@
           "target": "People/Althane/Masha"
         }
       ],
-      "date": "2025-01-06T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -38357,7 +38483,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-06T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38759,14 +38885,19 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "First House",
+          "alias": "the First House",
           "heading": null,
           "target": "Org/Althane/The First House"
         },
         {
-          "alias": "Lev",
+          "alias": "the Weft",
           "heading": null,
-          "target": "People/Althane/Lev"
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "The Slipseer",
+          "heading": null,
+          "target": "People/Althane/The Slipseer"
         },
         {
           "alias": "Hali",
@@ -38777,9 +38908,24 @@
           "alias": "Tenno",
           "heading": null,
           "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Viktor Kozlovsky"
@@ -38788,7 +38934,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38929,16 +39075,21 @@
           "alias": "Hali's",
           "heading": null,
           "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -39049,7 +39200,7 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "Karkov's",
+          "alias": "Karkov",
           "heading": null,
           "target": "People/Althane/Karkov"
         },
@@ -39064,12 +39215,17 @@
           "target": "Org/Althane/The Weft"
         },
         {
+          "alias": "Rampart",
+          "heading": null,
+          "target": "People/Althane/Rampart"
+        },
+        {
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-01-22T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Slips"
@@ -39078,7 +39234,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-01-22T00:00:00-04:00"
         },
         "img": null,
         "tags": [
