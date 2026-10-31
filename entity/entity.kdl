@@ -2717,6 +2717,9 @@ entity "War" kind="deity" page="Divinity/Ashen Pact/War" {
     source "akasha"
     source "defs"
 }
+entity "Wasting Fever" kind="phenomenon" page="Phenomena/Althane/Wasting Fever" {
+    source "akasha"
+}
 entity "Watcher With 1,000 Eyes" kind="deity" page="Divinity/Outer Gods/Watcher With 1,000 Eyes" {
     alias "Watcher"
     source "akasha"

@@ -2633,6 +2633,13 @@
       "target": "People/Althane/Lev"
     },
     {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "People/Althane/Lev"
+    },
+    {
       "alias": "Renge",
       "heading": null,
       "resolved": "Divinity/The Narrative/Renge",
@@ -3249,11 +3256,11 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "Karkov",
+      "alias": "the Occident",
       "heading": null,
-      "resolved": "People/Althane/Karkov",
+      "resolved": "Geography/Althane/The Occident",
       "source": "Geography/Althane/Oresk/Sarengrad",
-      "target": "People/Althane/Karkov"
+      "target": "Geography/Althane/The Occident"
     },
     {
       "alias": "Golden Sparrows",
@@ -3261,6 +3268,27 @@
       "resolved": "Org/Althane/Golden Sparrows",
       "source": "Geography/Althane/Oresk/Sarengrad",
       "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Geography/Althane/Oresk/Sarengrad",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Geography/Althane/Oresk/Sarengrad",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "Geography/Althane/Oresk/Sarengrad",
+      "target": "Phenomena/Althane/Wasting Fever"
     },
     {
       "alias": "Oresk",
@@ -7183,11 +7211,39 @@
       "target": "People/Althane/Lev"
     },
     {
+      "alias": "Masha",
+      "heading": null,
+      "resolved": "People/Althane/Masha",
+      "source": "Org/Althane/Golden Sparrows",
+      "target": "People/Althane/Masha"
+    },
+    {
+      "alias": "Wojciech",
+      "heading": null,
+      "resolved": "People/Althane/Wojciech",
+      "source": "Org/Althane/Golden Sparrows",
+      "target": "People/Althane/Wojciech"
+    },
+    {
       "alias": "Sarengrad",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/Sarengrad",
       "source": "Org/Althane/Golden Sparrows",
       "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Oreskian government",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Org/Althane/Golden Sparrows",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "Org/Althane/Golden Sparrows",
+      "target": "Phenomena/Althane/Wasting Fever"
     },
     {
       "alias": "Kerneyy Prison Outpost",
@@ -7426,6 +7482,41 @@
       "resolved": "People/Althane/Henrik",
       "source": "Org/Althane/The First House",
       "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "Kirov",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Kirov",
+      "source": "Org/Althane/The First House",
+      "target": "Geography/Althane/Oresk/Kirov"
+    },
+    {
+      "alias": "Sarengrad",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "source": "Org/Althane/The First House",
+      "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Sparrows",
+      "heading": null,
+      "resolved": "Org/Althane/Golden Sparrows",
+      "source": "Org/Althane/The First House",
+      "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "Org/Althane/The First House",
+      "target": "Phenomena/Althane/Wasting Fever"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Org/Althane/The First House",
+      "target": "Divinity/Unknown Entities/Nox"
     },
     {
       "alias": "Followers of the Path",
@@ -13896,11 +13987,25 @@
       "target": "Org/Althane/Golden Sparrows"
     },
     {
+      "alias": "Wojciech",
+      "heading": null,
+      "resolved": "People/Althane/Wojciech",
+      "source": "People/Althane/Henrik",
+      "target": "People/Althane/Wojciech"
+    },
+    {
       "alias": "First House",
       "heading": null,
       "resolved": "Org/Althane/The First House",
       "source": "People/Althane/Henrik",
       "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "People/Althane/Henrik",
+      "target": "Phenomena/Althane/Wasting Fever"
     },
     {
       "alias": "Lev",
@@ -14043,6 +14148,13 @@
       "target": "People/Althane/Rampart"
     },
     {
+      "alias": "Masha",
+      "heading": null,
+      "resolved": "People/Althane/Masha",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Masha"
+    },
+    {
       "alias": "Ifrit",
       "heading": "Ifrit",
       "resolved": "Bestiary/Realmtouched",
@@ -14162,6 +14274,13 @@
       "target": "Divinity/Unknown Entities/The Deep"
     },
     {
+      "alias": "Xanthin Oreskalka",
+      "heading": null,
+      "resolved": "People/Althane/Xanthin Oreskalka",
+      "source": "People/Althane/Lev",
+      "target": "People/Althane/Xanthin Oreskalka"
+    },
+    {
       "alias": "Henrik",
       "heading": null,
       "resolved": "People/Althane/Henrik",
@@ -14230,6 +14349,41 @@
       "resolved": "Bestiary/Spark of Humanity",
       "source": "People/Althane/Luca Merino",
       "target": "Bestiary/Spark of Humanity"
+    },
+    {
+      "alias": "Golden Sparrows",
+      "heading": null,
+      "resolved": "Org/Althane/Golden Sparrows",
+      "source": "People/Althane/Masha",
+      "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "People/Althane/Masha",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/Masha",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "the creature from below",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Masha",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Wojciech",
+      "heading": null,
+      "resolved": "People/Althane/Wojciech",
+      "source": "People/Althane/Masha",
+      "target": "People/Althane/Wojciech"
     },
     {
       "alias": "Aasimar",
@@ -14435,6 +14589,20 @@
       "target": "People/Althane/Terexanthes"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/The Broker",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/The Broker",
+      "target": "Org/Althane/The First House"
+    },
+    {
       "alias": "Illyara",
       "heading": null,
       "resolved": "Geography/Althane/Illyara/index",
@@ -14510,6 +14678,62 @@
       "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
       "source": "People/Althane/Warrant Officer Ellis",
       "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Golden Sparrows",
+      "heading": null,
+      "resolved": "Org/Althane/Golden Sparrows",
+      "source": "People/Althane/Wojciech",
+      "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "Sarengrad",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "source": "People/Althane/Wojciech",
+      "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "People/Althane/Wojciech",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Wojciech",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Masha",
+      "heading": null,
+      "resolved": "People/Althane/Masha",
+      "source": "People/Althane/Wojciech",
+      "target": "People/Althane/Masha"
+    },
+    {
+      "alias": "Oreskalka Cabal",
+      "heading": null,
+      "resolved": "Org/Althane/Oreskalka Cabal",
+      "source": "People/Althane/Xanthin Oreskalka",
+      "target": "Org/Althane/Oreskalka Cabal"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Xanthin Oreskalka",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/Xanthin Oreskalka",
+      "target": "Org/Althane/The First House"
     },
     {
       "alias": "Human",
@@ -17235,6 +17459,27 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Phenomena/Althane/Sanguis Noxa",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "Phenomena/Althane/Sanguis Noxa",
+      "target": "Phenomena/Althane/Wasting Fever"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Phenomena/Althane/Sanguis Noxa",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -17268,6 +17513,41 @@
       "resolved": "Geography/Althane/Salores/Vallastela",
       "source": "Phenomena/Althane/Tidal",
       "target": "Geography/Althane/Salores/Vallastela"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Phenomena/Althane/Wasting Fever",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Phenomena/Althane/Wasting Fever",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "vampirism",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Sanguis Noxa",
+      "source": "Phenomena/Althane/Wasting Fever",
+      "target": "Phenomena/Althane/Sanguis Noxa"
+    },
+    {
+      "alias": "Sparrows",
+      "heading": null,
+      "resolved": "Org/Althane/Golden Sparrows",
+      "source": "Phenomena/Althane/Wasting Fever",
+      "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Phenomena/Althane/Wasting Fever",
+      "target": "Org/Althane/The First House"
     },
     {
       "alias": "Occident",
@@ -22148,16 +22428,21 @@
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -23380,24 +23665,39 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "Karkov",
+          "alias": "the Occident",
           "heading": null,
-          "target": "People/Althane/Karkov"
+          "target": "Geography/Althane/The Occident"
         },
         {
           "alias": "Golden Sparrows",
           "heading": null,
           "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28569,9 +28869,29 @@
           "target": "People/Althane/Lev"
         },
         {
+          "alias": "Masha",
+          "heading": null,
+          "target": "People/Althane/Masha"
+        },
+        {
+          "alias": "Wojciech",
+          "heading": null,
+          "target": "People/Althane/Wojciech"
+        },
+        {
           "alias": "Sarengrad",
           "heading": null,
           "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Oreskian government",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
         },
         {
           "alias": "Kerneyy Prison Outpost",
@@ -28579,14 +28899,14 @@
           "target": "Geography/Althane/Oresk/Kerneyy Prison Outpost"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28981,16 +29301,41 @@
           "alias": "Henrik",
           "heading": null,
           "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "Kirov",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Kirov"
+        },
+        {
+          "alias": "Sarengrad",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Sparrows",
+          "heading": null,
+          "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37353,9 +37698,19 @@
           "target": "Org/Althane/Golden Sparrows"
         },
         {
+          "alias": "Wojciech",
+          "heading": null,
+          "target": "People/Althane/Wojciech"
+        },
+        {
           "alias": "First House",
           "heading": null,
           "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
         },
         {
           "alias": "Lev",
@@ -37378,14 +37733,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -37536,9 +37891,14 @@
           "alias": "Rampart",
           "heading": null,
           "target": "People/Althane/Rampart"
+        },
+        {
+          "alias": "Masha",
+          "heading": null,
+          "target": "People/Althane/Masha"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -37547,7 +37907,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37728,6 +38088,11 @@
           "target": "Divinity/Unknown Entities/The Deep"
         },
         {
+          "alias": "Xanthin Oreskalka",
+          "heading": null,
+          "target": "People/Althane/Xanthin Oreskalka"
+        },
+        {
           "alias": "Henrik",
           "heading": null,
           "target": "People/Althane/Henrik"
@@ -37748,14 +38113,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37814,6 +38179,51 @@
         "title": null
       },
       "path": "People/Althane/Luca Merino"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Golden Sparrows",
+          "heading": null,
+          "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "the creature from below",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Wojciech",
+          "heading": null,
+          "target": "People/Althane/Wojciech"
+        }
+      ],
+      "date": "2024-12-16T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-16T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "aphorite"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Masha"
     },
     {
       "crossrefs": [
@@ -38124,16 +38534,26 @@
           "alias": "Terexanthes",
           "heading": null,
           "target": "People/Althane/Terexanthes"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38257,6 +38677,88 @@
         "title": null
       },
       "path": "People/Althane/Warrant Officer Ellis"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Golden Sparrows",
+          "heading": null,
+          "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "Sarengrad",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Masha",
+          "heading": null,
+          "target": "People/Althane/Masha"
+        }
+      ],
+      "date": "2024-12-16T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Roychek"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-16T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "gnome"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Wojciech"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Oreskalka Cabal",
+          "heading": null,
+          "target": "Org/Althane/Oreskalka Cabal"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        }
+      ],
+      "date": "2024-12-16T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-16T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "vampire"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Xanthin Oreskalka"
     },
     {
       "crossrefs": [
@@ -41789,9 +42291,24 @@
           "alias": "Oresk",
           "heading": null,
           "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-16T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Vampirism"
@@ -41800,7 +42317,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-16T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41875,6 +42392,51 @@
         "title": null
       },
       "path": "Phenomena/Althane/Tidal"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "vampirism",
+          "heading": null,
+          "target": "Phenomena/Althane/Sanguis Noxa"
+        },
+        {
+          "alias": "Sparrows",
+          "heading": null,
+          "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        }
+      ],
+      "date": "2024-12-16T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-16T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "disease"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Wasting Fever"
     },
     {
       "crossrefs": [
