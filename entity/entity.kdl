@@ -137,6 +137,8 @@ entity "Anzu said he's" {
     source "defs"
 }
 entity "Arcane Intelligence" kind="org" page="Org/Bisney and Dixar/Arcane Intelligence" {
+    alias "Afro-China"
+    alias "Elephant Graveyard of Wonders"
     source "akasha"
 }
 entity "Archie" kind="person" page="Org/Velvet Mark/People/Archie" being="tanner" {

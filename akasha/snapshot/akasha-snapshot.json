@@ -365,6 +365,27 @@
       "target": "People/Althane/Tennobrin Er-K"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Bestiary/Kaathe",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Bestiary/Kaathe",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Bestiary/Kaathe",
+      "target": "Geography/Ushas/index"
+    },
+    {
       "alias": "RC3",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/RC3",
@@ -6966,11 +6987,32 @@
       "target": "Org/The Harlequins/Providence/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "firmament",
       "heading": null,
       "resolved": "Phenomena/Firmament",
       "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
       "target": "Phenomena/Firmament"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
     },
     {
       "alias": "Hesperid 3",
@@ -8021,6 +8063,34 @@
       "resolved": "Geography/Ushas/New Volcantum",
       "source": "Geography/Ushas/index",
       "target": "Geography/Ushas/New Volcantum"
+    },
+    {
+      "alias": "Infinite Horizon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "source": "Geography/Ushas/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+    },
+    {
+      "alias": "Fifth Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Ushas/index",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Ushas/index",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Geography/Ushas/index",
+      "target": "Bestiary/Kaathe"
     },
     {
       "alias": "localities",
@@ -13392,6 +13462,34 @@
       "target": "Geography/Elysium"
     },
     {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Far Realms",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+    },
+    {
+      "alias": "Fifth Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Org/Sedecium",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Org/Sedecium",
+      "target": "Bestiary/Kaathe"
+    },
+    {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
@@ -13663,6 +13761,20 @@
       "resolved": "Phenomena/The Slip",
       "source": "Org/The Fifth Prosperous Empire of the Sundom",
       "target": "Phenomena/The Slip"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "Providence",
@@ -22983,13 +23095,29 @@
           "alias": "Tenno",
           "heading": null,
           "target": "People/Althane/Tennobrin Er-K"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
         }
       ],
       "date": "2025-02-03T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "deep-eyes"
+          "deep-eyes",
+          "risk-of-ruin"
         ],
         "extra": {
           "date": "2025-02-03T00:00:00-04:00"
@@ -31445,9 +31573,24 @@
           "target": "Org/The Harlequins/Providence/index"
         },
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
           "alias": "firmament",
           "heading": null,
           "target": "Phenomena/Firmament"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
         },
         {
           "alias": "Hesperid 3",
@@ -32838,6 +32981,26 @@
           "alias": "New Volcantum",
           "heading": null,
           "target": "Geography/Ushas/New Volcantum"
+        },
+        {
+          "alias": "Infinite Horizon",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+        },
+        {
+          "alias": "Fifth Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -32845,7 +33008,8 @@
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly",
-          "observatory-slipped"
+          "observatory-slipped",
+          "risk-of-ruin"
         ],
         "extra": {
           "date": "2026-10-29T00:00:00-04:00"
@@ -35282,7 +35446,10 @@
       ],
       "date": "2026-09-03T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "Afro-China",
+          "Elephant Graveyard of Wonders"
+        ],
         "campaigns": [
           "urth"
         ],
@@ -39635,6 +39802,26 @@
           "target": "Geography/Elysium"
         },
         {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Far Realms",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+        },
+        {
+          "alias": "Fifth Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
@@ -39686,7 +39873,8 @@
         "campaigns": [
           "through-a-song-darkly",
           "deep-eyes",
-          "observatory-slipped"
+          "observatory-slipped",
+          "risk-of-ruin"
         ],
         "extra": {
           "date": "2026-10-29T00:00:00-04:00"
@@ -39969,6 +40157,16 @@
           "alias": "the slip",
           "heading": null,
           "target": "Phenomena/The Slip"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
         }
       ],
       "date": "2026-04-06T00:00:00-04:00",
