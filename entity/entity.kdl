@@ -24,9 +24,6 @@ entity "Aetheric Field" kind="phenomenon" page="Phenomena/Aetheric Field" {
 entity "Aetheric Laws" kind="phenomenon" page="Phenomena/Aetheric Laws" {
     source "akasha"
 }
-entity "Afro-China" kind="place" page="Geography/Afro-China" {
-    source "akasha"
-}
 entity "Alfie Gallagher" {
     alias "Elfie Gallagher"
     source "defs"
@@ -43,6 +40,9 @@ entity "Alliance" kind="org" page="Org/Alliance" {
     source "akasha"
 }
 entity "Alter and Associates" kind="org" page="Org/Althane/Alter and Associates" {
+    source "akasha"
+}
+entity "Alternate Planes" kind="place" page="Geography/Færrin/Alternate Planes/index" {
     source "akasha"
 }
 entity "Althane" kind="place" page="Geography/Althane/index" {
@@ -67,7 +67,7 @@ entity "ampoule" {
     alias "ampule"
     source "defs"
 }
-entity "An Iron Gauntlet in a Glass Glove" kind="place" page="Geography/Calaria/Hallia/Widdershins/An Iron Gauntlet in a Glass Glove" {
+entity "An Iron Gauntlet in a Glass Glove" kind="place" page="Geography/Færrin/Calaria/Hallia/Widdershins/An Iron Gauntlet in a Glass Glove" {
     alias "Gas-n-Go Heart"
     alias "the iron gauntlet in a glass glove"
     source "akasha"
@@ -192,9 +192,6 @@ entity "Ashwright Armory" kind="org" page="Org/Althane/Ashwright Armory" {
 entity "Asteris Lux" kind="org" page="Org/The Scale/Asteris Lux" {
     source "akasha"
 }
-entity "Astra" kind="place" page="Geography/Astra" {
-    source "akasha"
-}
 entity "Athrea" kind="place" page="Geography/Althane/Athrea/index" {
     source "akasha"
 }
@@ -215,7 +212,7 @@ entity "Aumana Wastes" kind="place" page="Geography/Althane/El-Rasar/Aumana Wast
 entity "Aurelia" {
     source "defs"
 }
-entity "Aurideon" kind="place" page="Geography/Calaria/Hallia/Aurideon/index" {
+entity "Aurideon" kind="place" page="Geography/Færrin/Calaria/Hallia/Aurideon/index" {
     alias "Iridiu[mn]"
     alias "Oridia[mn]"
     alias "Iridion"
@@ -229,7 +226,7 @@ entity "Aurthalaxus" {
     alias "Orthalax[iu]s"
     source "defs"
 }
-entity "Austrene" kind="place" page="Geography/Austrene/index" {
+entity "Austrene" kind="place" page="Geography/Færrin/Austrene/index" {
     alias "Austrian"
     alias "Ostrand"
     alias "Austrine"
@@ -304,7 +301,7 @@ entity "Beats in Time" {
 entity "Belvedere" kind="org" page="Org/Belvedere/index" {
     source "akasha"
 }
-entity "Belvedere Library" kind="place" page="Geography/Calaria/Hallia/Masque District/Belvedere Library" {
+entity "Belvedere Library" kind="place" page="Geography/Færrin/Calaria/Hallia/Masque District/Belvedere Library" {
     source "akasha"
 }
 entity "benediction" {
@@ -349,7 +346,7 @@ entity "Bioarcanic Engineering" kind="phenomenon" page="Phenomena/Althane/Bioarc
 entity "Bisney and Dixar" kind="org" page="Org/Bisney and Dixar/index" {
     source "akasha"
 }
-entity "Black and White" kind="place" page="Geography/Black and White/index" {
+entity "Black and White" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/index" {
     alias "Noire"
     alias "black and white"
     source "akasha"
@@ -377,7 +374,7 @@ entity "Brienne" kind="person" page="Org/Pale Lantern Society/People/Brienne" {
     alias "Brini"
     source "akasha"
 }
-entity "Brithwyn" kind="place" page="Geography/Brithwyn/index" {
+entity "Brithwyn" kind="place" page="Geography/Færrin/Brithwyn/index" {
     alias "Brithwin"
     alias "Brithwen"
     source "akasha"
@@ -391,10 +388,10 @@ entity "cadre" {
     alias "Khadra"
     source "defs"
 }
-entity "Cagley" kind="place" page="Geography/Cagley" {
+entity "Cagley" kind="place" page="Geography/Urth/Cagley" {
     source "akasha"
 }
-entity "Calaria" kind="place" page="Geography/Calaria/index" {
+entity "Calaria" kind="place" page="Geography/Færrin/Calaria/index" {
     alias "Galeria"
     alias "Caleria"
     alias "Galarian"
@@ -540,10 +537,10 @@ entity "Crowe" {
     alias "Crow"
     source "defs"
 }
-entity "Crystal Globe" kind="place" page="Geography/Calaria/Hallia/Masque District/Crystal Globe" {
+entity "Crystal Globe" kind="place" page="Geography/Færrin/Calaria/Hallia/Masque District/Crystal Globe" {
     source "akasha"
 }
-entity "Crystal Hill" kind="place" page="Geography/Calaria/Hallia/Diamond District/Crystal Hill" {
+entity "Crystal Hill" kind="place" page="Geography/Færrin/Calaria/Hallia/Diamond District/Crystal Hill" {
     source "akasha"
 }
 entity "Crystal Random" kind="org" page="Org/Crystal Random/index" {
@@ -578,7 +575,7 @@ entity "Dawnmonger" kind="person" being="noah" {
 entity "Della Caldera" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera" {
     source "akasha"
 }
-entity "Deosil" kind="place" page="Geography/Calaria/Hallia/Deosil" {
+entity "Deosil" kind="place" page="Geography/Færrin/Calaria/Hallia/Deosil" {
     alias "Diesel"
     source "akasha"
     source "defs"
@@ -592,7 +589,7 @@ entity "dhampir" {
     alias "Dompir"
     source "defs"
 }
-entity "Diamond District" kind="place" page="Geography/Calaria/Hallia/Diamond District/index" {
+entity "Diamond District" kind="place" page="Geography/Færrin/Calaria/Hallia/Diamond District/index" {
     source "akasha"
 }
 entity "Divex" kind="person" being="mike" {
@@ -637,7 +634,7 @@ entity "Eerie" kind="org" page="Org/Iconoclasm/Eerie" {
 entity "Egan" {
     source "defs"
 }
-entity "Eilebrin Observatory" kind="place" page="Geography/Calaria/Eilebrin Observatory" {
+entity "Eilebrin Observatory" kind="place" page="Geography/Færrin/Calaria/Eilebrin Observatory" {
     alias "Eilebrin Observatories"
     source "akasha"
 }
@@ -648,9 +645,6 @@ entity "Elara Vance" {
     alias "Lara Vance"
     alias "Alara Vance"
     source "defs"
-}
-entity "Elephant Graveyard of Wonders" kind="place" page="Geography/Elephant Graveyard of Wonders" {
-    source "akasha"
 }
 entity "Elias Ramsey" kind="person" page="Org/Iconoclasm/People/Elias Ramsey" {
     source "akasha"
@@ -727,6 +721,9 @@ entity "Fane" {
     alias "fane"
     source "defs"
 }
+entity "Far Realms" kind="place" page="Geography/Færrin/Infinite Horizon/Far Realms/index" {
+    source "akasha"
+}
 entity "Father Marone" kind="person" page="Org/Velvet Mark/People/Father Marone" {
     alias "Marone"
     source "akasha"
@@ -737,7 +734,7 @@ entity "Feep" {
     alias "Fiep"
     source "defs"
 }
-entity "Fenrith" kind="place" page="Geography/Fenrith/index" {
+entity "Fenrith" kind="place" page="Geography/Færrin/Fenrith/index" {
     source "akasha"
 }
 entity "Fey" kind="creature" page="Bestiary/Fey" {
@@ -808,13 +805,13 @@ entity "Fort DC" {
     alias "fort\\s*TC"
     source "defs"
 }
-entity "Fracture Compound" kind="place" page="Geography/Fracture Compound" {
+entity "Fracture Compound" kind="place" page="Geography/Færrin/Infinite Horizon/Fracture Compound" {
     source "akasha"
 }
 entity "Friends of Aut" kind="org" page="Org/Friends of Aut" {
     source "akasha"
 }
-entity "Færrin" kind="place" page="Geography/Færrin" {
+entity "Færrin" kind="place" page="Geography/Færrin/index" {
     alias "Faerrin"
     alias "Farron"
     alias "Ferrum"
@@ -858,7 +855,7 @@ entity "Garrick Textiles" kind="org" page="Org/Garrick Textiles/index" {
     source "akasha"
     source "defs"
 }
-entity "Gas-n-Go" kind="place" page="Geography/Calaria/Hallia/Widdershins/Gas-n-Go" {
+entity "Gas-n-Go" kind="place" page="Geography/Færrin/Calaria/Hallia/Widdershins/Gas-n-Go" {
     source "akasha"
 }
 entity "Gas-n-Go℠" {
@@ -881,6 +878,7 @@ entity "Genies" kind="creature" page="Bestiary/Genies" {
     source "akasha"
 }
 entity "Geography" kind="place" page="Geography/index" {
+    alias "Astra"
     source "akasha"
 }
 entity "Ghost Coal Chain Gang" kind="org" page="Org/Althane/Ghost Coal Chain Gang" {
@@ -923,10 +921,10 @@ entity "Gin Soaked Rag" kind="person" page="Org/Iconoclasm/People/Gin Soaked Rag
     source "akasha"
     source "defs"
 }
-entity "Glacier" kind="place" page="Geography/Glacier" {
+entity "Glacier" kind="place" page="Geography/Færrin/Infinite Horizon/Glacier" {
     source "akasha"
 }
-entity "Glasswater" kind="place" page="Geography/Calaria/Hallia/Glasswater/index" {
+entity "Glasswater" kind="place" page="Geography/Færrin/Calaria/Hallia/Glasswater/index" {
     source "akasha"
 }
 entity "Gloaming Codex" kind="phenomenon" page="Phenomena/Gloaming Codex" {
@@ -934,7 +932,7 @@ entity "Gloaming Codex" kind="phenomenon" page="Phenomena/Gloaming Codex" {
     alias "Gloaming"
     source "akasha"
 }
-entity "Godhome" kind="place" page="Geography/Godhome" {
+entity "Godhome" kind="place" page="Geography/Færrin/Alternate Planes/Godhome" {
     alias "god\\s*home"
     source "akasha"
     source "defs"
@@ -965,7 +963,7 @@ entity "Gryphonline" kind="org" page="Org/Gryphonline/index" {
     source "akasha"
     source "defs"
 }
-entity "Gullet" kind="place" page="Geography/Calaria/Hallia/Gullet/index" {
+entity "Gullet" kind="place" page="Geography/Færrin/Calaria/Hallia/Gullet/index" {
     source "akasha"
 }
 entity "Gunpowder" kind="phenomenon" page="Phenomena/Althane/Gunpowder" {
@@ -980,7 +978,7 @@ entity "Guren and Guren" kind="org" page="Org/Guren and Guren/index" {
 entity "Hadal Tap" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/Hadal Tap" {
     source "akasha"
 }
-entity "Hallia" kind="place" page="Geography/Calaria/Hallia/index" {
+entity "Hallia" kind="place" page="Geography/Færrin/Calaria/Hallia/index" {
     alias "Halia"
     alias "Haleah"
     alias "Helya"
@@ -1016,8 +1014,10 @@ entity "Heir of the Plague" kind="deity" page="Divinity/Outer Gods/Heir of the P
     alias "Heir"
     source "akasha"
 }
-entity "Hellsmith" kind="place" page="Geography/Hellsmith" {
+entity "Hellsmouth" kind="place" page="Geography/Færrin/Infinite Horizon/Hellsmouth" {
+    alias "Hellsmith"
     source "akasha"
+    source "defs"
 }
 entity "Hellstrome" kind="org" page="Org/Althane/Hellstrome" {
     source "akasha"
@@ -1041,13 +1041,13 @@ entity "Herald" kind="deity" page="Divinity/Ashen Pact/Herald" {
     source "akasha"
     source "defs"
 }
-entity "Hesperid" kind="place" page="Geography/Hesperid" {
+entity "Hesperid" kind="place" page="Geography/Færrin/Infinite Horizon/Far Realms/Hesperid" {
     alias "HQ"
     alias "Hesper(?:ide|d|ad|vid|in)"
     source "akasha"
     source "defs"
 }
-entity "Hesperid 3" kind="place" page="Geography/Hesperid 3" {
+entity "Hesperid 3" kind="place" page="Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3" {
     source "akasha"
 }
 entity "Hester and Sons" kind="org" page="Org/Althane/Hester and Sons" {
@@ -1105,7 +1105,7 @@ entity "Holy Gold" kind="phenomenon" page="Phenomena/Holy Gold" {
 entity "Honeydew Meadery" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Honeydew Meadery" {
     source "akasha"
 }
-entity "Horizon Gate Hotel" kind="place" page="Geography/Black and White/Horizon Gate Hotel" {
+entity "Horizon Gate Hotel" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Horizon Gate Hotel" {
     source "akasha"
 }
 entity "https://btl.iridi.cc" {
@@ -1178,7 +1178,7 @@ entity "in Hallia" {
 entity "Infernium" kind="phenomenon" page="Phenomena/Infernium" {
     source "akasha"
 }
-entity "Infinite Horizon" kind="phenomenon" page="Phenomena/Infinite Horizon" {
+entity "Infinite Horizon" kind="place" page="Geography/Færrin/Infinite Horizon/index" {
     alias "Horizon"
     source "akasha"
 }
@@ -1202,7 +1202,7 @@ entity "Insuperlex" kind="deity" page="Divinity/The Narrative/Insuperlex" {
 entity "Intelligentsia" kind="org" page="Org/Althane/Intelligentsia" {
     source "akasha"
 }
-entity "Iomenei" kind="place" page="Geography/Istria/Iomenei/index" {
+entity "Iomenei" kind="place" page="Geography/Færrin/Istria/Iomenei/index" {
     alias "Iomene"
     alias "Iominae"
     alias "Iomine"
@@ -1220,14 +1220,14 @@ entity "Iridescent Host" kind="deity" page="Divinity/Outer Gods/Iridescent Host"
     source "akasha"
     source "defs"
 }
-entity "Iridite Mutual" kind="place" page="Geography/Calaria/Hallia/Iridite Mutual" {
+entity "Iridite Mutual" kind="place" page="Geography/Færrin/Calaria/Hallia/Iridite Mutual" {
     alias "Erudite Mutual"
     alias "Irodite\\s*Mutual's"
     alias "Iridite\\s*Neutral"
     source "akasha"
     source "defs"
 }
-entity "Istria" kind="place" page="Geography/Istria/index" {
+entity "Istria" kind="place" page="Geography/Færrin/Istria/index" {
     source "akasha"
 }
 entity "Jasper Glover" kind="person" page="Org/Roundhat Gang/People/Jasper Glover" {
@@ -1359,7 +1359,7 @@ entity "Lark Crowe" kind="person" page="Org/Sable and Suns/People/Lark Crowe" {
     source "akasha"
     source "defs"
 }
-entity "Ledger, Ledger, and Light" kind="place" page="Geography/Calaria/Hallia/Ledger, Ledger, and Light" {
+entity "Ledger, Ledger, and Light" kind="place" page="Geography/Færrin/Calaria/Hallia/Ledger, Ledger, and Light" {
     source "akasha"
 }
 entity "Lemon Pepper" kind="deity" page="Divinity/Fiends/Lemon Pepper" {
@@ -1386,14 +1386,14 @@ entity "Locality" kind="phenomenon" page="Phenomena/Locality" {
 entity "Lone Oak Ranch" kind="place" page="Geography/Althane/Salores/Lone Oak Ranch" {
     source "akasha"
 }
-entity "Lorandris" kind="place" page="Geography/Lorandris/index" {
+entity "Lorandris" kind="place" page="Geography/Færrin/Lorandris/index" {
     alias "Laurentius"
     alias "Lorandrus"
     alias "Larandrus"
     source "akasha"
     source "defs"
 }
-entity "Los Diablos" kind="place" page="Geography/Los Diablos" {
+entity "Los Diablos" kind="place" page="Geography/Urth/Los Diablos" {
     source "akasha"
 }
 entity "Louis Maller" kind="person" page="Org/Concordia/People/Louis Maller" {
@@ -1468,7 +1468,7 @@ entity "Maple Tree Farms" kind="org" page="Org/Maple Tree Farms/index" {
 entity "Mask Makers" kind="org" page="Org/Mask Makers" {
     source "akasha"
 }
-entity "Masque District" kind="place" page="Geography/Calaria/Hallia/Masque District/index" {
+entity "Masque District" kind="place" page="Geography/Færrin/Calaria/Hallia/Masque District/index" {
     alias "Mask District"
     source "akasha"
     source "defs"
@@ -1486,7 +1486,7 @@ entity "meeting you, Aut" {
     alias "meeting you, Art"
     source "defs"
 }
-entity "Menagerie" kind="place" page="Geography/Menagerie" {
+entity "Menagerie" kind="place" page="Geography/Færrin/Infinite Horizon/Menagerie" {
     source "akasha"
 }
 entity "Menhir" kind="deity" page="Divinity/The Narrative/Menhir" {
@@ -1512,7 +1512,7 @@ entity "MetCon" {
     alias "METCOP"
     source "defs"
 }
-entity "Metropolitan Conservatory" kind="place" page="Geography/Calaria/Hallia/Metropolitan Conservatory" {
+entity "Metropolitan Conservatory" kind="place" page="Geography/Færrin/Calaria/Hallia/Metropolitan Conservatory" {
     source "akasha"
 }
 entity "Mickey" kind="person" being="tanner" {
@@ -1582,7 +1582,7 @@ entity "Noire" {
     alias "Noir"
     source "defs"
 }
-entity "Nos Mortem" kind="place" page="Geography/Quiet Below/Nos Mortem" {
+entity "Nos Mortem" kind="place" page="Geography/Færrin/Quiet Below/Nos Mortem" {
     source "akasha"
 }
 entity "nosh on" {
@@ -1733,7 +1733,7 @@ entity "Petr" kind="deity" page="Divinity/The Narrative/Petr" {
     alias "Petr"
     source "akasha"
 }
-entity "Pharos" kind="place" page="Geography/Black and White/Pharos" {
+entity "Pharos" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Pharos" {
     alias "Ferris"
     alias "Firas"
     source "akasha"
@@ -1751,7 +1751,7 @@ entity "Phlogiston" kind="phenomenon" page="Phenomena/Phlogiston" {
 entity "Pilgrimage" kind="phenomenon" page="Phenomena/Pilgrimage" {
     source "akasha"
 }
-entity "Plaza" kind="place" page="Geography/Black and White/Plaza" {
+entity "Plaza" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Plaza" {
     source "akasha"
 }
 entity "Pluckwort" kind="person" being="jorge" {
@@ -1761,7 +1761,7 @@ entity "Polar Shiv" kind="phenomenon" page="Phenomena/Polar Shiv" {
     alias "Polar Shiv Zero"
     source "akasha"
 }
-entity "Prime (Zero)" kind="place" page="Geography/Calaria/Hallia/Prime (Zero)/index" {
+entity "Prime (Zero)" kind="place" page="Geography/Færrin/Calaria/Hallia/Prime (Zero)/index" {
     source "akasha"
 }
 entity "Prime Meridian" kind="org" page="Org/Prime Meridian/index" {
@@ -1770,7 +1770,7 @@ entity "Prime Meridian" kind="org" page="Org/Prime Meridian/index" {
     source "akasha"
     source "defs"
 }
-entity "Prime Meridian Sub Transit Nexus" kind="place" page="Geography/Calaria/Hallia/Sableclutch/Prime Meridian Sub Transit Nexus" {
+entity "Prime Meridian Sub Transit Nexus" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/Prime Meridian Sub Transit Nexus" {
     source "akasha"
 }
 entity "Prime Meridian's" {
@@ -1780,7 +1780,7 @@ entity "Prime Meridian's" {
 entity "Printing Press" kind="phenomenon" page="Phenomena/Althane/Printing Press" {
     source "akasha"
 }
-entity "Prism Heights" kind="place" page="Geography/Calaria/Hallia/Prism Heights/index" {
+entity "Prism Heights" kind="place" page="Geography/Færrin/Calaria/Hallia/Prism Heights/index" {
     source "akasha"
 }
 entity "Projection" kind="phenomenon" page="Phenomena/Projection" {
@@ -1819,7 +1819,7 @@ entity "Pyrelight" kind="org" page="Org/Pyrelight/index" {
 entity "Qor Bahi" kind="place" page="Geography/Althane/El-Rasar/Qor Bahi" {
     source "akasha"
 }
-entity "Quiet Below" kind="place" page="Geography/Quiet Below/index" {
+entity "Quiet Below" kind="place" page="Geography/Færrin/Quiet Below/index" {
     source "akasha"
 }
 entity "Radar Dishes" kind="phenomenon" page="Phenomena/Radar Dishes" {
@@ -1828,7 +1828,7 @@ entity "Radar Dishes" kind="phenomenon" page="Phenomena/Radar Dishes" {
 entity "Radiant Arms" kind="org" page="Org/Radiant Arms/index" {
     source "akasha"
 }
-entity "Raelion" kind="place" page="Geography/Raelion/index" {
+entity "Raelion" kind="place" page="Geography/Færrin/Raelion/index" {
     alias "Raelian"
     alias "Raylian"
     alias "Raylene"
@@ -1837,7 +1837,7 @@ entity "Raelion" kind="place" page="Geography/Raelion/index" {
     source "akasha"
     source "defs"
 }
-entity "Ragged Roost" kind="place" page="Geography/Calaria/Ragged Roost" {
+entity "Ragged Roost" kind="place" page="Geography/Færrin/Calaria/Ragged Roost" {
     source "akasha"
 }
 entity "Railroads" kind="phenomenon" page="Phenomena/Althane/Railroads" {
@@ -1894,7 +1894,7 @@ entity "Resonance Crystal" kind="phenomenon" page="Phenomena/Althane/Resonance C
 entity "Reverend" kind="person" being="noah" {
     source "being"
 }
-entity "Rhædon" kind="place" page="Geography/Rhædon/index" {
+entity "Rhædon" kind="place" page="Geography/Færrin/Rhædon/index" {
     alias "Raiden"
     source "akasha"
     source "defs"
@@ -1941,7 +1941,7 @@ entity "Sable and Suns" kind="org" page="Org/Sable and Suns/index" {
     source "akasha"
     source "defs"
 }
-entity "Sableclutch" kind="place" page="Geography/Calaria/Hallia/Sableclutch/index" {
+entity "Sableclutch" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/index" {
     alias "sable clutch"
     source "akasha"
     source "defs"
@@ -1994,7 +1994,7 @@ entity "Sanguis Noxa" kind="phenomenon" page="Phenomena/Althane/Sanguis Noxa" {
 entity "Sarengrad" kind="place" page="Geography/Althane/Oresk/Sarengrad" {
     source "akasha"
 }
-entity "Save Your Soul Incorporated" kind="place" page="Geography/Black and White/Save Your Soul Incorporated" {
+entity "Save Your Soul Incorporated" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Save Your Soul Incorporated" {
     source "akasha"
 }
 entity "Sbrtlby" {
@@ -2030,7 +2030,7 @@ entity "Scrazzy" kind="person" being="mike" {
     source "defs"
     source "being"
 }
-entity "Second Sun Diner" kind="place" page="Geography/Calaria/Hallia/Sableclutch/Second Sun Diner" {
+entity "Second Sun Diner" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/Second Sun Diner" {
     alias "Second Son Diner"
     source "akasha"
     source "defs"
@@ -2055,7 +2055,7 @@ entity "sewer" {
     alias "Syria"
     source "defs"
 }
-entity "Sewers" kind="place" page="Geography/Calaria/Hallia/Sewers" {
+entity "Sewers" kind="place" page="Geography/Færrin/Calaria/Hallia/Sewers" {
     source "akasha"
 }
 entity "Shade" kind="creature" page="Bestiary/Shade" {
@@ -2066,7 +2066,7 @@ entity "Shade" kind="creature" page="Bestiary/Shade" {
 entity "Shamash" kind="place" page="Geography/Althane/Realms/Shamash" {
     source "akasha"
 }
-entity "Shannon Soul" kind="place" page="Geography/Calaria/Hallia/Sableclutch/People/Shannon Soul" {
+entity "Shannon Soul" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/People/Shannon Soul" {
     source "akasha"
 }
 entity "Shiver" kind="phenomenon" page="Phenomena/Shiver" {
@@ -2079,7 +2079,7 @@ entity "Sigzil Haight" kind="deity" page="Divinity/Fiends/Sigzil Haight" {
     source "akasha"
     source "defs"
 }
-entity "Sigzil Haight's Demesne" kind="place" page="Geography/Sigzil Haight's Demesne" {
+entity "Sigzil Haight's Demesne" kind="place" page="Geography/Færrin/Infinite Horizon/Sigzil Haight's Demesne" {
     source "akasha"
 }
 entity "Silven" {
@@ -2090,7 +2090,7 @@ entity "Silven Grayson" kind="person" page="Org/Amber Call/People/Silven Grayson
     alias "Silven"
     source "akasha"
 }
-entity "Sin and Tonic" kind="place" page="Geography/Calaria/Hallia/Sableclutch/Sin and Tonic" {
+entity "Sin and Tonic" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/Sin and Tonic" {
     alias "Synth and Tonic"
     alias "Syntonic"
     alias "synatomic"
@@ -2134,7 +2134,7 @@ entity "Solari Sub-surface" kind="org" page="Org/Solari Sub-surface/index" {
     source "akasha"
     source "defs"
 }
-entity "Soundscape Theaters" kind="place" page="Geography/Black and White/Soundscape Theaters" {
+entity "Soundscape Theaters" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Soundscape Theaters" {
     alias "Soundscape Theater"
     source "akasha"
 }
@@ -2151,10 +2151,7 @@ entity "Spark of Humanity" kind="creature" page="Bestiary/Spark of Humanity" {
 entity "Stalfort" kind="place" page="Geography/Althane/Brejvasing/Stalfort" {
     source "akasha"
 }
-entity "Star 12" kind="place" page="Geography/Calaria/Hallia/Star 12/index" {
-    source "akasha"
-}
-entity "Star 221,325" kind="place" page="Geography/Star 221,325" {
+entity "Star 12" kind="place" page="Geography/Færrin/Calaria/Hallia/Star 12/index" {
     source "akasha"
 }
 entity "Starfont" kind="phenomenon" page="Phenomena/Althane/Starfont" {
@@ -2165,7 +2162,7 @@ entity "starward" {
     alias "Star Wars"
     source "defs"
 }
-entity "Stepwell" kind="place" page="Geography/Calaria/Hallia/Stepwell/index" {
+entity "Stepwell" kind="place" page="Geography/Færrin/Calaria/Hallia/Stepwell/index" {
     source "akasha"
 }
 entity "Stillness" kind="phenomenon" page="Phenomena/Stillness" {
@@ -2221,7 +2218,7 @@ entity "Tas" {
 entity "Tas Millett" kind="person" page="Org/Prime Meridian/People/Tas Millett" {
     source "akasha"
 }
-entity "Teller's Run" kind="place" page="Geography/Calaria/Hallia/Teller's Run/index" {
+entity "Teller's Run" kind="place" page="Geography/Færrin/Calaria/Hallia/Teller's Run/index" {
     alias "Teller's rod"
     alias "Teller's run"
     alias "Taylor's\\s*run"
@@ -2252,7 +2249,7 @@ entity "Terror of Cagley" kind="creature" page="Bestiary/Terror of Cagley" {
 entity "The Compelled" kind="deity" page="Divinity/Outer Gods/The Compelled" {
     source "akasha"
 }
-entity "The Crowded Flea" kind="place" page="Geography/Calaria/Hallia/Sableclutch/The Crowded Flea" {
+entity "The Crowded Flea" kind="place" page="Geography/Færrin/Calaria/Hallia/Sableclutch/The Crowded Flea" {
     alias "the\\s*Crowded\\s*Fleet"
     source "akasha"
     source "defs"
@@ -2300,7 +2297,7 @@ entity "the Heart" {
 entity "The Hooded" kind="deity" page="Divinity/Fiends/The Hooded" {
     source "akasha"
 }
-entity "the Horizon" kind="place" page="Geography/Calaria/Hallia/the Horizon/index" {
+entity "the Horizon" kind="place" page="Geography/Færrin/Calaria/Hallia/the Horizon/index" {
     source "akasha"
 }
 entity "The Loam" kind="deity" page="Divinity/Fiends/The Loam" {
@@ -2324,7 +2321,12 @@ entity "The Network" kind="org" page="Org/Althane/The Network" {
 entity "The Occident" kind="place" page="Geography/Althane/The Occident" {
     source "akasha"
 }
-entity "The Quorum" kind="place" page="Geography/The Quorum" {
+entity "The Quorum" kind="place" page="Geography/Færrin/Infinite Horizon/The Quorum/index" {
+    alias "Star 221,325"
+    source "akasha"
+}
+entity "The Quorum Building" kind="place" page="Geography/Færrin/Infinite Horizon/The Quorum/The Quorum Building" {
+    alias "the Quorum"
     source "akasha"
 }
 entity "The Scale" kind="org" page="Org/The Scale/index" {
@@ -2408,7 +2410,7 @@ entity "Tithe" {
 entity "Toleros" kind="place" page="Geography/Althane/Salores/Toleros/index" {
     source "akasha"
 }
-entity "Tormeré" kind="place" page="Geography/Tormeré/index" {
+entity "Tormeré" kind="place" page="Geography/Færrin/Tormeré/index" {
     alias "Tormere"
     alias "Tourmarais"
     alias "Pomeroy"
@@ -2492,10 +2494,10 @@ entity "Undead" kind="creature" page="Bestiary/Undead" {
     alias "Things from Beyond"
     source "akasha"
 }
-entity "Undercroft" kind="place" page="Geography/Istria/Iomenei/Undercroft" {
+entity "Undercroft" kind="place" page="Geography/Færrin/Istria/Iomenei/Undercroft" {
     source "akasha"
 }
-entity "Urth" kind="place" page="Geography/Urth" {
+entity "Urth" kind="place" page="Geography/Urth/index" {
     alias "Earth"
     source "akasha"
 }
@@ -2519,7 +2521,7 @@ entity "Vane" {
 entity "Vazan" kind="place" page="Geography/Althane/Realms/Vazan" {
     source "akasha"
 }
-entity "Velthara" kind="place" page="Geography/Velthara/index" {
+entity "Velthara" kind="place" page="Geography/Færrin/Velthara/index" {
     alias "Valthara"
     alias "Althara"
     source "akasha"
@@ -2532,7 +2534,7 @@ entity "Verdant" {
     alias "Vernon"
     source "defs"
 }
-entity "Verdant Expanse" kind="place" page="Geography/Calaria/Verdant Expanse" {
+entity "Verdant Expanse" kind="place" page="Geography/Færrin/Calaria/Verdant Expanse" {
     alias "Green Sea"
     alias "Emerald Deep"
     alias "Virgent\\s*Expanse"
@@ -2635,7 +2637,7 @@ entity "Whiskers" {
     alias "Whiskas"
     source "defs"
 }
-entity "Widdershins" kind="place" page="Geography/Calaria/Hallia/Widdershins/index" {
+entity "Widdershins" kind="place" page="Geography/Færrin/Calaria/Hallia/Widdershins/index" {
     alias "Wittershins"
     alias "Wintershins"
     alias "Wootershins"
@@ -2646,12 +2648,12 @@ entity "Wisps" kind="creature" page="Bestiary/Wisps" {
     alias "Corpselight"
     source "akasha"
 }
-entity "Wrenford" kind="place" page="Geography/Calaria/Wrenford" {
+entity "Wrenford" kind="place" page="Geography/Færrin/Calaria/Wrenford" {
     alias "renford"
     source "akasha"
     source "defs"
 }
-entity "Wrenford Commune" kind="place" page="Geography/Calaria/Wrenford Commune" {
+entity "Wrenford Commune" kind="place" page="Geography/Færrin/Calaria/Wrenford Commune" {
     alias "the Wrenford commune"
     alias "Wrenford commune"
     source "akasha"
@@ -2666,7 +2668,7 @@ entity "Yao Addington" kind="person" page="Org/Protectorate/People/Yao Addington
     alias "Yao"
     source "akasha"
 }
-entity "Ye Olde Apothecary" kind="place" page="Geography/Calaria/Hallia/Ye Olde Apothecary" {
+entity "Ye Olde Apothecary" kind="place" page="Geography/Færrin/Calaria/Hallia/Ye Olde Apothecary" {
     source "akasha"
 }
 entity "Yeenut" {
