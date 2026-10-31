@@ -2780,6 +2780,34 @@
       "target": "Geography/index"
     },
     {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Divinity/Thessians",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Divinity/Thessians",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Divinity/Thessians",
+      "target": "People/Althane/Lev"
+    },
+    {
       "alias": "Sedecium",
       "heading": null,
       "resolved": "Org/Sedecium",
@@ -3044,6 +3072,13 @@
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "Divinity/Unknown Entities/The Deep",
       "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "People/Althane/Karkov"
     },
     {
       "alias": "the Thirteenth Realm",
@@ -8707,6 +8742,13 @@
       "resolved": "Geography/Althane/The Thirteenth Realm",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
       "alias": "Sanguis Noxa",
@@ -15471,7 +15513,7 @@
       "target": "People/Althane/Divex"
     },
     {
-      "alias": "Ilkyne",
+      "alias": "City of Yellow",
       "heading": null,
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "People/Althane/Karkov",
@@ -24568,6 +24610,26 @@
           "target": "Geography/index"
         },
         {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
@@ -24831,6 +24893,11 @@
           "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
         },
         {
           "alias": "the Thirteenth Realm",
@@ -26345,14 +26412,14 @@
           "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-04-17T00:00:00-04:00",
+      "date": "2025-04-21T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-17T00:00:00-04:00"
+          "date": "2025-04-21T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32605,16 +32672,21 @@
           "alias": "the Thirteenth Realm",
           "heading": null,
           "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
-      "date": "2025-04-17T00:00:00-04:00",
+      "date": "2025-04-21T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-17T00:00:00-04:00"
+          "date": "2025-04-21T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40983,14 +41055,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-04-17T00:00:00-04:00",
+      "date": "2025-04-21T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-17T00:00:00-04:00"
+          "date": "2025-04-21T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41226,12 +41298,12 @@
           "target": "People/Althane/Divex"
         },
         {
-          "alias": "Ilkyne",
+          "alias": "City of Yellow",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-04-21T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -41240,7 +41312,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-04-21T00:00:00-04:00"
         },
         "img": null,
         "tags": [
