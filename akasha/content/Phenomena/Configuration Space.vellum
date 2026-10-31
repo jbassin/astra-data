@@ -11,6 +11,8 @@ date: 2024-08-20T00:00:00-04:00
 
 > It just so happened that in our comings and goings we had kicked over an empty wine bottle, which was resting on the kitchen’s floor like this:
 >
+> ![A wine bottle lying on a floor of woven wooden strips](configuration-space/00012.jpg)
+>
 > The floor had been built up out of strips of wood, set on edge in a gridlike pattern, which put me in mind of a coordinate plane.
 >
 > “Get a slate and a piece of chalk,” I said to Barb.
@@ -22,6 +24,8 @@ date: 2024-08-20T00:00:00-04:00
 > “Coordinates?”
 >
 > “Yes. Think of this pattern as a Lesper’s coordinate grid. Let’s say each square in the floor pattern is one unit. I’ll put a potato down here, to mark out the origin.”
+>
+> ![The bottle on the floor grid, with a potato at the corner marking the origin](configuration-space/00014.jpg)
 >
 > “Well, in that case the bottle is at about (2, 3),” Barb said, and worked with the chalk for a moment. Then he tipped the slate my way:
 >
@@ -55,6 +59,8 @@ date: 2024-08-20T00:00:00-04:00
 >
 > I dragged the bottle a short distance while giving it a bit of a twist. “Mark.”
 >
+> ![The bottle dragged a short way across the grid and turned](configuration-space/00016.jpg)
+>
 > | X | Y | θ |
 > | --- | --- | --- |
 > | 2 | 3 | 20 |
@@ -85,6 +91,8 @@ date: 2024-08-20T00:00:00-04:00
 > Barb didn’t know what to make of this very weak attempt at humor. After an awkward pause, I plowed ahead: “Can you make a plot now? A three-dimensional plot of those numbers?”
 >
 > “Sure,” Barb said uncertainly, “but it’s going to be weird.”
+>
+> ![A three-dimensional plot of the bottle's path: x and y position on the floor against spin angle in degrees](configuration-space/00022.jpg)
 >
 > “The dotted line track on the bottom shows just the x and the y,” Barb explained. “The track that it made across the floor.”
 >
@@ -122,6 +130,8 @@ date: 2024-08-20T00:00:00-04:00
 >
 > “Well, let’s make it ultrasimple and restrict the bottle and the potato to the x-axis,” I said, “and ignore their rotations.” I moved them around thus:
 >
+> ![The potato and the bottle on a single row of the floor grid](configuration-space/00023.jpg)
+>
 > “Can you use your slate to record their x positions?” I asked.
 >
 > “Sure,” he said, and after a few moments, showed me this:
@@ -131,6 +141,8 @@ date: 2024-08-20T00:00:00-04:00
 > | 7 | 1 |
 >
 > “I’m going to smash them into each other,” I said, “in slow motion, of course. Try to make a record of their positions, if you would.” And, much as before, I began to move the potato and the bottle in small increments, calling out “Mark” when I wanted him to add a new line to his chart.
+>
+> ![Successive positions of the potato and the bottle as they move toward each other along the row](configuration-space/00025.jpg)
 >
 > “The bottle’s moving faster,” he observed, as we worked.
 >
@@ -166,9 +178,13 @@ date: 2024-08-20T00:00:00-04:00
 >
 > “Sure. It’s trivial.”
 >
+> ![A plot of the potato's position against the bottle's position, two line segments meeting at a point](configuration-space/00026.jpg)
+>
 > “That’s weird!” Barb exclaimed. “It’s like Saunt Hemn has turned the whole situation inside out.”
 >
 > “Well, give me the chalk for a minute and I’ll annotate it in ways that will help you make sense of it,” I said. A few minutes later, we had something that looked like this:
+>
+> ![The same plot annotated: the beginning state, the collision on the line where potato and bottle share a place, and the end state](configuration-space/00028.jpg)
 >
 > “The collision line,” I said, “is nothing other than the set of all points where the bottle and the potato happen to be at the same place—where their coordinates are equal to each other. And any theor, looking at this plot, even without knowledge of the physical situation—the bottle, the potato, the floor—can see right away that there is something special about that line. The state of the system progresses in an orderly and predictable fashion until it touches that line. Then something exceptional happens. The trajectory makes a hairpin turn. The points become more closely spaced—this means that the objects are moving more slowly, which means that the system has lost energy somehow. I don’t expect you to be bowled over by this, but maybe this can give you an inkling of why theors like to use configuration space as a way to think about physical systems.”
 >
