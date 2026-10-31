@@ -148,6 +148,13 @@
       "target": "Phenomena/Gloaming Codex"
     },
     {
+      "alias": "the Slipseer",
+      "heading": null,
+      "resolved": "People/Althane/The Slipseer",
+      "source": "Bestiary/Dragons",
+      "target": "People/Althane/The Slipseer"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Verdant Expanse",
@@ -3352,6 +3359,41 @@
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Geography/Althane/Oresk/RC3",
       "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "Natalia",
+      "heading": null,
+      "resolved": "People/Althane/Natalia",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Natalia"
+    },
+    {
+      "alias": "Rampart",
+      "heading": null,
+      "resolved": "People/Althane/Rampart",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Rampart"
+    },
+    {
+      "alias": "the Slipseer",
+      "heading": null,
+      "resolved": "People/Althane/The Slipseer",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/The Slipseer"
     },
     {
       "alias": "Kaathe",
@@ -7617,7 +7659,7 @@
       "target": "Phenomena/Althane/Printing Press"
     },
     {
-      "alias": "Karkov",
+      "alias": "Yuri Karkov",
       "heading": null,
       "resolved": "People/Althane/Karkov",
       "source": "Org/Althane/The First House",
@@ -7629,6 +7671,34 @@
       "resolved": "People/Althane/Rampart",
       "source": "Org/Althane/The First House",
       "target": "People/Althane/Rampart"
+    },
+    {
+      "alias": "Slipseer",
+      "heading": null,
+      "resolved": "People/Althane/The Slipseer",
+      "source": "Org/Althane/The First House",
+      "target": "People/Althane/The Slipseer"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Org/Althane/The First House",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Org/Althane/The First House",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "Org/Althane/The First House",
+      "target": "Phenomena/Althane/The Gun"
     },
     {
       "alias": "Henrik",
@@ -7881,6 +7951,27 @@
       "resolved": "Geography/Althane/Oresk/RC3",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "Org/Althane/The Weft",
+      "target": "Phenomena/Althane/The Gun"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/Oresk/index"
     },
     {
       "alias": "Sanguis Noxa",
@@ -14372,6 +14463,13 @@
       "target": "Geography/Althane/Oresk/RC3"
     },
     {
+      "alias": "Natalia",
+      "heading": null,
+      "resolved": "People/Althane/Natalia",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Natalia"
+    },
+    {
       "alias": "Deep",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/The Deep",
@@ -14379,11 +14477,25 @@
       "target": "Divinity/Unknown Entities/The Deep"
     },
     {
-      "alias": "the Deep",
+      "alias": "Nox",
       "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
+      "resolved": "Divinity/Unknown Entities/Nox",
       "source": "People/Althane/Karkov",
-      "target": "Divinity/Unknown Entities/The Deep"
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Karkov",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "People/Althane/Karkov",
+      "target": "Phenomena/Althane/The Gun"
     },
     {
       "alias": "Masha",
@@ -14624,6 +14736,20 @@
       "target": "People/Althane/Wojciech"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Natalia",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Oreskian",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "People/Althane/Natalia",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
       "alias": "Aasimar",
       "heading": "Aasimar",
       "resolved": "Bestiary/Realmtouched",
@@ -14699,6 +14825,13 @@
       "resolved": "People/Althane/The Slipseer",
       "source": "People/Althane/Rampart",
       "target": "People/Althane/The Slipseer"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/Karkov"
     },
     {
       "alias": "Hali",
@@ -14869,11 +15002,25 @@
       "target": "Org/Althane/The Weft"
     },
     {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "People/Althane/The Broker",
+      "target": "Phenomena/Althane/The Gun"
+    },
+    {
       "alias": "First House",
       "heading": null,
       "resolved": "Org/Althane/The First House",
       "source": "People/Althane/The Broker",
       "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/The Broker",
+      "target": "Org/Althane/The Weft"
     },
     {
       "alias": "Illyara",
@@ -14888,13 +15035,6 @@
       "resolved": "Org/Althane/The Trust",
       "source": "People/Althane/The Crystalpoint Lattice",
       "target": "Org/Althane/The Trust"
-    },
-    {
-      "alias": "Oresk",
-      "heading": null,
-      "resolved": "Geography/Althane/Oresk/index",
-      "source": "People/Althane/The Slipseer",
-      "target": "Geography/Althane/Oresk/index"
     },
     {
       "alias": "Karkov",
@@ -14930,6 +15070,13 @@
       "resolved": "People/Althane/Lev",
       "source": "People/Althane/The Slipseer",
       "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/The Slipseer",
+      "target": "Geography/Althane/Oresk/RC3"
     },
     {
       "alias": "Archlin",
@@ -17802,6 +17949,41 @@
       "target": "Geography/Althane/Realms/index"
     },
     {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Phenomena/Althane/The Gun",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Phenomena/Althane/The Gun",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Phenomena/Althane/The Gun",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/The Gun",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Phenomena/Althane/The Gun",
+      "target": "People/Althane/Karkov"
+    },
+    {
       "alias": "Salores",
       "heading": null,
       "resolved": "Geography/Althane/Salores/index",
@@ -19747,6 +19929,31 @@
         "title": null
       },
       "path": "Bestiary/Creatures of the Gloaming Codex"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "the Slipseer",
+          "heading": null,
+          "target": "People/Althane/The Slipseer"
+        }
+      ],
+      "date": "2025-01-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Sovereign Dragon"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Dragons"
     },
     {
       "crossrefs": [],
@@ -24081,6 +24288,31 @@
           "target": "Divinity/Unknown Entities/The Deep"
         },
         {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "Natalia",
+          "heading": null,
+          "target": "People/Althane/Natalia"
+        },
+        {
+          "alias": "Rampart",
+          "heading": null,
+          "target": "People/Althane/Rampart"
+        },
+        {
+          "alias": "the Slipseer",
+          "heading": null,
+          "target": "People/Althane/The Slipseer"
+        },
+        {
           "alias": "Kaathe",
           "heading": null,
           "target": "Bestiary/Kaathe"
@@ -24096,14 +24328,14 @@
           "target": "People/Althane/Tennobrin Er-K"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29784,7 +30016,7 @@
           "target": "Phenomena/Althane/Printing Press"
         },
         {
-          "alias": "Karkov",
+          "alias": "Yuri Karkov",
           "heading": null,
           "target": "People/Althane/Karkov"
         },
@@ -29792,6 +30024,26 @@
           "alias": "Rampart",
           "heading": null,
           "target": "People/Althane/Rampart"
+        },
+        {
+          "alias": "Slipseer",
+          "heading": null,
+          "target": "People/Althane/The Slipseer"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
         },
         {
           "alias": "Henrik",
@@ -29829,14 +30081,14 @@
           "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -30131,16 +30383,31 @@
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38459,14 +38726,29 @@
           "target": "Geography/Althane/Oresk/RC3"
         },
         {
+          "alias": "Natalia",
+          "heading": null,
+          "target": "People/Althane/Natalia"
+        },
+        {
           "alias": "Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
         },
         {
-          "alias": "the Deep",
+          "alias": "Nox",
           "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
         },
         {
           "alias": "Masha",
@@ -38474,7 +38756,7 @@
           "target": "People/Althane/Masha"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -38483,7 +38765,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38804,6 +39086,34 @@
     {
       "crossrefs": [
         {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Oreskian",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        }
+      ],
+      "date": "2025-01-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Althane/Natalia"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Aasimar",
           "heading": "Aasimar",
           "target": "Bestiary/Realmtouched"
@@ -38900,6 +39210,11 @@
           "target": "People/Althane/The Slipseer"
         },
         {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
           "alias": "Hali",
           "heading": null,
           "target": "People/Althane/Halidex Op-B"
@@ -38925,7 +39240,7 @@
           "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Viktor Kozlovsky"
@@ -38934,7 +39249,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -39142,19 +39457,29 @@
           "target": "Org/Althane/The Weft"
         },
         {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
+        },
+        {
           "alias": "First House",
           "heading": null,
           "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -39195,11 +39520,6 @@
     {
       "crossrefs": [
         {
-          "alias": "Oresk",
-          "heading": null,
-          "target": "Geography/Althane/Oresk/index"
-        },
-        {
           "alias": "Karkov",
           "heading": null,
           "target": "People/Althane/Karkov"
@@ -39223,22 +39543,28 @@
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
         }
       ],
-      "date": "2025-01-22T00:00:00-04:00",
+      "date": "2025-01-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
-          "Slips"
+          "Slips",
+          "Slipsier"
         ],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-22T00:00:00-04:00"
+          "date": "2025-01-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [
-          "elf"
+          "dragon"
         ],
         "title": null
       },
@@ -43006,6 +43332,51 @@
         "title": null
       },
       "path": "Phenomena/Althane/Starfont"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        }
+      ],
+      "date": "2025-01-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "artifact"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/The Gun"
     },
     {
       "crossrefs": [

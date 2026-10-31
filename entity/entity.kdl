@@ -634,6 +634,10 @@ entity "Dr. Thrain" kind="person" page="Org/Verdant Holdings/People/Dr. Thrain" 
     alias "Dr. Thrain"
     source "akasha"
 }
+entity "Dragons" kind="creature" page="Bestiary/Dragons" {
+    alias "Sovereign Dragon"
+    source "akasha"
+}
 entity "Dura" {
     alias "Jura"
     alias "Duro"
@@ -2388,6 +2392,9 @@ entity "The Ghostrime Sea" kind="place" page="Geography/Althane/Illyara/The Ghos
     source "akasha"
 }
 entity "The Guild" kind="org" page="Org/Althane/The Guild" {
+    source "akasha"
+}
+entity "The Gun" kind="phenomenon" page="Phenomena/Althane/The Gun" {
     source "akasha"
 }
 entity "The Harlequin" kind="deity" page="Divinity/Fiends/The Harlequin" {
