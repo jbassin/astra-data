@@ -1011,7 +1011,7 @@
 001011	Benny: It's this fucking moving city thing.  
 001012	Benny: It just sort of appears.  
 001013	Benny: We have two more Joker Worlds,  
-001014	Benny: Hellsmith and Glacier.  
+001014	Benny: Hellsmouth and Glacier.  
 001015	Benny: They are exactly what they sound like.  
 001016	Benny: We did a quick check of the fitness, the physical fitness of some people, and then we did a mental check of their mental fitness on if they would defend us.  
 001017	Gamemaster: Oh  
@@ -1196,7 +1196,7 @@
 001196	Argyle: How many tithes would that be?  
 001197	Gamemaster: 300,000 puts you pretty early on in, not next cycle, oh, actually, wait, maybe I was off  
 001198	Gamemaster: by a little bit, because the first two cycles gets you to a quarter of a million.  
-001199	Gamemaster: It happens after the Menagerie, but before Hellsmith and Glacier.  
+001199	Gamemaster: It happens after the Menagerie, but before Hellsmouth and Glacier.  
 001200	Gamemaster: So it might be off numerically by a little bit but effectively you like Oh yeah I was early here is the problem because it feels like you guys have gotten really far into the second cycle but you haven  
 001201	Argyle: I know what this is.  
 001202	Argyle: you Okay  
@@ -1207,7 +1207,7 @@
 001207	Argyle: okay um when i originally started on this journey did i think do we have reason to believe that the  
 001208	Gamemaster: And then near the end of the cycle, it was unclear from the map. When you get closer,  
 001209	Gamemaster: you might be able to do something a bit more specific. Near that end of the tithe,  
-001210	Gamemaster: near that end of that cycle, is going to be where Hellsmith and the Glacier are.  
+001210	Gamemaster: near that end of that cycle, is going to be where Hellsmouth and the Glacier are.  
 001211	Argyle: other Argyles past the wall, so it's not in the quorum?  
 001212	Argyle: Or did we not know?  
 001213	Johnny: I did. I did debrief with my org. There's trouble brewing back home, so I don't really  
@@ -1609,7 +1609,7 @@
 001609	Gamemaster: The point of the scanner is such that when you arrive  
 001610	Argyle: hmm  
 001611	Gamemaster: in an area, he can tell you the direction you need  
-001612	Gamemaster: to move in in order to start heading towards any magic items that exist Because otherwise the map that you have tells you oh this is Hellsmith everything on fire And then what do you do with that information necessarily The point of the scanner is to be able to point you  
+001612	Gamemaster: to move in in order to start heading towards any magic items that exist Because otherwise the map that you have tells you oh this is Hellsmouth everything on fire And then what do you do with that information necessarily The point of the scanner is to be able to point you  
 001613	Argyle: Sounds good Yeah Okay Okay  
 001614	Gamemaster: in a general, like, cardinal direction, at the very least.  
 001615	Gamemaster: So he is still definitely, like, using that.  
