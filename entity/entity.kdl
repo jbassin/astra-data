@@ -757,6 +757,9 @@ entity "Ethervolt" kind="org" page="Org/Ethervolt/index" {
 entity "Ethics Gradient" kind="org" page="Org/Oculum Convox/Ethics Gradient" {
     source "akasha"
 }
+entity "Everdawn" kind="place" page="Geography/Inevitable Everdawn/Everdawn" {
+    source "akasha"
+}
 entity "Ewan McFoster" kind="person" page="Org/Iridescent Church/Convox/Magical Crimes/People/Ewan McFoster" {
     alias "McFoster"
     alias "Ewan"
@@ -814,12 +817,15 @@ entity "Feyrock" kind="phenomenon" page="Phenomena/Feyrock" {
 }
 entity "Fiends" kind="creature" page="Bestiary/Fiends" {
     alias "Astra Demon"
+    alias "Auris"
     alias "Babau"
     alias "Barbazu"
     alias "Barghest"
     alias "Brimorak"
     alias "Corrupted Harlequin"
     alias "Hellion"
+    alias "Manus"
+    alias "Oculum"
     alias "Ort"
     alias "Pusk"
     alias "Rancorous Priest"
@@ -1278,6 +1284,9 @@ entity "in Hallia" {
     alias "in\\s*Hellia"
     source "defs"
 }
+entity "Inevitable Everdawn" kind="place" page="Geography/Inevitable Everdawn/index" {
+    source "akasha"
+}
 entity "Infernium" kind="phenomenon" page="Phenomena/Infernium" {
     source "akasha"
 }
@@ -1700,6 +1709,9 @@ entity "NecroLog" kind="org" page="Org/NecroLog/index" {
 }
 entity "New Haven" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven" {
     alias "Fat Cock City"
+    source "akasha"
+}
+entity "New Volcantum" kind="place" page="Geography/Ushas/New Volcantum" {
     source "akasha"
 }
 entity "Nexus" kind="place" page="Geography/Althane/Realms/Nexus" {
@@ -2520,6 +2532,9 @@ entity "The Observers" kind="deity" page="Divinity/Althane/The Observers" {
 entity "The Occident" kind="place" page="Geography/Althane/The Occident" {
     source "akasha"
 }
+entity "The Pale" kind="phenomenon" page="Phenomena/The Pale" {
+    source "akasha"
+}
 entity "The Quorum" kind="place" page="Geography/Færrin/Infinite Horizon/The Quorum/index" {
     alias "Star 221,325"
     source "akasha"
@@ -2713,7 +2728,7 @@ entity "Urth" kind="place" page="Geography/Urth/index" {
     alias "Earth"
     source "akasha"
 }
-entity "Ushas" kind="place" page="Geography/Ushas" {
+entity "Ushas" kind="place" page="Geography/Ushas/index" {
     source "akasha"
 }
 entity "Vaati" kind="place" page="Geography/Althane/Realms/Vaati" {

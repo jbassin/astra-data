@@ -218,6 +218,13 @@
       "target": "Org/Iridescent Church/index"
     },
     {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Bestiary/Fiends",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
       "alias": "Sbrtlby Jotes",
       "heading": null,
       "resolved": "People/Sbrtlby Jotes",
@@ -265,6 +272,20 @@
       "resolved": "Geography/Færrin/Infinite Horizon/The Quorum/index",
       "source": "Bestiary/Fiends",
       "target": "Geography/Færrin/Infinite Horizon/The Quorum/index"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Bestiary/Fiends",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Bestiary/Fiends",
+      "target": "Geography/Inevitable Everdawn/index"
     },
     {
       "alias": "Harlequins",
@@ -7533,6 +7554,69 @@
       "target": "Phenomena/Midnight Sun"
     },
     {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Geography/Inevitable Everdawn/Everdawn",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Inevitable Everdawn/Everdawn",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Gremory's",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Geography/Inevitable Everdawn/Everdawn",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Astra",
+      "heading": null,
+      "resolved": "Geography/index",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Geography/index"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Phenomena/The Slip"
+    },
+    {
+      "alias": "Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/Everdawn",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Geography/Inevitable Everdawn/Everdawn"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Gremory's",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Geography/Inevitable Everdawn/index",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
       "alias": "Syrin",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
@@ -7764,39 +7848,95 @@
       "target": "Org/Bisney and Dixar/index"
     },
     {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Geography/Ushas/New Volcantum",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "Geography/Ushas/New Volcantum",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Pale",
+      "heading": null,
+      "resolved": "Phenomena/The Pale",
+      "source": "Geography/Ushas/New Volcantum",
+      "target": "Phenomena/The Pale"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Ushas/New Volcantum",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "Færrin",
       "heading": null,
       "resolved": "Geography/Færrin/index",
-      "source": "Geography/Ushas",
+      "source": "Geography/Ushas/index",
       "target": "Geography/Færrin/index"
     },
     {
       "alias": "Sedecium",
       "heading": null,
       "resolved": "Org/Sedecium",
-      "source": "Geography/Ushas",
+      "source": "Geography/Ushas/index",
       "target": "Org/Sedecium"
     },
     {
       "alias": "firmament",
       "heading": null,
       "resolved": "Phenomena/Firmament",
-      "source": "Geography/Ushas",
+      "source": "Geography/Ushas/index",
       "target": "Phenomena/Firmament"
     },
     {
       "alias": "Crystal Sphere",
       "heading": null,
       "resolved": "Phenomena/Crystal Sphere",
-      "source": "Geography/Ushas",
+      "source": "Geography/Ushas/index",
       "target": "Phenomena/Crystal Sphere"
     },
     {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
-      "source": "Geography/Ushas",
+      "source": "Geography/Ushas/index",
       "target": "Geography/index"
+    },
+    {
+      "alias": "Pale",
+      "heading": null,
+      "resolved": "Phenomena/The Pale",
+      "source": "Geography/Ushas/index",
+      "target": "Phenomena/The Pale"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "Geography/Ushas/index",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Ushas/index",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "New Volcantum",
+      "heading": null,
+      "resolved": "Geography/Ushas/New Volcantum",
+      "source": "Geography/Ushas/index",
+      "target": "Geography/Ushas/New Volcantum"
     },
     {
       "alias": "localities",
@@ -7836,9 +7976,9 @@
     {
       "alias": "Ushas",
       "heading": null,
-      "resolved": "Geography/Ushas",
+      "resolved": "Geography/Ushas/index",
       "source": "Geography/index",
-      "target": "Geography/Ushas"
+      "target": "Geography/Ushas/index"
     },
     {
       "alias": "Urth",
@@ -13093,9 +13233,9 @@
     {
       "alias": "Ushas",
       "heading": null,
-      "resolved": "Geography/Ushas",
+      "resolved": "Geography/Ushas/index",
       "source": "Org/Sedecium",
-      "target": "Geography/Ushas"
+      "target": "Geography/Ushas/index"
     },
     {
       "alias": "Færrin",
@@ -13166,6 +13306,62 @@
       "resolved": "Geography/Elysium",
       "source": "Org/Sedecium",
       "target": "Geography/Elysium"
+    },
+    {
+      "alias": "Astra",
+      "heading": null,
+      "resolved": "Geography/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/index"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "Org/Sedecium",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Zugg",
+      "heading": null,
+      "resolved": "People/Zugg",
+      "source": "Org/Sedecium",
+      "target": "People/Zugg"
+    },
+    {
+      "alias": "Rodic",
+      "heading": null,
+      "resolved": "People/Rodic",
+      "source": "Org/Sedecium",
+      "target": "People/Rodic"
+    },
+    {
+      "alias": "Tech",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Org/Sedecium",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "the Pale",
+      "heading": null,
+      "resolved": "Phenomena/The Pale",
+      "source": "Org/Sedecium",
+      "target": "Phenomena/The Pale"
+    },
+    {
+      "alias": "New Volcantum",
+      "heading": null,
+      "resolved": "Geography/Ushas/New Volcantum",
+      "source": "Org/Sedecium",
+      "target": "Geography/Ushas/New Volcantum"
     },
     {
       "alias": "Belvedere",
@@ -13369,6 +13565,13 @@
       "resolved": "Divinity/Immix",
       "source": "Org/The Fifth Prosperous Empire of the Sundom",
       "target": "Divinity/Immix"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Phenomena/The Slip"
     },
     {
       "alias": "Providence",
@@ -16761,9 +16964,9 @@
     {
       "alias": "Ushas",
       "heading": null,
-      "resolved": "Geography/Ushas",
+      "resolved": "Geography/Ushas/index",
       "source": "People/Althane/The Broker",
-      "target": "Geography/Ushas"
+      "target": "Geography/Ushas/index"
     },
     {
       "alias": "weave",
@@ -16848,6 +17051,20 @@
       "resolved": "Org/Sedecium",
       "source": "People/Althane/The Broker",
       "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "People/Althane/The Broker",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "People/Althane/The Broker",
+      "target": "Phenomena/The Slip"
     },
     {
       "alias": "Illyara",
@@ -17984,6 +18201,20 @@
       "target": "Org/Iconoclasm/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Dorcan",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "People/Dorcan",
+      "target": "Geography/Ushas/index"
+    },
+    {
       "alias": "Lorandris",
       "heading": null,
       "resolved": "Geography/Færrin/Lorandris/index",
@@ -18129,6 +18360,13 @@
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
       "source": "People/Feathers",
       "target": "Geography/Færrin/Calaria/Hallia/index"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Foral",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "Prime Meridian",
@@ -18852,6 +19090,27 @@
       "target": "Geography/Færrin/Calaria/Hallia/Teller's Run/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Ozzie",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Scrazzy",
+      "heading": null,
+      "resolved": "People/Scrazzy",
+      "source": "People/Ozzie",
+      "target": "People/Scrazzy"
+    },
+    {
+      "alias": "Foral",
+      "heading": null,
+      "resolved": "People/Foral",
+      "source": "People/Ozzie",
+      "target": "People/Foral"
+    },
+    {
       "alias": "Tormeré",
       "heading": null,
       "resolved": "Geography/Færrin/Tormeré/index",
@@ -18964,6 +19223,27 @@
       "target": "Org/Hildebrandt Corporation/index"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Rodic",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "People/Rodic",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Zugg",
+      "heading": null,
+      "resolved": "People/Zugg",
+      "source": "People/Rodic",
+      "target": "People/Zugg"
+    },
+    {
       "alias": "arcane intelligence",
       "heading": null,
       "resolved": "Org/Bisney and Dixar/Arcane Intelligence",
@@ -19025,6 +19305,27 @@
       "resolved": "Phenomena/Joker World",
       "source": "People/Sbrtlby Jotes",
       "target": "Phenomena/Joker World"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Scrazzy",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "People/Scrazzy",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Bob",
+      "heading": null,
+      "resolved": "People/Bob",
+      "source": "People/Scrazzy",
+      "target": "People/Bob"
     },
     {
       "alias": "Deosil",
@@ -19487,6 +19788,27 @@
       "resolved": "Geography/Elysium",
       "source": "People/Zugg",
       "target": "Geography/Elysium"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Zugg",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "People/Zugg",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Rodic",
+      "heading": null,
+      "resolved": "People/Rodic",
+      "source": "People/Zugg",
+      "target": "People/Rodic"
     },
     {
       "alias": "Astra",
@@ -21589,6 +21911,27 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Phenomena/The Pale",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "Phenomena/The Pale",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "Phenomena/The Pale",
+      "target": "Phenomena/The Slip"
+    },
+    {
       "alias": "Observers",
       "heading": null,
       "resolved": "Divinity/Althane/The Observers",
@@ -21601,6 +21944,20 @@
       "resolved": "Divinity/Althane/The Stranger",
       "source": "Phenomena/The Slip",
       "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Phenomena/The Slip",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "alias": "fiends",
+      "heading": null,
+      "resolved": "Bestiary/Fiends",
+      "source": "Phenomena/The Slip",
+      "target": "Bestiary/Fiends"
     },
     {
       "alias": "Friends of Aut",
@@ -22319,6 +22676,11 @@
     {
       "crossrefs": [
         {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
           "alias": "Sbrtlby Jotes",
           "heading": null,
           "target": "People/Sbrtlby Jotes"
@@ -22354,6 +22716,16 @@
           "target": "Geography/Færrin/Infinite Horizon/The Quorum/index"
         },
         {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
           "alias": "Harlequins",
           "heading": null,
           "target": "Org/The Harlequins/index"
@@ -22378,12 +22750,15 @@
       "frontmatter": {
         "aliases": [
           "Astra Demon",
+          "Auris",
           "Babau",
           "Barbazu",
           "Barghest",
           "Brimorak",
           "Corrupted Harlequin",
           "Hellion",
+          "Manus",
+          "Oculum",
           "Ort",
           "Pusk",
           "Rancorous Priest",
@@ -22392,7 +22767,8 @@
         "campaigns": [
           "through-a-song-darkly",
           "urth",
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
           "date": "2026-09-17T00:00:00-04:00"
@@ -31737,6 +32113,87 @@
     {
       "crossrefs": [
         {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Gremory's",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": "Everdawn"
+      },
+      "path": "Geography/Inevitable Everdawn/Everdawn"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Astra",
+          "heading": null,
+          "target": "Geography/index"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
+        },
+        {
+          "alias": "Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/Everdawn"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Gremory's",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": "Inevitable Everdawn"
+      },
+      "path": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
@@ -32075,6 +32532,44 @@
     {
       "crossrefs": [
         {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Pale",
+          "heading": null,
+          "target": "Phenomena/The Pale"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Geography/Ushas/New Volcantum"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Færrin",
           "heading": null,
           "target": "Geography/Færrin/index"
@@ -32098,13 +32593,34 @@
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
+        },
+        {
+          "alias": "Pale",
+          "heading": null,
+          "target": "Phenomena/The Pale"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "New Volcantum",
+          "heading": null,
+          "target": "Geography/Ushas/New Volcantum"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "observatory-slipped"
         ],
         "extra": {
           "date": "2026-10-29T00:00:00-04:00"
@@ -32113,7 +32629,7 @@
         "tags": [],
         "title": null
       },
-      "path": "Geography/Ushas"
+      "path": "Geography/Ushas/index"
     },
     {
       "crossrefs": [
@@ -32145,7 +32661,7 @@
         {
           "alias": "Ushas",
           "heading": null,
-          "target": "Geography/Ushas"
+          "target": "Geography/Ushas/index"
         },
         {
           "alias": "Urth",
@@ -32158,14 +32674,14 @@
           "target": "Geography/Syrin (Locality)/index"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2026-04-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Astra"
         ],
         "campaigns": [],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2026-04-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38841,7 +39357,7 @@
         {
           "alias": "Ushas",
           "heading": null,
-          "target": "Geography/Ushas"
+          "target": "Geography/Ushas/index"
         },
         {
           "alias": "Færrin",
@@ -38892,6 +39408,46 @@
           "alias": "Elysium",
           "heading": null,
           "target": "Geography/Elysium"
+        },
+        {
+          "alias": "Astra",
+          "heading": null,
+          "target": "Geography/index"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Zugg",
+          "heading": null,
+          "target": "People/Zugg"
+        },
+        {
+          "alias": "Rodic",
+          "heading": null,
+          "target": "People/Rodic"
+        },
+        {
+          "alias": "Tech",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "the Pale",
+          "heading": null,
+          "target": "Phenomena/The Pale"
+        },
+        {
+          "alias": "New Volcantum",
+          "heading": null,
+          "target": "Geography/Ushas/New Volcantum"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -38899,7 +39455,8 @@
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly",
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
           "date": "2026-10-29T00:00:00-04:00"
@@ -39177,14 +39734,19 @@
           "alias": "the Lighthouse",
           "heading": null,
           "target": "Divinity/Immix"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2026-04-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2026-04-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -43465,7 +44027,7 @@
         {
           "alias": "Ushas",
           "heading": null,
-          "target": "Geography/Ushas"
+          "target": "Geography/Ushas/index"
         },
         {
           "alias": "weave",
@@ -43526,16 +44088,31 @@
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2026-04-06T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "T3C",
+          "Tech",
+          "the entity"
+        ],
         "campaigns": [
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2026-04-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -44467,6 +45044,23 @@
       "path": "People/Benny"
     },
     {
+      "crossrefs": [],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Bob"
+    },
+    {
       "crossrefs": [
         {
           "alias": "Omnivox",
@@ -44871,6 +45465,34 @@
     {
       "crossrefs": [
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Dorcan"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Lorandris",
           "heading": null,
           "target": "Geography/Færrin/Lorandris/index"
@@ -45068,6 +45690,29 @@
         "title": null
       },
       "path": "People/Feathers"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Foral"
     },
     {
       "crossrefs": [
@@ -46002,6 +46647,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Scrazzy",
+          "heading": null,
+          "target": "People/Scrazzy"
+        },
+        {
+          "alias": "Foral",
+          "heading": null,
+          "target": "People/Foral"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Ozzie"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Tormeré",
           "heading": null,
           "target": "Geography/Færrin/Tormeré/index"
@@ -46158,6 +46836,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Zugg",
+          "heading": null,
+          "target": "People/Zugg"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Rodic"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "arcane intelligence",
           "heading": null,
           "target": "Org/Bisney and Dixar/Arcane Intelligence"
@@ -46237,6 +46948,39 @@
         "title": null
       },
       "path": "People/Sbrtlby Jotes"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Bob",
+          "heading": null,
+          "target": "People/Bob"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Scrazzy"
     },
     {
       "crossrefs": [
@@ -46802,16 +47546,32 @@
           "alias": "Elysium",
           "heading": null,
           "target": "Geography/Elysium"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Rodic",
+          "heading": null,
+          "target": "People/Rodic"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2026-04-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2026-04-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -49541,6 +50301,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
+        }
+      ],
+      "date": "2026-04-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/The Pale"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Observers",
           "heading": null,
           "target": "Divinity/Althane/The Observers"
@@ -49549,16 +50342,27 @@
           "alias": "Vesper Feep",
           "heading": null,
           "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
+          "alias": "fiends",
+          "heading": null,
+          "target": "Bestiary/Fiends"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2026-04-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2026-04-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
