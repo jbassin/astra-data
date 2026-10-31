@@ -493,6 +493,9 @@ entity "Cliff Vandertrip" kind="person" page="Org/The Scale/People/Cliff Vandert
     alias "Seer Cliff"
     source "akasha"
 }
+entity "Clockwork Rejuvenator" kind="phenomenon" page="Phenomena/Althane/Clockwork Rejuvenator" {
+    source "akasha"
+}
 entity "Cold Iron" kind="phenomenon" page="Phenomena/Althane/Cold Iron" {
     source "akasha"
 }
@@ -1209,8 +1212,9 @@ entity "Illmari Vaino" kind="person" page="Org/Iconoclasm/People/Illmari Vaino" 
 entity "Illyara" kind="place" page="Geography/Althane/Illyara/index" {
     source "akasha"
 }
-entity "Immix" {
+entity "Immix" kind="deity" page="Divinity/Immix" {
     alias "[IE]mix"
+    source "akasha"
     source "defs"
 }
 entity "in Hallia" {
@@ -1239,6 +1243,8 @@ entity "Inquisitor Penitence" kind="person" page="Org/Iridescent Church/Convox/I
 }
 entity "Insuperlex" kind="deity" page="Divinity/The Narrative/Insuperlex" {
     alias "Insuperlex"
+    alias "the half-man"
+    alias "the bifurcated man"
     alias "Insuperlix"
     alias "Superlex"
     source "akasha"

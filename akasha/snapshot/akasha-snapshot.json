@@ -113,6 +113,20 @@
       "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
     },
     {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Bestiary/Constructs",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Bestiary/Constructs",
+      "target": "Org/Althane/The First House"
+    },
+    {
       "alias": "Gloaming Codex",
       "heading": null,
       "resolved": "Phenomena/Gloaming Codex",
@@ -1905,6 +1919,13 @@
       "target": "Phenomena/Aetheric Field"
     },
     {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Immix",
+      "target": "Divinity/Thessians"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Færrin/Alternate Planes/Godhome",
@@ -2596,6 +2617,20 @@
       "resolved": "Phenomena/Althane/Sanguis Noxa",
       "source": "Divinity/Unknown Entities/Nox",
       "target": "Phenomena/Althane/Sanguis Noxa"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": "Renge",
@@ -3611,6 +3646,13 @@
       "resolved": "Phenomena/Althane/Godpiercer",
       "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
       "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "clockwork rejuvenator",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Clockwork Rejuvenator",
+      "source": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "target": "Phenomena/Althane/Clockwork Rejuvenator"
     },
     {
       "alias": "Henrik",
@@ -7232,6 +7274,13 @@
       "target": "Divinity/Unknown Entities/Nox"
     },
     {
+      "alias": "Ezrik Oreskalka",
+      "heading": null,
+      "resolved": "People/Althane/Ezrik Oreskalka",
+      "source": "Org/Althane/Oreskalka Cabal",
+      "target": "People/Althane/Ezrik Oreskalka"
+    },
+    {
       "alias": "Sanguis Noxa",
       "heading": null,
       "resolved": "Phenomena/Althane/Sanguis Noxa",
@@ -7251,6 +7300,20 @@
       "resolved": "Org/Althane/The First House",
       "source": "Org/Althane/Oreskalka Cabal",
       "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Sarengrad",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "source": "Org/Althane/Oreskalka Cabal",
+      "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Kerneyy outpost",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Kerneyy Prison Outpost",
+      "source": "Org/Althane/Oreskalka Cabal",
+      "target": "Geography/Althane/Oresk/Kerneyy Prison Outpost"
     },
     {
       "alias": "realms",
@@ -7342,6 +7405,27 @@
       "resolved": "Phenomena/Althane/Printing Press",
       "source": "Org/Althane/The First House",
       "target": "Phenomena/Althane/Printing Press"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Org/Althane/The First House",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "Rampart",
+      "heading": null,
+      "resolved": "People/Althane/Rampart",
+      "source": "Org/Althane/The First House",
+      "target": "People/Althane/Rampart"
+    },
+    {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Org/Althane/The First House",
+      "target": "People/Althane/Henrik"
     },
     {
       "alias": "Followers of the Path",
@@ -7489,6 +7573,27 @@
       "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "Org/Althane/The Weft",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "the First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Org/Althane/The Weft",
+      "target": "Org/Althane/The First House"
     },
     {
       "alias": "Sanguis Noxa",
@@ -13588,11 +13693,11 @@
       "target": "Org/Althane/The Weft"
     },
     {
-      "alias": "godpiercer",
+      "alias": "clockwork rejuvenator",
       "heading": null,
-      "resolved": "Phenomena/Althane/Godpiercer",
+      "resolved": "Phenomena/Althane/Clockwork Rejuvenator",
       "source": "People/Althane/Dawnmonger",
-      "target": "Phenomena/Althane/Godpiercer"
+      "target": "Phenomena/Althane/Clockwork Rejuvenator"
     },
     {
       "alias": "the lava ruin",
@@ -13630,6 +13735,13 @@
       "target": "Org/Althane/The Weft"
     },
     {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "People/Althane/Divex",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
       "alias": "Tidereader's Rest",
       "heading": null,
       "resolved": "Geography/Althane/Salores/Toleros/Tidereader's Rest",
@@ -13663,6 +13775,27 @@
       "resolved": "Bestiary/Visitors from Beyond",
       "source": "People/Althane/Ezekiel Grimm",
       "target": "Bestiary/Visitors from Beyond"
+    },
+    {
+      "alias": "Oreskalka Cabal",
+      "heading": null,
+      "resolved": "Org/Althane/Oreskalka Cabal",
+      "source": "People/Althane/Ezrik Oreskalka",
+      "target": "Org/Althane/Oreskalka Cabal"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "People/Althane/Ezrik Oreskalka",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Ezrik Oreskalka",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": "Orc",
@@ -13882,11 +14015,11 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "Sarengrad",
+      "alias": "First House",
       "heading": null,
-      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "resolved": "Org/Althane/The First House",
       "source": "People/Althane/Karkov",
-      "target": "Geography/Althane/Oresk/Sarengrad"
+      "target": "Org/Althane/The First House"
     },
     {
       "alias": "Thessian",
@@ -13896,11 +14029,18 @@
       "target": "Divinity/Thessians"
     },
     {
-      "alias": "Weft",
+      "alias": "the Slipseer",
       "heading": null,
-      "resolved": "Org/Althane/The Weft",
+      "resolved": "People/Althane/The Slipseer",
       "source": "People/Althane/Karkov",
-      "target": "Org/Althane/The Weft"
+      "target": "People/Althane/The Slipseer"
+    },
+    {
+      "alias": "Rampart",
+      "heading": null,
+      "resolved": "People/Althane/Rampart",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Rampart"
     },
     {
       "alias": "Ifrit",
@@ -14006,6 +14146,20 @@
       "resolved": "Org/Althane/Golden Sparrows",
       "source": "People/Althane/Lev",
       "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "People/Althane/Lev",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "the creature from below",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Lev",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Henrik",
@@ -14127,6 +14281,41 @@
       "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Junction/index"
     },
     {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "People/Althane/Rampart",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/Rampart",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Hali",
+      "heading": null,
+      "resolved": "People/Althane/Halidex Op-B",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "People/Althane/Rampart",
+      "target": "People/Althane/Tennobrin Er-K"
+    },
+    {
       "alias": "Crimson Sigil",
       "heading": null,
       "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Crimson Sigil",
@@ -14197,6 +14386,13 @@
       "target": "Org/Althane/The Weft"
     },
     {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/SeRaan",
+      "target": "People/Althane/The Broker"
+    },
+    {
       "alias": "Kaathe",
       "heading": null,
       "resolved": "Bestiary/Kaathe",
@@ -14218,11 +14414,25 @@
       "target": "People/Althane/Halidex Op-B"
     },
     {
+      "alias": "the Broker's",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Terexanthes",
+      "target": "People/Althane/The Broker"
+    },
+    {
       "alias": "Network",
       "heading": null,
       "resolved": "Org/Althane/The Network",
       "source": "People/Althane/The Broker",
       "target": "Org/Althane/The Network"
+    },
+    {
+      "alias": "Terexanthes",
+      "heading": null,
+      "resolved": "People/Althane/Terexanthes",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Terexanthes"
     },
     {
       "alias": "Illyara",
@@ -14237,6 +14447,41 @@
       "resolved": "Org/Althane/The Trust",
       "source": "People/Althane/The Crystalpoint Lattice",
       "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "People/Althane/The Slipseer",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "Karkov's",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "People/Althane/The Slipseer",
+      "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/The Slipseer",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/The Slipseer",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/The Slipseer",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": "Archlin",
@@ -16738,6 +16983,20 @@
       "target": "Geography/Althane/Salores/index"
     },
     {
+      "alias": "forge-heart",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/Damien",
+      "source": "Phenomena/Althane/Clockwork Rejuvenator",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Phenomena/Althane/Clockwork Rejuvenator",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
       "alias": "starmetal",
       "heading": null,
       "resolved": "Phenomena/Sky Metal",
@@ -16787,18 +17046,11 @@
       "target": "Divinity/The Narrative/index"
     },
     {
-      "alias": "Dawnmonger",
+      "alias": "Divex",
       "heading": null,
-      "resolved": "People/Althane/Dawnmonger",
+      "resolved": "People/Althane/Divex",
       "source": "Phenomena/Althane/Godpiercer",
-      "target": "People/Althane/Dawnmonger"
-    },
-    {
-      "alias": "the Broker",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "Phenomena/Althane/Godpiercer",
-      "target": "People/Althane/The Broker"
+      "target": "People/Althane/Divex"
     },
     {
       "alias": "Toleros",
@@ -18848,6 +19100,16 @@
           "alias": "Hesperid",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
         }
       ],
       "date": "2026-10-19T00:00:00-04:00",
@@ -18857,7 +19119,8 @@
           "Living Incantations"
         ],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "deep-eyes"
         ],
         "extra": {
           "date": "2026-10-19T00:00:00-04:00"
@@ -21055,6 +21318,31 @@
     {
       "crossrefs": [
         {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "divinity"
+        ],
+        "title": null
+      },
+      "path": "Divinity/Immix"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": null,
           "heading": null,
           "target": "Godhome"
@@ -21503,10 +21791,13 @@
       "date": "2026-08-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
-          "Insuperlex"
+          "Insuperlex",
+          "the half-man",
+          "the bifurcated man"
         ],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "deep-eyes"
         ],
         "extra": {
           "date": "2026-08-17T00:00:00-04:00"
@@ -21847,16 +22138,26 @@
           "alias": "vampirism",
           "heading": null,
           "target": "Phenomena/Althane/Sanguis Noxa"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -23872,6 +24173,11 @@
           "target": "Phenomena/Althane/Godpiercer"
         },
         {
+          "alias": "clockwork rejuvenator",
+          "heading": null,
+          "target": "Phenomena/Althane/Clockwork Rejuvenator"
+        },
+        {
           "alias": "Henrik",
           "heading": null,
           "target": "People/Althane/Henrik"
@@ -23882,14 +24188,14 @@
           "target": "People/Althane/Lev"
         }
       ],
-      "date": "2024-12-02T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-02T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28467,6 +28773,11 @@
           "target": "Divinity/Unknown Entities/Nox"
         },
         {
+          "alias": "Ezrik Oreskalka",
+          "heading": null,
+          "target": "People/Althane/Ezrik Oreskalka"
+        },
+        {
           "alias": "Sanguis Noxa",
           "heading": null,
           "target": "Phenomena/Althane/Sanguis Noxa"
@@ -28480,16 +28791,26 @@
           "alias": "Oreskian government",
           "heading": null,
           "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Sarengrad",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Kerneyy outpost",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Kerneyy Prison Outpost"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28645,16 +28966,31 @@
           "alias": "printing presses",
           "heading": null,
           "target": "Phenomena/Althane/Printing Press"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "Rampart",
+          "heading": null,
+          "target": "People/Althane/Rampart"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28909,16 +29245,31 @@
           "alias": "Damien",
           "heading": null,
           "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+        },
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "the First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
         }
       ],
-      "date": "2024-12-02T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-02T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -36699,9 +37050,9 @@
           "target": "Org/Althane/The Weft"
         },
         {
-          "alias": "godpiercer",
+          "alias": "clockwork rejuvenator",
           "heading": null,
-          "target": "Phenomena/Althane/Godpiercer"
+          "target": "Phenomena/Althane/Clockwork Rejuvenator"
         },
         {
           "alias": "the lava ruin",
@@ -36709,14 +37060,14 @@
           "target": "Geography/Althane/The Hollow/Lava Ruin/index"
         }
       ],
-      "date": "2024-12-02T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-02T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -36745,16 +37096,21 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -36826,6 +37182,43 @@
         "title": null
       },
       "path": "People/Althane/Ezekiel Grimm"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Oreskalka Cabal",
+          "heading": null,
+          "target": "Org/Althane/Oreskalka Cabal"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Oraskalka"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "vampire"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Ezrik Oreskalka"
     },
     {
       "crossrefs": [
@@ -37125,9 +37518,9 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "Sarengrad",
+          "alias": "First House",
           "heading": null,
-          "target": "Geography/Althane/Oresk/Sarengrad"
+          "target": "Org/Althane/The First House"
         },
         {
           "alias": "Thessian",
@@ -37135,19 +37528,26 @@
           "target": "Divinity/Thessians"
         },
         {
-          "alias": "Weft",
+          "alias": "the Slipseer",
           "heading": null,
-          "target": "Org/Althane/The Weft"
+          "target": "People/Althane/The Slipseer"
+        },
+        {
+          "alias": "Rampart",
+          "heading": null,
+          "target": "People/Althane/Rampart"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "Kharkov"
+        ],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37318,6 +37718,16 @@
           "target": "Org/Althane/Golden Sparrows"
         },
         {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "the creature from below",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "Henrik",
           "heading": null,
           "target": "People/Althane/Henrik"
@@ -37338,14 +37748,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37484,6 +37894,53 @@
     {
       "crossrefs": [
         {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Hali",
+          "heading": null,
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Viktor Kozlovsky"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "orc"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Rampart"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Crimson Sigil",
           "heading": null,
           "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Crimson Sigil"
@@ -37572,16 +38029,21 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37629,19 +38091,49 @@
     {
       "crossrefs": [
         {
-          "alias": "Network",
+          "alias": "the Broker's",
           "heading": null,
-          "target": "Org/Althane/The Network"
+          "target": "People/Althane/The Broker"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "dragon"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Terexanthes"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Network",
+          "heading": null,
+          "target": "Org/Althane/The Network"
+        },
+        {
+          "alias": "Terexanthes",
+          "heading": null,
+          "target": "People/Althane/Terexanthes"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37678,6 +38170,53 @@
         "title": null
       },
       "path": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Karkov's",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Slips"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "elf"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/The Slipseer"
     },
     {
       "crossrefs": [
@@ -40793,6 +41332,36 @@
     {
       "crossrefs": [
         {
+          "alias": "forge-heart",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        }
+      ],
+      "date": "2024-12-09T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-09T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "artifact"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Clockwork Rejuvenator"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "starmetal",
           "heading": null,
           "target": "Phenomena/Sky Metal"
@@ -40868,24 +41437,19 @@
           "target": "Divinity/The Narrative/index"
         },
         {
-          "alias": "Dawnmonger",
+          "alias": "Divex",
           "heading": null,
-          "target": "People/Althane/Dawnmonger"
-        },
-        {
-          "alias": "the Broker",
-          "heading": null,
-          "target": "People/Althane/The Broker"
+          "target": "People/Althane/Divex"
         }
       ],
-      "date": "2024-12-02T00:00:00-04:00",
+      "date": "2024-12-09T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-02T00:00:00-04:00"
+          "date": "2024-12-09T00:00:00-04:00"
         },
         "img": null,
         "tags": [
