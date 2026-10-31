@@ -989,6 +989,9 @@ entity "Godpiercer" kind="phenomenon" page="Phenomena/Althane/Godpiercer" {
 entity "Golden Sparrows" kind="org" page="Org/Althane/Golden Sparrows" {
     source "akasha"
 }
+entity "Golden Spire" kind="place" page="Geography/Syrin (Locality)/Golden Spire" {
+    source "akasha"
+}
 entity "Grant" kind="person" being="jorge" {
     source "being"
 }
@@ -1556,6 +1559,9 @@ entity "maître d'" {
     alias "Major D"
     source "defs"
 }
+entity "Media Con" kind="place" page="Geography/Syrin (Locality)/Media Con" {
+    source "akasha"
+}
 entity "meeting you, Aut" {
     alias "meeting you, Art"
     source "defs"
@@ -1706,6 +1712,9 @@ entity "Officer Smith" kind="person" page="Org/Blackline/People/Officer Smith" {
     source "akasha"
 }
 entity "Oil of Unlife" kind="phenomenon" page="Phenomena/Oil of Unlife" {
+    source "akasha"
+}
+entity "Omnivox" kind="org" page="Org/Omnivox/index" {
     source "akasha"
 }
 entity "Ontological Anchor" kind="phenomenon" page="Phenomena/Althane/Ontological Anchor" {
@@ -2329,6 +2338,9 @@ entity "Tally" kind="org" page="Org/The Harlequins/Providence/Tally" {
 }
 entity "Tamara McKay" kind="person" page="Org/Protectorate/People/Tamara McKay" {
     alias "Tamara"
+    source "akasha"
+}
+entity "Tarv of the Rising Moon" kind="org" page="Org/Omnivox/Tarv of the Rising Moon" {
     source "akasha"
 }
 entity "Tas" {

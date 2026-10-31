@@ -1107,6 +1107,20 @@
       "target": "Geography/Syrin (Locality)"
     },
     {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "the Golden Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Geography/Syrin (Locality)/Golden Spire"
+    },
+    {
       "alias": "Echo Fragment",
       "heading": null,
       "resolved": "Phenomena/Echo Fragment",
@@ -1987,6 +2001,20 @@
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Divinity/Immix",
       "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Media Con",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "Divinity/Immix",
+      "target": "Geography/Syrin (Locality)/Terminus"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Divinity/Immix",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Syrin",
@@ -6973,6 +7001,62 @@
       "target": "Phenomena/Midnight Sun"
     },
     {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Geography/Syrin (Locality)/Golden Spire",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Geography/Syrin (Locality)/Golden Spire",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Terminus",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Geography/Syrin (Locality)/Terminus"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Golden Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Geography/Syrin (Locality)/Golden Spire"
+    },
+    {
+      "alias": "Immix",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Syrin (Locality)/Media Con",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Syrin",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
@@ -6992,6 +7076,20 @@
       "resolved": "People/Althane/The Broker",
       "source": "Geography/Syrin (Locality)/Terminus",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Geography/Syrin (Locality)/Terminus",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Media Con",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Media Con",
+      "source": "Geography/Syrin (Locality)/Terminus",
+      "target": "Geography/Syrin (Locality)/Media Con"
     },
     {
       "alias": "Immix",
@@ -10919,6 +11017,69 @@
       "resolved": "Org/Actinium Convox/index",
       "source": "Org/Oculum Convox/index",
       "target": "Org/Actinium Convox/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Omnivox/Tarv of the Rising Moon",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Media Con",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "Org/Omnivox/Tarv of the Rising Moon",
+      "target": "Geography/Syrin (Locality)/Terminus"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Org/Omnivox/Tarv of the Rising Moon",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Omnivox/index",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Terminus",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "Org/Omnivox/index",
+      "target": "Geography/Syrin (Locality)/Terminus"
+    },
+    {
+      "alias": "Media Con",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Media Con",
+      "source": "Org/Omnivox/index",
+      "target": "Geography/Syrin (Locality)/Media Con"
+    },
+    {
+      "alias": "Braith Vanderbilt",
+      "heading": null,
+      "resolved": "People/Braith Vanderbilt",
+      "source": "Org/Omnivox/index",
+      "target": "People/Braith Vanderbilt"
+    },
+    {
+      "alias": "Golden Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "source": "Org/Omnivox/index",
+      "target": "Geography/Syrin (Locality)/Golden Spire"
+    },
+    {
+      "alias": "Tarv of the Rising Moon",
+      "heading": null,
+      "resolved": "Org/Omnivox/Tarv of the Rising Moon",
+      "source": "Org/Omnivox/index",
+      "target": "Org/Omnivox/Tarv of the Rising Moon"
     },
     {
       "alias": "Widdershins",
@@ -16169,6 +16330,27 @@
       "resolved": "Geography/Færrin/Calaria/Eilebrin Observatory",
       "source": "People/Benny",
       "target": "Geography/Færrin/Calaria/Eilebrin Observatory"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "People/Braith Vanderbilt",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Braith Vanderbilt",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Media Con",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "People/Braith Vanderbilt",
+      "target": "Geography/Syrin (Locality)/Terminus"
     },
     {
       "alias": "Pale Lantern Society",
@@ -21577,6 +21759,16 @@
           "target": "Geography/Syrin (Locality)"
         },
         {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "the Golden Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Golden Spire"
+        },
+        {
           "alias": "Echo Fragment",
           "heading": null,
           "target": "Phenomena/Echo Fragment"
@@ -21587,14 +21779,14 @@
           "target": "People/Althane/The Broker"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -22569,6 +22761,16 @@
           "target": "Divinity/Unknown Entities/The Deep"
         },
         {
+          "alias": "Media Con",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
@@ -22579,14 +22781,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29307,6 +29509,86 @@
     {
       "crossrefs": [
         {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        }
+      ],
+      "date": "2025-02-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": null
+      },
+      "path": "Geography/Syrin (Locality)/Golden Spire"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Terminus",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
+        },
+        {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
+          "alias": "Golden Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Golden Spire"
+        },
+        {
+          "alias": "Immix",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        }
+      ],
+      "date": "2025-02-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": "Media Con"
+      },
+      "path": "Geography/Syrin (Locality)/Media Con"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
@@ -29322,6 +29604,16 @@
           "target": "People/Althane/The Broker"
         },
         {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
+          "alias": "Media Con",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Media Con"
+        },
+        {
           "alias": "Immix",
           "heading": null,
           "target": "Divinity/Immix"
@@ -29332,14 +29624,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -34488,6 +34780,89 @@
         "title": null
       },
       "path": "Org/Oculum Convox/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Media Con",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
+        },
+        {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        }
+      ],
+      "date": "2025-02-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Omnivox/Tarv of the Rising Moon"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Terminus",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
+        },
+        {
+          "alias": "Media Con",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Media Con"
+        },
+        {
+          "alias": "Braith Vanderbilt",
+          "heading": null,
+          "target": "People/Braith Vanderbilt"
+        },
+        {
+          "alias": "Golden Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Golden Spire"
+        },
+        {
+          "alias": "Tarv of the Rising Moon",
+          "heading": null,
+          "target": "Org/Omnivox/Tarv of the Rising Moon"
+        }
+      ],
+      "date": "2025-02-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Mercantile"
+        ],
+        "title": null
+      },
+      "path": "Org/Omnivox/index"
     },
     {
       "crossrefs": [
@@ -41099,6 +41474,39 @@
         "title": null
       },
       "path": "People/Benny"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Media Con",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
+        }
+      ],
+      "date": "2025-02-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Braith Vanderbilt"
     },
     {
       "crossrefs": [
