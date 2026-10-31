@@ -656,6 +656,10 @@ entity "Elara Vance" {
     alias "Alara Vance"
     source "defs"
 }
+entity "Elementals" kind="creature" page="Bestiary/Elementals" {
+    alias "Igni Sprites"
+    source "akasha"
+}
 entity "Elias Ramsey" kind="person" page="Org/Iconoclasm/People/Elias Ramsey" {
     source "akasha"
 }
@@ -954,6 +958,9 @@ entity "Godhome" kind="place" page="Geography/Færrin/Alternate Planes/Godhome" 
     source "defs"
 }
 entity "Godly Interplay" kind="deity" page="Divinity/Godly Interplay" {
+    source "akasha"
+}
+entity "Golden Sparrows" kind="org" page="Org/Althane/Golden Sparrows" {
     source "akasha"
 }
 entity "Grant" kind="person" being="jorge" {
@@ -1381,6 +1388,9 @@ entity "Lark Crowe" kind="person" page="Org/Sable and Suns/People/Lark Crowe" {
     source "akasha"
     source "defs"
 }
+entity "Lava Ruin" kind="place" page="Geography/Althane/The Hollow/Lava Ruin" {
+    source "akasha"
+}
 entity "Ledger, Ledger, and Light" kind="place" page="Geography/Færrin/Calaria/Hallia/Ledger, Ledger, and Light" {
     source "akasha"
 }
@@ -1617,6 +1627,9 @@ entity "nosh on" {
     alias "Noshpaw"
     source "defs"
 }
+entity "Nox" kind="deity" page="Divinity/Unknown Entities/Nox" {
+    source "akasha"
+}
 entity "Obie and Parmann" {
     alias "Obian Parmen"
     source "defs"
@@ -1669,6 +1682,9 @@ entity "oread" {
     source "defs"
 }
 entity "Oresk" kind="place" page="Geography/Althane/Oresk/index" {
+    source "akasha"
+}
+entity "Oreskalka Cabal" kind="org" page="Org/Althane/Oreskalka Cabal" {
     source "akasha"
 }
 entity "Org" kind="org" page="Org/index" {
@@ -2337,6 +2353,9 @@ entity "the Heart" {
     alias "the\\s*Hart"
     source "defs"
 }
+entity "The Hollow" kind="place" page="Geography/Althane/The Hollow/index" {
+    source "akasha"
+}
 entity "The Hooded" kind="deity" page="Divinity/Fiends/The Hooded" {
     source "akasha"
 }
@@ -2531,6 +2550,10 @@ entity "Ugathal" kind="creature" page="Bestiary/Ugathal" {
 entity "Ulrich" {
     alias "Ulric"
     source "defs"
+}
+entity "Umbervale Hold" kind="place" page="Geography/Althane/Oresk/Umbervale Hold" {
+    alias "Umberville Holt"
+    source "akasha"
 }
 entity "Undead" kind="creature" page="Bestiary/Undead" {
     alias "Cairn White"
