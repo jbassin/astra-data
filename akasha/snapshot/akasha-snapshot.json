@@ -1023,6 +1023,13 @@
       "target": "Org/The Harlequins/Providence"
     },
     {
+      "alias": "Tithe",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Tithe",
+      "source": "Bestiary/Vermin",
+      "target": "Divinity/Unknown Entities/Tithe"
+    },
+    {
       "alias": "Archlins",
       "heading": "Archlin",
       "resolved": "Bestiary/Visitors from Beyond",
@@ -2941,6 +2948,20 @@
       "target": "Divinity/Unknown Entities/Harrow"
     },
     {
+      "alias": "Tithe",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Tithe",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Unknown Entities/Tithe"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Thessians",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "holy gold",
       "heading": null,
       "resolved": "Phenomena/Holy Gold",
@@ -3039,11 +3060,25 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Unknown Entities/Harrow",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "the Broker",
       "heading": null,
       "resolved": "People/Althane/The Broker",
       "source": "Divinity/Unknown Entities/Harrow",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Tithe",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Tithe",
+      "source": "Divinity/Unknown Entities/Harrow",
+      "target": "Divinity/Unknown Entities/Tithe"
     },
     {
       "alias": "Umbervale Hold",
@@ -3261,6 +3296,27 @@
       "resolved": "Geography/Færrin/Calaria/Hallia/Widdershins/index",
       "source": "Divinity/Unknown Entities/The Zorbon",
       "target": "Geography/Færrin/Calaria/Hallia/Widdershins/index"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/Tithe",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Harrow",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Harrow",
+      "source": "Divinity/Unknown Entities/Tithe",
+      "target": "Divinity/Unknown Entities/Harrow"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Divinity/Unknown Entities/Tithe",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "Færrin",
@@ -7552,6 +7608,34 @@
       "resolved": "Phenomena/Midnight Sun",
       "source": "Geography/Færrin/index",
       "target": "Phenomena/Midnight Sun"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Heavy Hand of God",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Geography/Heavy Hand of God",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "crystal sphere",
+      "heading": null,
+      "resolved": "Phenomena/Crystal Sphere",
+      "source": "Geography/Heavy Hand of God",
+      "target": "Phenomena/Crystal Sphere"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Heavy Hand of God",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "Inevitable Everdawn",
@@ -13362,6 +13446,13 @@
       "resolved": "Geography/Ushas/New Volcantum",
       "source": "Org/Sedecium",
       "target": "Geography/Ushas/New Volcantum"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Org/Sedecium",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
     },
     {
       "alias": "Belvedere",
@@ -19608,6 +19699,27 @@
       "target": "Org/Iridescent Church/Convox/Magical Crimes/People/Cedric Corot"
     },
     {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "People/TuRiin",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/TuRiin",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Heavy Hand of God",
+      "heading": null,
+      "resolved": "Geography/Heavy Hand of God",
+      "source": "People/TuRiin",
+      "target": "Geography/Heavy Hand of God"
+    },
+    {
       "alias": "Hesperid 3",
       "heading": null,
       "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
@@ -20670,6 +20782,20 @@
       "resolved": "Divinity/Outer Gods/Iridescent Host",
       "source": "Phenomena/Bright Souls Eve",
       "target": "Iridescent Host"
+    },
+    {
+      "alias": "slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "Phenomena/Cognitive Beacon",
+      "target": "Phenomena/The Slip"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Phenomena/Cognitive Beacon",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "locality",
@@ -23665,6 +23791,11 @@
           "alias": "Providence",
           "heading": null,
           "target": "Org/The Harlequins/Providence"
+        },
+        {
+          "alias": "Tithe",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Tithe"
         }
       ],
       "date": "2026-07-06T00:00:00-04:00",
@@ -23679,7 +23810,8 @@
           "Hiveling"
         ],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "observatory-slipped"
         ],
         "extra": {
           "date": "2026-07-06T00:00:00-04:00"
@@ -25881,6 +26013,16 @@
           "target": "Divinity/Unknown Entities/Harrow"
         },
         {
+          "alias": "Tithe",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Tithe"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
           "alias": "holy gold",
           "heading": null,
           "target": "Phenomena/Holy Gold"
@@ -25898,7 +26040,8 @@
         ],
         "campaigns": [
           "through-a-song-darkly",
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
           "date": "2026-10-29T00:00:00-04:00"
@@ -26008,19 +26151,30 @@
           "target": "Divinity/Thessians"
         },
         {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
           "alias": "the Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Tithe",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Tithe"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2026-04-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "deep-eyes"
+          "deep-eyes",
+          "observatory-slipped"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2026-04-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -26239,6 +26393,39 @@
         "title": null
       },
       "path": "Divinity/Unknown Entities/The Zorbon"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Harrow",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Harrow"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        }
+      ],
+      "date": "2026-04-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Divinity/Unknown Entities/Tithe"
     },
     {
       "crossrefs": [
@@ -32109,6 +32296,44 @@
         "title": null
       },
       "path": "Geography/Færrin/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "crystal sphere",
+          "heading": null,
+          "target": "Phenomena/Crystal Sphere"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        }
+      ],
+      "date": "2026-04-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": "Heavy Hand of God"
+      },
+      "path": "Geography/Heavy Hand of God"
     },
     {
       "crossrefs": [
@@ -39448,6 +39673,11 @@
           "alias": "New Volcantum",
           "heading": null,
           "target": "Geography/Ushas/New Volcantum"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -45699,14 +45929,14 @@
           "target": "Org/Sedecium"
         }
       ],
-      "date": "2026-04-06T00:00:00-04:00",
+      "date": "2026-04-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "observatory-slipped"
         ],
         "extra": {
-          "date": "2026-04-06T00:00:00-04:00"
+          "date": "2026-04-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -47302,6 +47532,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Heavy Hand of God",
+          "heading": null,
+          "target": "Geography/Heavy Hand of God"
+        }
+      ],
+      "date": "2026-04-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/TuRiin"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Hesperid 3",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
@@ -48812,6 +49075,34 @@
         "title": null
       },
       "path": "Phenomena/Bright Souls Eve"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        }
+      ],
+      "date": "2026-04-27T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "observatory-slipped"
+        ],
+        "extra": {
+          "date": "2026-04-27T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Cognitive Beacon"
     },
     {
       "crossrefs": [],
@@ -50354,7 +50645,7 @@
           "target": "Bestiary/Fiends"
         }
       ],
-      "date": "2026-04-06T00:00:00-04:00",
+      "date": "2026-04-27T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
@@ -50362,7 +50653,7 @@
           "observatory-slipped"
         ],
         "extra": {
-          "date": "2026-04-06T00:00:00-04:00"
+          "date": "2026-04-27T00:00:00-04:00"
         },
         "img": null,
         "tags": [

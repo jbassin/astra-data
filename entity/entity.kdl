@@ -500,6 +500,9 @@ entity "Cliff Vandertrip" kind="person" page="Org/The Scale/People/Cliff Vandert
 entity "Clockwork Rejuvenator" kind="phenomenon" page="Phenomena/Althane/Clockwork Rejuvenator" {
     source "akasha"
 }
+entity "Cognitive Beacon" kind="phenomenon" page="Phenomena/Cognitive Beacon" {
+    source "akasha"
+}
 entity "Cold Iron" kind="phenomenon" page="Phenomena/Althane/Cold Iron" {
     source "akasha"
 }
@@ -1109,6 +1112,9 @@ entity "Haven" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/
     source "akasha"
 }
 entity "Hearts" kind="phenomenon" page="Phenomena/Hearts" {
+    source "akasha"
+}
+entity "Heavy Hand of God" kind="place" page="Geography/Heavy Hand of God" {
     source "akasha"
 }
 entity "Heir of the Plague" kind="deity" page="Divinity/Outer Gods/Heir of the Plague" {
@@ -2626,8 +2632,9 @@ entity "Tidal" kind="phenomenon" page="Phenomena/Althane/Tidal" {
 entity "Tidereader's Rest" kind="place" page="Geography/Althane/Salores/Toleros/Tidereader's Rest" {
     source "akasha"
 }
-entity "Tithe" {
+entity "Tithe" kind="deity" page="Divinity/Unknown Entities/Tithe" {
     alias "Aibh"
+    source "akasha"
     source "defs"
 }
 entity "Toleros" kind="place" page="Geography/Althane/Salores/Toleros/index" {
