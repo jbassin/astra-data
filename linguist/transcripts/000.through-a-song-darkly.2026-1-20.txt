@@ -2667,7 +2667,7 @@
 002667	Gamemaster: A rock shoots up out of the ground.  
 002668	Arctos: Tanner, is this a prereq for your Pathfinder characters?  
 002669	Gamemaster: He goes flying ten feet into the air, and his dead, limp body collapses on the ground.  
-002670	Arctos: Because I feel like Rodic had a lot of things that pushed people back.  
+002670	Arctos: Because I feel like Rotok had a lot of things that pushed people back.  
 002671	Arctos: Do you like shoving your foes?  
 002672	Benny: Let me jerk him around.  
 002673	Benny: Yeah.  

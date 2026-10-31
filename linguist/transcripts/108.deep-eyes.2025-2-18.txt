@@ -448,7 +448,7 @@
 000448	Divex: The description that we're given.  
 000449	Gamemaster: That sword appeared in the previous campaign, too.  
 000450	Gamemaster: Like, it's not a new item.  
-000451	Gamemaster: Rodic had it and used it on Mephi.  
+000451	Gamemaster: Rotok had it and used it on Mephi.  
 000452	Lev: Yeah, because it was like an action.  
 000453	Gamemaster: You didn't have multiple actions in 5e.  
 000454	Dawnmonger: We've kept that.  

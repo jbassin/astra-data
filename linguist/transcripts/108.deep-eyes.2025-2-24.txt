@@ -4238,7 +4238,7 @@
 004238	Dawnmonger: Rodak's character, Rodak always has exact change.  
 004239	Gamemaster: Listen, they're getting rid of the copper piece in Ushas, so it's not a problem anymore.  
 004240	Dawnmonger: Wow.  
-004241	Henrik: Rodic passes away and all of a sudden the copper's gone.  
+004241	Henrik: Rotok passes away and all of a sudden the copper's gone.  
 004242	Lev: I heard it costs two coppers to make one copper.  
 004243	Dawnmonger: It was the only reason.  
 004244	Gamemaster: He was the only one who used it.  
