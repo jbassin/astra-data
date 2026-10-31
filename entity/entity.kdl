@@ -2394,6 +2394,9 @@ entity "The Spark" kind="person" page="Org/Pyrelight/People/The Spark" {
 entity "The Stranger" kind="deity" page="Divinity/Althane/The Stranger" {
     source "akasha"
 }
+entity "The Thirteenth Realm" kind="place" page="Geography/Althane/The Thirteenth Realm" {
+    source "akasha"
+}
 entity "The Triptych" kind="org" page="Org/Althane/The Triptych" {
     source "akasha"
 }

@@ -239,6 +239,13 @@
       "target": "Geography/Færrin/Calaria/Hallia/Teller's Run/index"
     },
     {
+      "alias": "YuDaan's",
+      "heading": null,
+      "resolved": "People/Althane/YuDaan",
+      "source": "Bestiary/Kaathe",
+      "target": "People/Althane/YuDaan"
+    },
+    {
       "alias": "The Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
@@ -2808,6 +2815,27 @@
       "target": "Geography/Althane/Brejvasing/Lan Ruud"
     },
     {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Crystalpoint Lattice",
+      "heading": null,
+      "resolved": "People/Althane/The Crystalpoint Lattice",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
       "alias": "Elders",
       "heading": null,
       "resolved": "Org/Althane/The Elders",
@@ -3114,6 +3142,13 @@
       "resolved": "Geography/Althane/Oresk/index",
       "source": "Geography/Althane/Oresk/Sarengrad",
       "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Geography/Althane/Oresk/Sarengrad",
+      "target": "People/Althane/Karkov"
     },
     {
       "alias": "Kirov",
@@ -3492,6 +3527,41 @@
       "resolved": "Geography/Althane/Athrea/index",
       "source": "Geography/Althane/The Occident",
       "target": "Geography/Althane/Athrea/index"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "realms",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Realms/index"
+    },
+    {
+      "alias": "The Church of the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Org/Althane/Church of the Thirteenth Realm",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Org/Althane/Church of the Thirteenth Realm"
+    },
+    {
+      "alias": "cycle",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Cycle",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Phenomena/Althane/Cycle"
     },
     {
       "alias": "Crystal Sphere",
@@ -6880,6 +6950,20 @@
       "resolved": "Geography/Althane/Brejvasing/Kryperkyst",
       "source": "Org/Althane/The Elders",
       "target": "Geography/Althane/Brejvasing/Kryperkyst"
+    },
+    {
+      "alias": "Zora",
+      "heading": null,
+      "resolved": "People/Althane/Zora",
+      "source": "Org/Althane/The Elders",
+      "target": "People/Althane/Zora"
+    },
+    {
+      "alias": "aphorite",
+      "heading": "Aphorite",
+      "resolved": "Bestiary/Realmtouched",
+      "source": "Org/Althane/The Elders",
+      "target": "Bestiary/Realmtouched"
     },
     {
       "alias": "Oreskian",
@@ -13161,6 +13245,27 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
+      "alias": "Sarengrad",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/Karkov",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Karkov",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Ifrit",
       "heading": "Ifrit",
       "resolved": "Bestiary/Realmtouched",
@@ -13353,6 +13458,41 @@
       "alias": "Kaathe",
       "heading": null,
       "resolved": "Bestiary/Kaathe",
+      "source": "People/Althane/Schism",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Schism",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "People/Althane/Schism",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "People/Althane/SeRaan",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/SeRaan",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
       "source": "People/Althane/Tennobrin Er-K",
       "target": "Bestiary/Kaathe"
     },
@@ -13474,6 +13614,55 @@
       "resolved": "Bestiary/Spark of Humanity",
       "source": "People/Althane/Ylsa Arcdottir",
       "target": "Bestiary/Spark of Humanity"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "People/Althane/YuDaan",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "YuDaan's Nine-fold Treatise",
+      "heading": null,
+      "resolved": "Phenomena/YuDaan's Nine-fold Treatise",
+      "source": "People/Althane/YuDaan",
+      "target": "Phenomena/YuDaan's Nine-fold Treatise"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "People/Althane/YuDaan",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/YuDaan",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "the Stranger",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "People/Althane/YuDaan",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "aphorite",
+      "heading": "Aphorite",
+      "resolved": "Bestiary/Realmtouched",
+      "source": "People/Althane/Zora",
+      "target": "Bestiary/Realmtouched"
+    },
+    {
+      "alias": "Brejvasing",
+      "heading": null,
+      "resolved": "Geography/Althane/Brejvasing/index",
+      "source": "People/Althane/Zora",
+      "target": "Geography/Althane/Brejvasing/index"
     },
     {
       "alias": "Cedric Corot",
@@ -17995,6 +18184,11 @@
     {
       "crossrefs": [
         {
+          "alias": "YuDaan's",
+          "heading": null,
+          "target": "People/Althane/YuDaan"
+        },
+        {
           "alias": "The Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
@@ -18010,14 +18204,14 @@
           "target": "People/Althane/Tennobrin Er-K"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-10-28T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-10-28T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -21196,19 +21390,34 @@
           "target": "Geography/Althane/Brejvasing/Lan Ruud"
         },
         {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Crystalpoint Lattice",
+          "heading": null,
+          "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
           "alias": "Elders",
           "heading": null,
           "target": "Org/Althane/The Elders"
         }
       ],
-      "date": "2024-08-17T00:00:00-04:00",
+      "date": "2024-10-28T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-17T00:00:00-04:00"
+          "date": "2024-10-28T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -21893,16 +22102,21 @@
           "alias": "Oresk",
           "heading": null,
           "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-10-28T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-10-28T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -22687,6 +22901,51 @@
         "title": null
       },
       "path": "Geography/Althane/The Occident"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "realms",
+          "heading": null,
+          "target": "Geography/Althane/Realms/index"
+        },
+        {
+          "alias": "The Church of the Thirteenth Realm",
+          "heading": null,
+          "target": "Org/Althane/Church of the Thirteenth Realm"
+        },
+        {
+          "alias": "cycle",
+          "heading": null,
+          "target": "Phenomena/Althane/Cycle"
+        }
+      ],
+      "date": "2024-10-28T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-10-28T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "crossrefs": [
@@ -27020,16 +27279,26 @@
           "alias": "Kryperkyst",
           "heading": null,
           "target": "Geography/Althane/Brejvasing/Kryperkyst"
+        },
+        {
+          "alias": "Zora",
+          "heading": null,
+          "target": "People/Althane/Zora"
+        },
+        {
+          "alias": "aphorite",
+          "heading": "Aphorite",
+          "target": "Bestiary/Realmtouched"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-10-28T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-10-28T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -35204,16 +35473,31 @@
           "alias": "Oresk",
           "heading": null,
           "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Sarengrad",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2024-10-28T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2024-10-28T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -35530,6 +35814,71 @@
           "target": "Bestiary/Kaathe"
         },
         {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        }
+      ],
+      "date": "2024-10-28T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-10-28T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "kaathe"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Schism"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        }
+      ],
+      "date": "2024-10-28T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-10-28T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "kaathe"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/SeRaan"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
           "alias": "Haven",
           "heading": null,
           "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index"
@@ -35729,6 +36078,81 @@
         "title": null
       },
       "path": "People/Althane/Ylsa Arcdottir"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "YuDaan's Nine-fold Treatise",
+          "heading": null,
+          "target": "Phenomena/YuDaan's Nine-fold Treatise"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "the Stranger",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
+        }
+      ],
+      "date": "2024-10-28T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-10-28T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "kaathe"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/YuDaan"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "aphorite",
+          "heading": "Aphorite",
+          "target": "Bestiary/Realmtouched"
+        },
+        {
+          "alias": "Brejvasing",
+          "heading": null,
+          "target": "Geography/Althane/Brejvasing/index"
+        }
+      ],
+      "date": "2024-10-28T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-10-28T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "aphorite"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Zora"
     },
     {
       "crossrefs": [
