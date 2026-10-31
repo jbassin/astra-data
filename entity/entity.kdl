@@ -651,6 +651,9 @@ entity "Dura Oil-Drinker" kind="person" page="Org/Iconoclasm/People/Dura Oil-Dri
 entity "Eagle Eye" kind="org" page="Org/Althane/Eagle Eye" {
     source "akasha"
 }
+entity "Echo Fragment" kind="phenomenon" page="Phenomena/Echo Fragment" {
+    source "akasha"
+}
 entity "Eerie" kind="org" page="Org/Iconoclasm/Eerie" {
     alias "the Ear that Hears the Truth"
     alias "Ear that Hears the Truth"
@@ -676,6 +679,9 @@ entity "Elementals" kind="creature" page="Bestiary/Elementals" {
     source "akasha"
 }
 entity "Elias Ramsey" kind="person" page="Org/Iconoclasm/People/Elias Ramsey" {
+    source "akasha"
+}
+entity "Elysium" kind="place" page="Geography/Elysium" {
     source "akasha"
 }
 entity "Embercall" {
@@ -1051,6 +1057,9 @@ entity "Harlequin Town" kind="org" page="Org/The Harlequins/Harlequin Town" {
     source "akasha"
 }
 entity "Harmony" kind="phenomenon" page="Phenomena/Harmony/index" {
+    source "akasha"
+}
+entity "Harrow" kind="deity" page="Divinity/Unknown Entities/Harrow" {
     source "akasha"
 }
 entity "Haven" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/index" {
@@ -2305,7 +2314,7 @@ entity "Syrin" kind="person" page="Org/Amber Call/People/Syrin" {
     source "akasha"
     source "defs"
 }
-entity "Syrin (Locality)" kind="place" page="Geography/Syrin (Locality)" {
+entity "Syrin (Locality)" kind="place" page="Geography/Syrin (Locality)/index" {
     source "akasha"
 }
 entity "T3C" kind="person" being="mike" {
@@ -2338,6 +2347,9 @@ entity "Teller's Run" kind="place" page="Geography/Færrin/Calaria/Hallia/Teller
     alias "Tellers\\s*Run"
     source "akasha"
     source "defs"
+}
+entity "Terminus" kind="place" page="Geography/Syrin (Locality)/Terminus" {
+    source "akasha"
 }
 entity "Ternion" {
     alias "tourney"
