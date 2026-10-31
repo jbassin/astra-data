@@ -113,6 +113,13 @@
       "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
     },
     {
+      "alias": "Archive",
+      "heading": null,
+      "resolved": "Geography/Althane/The Archive",
+      "source": "Bestiary/Constructs",
+      "target": "Geography/Althane/The Archive"
+    },
+    {
       "alias": "Oresk",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/index",
@@ -1940,6 +1947,13 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Divinity/Immix",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Færrin/Alternate Planes/Godhome",
@@ -2367,6 +2381,27 @@
       "target": "Phenomena/The End"
     },
     {
+      "alias": "the Narrative",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/index",
+      "source": "Divinity/The Narrative/Mike",
+      "target": "Divinity/The Narrative/index"
+    },
+    {
+      "alias": "Aut",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Aut",
+      "source": "Divinity/The Narrative/Mike",
+      "target": "Divinity/The Narrative/Aut"
+    },
+    {
+      "alias": "the Archive",
+      "heading": null,
+      "resolved": "Geography/Althane/The Archive",
+      "source": "Divinity/The Narrative/Mike",
+      "target": "Geography/Althane/The Archive"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Divinity/The Narrative/Aut",
@@ -2456,6 +2491,13 @@
       "resolved": "Divinity/The Narrative/Menhir",
       "source": "Divinity/The Narrative/index",
       "target": "Divinity/The Narrative/Menhir"
+    },
+    {
+      "alias": "Mike",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Mike",
+      "source": "Divinity/The Narrative/index",
+      "target": "Divinity/The Narrative/Mike"
     },
     {
       "alias": "Org",
@@ -3716,6 +3758,20 @@
       "resolved": "Geography/Althane/Oresk/RC3",
       "source": "Geography/Althane/The Archive",
       "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Mike",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Mike",
+      "source": "Geography/Althane/The Archive",
+      "target": "Divinity/The Narrative/Mike"
+    },
+    {
+      "alias": "Narrative",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/index",
+      "source": "Geography/Althane/The Archive",
+      "target": "Divinity/The Narrative/index"
     },
     {
       "alias": "Broker",
@@ -19536,6 +19592,11 @@
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
         },
         {
+          "alias": "Archive",
+          "heading": null,
+          "target": "Geography/Althane/The Archive"
+        },
+        {
           "alias": "Oresk",
           "heading": null,
           "target": "Geography/Althane/Oresk/index"
@@ -21791,16 +21852,21 @@
           "alias": "Thessians",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-01-06T00:00:00-04:00",
+      "date": "2025-01-13T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-06T00:00:00-04:00"
+          "date": "2025-01-13T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -22322,6 +22388,39 @@
     {
       "crossrefs": [
         {
+          "alias": "the Narrative",
+          "heading": null,
+          "target": "Divinity/The Narrative/index"
+        },
+        {
+          "alias": "Aut",
+          "heading": null,
+          "target": "Divinity/The Narrative/Aut"
+        },
+        {
+          "alias": "the Archive",
+          "heading": null,
+          "target": "Geography/Althane/The Archive"
+        }
+      ],
+      "date": "2025-01-13T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-13T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Divinity/The Narrative/Mike"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": null,
           "heading": null,
           "target": "Aut"
@@ -22429,6 +22528,11 @@
           "target": "Divinity/The Narrative/Menhir"
         },
         {
+          "alias": "Mike",
+          "heading": null,
+          "target": "Divinity/The Narrative/Mike"
+        },
+        {
           "alias": "Org",
           "heading": null,
           "target": "Org/index"
@@ -22443,7 +22547,8 @@
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "deep-eyes"
         ],
         "extra": {
           "date": "2026-08-17T00:00:00-04:00"
@@ -23885,14 +23990,14 @@
           "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-01-06T00:00:00-04:00",
+      "date": "2025-01-13T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-06T00:00:00-04:00"
+          "date": "2025-01-13T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -24703,19 +24808,29 @@
           "target": "Geography/Althane/Oresk/RC3"
         },
         {
+          "alias": "Mike",
+          "heading": null,
+          "target": "Divinity/The Narrative/Mike"
+        },
+        {
+          "alias": "Narrative",
+          "heading": null,
+          "target": "Divinity/The Narrative/index"
+        },
+        {
           "alias": "Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
         }
       ],
-      "date": "2025-01-06T00:00:00-04:00",
+      "date": "2025-01-13T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-06T00:00:00-04:00"
+          "date": "2025-01-13T00:00:00-04:00"
         },
         "img": null,
         "tags": [

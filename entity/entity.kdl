@@ -1589,6 +1589,9 @@ entity "Midnight Sun" kind="phenomenon" page="Phenomena/Midnight Sun" {
 entity "Mika" kind="person" being="tanner" {
     source "being"
 }
+entity "Mike" kind="deity" page="Divinity/The Narrative/Mike" {
+    source "akasha"
+}
 entity "Mimics" kind="creature" page="Bestiary/Mimics" {
     alias "Mimic"
     alias "Tzitzimitl"
