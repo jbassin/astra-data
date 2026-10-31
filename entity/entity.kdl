@@ -2474,6 +2474,9 @@ entity "The Narrative" kind="deity" page="Divinity/The Narrative/index" {
 entity "The Network" kind="org" page="Org/Althane/The Network" {
     source "akasha"
 }
+entity "The Observers" kind="deity" page="Divinity/Althane/The Observers" {
+    source "akasha"
+}
 entity "The Occident" kind="place" page="Geography/Althane/The Occident" {
     source "akasha"
 }

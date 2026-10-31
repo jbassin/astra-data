@@ -1107,6 +1107,20 @@
       "target": "Divinity/Althane/Creation Myth"
     },
     {
+      "alias": "the Narrative",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/index",
+      "source": "Divinity/Althane/The Observers",
+      "target": "Divinity/The Narrative/index"
+    },
+    {
+      "alias": "Immix",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Divinity/Althane/The Observers",
+      "target": "Divinity/Immix"
+    },
+    {
       "alias": "the Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
@@ -2047,9 +2061,9 @@
     {
       "alias": "Media Con",
       "heading": null,
-      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "resolved": "Geography/Syrin (Locality)/Media Con",
       "source": "Divinity/Immix",
-      "target": "Geography/Syrin (Locality)/Terminus"
+      "target": "Geography/Syrin (Locality)/Media Con"
     },
     {
       "alias": "Syrin",
@@ -2071,6 +2085,27 @@
       "resolved": "Org/Althane/The Weft",
       "source": "Divinity/Immix",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Observers",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Observers",
+      "source": "Divinity/Immix",
+      "target": "Divinity/Althane/The Observers"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Divinity/Immix",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Divinity/Immix",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": null,
@@ -8422,7 +8457,7 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "Deep",
+      "alias": "the Deep",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Org/Althane/The Weft",
@@ -8441,6 +8476,20 @@
       "resolved": "People/Althane/The Broker",
       "source": "Org/Althane/The Weft",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Immix",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Org/Althane/The Weft",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "Observers",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Observers",
+      "source": "Org/Althane/The Weft",
+      "target": "Divinity/Althane/The Observers"
     },
     {
       "alias": "Sanguis Noxa",
@@ -22012,6 +22061,36 @@
     {
       "crossrefs": [
         {
+          "alias": "the Narrative",
+          "heading": null,
+          "target": "Divinity/The Narrative/index"
+        },
+        {
+          "alias": "Immix",
+          "heading": null,
+          "target": "Divinity/Immix"
+        }
+      ],
+      "date": "2025-03-10T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-03-10T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "divinity"
+        ],
+        "title": null
+      },
+      "path": "Divinity/Althane/The Observers"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
@@ -22062,14 +22141,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-24T00:00:00-04:00",
+      "date": "2025-03-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-24T00:00:00-04:00"
+          "date": "2025-03-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -23046,7 +23125,7 @@
         {
           "alias": "Media Con",
           "heading": null,
-          "target": "Geography/Syrin (Locality)/Terminus"
+          "target": "Geography/Syrin (Locality)/Media Con"
         },
         {
           "alias": "Syrin",
@@ -23062,16 +23141,31 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Observers",
+          "heading": null,
+          "target": "Divinity/Althane/The Observers"
+        },
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
         }
       ],
-      "date": "2025-02-10T00:00:00-04:00",
+      "date": "2025-03-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-10T00:00:00-04:00"
+          "date": "2025-03-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -31684,7 +31778,7 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "Deep",
+          "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
         },
@@ -31697,16 +31791,26 @@
           "alias": "the Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Immix",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Observers",
+          "heading": null,
+          "target": "Divinity/Althane/The Observers"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-03-10T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-03-10T00:00:00-04:00"
         },
         "img": null,
         "tags": [
