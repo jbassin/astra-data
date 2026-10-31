@@ -13518,11 +13518,11 @@
       "target": "People/Zugg"
     },
     {
-      "alias": "Rodic",
+      "alias": "Rotok",
       "heading": null,
-      "resolved": "People/Rodic",
+      "resolved": "People/Rotok",
       "source": "Org/Sedecium",
-      "target": "People/Rodic"
+      "target": "People/Rotok"
     },
     {
       "alias": "Tech",
@@ -19429,21 +19429,21 @@
       "alias": "Sedecium",
       "heading": null,
       "resolved": "Org/Sedecium",
-      "source": "People/Rodic",
+      "source": "People/Rotok",
       "target": "Org/Sedecium"
     },
     {
       "alias": "Dorcan",
       "heading": null,
       "resolved": "People/Dorcan",
-      "source": "People/Rodic",
+      "source": "People/Rotok",
       "target": "People/Dorcan"
     },
     {
       "alias": "Zugg",
       "heading": null,
       "resolved": "People/Zugg",
-      "source": "People/Rodic",
+      "source": "People/Rotok",
       "target": "People/Zugg"
     },
     {
@@ -20028,11 +20028,11 @@
       "target": "People/Dorcan"
     },
     {
-      "alias": "Rodic",
+      "alias": "Rotok",
       "heading": null,
-      "resolved": "People/Rodic",
+      "resolved": "People/Rotok",
       "source": "People/Zugg",
-      "target": "People/Rodic"
+      "target": "People/Rotok"
     },
     {
       "alias": "Astra",
@@ -39842,9 +39842,9 @@
           "target": "People/Zugg"
         },
         {
-          "alias": "Rodic",
+          "alias": "Rotok",
           "heading": null,
-          "target": "People/Rodic"
+          "target": "People/Rotok"
         },
         {
           "alias": "Tech",
@@ -47292,7 +47292,7 @@
         "tags": [],
         "title": null
       },
-      "path": "People/Rodic"
+      "path": "People/Rotok"
     },
     {
       "crossrefs": [
@@ -48019,9 +48019,9 @@
           "target": "People/Dorcan"
         },
         {
-          "alias": "Rodic",
+          "alias": "Rotok",
           "heading": null,
-          "target": "People/Rodic"
+          "target": "People/Rotok"
         }
       ],
       "date": "2026-04-06T00:00:00-04:00",
