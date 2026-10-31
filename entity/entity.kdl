@@ -519,6 +519,7 @@ entity "Configuration Space" kind="phenomenon" page="Phenomena/Configuration Spa
     source "akasha"
 }
 entity "Constructs" kind="creature" page="Bestiary/Constructs" {
+    alias "Autox"
     alias "Living Incantation"
     alias "Living Incantations"
     alias "Paper Prophet"
@@ -872,6 +873,12 @@ entity "Friends of Aut" kind="org" page="Org/Friends of Aut" {
 }
 entity "Fulton" kind="person" being="josh" {
     source "being"
+}
+entity "Fungi" kind="creature" page="Bestiary/Fungi" {
+    alias "Therotrichus"
+    alias "pterotrichus"
+    alias "pterotrachys"
+    source "akasha"
 }
 entity "Færrin" kind="place" page="Geography/Færrin/index" {
     alias "Faerrin"
@@ -1893,6 +1900,10 @@ entity "Pilgrimage" kind="phenomenon" page="Phenomena/Pilgrimage" {
 entity "Plague Codex" kind="phenomenon" page="Phenomena/Plague Codex" {
     source "akasha"
 }
+entity "Plants" kind="creature" page="Bestiary/Plants" {
+    alias "Sards"
+    source "akasha"
+}
 entity "Plaza" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Plaza" {
     source "akasha"
 }
@@ -2526,6 +2537,7 @@ entity "The Stranger" kind="deity" page="Divinity/Althane/The Stranger" {
     source "akasha"
 }
 entity "The Thirteenth Realm" kind="place" page="Geography/Althane/The Thirteenth Realm" {
+    alias "The Playwright"
     source "akasha"
 }
 entity "The Triptych" kind="org" page="Org/Althane/The Triptych" {

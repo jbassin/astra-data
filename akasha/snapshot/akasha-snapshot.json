@@ -134,6 +134,20 @@
       "target": "People/Egan Arithmites"
     },
     {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Bestiary/Constructs",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Bestiary/Constructs",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Hesperid",
       "heading": null,
       "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
@@ -281,6 +295,13 @@
       "target": "Org/The Scale/Voice of Many"
     },
     {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Bestiary/Fungi",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
       "alias": "Embercall",
       "heading": null,
       "resolved": "Org/Embercall Industries/index",
@@ -412,6 +433,27 @@
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
       "source": "Bestiary/Pale Servant",
       "target": "Geography/Færrin/Calaria/Hallia/index"
+    },
+    {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Bestiary/Plants",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "Bestiary/Plants",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Bestiary/Plants",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "humans",
@@ -4467,6 +4509,13 @@
       "target": "People/Althane/Masha"
     },
     {
+      "alias": "Autox",
+      "heading": null,
+      "resolved": "Bestiary/Constructs",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Bestiary/Constructs"
+    },
+    {
       "alias": "YuDaan",
       "heading": null,
       "resolved": "People/Althane/YuDaan",
@@ -4474,32 +4523,11 @@
       "target": "People/Althane/YuDaan"
     },
     {
-      "alias": "Thessians",
+      "alias": "Thessian",
       "heading": null,
       "resolved": "Divinity/Thessians",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "Gulch",
-      "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
-    },
-    {
-      "alias": "Nox",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Nox",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Divinity/Unknown Entities/Nox"
-    },
-    {
-      "alias": "the Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Crystal Sphere",
@@ -8513,11 +8541,18 @@
       "target": "Bestiary/Kaathe"
     },
     {
-      "alias": "Schism",
+      "alias": "Hali",
       "heading": null,
-      "resolved": "People/Althane/Schism",
+      "resolved": "People/Althane/Halidex Op-B",
       "source": "Org/Althane/The Weft",
-      "target": "People/Althane/Schism"
+      "target": "People/Althane/Halidex Op-B"
+    },
+    {
+      "alias": "Tenno",
+      "heading": null,
+      "resolved": "People/Althane/Tennobrin Er-K",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Tennobrin Er-K"
     },
     {
       "alias": "SeRaan",
@@ -15870,6 +15905,34 @@
       "target": "Divinity/Unknown Entities/Nox"
     },
     {
+      "alias": "cycle",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Cycle",
+      "source": "People/Althane/Rampart",
+      "target": "Phenomena/Althane/Cycle"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/Rampart",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Rampart",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/Rampart",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Crimson Sigil",
       "heading": null,
       "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Haven/Crimson Sigil",
@@ -15952,6 +16015,13 @@
       "resolved": "People/Althane/Lev",
       "source": "People/Althane/Schism",
       "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/Schism",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Kaathe",
@@ -21265,6 +21335,16 @@
     {
       "crossrefs": [
         {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
           "alias": "Hesperid",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
@@ -21288,6 +21368,7 @@
       "date": "2026-10-19T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
+          "Autox",
           "Living Incantation",
           "Living Incantations",
           "Paper Prophet",
@@ -21502,6 +21583,33 @@
         "title": null
       },
       "path": "Bestiary/Fiends"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        }
+      ],
+      "date": "2025-04-17T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Therotrichus",
+          "pterotrichus",
+          "pterotrachys"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-04-17T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Fungi"
     },
     {
       "crossrefs": [
@@ -21722,6 +21830,41 @@
         "title": null
       },
       "path": "Bestiary/Pale Servant"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        }
+      ],
+      "date": "2025-04-17T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Sards"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-04-17T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Plants"
     },
     {
       "crossrefs": [
@@ -26202,14 +26345,14 @@
           "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -27175,39 +27318,31 @@
           "target": "People/Althane/Masha"
         },
         {
+          "alias": "Autox",
+          "heading": null,
+          "target": "Bestiary/Constructs"
+        },
+        {
           "alias": "YuDaan",
           "heading": null,
           "target": "People/Althane/YuDaan"
         },
         {
-          "alias": "Thessians",
+          "alias": "Thessian",
           "heading": null,
           "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "Gulch",
-          "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
-        },
-        {
-          "alias": "Nox",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Nox"
-        },
-        {
-          "alias": "the Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "The Playwright"
+        ],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32352,9 +32487,14 @@
           "target": "Bestiary/Kaathe"
         },
         {
-          "alias": "Schism",
+          "alias": "Hali",
           "heading": null,
-          "target": "People/Althane/Schism"
+          "target": "People/Althane/Halidex Op-B"
+        },
+        {
+          "alias": "Tenno",
+          "heading": null,
+          "target": "People/Althane/Tennobrin Er-K"
         },
         {
           "alias": "SeRaan",
@@ -32467,14 +32607,14 @@
           "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40843,14 +40983,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41654,9 +41794,29 @@
           "alias": "Nox",
           "heading": null,
           "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "cycle",
+          "heading": null,
+          "target": "Phenomena/Althane/Cycle"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2025-01-27T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Viktor Kozlovsky"
@@ -41665,7 +41825,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-27T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41774,16 +41934,21 @@
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2024-11-11T00:00:00-04:00",
+      "date": "2025-04-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-11T00:00:00-04:00"
+          "date": "2025-04-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
