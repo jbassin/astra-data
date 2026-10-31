@@ -1,6 +1,34 @@
 {
   "edges": [
     {
+      "alias": "Gilded Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
+      "source": "Bestiary/Aeons",
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Bestiary/Aeons",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Wriggling Man",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
+      "source": "Bestiary/Aeons",
+      "target": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man"
+    },
+    {
+      "alias": "Astra Demons",
+      "heading": "Astra Demon",
+      "resolved": "Bestiary/Fiends",
+      "source": "Bestiary/Aeons",
+      "target": "Bestiary/Fiends"
+    },
+    {
       "alias": "Hallia",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
@@ -1114,11 +1142,11 @@
       "target": "People/Althane/The Broker"
     },
     {
-      "alias": "the Golden Spire",
+      "alias": "the Gilded Spire",
       "heading": null,
-      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
       "source": "Divinity/Althane/The Stranger",
-      "target": "Geography/Syrin (Locality)/Golden Spire"
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
       "alias": "Echo Fragment",
@@ -1133,6 +1161,20 @@
       "resolved": "People/Althane/The Broker",
       "source": "Divinity/Althane/The Stranger",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Org/Omnivox/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Gas-n-Go",
@@ -7029,18 +7071,46 @@
       "target": "Geography/Syrin (Locality)"
     },
     {
+      "alias": "Gilded Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+    },
+    {
+      "alias": "Rhett",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Della Caldera",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera"
+    },
+    {
       "alias": "Omnivox",
       "heading": null,
       "resolved": "Org/Omnivox/index",
-      "source": "Geography/Syrin (Locality)/Golden Spire",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/index",
       "target": "Org/Omnivox/index"
     },
     {
       "alias": "Syrin",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
-      "source": "Geography/Syrin (Locality)/Golden Spire",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/index",
       "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "the Wriggling Man",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man",
+      "source": "Geography/Syrin (Locality)/Gilded Spire/index",
+      "target": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man"
     },
     {
       "alias": "Syrin",
@@ -7064,11 +7134,11 @@
       "target": "Org/Omnivox/index"
     },
     {
-      "alias": "Golden Spire",
+      "alias": "Gilded Spire",
       "heading": null,
-      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
       "source": "Geography/Syrin (Locality)/Media Con",
-      "target": "Geography/Syrin (Locality)/Golden Spire"
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
       "alias": "Immix",
@@ -9050,6 +9120,20 @@
       "resolved": "People/Sharp the Cunning Man",
       "source": "Org/Citizens Committee for Metaphysical Stability/index",
       "target": "People/Sharp the Cunning Man"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Comet Air",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "Gilded Spire",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
+      "source": "Org/Comet Air",
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
       "alias": "Concordia",
@@ -11117,11 +11201,11 @@
       "target": "People/Braith Vanderbilt"
     },
     {
-      "alias": "Golden Spire",
+      "alias": "Gilded Spire",
       "heading": null,
-      "resolved": "Geography/Syrin (Locality)/Golden Spire",
+      "resolved": "Geography/Syrin (Locality)/Gilded Spire/index",
       "source": "Org/Omnivox/index",
-      "target": "Geography/Syrin (Locality)/Golden Spire"
+      "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
       "alias": "Tarv of the Rising Moon",
@@ -20443,6 +20527,46 @@
   ],
   "pages": [
     {
+      "crossrefs": [
+        {
+          "alias": "Gilded Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Wriggling Man",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man"
+        },
+        {
+          "alias": "Astra Demons",
+          "heading": "Astra Demon",
+          "target": "Bestiary/Fiends"
+        }
+      ],
+      "date": "2025-02-24T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Bythos"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-24T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Aeons"
+    },
+    {
       "crossrefs": [],
       "date": "2025-08-28T00:00:00-04:00",
       "frontmatter": {
@@ -20793,6 +20917,7 @@
       "date": "2026-09-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
+          "Astra Demon",
           "Babau",
           "Barbazu",
           "Barghest",
@@ -20806,7 +20931,8 @@
         ],
         "campaigns": [
           "through-a-song-darkly",
-          "urth"
+          "urth",
+          "deep-eyes"
         ],
         "extra": {
           "date": "2026-09-17T00:00:00-04:00"
@@ -21911,9 +22037,9 @@
           "target": "People/Althane/The Broker"
         },
         {
-          "alias": "the Golden Spire",
+          "alias": "the Gilded Spire",
           "heading": null,
-          "target": "Geography/Syrin (Locality)/Golden Spire"
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         },
         {
           "alias": "Echo Fragment",
@@ -21924,16 +22050,26 @@
           "alias": "Tech of Sedecium",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-10T00:00:00-04:00",
+      "date": "2025-02-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-10T00:00:00-04:00"
+          "date": "2025-02-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29696,6 +29832,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Gilded Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+        },
+        {
+          "alias": "Rhett",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Della Caldera",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera"
+        }
+      ],
+      "date": "2025-02-24T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-24T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": "The Wriggling Man"
+      },
+      "path": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Omnivox",
           "heading": null,
           "target": "Org/Omnivox/index"
@@ -29704,24 +29873,29 @@
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "the Wriggling Man",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Gilded Spire/Wriggling Man"
         }
       ],
-      "date": "2025-02-10T00:00:00-04:00",
+      "date": "2025-02-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-10T00:00:00-04:00"
+          "date": "2025-02-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
           "place"
         ],
-        "title": null
+        "title": "The Gilded Spire"
       },
-      "path": "Geography/Syrin (Locality)/Golden Spire"
+      "path": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
       "crossrefs": [
@@ -29741,9 +29915,9 @@
           "target": "Org/Omnivox/index"
         },
         {
-          "alias": "Golden Spire",
+          "alias": "Gilded Spire",
           "heading": null,
-          "target": "Geography/Syrin (Locality)/Golden Spire"
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         },
         {
           "alias": "Immix",
@@ -29756,14 +29930,14 @@
           "target": "Org/Althane/The Weft"
         }
       ],
-      "date": "2025-02-10T00:00:00-04:00",
+      "date": "2025-02-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-10T00:00:00-04:00"
+          "date": "2025-02-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32472,6 +32646,34 @@
     {
       "crossrefs": [
         {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Gilded Spire",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
+        }
+      ],
+      "date": "2025-02-24T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-24T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Comet Air"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Concordia",
           "heading": null,
           "target": "Org/Concordia/index"
@@ -35039,9 +35241,9 @@
           "target": "People/Braith Vanderbilt"
         },
         {
-          "alias": "Golden Spire",
+          "alias": "Gilded Spire",
           "heading": null,
-          "target": "Geography/Syrin (Locality)/Golden Spire"
+          "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         },
         {
           "alias": "Tarv of the Rising Moon",
@@ -35054,14 +35256,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-02-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-02-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40235,14 +40437,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-02-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-02-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
