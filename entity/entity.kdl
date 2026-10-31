@@ -779,6 +779,9 @@ entity "Fane" {
 entity "Far Realms" kind="place" page="Geography/Færrin/Infinite Horizon/Far Realms/index" {
     source "akasha"
 }
+entity "Fat Cock City" kind="place" page="Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City" {
+    source "akasha"
+}
 entity "Father Marone" kind="person" page="Org/Velvet Mark/People/Father Marone" {
     alias "Marone"
     source "akasha"
@@ -2509,6 +2512,9 @@ entity "The Sears" kind="org" page="Org/The Sears/index" {
     source "akasha"
 }
 entity "The Situation Room" kind="org" page="Org/The Situation Room" {
+    source "akasha"
+}
+entity "The Slip" kind="phenomenon" page="Phenomena/The Slip" {
     source "akasha"
 }
 entity "The Spark" kind="person" page="Org/Pyrelight/People/The Spark" {

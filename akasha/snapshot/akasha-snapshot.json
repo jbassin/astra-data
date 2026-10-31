@@ -1191,6 +1191,13 @@
       "target": "Phenomena/Althane/Godpiercer"
     },
     {
+      "alias": "Tech",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "People/Althane/The Broker"
+    },
+    {
       "alias": "the Broker",
       "heading": null,
       "resolved": "People/Althane/The Broker",
@@ -2997,6 +3004,20 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Thessians"
+    },
+    {
       "alias": "Grayson",
       "heading": null,
       "resolved": "Org/Amber Call/People/Benjamin Grayson",
@@ -3345,6 +3366,41 @@
       "resolved": "People/Althane/Ezekiel Grimm",
       "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera",
       "target": "People/Althane/Ezekiel Grimm"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "target": "People/Althane/Marzo"
+    },
+    {
+      "alias": "the Nexus",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Nexus",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "target": "Geography/Althane/Realms/Nexus"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Haven",
@@ -3779,6 +3835,13 @@
       "resolved": "Geography/Althane/index",
       "source": "Geography/Althane/Realms/Ilkyne",
       "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/Realms/Ilkyne",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Althane",
@@ -4348,6 +4411,13 @@
       "target": "Org/Althane/Church of the Thirteenth Realm"
     },
     {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Bestiary/Kaathe"
+    },
+    {
       "alias": "cycle",
       "heading": null,
       "resolved": "Phenomena/Althane/Cycle",
@@ -4374,6 +4444,62 @@
       "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Leviathan",
+      "heading": null,
+      "resolved": "Geography/Althane/Brejvasing/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Brejvasing/index"
+    },
+    {
+      "alias": "Vesper Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "Masha",
+      "heading": null,
+      "resolved": "People/Althane/Masha",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "People/Althane/Masha"
+    },
+    {
+      "alias": "YuDaan",
+      "heading": null,
+      "resolved": "People/Althane/YuDaan",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "People/Althane/YuDaan"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Crystal Sphere",
@@ -8539,6 +8665,13 @@
       "resolved": "Divinity/Althane/The Stranger",
       "source": "Org/Althane/The Weft",
       "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Sanguis Noxa",
@@ -14827,6 +14960,27 @@
       "target": "Phenomena/Althane/Godpiercer"
     },
     {
+      "alias": "Fat Cock City",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "source": "People/Althane/Divex",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+    },
+    {
+      "alias": "Tech",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Divex",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Rowan",
+      "heading": null,
+      "resolved": "People/Althane/Rowan",
+      "source": "People/Althane/Divex",
+      "target": "People/Althane/Rowan"
+    },
+    {
       "alias": "Syrin",
       "heading": null,
       "resolved": "Geography/Syrin (Locality)/index",
@@ -15282,6 +15436,13 @@
       "target": "People/Althane/Divex"
     },
     {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
       "alias": "Ifrit",
       "heading": "Ifrit",
       "resolved": "Bestiary/Realmtouched",
@@ -15492,6 +15653,27 @@
       "target": "Bestiary/Spark of Humanity"
     },
     {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "People/Althane/Marzo",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Fat Cock City",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "source": "People/Althane/Marzo",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/Marzo",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Golden Sparrows",
       "heading": null,
       "resolved": "Org/Althane/Golden Sparrows",
@@ -15518,6 +15700,13 @@
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "People/Althane/Masha",
       "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/Masha",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Wojciech",
@@ -15709,6 +15898,27 @@
       "target": "Org/Althane/The Weft"
     },
     {
+      "alias": "Tech",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Rowan",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/Rowan",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "the Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "People/Althane/Rowan",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
       "alias": "Kaathe",
       "heading": null,
       "resolved": "Bestiary/Kaathe",
@@ -15884,6 +16094,20 @@
       "target": "Org/Althane/The First House"
     },
     {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Rowan",
+      "heading": null,
+      "resolved": "People/Althane/Rowan",
+      "source": "People/Althane/The Broker",
+      "target": "People/Althane/Rowan"
+    },
+    {
       "alias": "Echo Fragment",
       "heading": null,
       "resolved": "Phenomena/Echo Fragment",
@@ -15905,11 +16129,11 @@
       "target": "Geography/Syrin (Locality)/Terminus"
     },
     {
-      "alias": "Immix",
+      "alias": "Sedecium",
       "heading": null,
-      "resolved": "Divinity/Immix",
+      "resolved": "Org/Sedecium",
       "source": "People/Althane/The Broker",
-      "target": "Divinity/Immix"
+      "target": "Org/Sedecium"
     },
     {
       "alias": "Illyara",
@@ -16129,6 +16353,13 @@
       "target": "Org/The Fifth Prosperous Empire of the Sundom"
     },
     {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "People/Althane/YuDaan",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
       "alias": "Thessians",
       "heading": null,
       "resolved": "Divinity/Thessians",
@@ -16141,6 +16372,13 @@
       "resolved": "Divinity/Althane/The Stranger",
       "source": "People/Althane/YuDaan",
       "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/YuDaan",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "aphorite",
@@ -18677,11 +18915,32 @@
       "target": "Phenomena/Althane/Divine Amphora"
     },
     {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/Divine Energy",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Thessians",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Althane/Divine Energy",
+      "target": "Divinity/Thessians"
+    },
+    {
       "alias": "Stranger",
       "heading": null,
       "resolved": "Divinity/Althane/The Stranger",
       "source": "Phenomena/Althane/Divine Energy",
       "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "Phenomena/Althane/Divine Energy",
+      "target": "Phenomena/Althane/Godpiercer"
     },
     {
       "alias": "forge-heart",
@@ -18724,6 +18983,20 @@
       "resolved": "People/Althane/Divex",
       "source": "Phenomena/Althane/Godpiercer",
       "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Tech",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "the Stranger",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Divinity/Althane/The Stranger"
     },
     {
       "alias": "Toleros",
@@ -19228,6 +19501,13 @@
       "resolved": "People/Althane/The Broker",
       "source": "Phenomena/Echo Fragment",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Phenomena/Echo Fragment",
+      "target": "Org/Sedecium"
     },
     {
       "alias": "arcane intelligence",
@@ -20418,6 +20698,20 @@
       "resolved": "Divinity/Thessians",
       "source": "Phenomena/The End",
       "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Observers",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Observers",
+      "source": "Phenomena/The Slip",
+      "target": "Divinity/Althane/The Observers"
+    },
+    {
+      "alias": "Vesper Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "Phenomena/The Slip",
+      "target": "Divinity/Althane/The Stranger"
     },
     {
       "alias": "Friends of Aut",
@@ -22358,6 +22652,11 @@
           "target": "Phenomena/Althane/Godpiercer"
         },
         {
+          "alias": "Tech",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
           "alias": "the Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
@@ -22368,7 +22667,7 @@
           "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         }
       ],
-      "date": "2025-03-31T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "the Feep",
@@ -22378,7 +22677,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-31T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -24389,6 +24688,16 @@
           "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
         }
       ],
       "date": "2026-01-13T00:00:00-04:00",
@@ -25090,6 +25399,51 @@
         "title": null
       },
       "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
+        },
+        {
+          "alias": "the Nexus",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Nexus"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        }
+      ],
+      "date": "2025-04-07T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-04-07T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "city"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
     },
     {
       "crossrefs": [],
@@ -25841,16 +26195,21 @@
           "alias": "Althane",
           "heading": null,
           "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -26776,6 +27135,11 @@
           "target": "Org/Althane/Church of the Thirteenth Realm"
         },
         {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
           "alias": "cycle",
           "heading": null,
           "target": "Phenomena/Althane/Cycle"
@@ -26794,16 +27158,56 @@
           "alias": "Sundom",
           "heading": null,
           "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Leviathan",
+          "heading": null,
+          "target": "Geography/Althane/Brejvasing/index"
+        },
+        {
+          "alias": "Vesper Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "Masha",
+          "heading": null,
+          "target": "People/Althane/Masha"
+        },
+        {
+          "alias": "YuDaan",
+          "heading": null,
+          "target": "People/Althane/YuDaan"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32056,16 +32460,21 @@
           "alias": "the Stranger",
           "heading": null,
           "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40076,19 +40485,34 @@
           "target": "Phenomena/Althane/Godpiercer"
         },
         {
+          "alias": "Fat Cock City",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+        },
+        {
+          "alias": "Tech",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Rowan",
+          "heading": null,
+          "target": "People/Althane/Rowan"
+        },
+        {
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -40660,9 +41084,14 @@
           "alias": "Divex",
           "heading": null,
           "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -40671,7 +41100,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40957,6 +41386,39 @@
     {
       "crossrefs": [
         {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Fat Cock City",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        }
+      ],
+      "date": "2025-04-07T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-04-07T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Althane/Marzo"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Golden Sparrows",
           "heading": null,
           "target": "Org/Althane/Golden Sparrows"
@@ -40977,19 +41439,24 @@
           "target": "Divinity/Unknown Entities/The Deep"
         },
         {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
           "alias": "Wojciech",
           "heading": null,
           "target": "People/Althane/Wojciech"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41249,16 +41716,31 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Tech",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "the Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
         }
       ],
-      "date": "2025-03-31T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-31T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41474,6 +41956,16 @@
           "target": "Org/Althane/The First House"
         },
         {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Rowan",
+          "heading": null,
+          "target": "People/Althane/Rowan"
+        },
+        {
           "alias": "Echo Fragment",
           "heading": null,
           "target": "Phenomena/Echo Fragment"
@@ -41489,19 +41981,19 @@
           "target": "Geography/Syrin (Locality)/Terminus"
         },
         {
-          "alias": "Immix",
+          "alias": "Sedecium",
           "heading": null,
-          "target": "Divinity/Immix"
+          "target": "Org/Sedecium"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41812,6 +42304,11 @@
           "target": "Org/The Fifth Prosperous Empire of the Sundom"
         },
         {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
           "alias": "Thessians",
           "heading": null,
           "target": "Divinity/Thessians"
@@ -41820,16 +42317,21 @@
           "alias": "the Stranger",
           "heading": null,
           "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -45014,12 +45516,27 @@
           "target": "Phenomena/Althane/Divine Amphora"
         },
         {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Thessians",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
           "alias": "Stranger",
           "heading": null,
           "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "divine energy"
@@ -45028,7 +45545,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -45069,9 +45586,19 @@
           "alias": "Divex",
           "heading": null,
           "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Tech",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "the Stranger",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
         }
       ],
-      "date": "2025-01-06T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "needle",
@@ -45081,7 +45608,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-01-06T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -45890,16 +46417,21 @@
           "alias": "Tech of Sedecium",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-04-07T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-04-07T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -47300,6 +47832,36 @@
         "title": null
       },
       "path": "Phenomena/The End"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Observers",
+          "heading": null,
+          "target": "Divinity/Althane/The Observers"
+        },
+        {
+          "alias": "Vesper Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
+        }
+      ],
+      "date": "2025-04-07T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-04-07T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "wonder"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/The Slip"
     },
     {
       "crossrefs": [
