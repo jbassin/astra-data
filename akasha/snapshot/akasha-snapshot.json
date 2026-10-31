@@ -4306,6 +4306,20 @@
       "target": "Geography/Færrin/Calaria/Hallia/index"
     },
     {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
+      "alias": "Hallia",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/index",
+      "source": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "target": "Geography/Færrin/Calaria/Hallia/index"
+    },
+    {
       "alias": "Hallia",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
@@ -5398,18 +5412,25 @@
       "target": "Smiler"
     },
     {
-      "alias": null,
+      "alias": "Calaria",
       "heading": null,
-      "resolved": null,
+      "resolved": "Geography/Færrin/Calaria/index",
       "source": "Geography/Færrin/Calaria/Hallia/index",
-      "target": "the Host"
+      "target": "Geography/Færrin/Calaria/index"
     },
     {
-      "alias": null,
+      "alias": "the Host",
       "heading": null,
-      "resolved": null,
+      "resolved": "Divinity/Outer Gods/Iridescent Host",
       "source": "Geography/Færrin/Calaria/Hallia/index",
-      "target": "the Horizon"
+      "target": "Iridescent Host"
+    },
+    {
+      "alias": "the Horizon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/the Horizon/index",
+      "source": "Geography/Færrin/Calaria/Hallia/index",
+      "target": "Geography/Færrin/Calaria/Hallia/the Horizon/index"
     },
     {
       "alias": "Blackline",
@@ -8754,6 +8775,20 @@
       "alias": "Hildebrandt Corporation",
       "heading": null,
       "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "Org/Hildebrandt Corporation/People/Hildebrandt",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
+      "alias": "Hildebrandt Tower",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "source": "Org/Hildebrandt Corporation/People/Hildebrandt",
+      "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
       "source": "Org/Hildebrandt Corporation/People/Paavo Karhu",
       "target": "Org/Hildebrandt Corporation/index"
     },
@@ -8784,6 +8819,48 @@
       "resolved": "Org/The Harlequins/Providence/index",
       "source": "Org/Hildebrandt Corporation/People/Paavo Karhu",
       "target": "Org/The Harlequins/Providence"
+    },
+    {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "Org/Hildebrandt Corporation/People/Victor Frey",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/Heir of the Plague",
+      "source": "Org/Hildebrandt Corporation/People/Victor Frey",
+      "target": "Heir of the Plague"
+    },
+    {
+      "alias": "Hildebrandt Tower",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "source": "Org/Hildebrandt Corporation/People/Victor Frey",
+      "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "alias": "Hildebrandt",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/People/Hildebrandt",
+      "source": "Org/Hildebrandt Corporation/index",
+      "target": "Org/Hildebrandt Corporation/People/Hildebrandt"
+    },
+    {
+      "alias": "Hildebrandt Tower",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "source": "Org/Hildebrandt Corporation/index",
+      "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "alias": "Hallia",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/index",
+      "source": "Org/Hildebrandt Corporation/index",
+      "target": "Geography/Færrin/Calaria/Hallia/index"
     },
     {
       "alias": "General Thematics",
@@ -13063,6 +13140,13 @@
       "target": "Org/Singers of the Herald's Star"
     },
     {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "People/Adzuki",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
       "alias": "Austrene",
       "heading": null,
       "resolved": "Geography/Færrin/Austrene/index",
@@ -14848,6 +14932,13 @@
       "target": "People/Sir Arctos"
     },
     {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "People/Chris Gangle",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
       "alias": "Widdershins",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/Widdershins/index",
@@ -15821,6 +15912,13 @@
       "target": "People/Johnny"
     },
     {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "People/Mika Buzzle",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
       "alias": "Hallia",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
@@ -15847,6 +15945,34 @@
       "resolved": "People/Johnny",
       "source": "People/Moonlight",
       "target": "People/Johnny"
+    },
+    {
+      "alias": "Hildebrandt Corporation's",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "People/Neron Rodder",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
+      "alias": "tower",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "source": "People/Neron Rodder",
+      "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "alias": "Istria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Istria/index",
+      "source": "People/Neron Rodder",
+      "target": "Geography/Færrin/Istria/index"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/Heir of the Plague",
+      "source": "People/Neron Rodder",
+      "target": "Heir of the Plague"
     },
     {
       "alias": "Anzu",
@@ -16479,6 +16605,13 @@
       "target": "Divinity/Ashen Pact/Esoterica"
     },
     {
+      "alias": "Hildebrandt Corporation",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/index",
+      "source": "People/Vint Cerf",
+      "target": "Org/Hildebrandt Corporation/index"
+    },
+    {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
@@ -16848,6 +16981,27 @@
       "resolved": "Org/The Sears/index",
       "source": "Phenomena/Augury",
       "target": "Org/The Sears/index"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Phenomena/Bright Souls Eve",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "Hallia",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/index",
+      "source": "Phenomena/Bright Souls Eve",
+      "target": "Geography/Færrin/Calaria/Hallia/index"
+    },
+    {
+      "alias": "Host",
+      "heading": null,
+      "resolved": "Divinity/Outer Gods/Iridescent Host",
+      "source": "Phenomena/Bright Souls Eve",
+      "target": "Iridescent Host"
     },
     {
       "alias": "locality",
@@ -17744,6 +17898,20 @@
       "resolved": "Org/Garrick Textiles/People/Letov Obratz",
       "source": "Phenomena/Pilgrimage",
       "target": "Org/Garrick Textiles/People/Letov Obratz"
+    },
+    {
+      "alias": "Hildebrandt Tower",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower",
+      "source": "Phenomena/Plague Codex",
+      "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "alias": "Bright Souls Eve",
+      "heading": null,
+      "resolved": "Phenomena/Bright Souls Eve",
+      "source": "Phenomena/Plague Codex",
+      "target": "Phenomena/Bright Souls Eve"
     },
     {
       "alias": "Arctos",
@@ -24506,6 +24674,34 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        },
+        {
+          "alias": "Hallia",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/index"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Hallia",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/index"
@@ -25695,14 +25891,19 @@
     {
       "crossrefs": [
         {
-          "alias": null,
+          "alias": "Calaria",
           "heading": null,
-          "target": "the Host"
+          "target": "Geography/Færrin/Calaria/index"
         },
         {
-          "alias": null,
+          "alias": "the Host",
           "heading": null,
-          "target": "the Horizon"
+          "target": "Iridescent Host"
+        },
+        {
+          "alias": "the Horizon",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/the Horizon/index"
         },
         {
           "alias": "Blackline",
@@ -25739,7 +25940,8 @@
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "hildebrandt-heist"
         ],
         "extra": {
           "date": "2026-06-06T22:12:21-04:00"
@@ -30292,6 +30494,34 @@
           "target": "Org/Hildebrandt Corporation/index"
         },
         {
+          "alias": "Hildebrandt Tower",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Hildebrandt Corporation/People/Hildebrandt"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        },
+        {
           "alias": "Voidsong",
           "heading": null,
           "target": "Phenomena/Harmony/Voidsong"
@@ -30333,6 +30563,54 @@
     },
     {
       "crossrefs": [
+        {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        },
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Heir of the Plague"
+        },
+        {
+          "alias": "Hildebrandt Tower",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Org/Hildebrandt Corporation/People/Victor Frey"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Hildebrandt",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/People/Hildebrandt"
+        },
+        {
+          "alias": "Hildebrandt Tower",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+        },
+        {
+          "alias": "Hallia",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/index"
+        },
         {
           "alias": "General Thematics",
           "heading": null,
@@ -30398,7 +30676,8 @@
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "through-a-song-darkly"
+          "through-a-song-darkly",
+          "hildebrandt-heist"
         ],
         "extra": {
           "date": "2026-07-13T00:00:00-04:00"
@@ -35679,6 +35958,29 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Adzuki"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Austrene",
           "heading": null,
           "target": "Geography/Færrin/Austrene/index"
@@ -38003,6 +38305,29 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Chris Gangle"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Widdershins",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/Widdershins/index"
@@ -39249,6 +39574,33 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Mika"
+        ],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Gnome"
+        ],
+        "title": null
+      },
+      "path": "People/Mika Buzzle"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Hallia",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/index"
@@ -39283,6 +39635,46 @@
         "title": null
       },
       "path": "People/Moonlight"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Hildebrandt Corporation's",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        },
+        {
+          "alias": "tower",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+        },
+        {
+          "alias": "Istria",
+          "heading": null,
+          "target": "Geography/Færrin/Istria/index"
+        },
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Heir of the Plague"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Naren Rotter"
+        ],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Neron Rodder"
     },
     {
       "crossrefs": [
@@ -40081,6 +40473,32 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Corporation",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/index"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Vint",
+          "John Powell"
+        ],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "People/Vint Cerf"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
@@ -40760,6 +41178,39 @@
         "title": null
       },
       "path": "Phenomena/Augury"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "Hallia",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/index"
+        },
+        {
+          "alias": "Host",
+          "heading": null,
+          "target": "Iridescent Host"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Bright Souls Eve"
     },
     {
       "crossrefs": [],
@@ -41819,6 +42270,34 @@
     {
       "crossrefs": [
         {
+          "alias": "Hildebrandt Tower",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/Hildebrandt Tower"
+        },
+        {
+          "alias": "Bright Souls Eve",
+          "heading": null,
+          "target": "Phenomena/Bright Souls Eve"
+        }
+      ],
+      "date": "2024-11-20T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "hildebrandt-heist"
+        ],
+        "extra": {
+          "date": "2024-11-20T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Phenomena/Plague Codex"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Arctos",
           "heading": null,
           "target": "People/Sir Arctos"
@@ -42605,14 +43084,6 @@
     {
       "source": "Geography/Færrin/Brithwyn/index",
       "target": "Protectorate"
-    },
-    {
-      "source": "Geography/Færrin/Calaria/Hallia/index",
-      "target": "the Host"
-    },
-    {
-      "source": "Geography/Færrin/Calaria/Hallia/index",
-      "target": "the Horizon"
     },
     {
       "source": "Geography/Færrin/Calaria/Hallia/the Horizon/index",

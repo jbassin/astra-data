@@ -383,6 +383,9 @@ entity "Brienne" kind="person" page="Org/Pale Lantern Society/People/Brienne" {
     alias "Brini"
     source "akasha"
 }
+entity "Bright Souls Eve" kind="phenomenon" page="Phenomena/Bright Souls Eve" {
+    source "akasha"
+}
 entity "Brithwyn" kind="place" page="Geography/Færrin/Brithwyn/index" {
     alias "Brithwin"
     alias "Brithwen"
@@ -1098,14 +1101,18 @@ entity "Hierophant" kind="deity" page="Divinity/Hierophant" {
 entity "Higher Kind" kind="deity" page="Divinity/Higher Kind" {
     source "akasha"
 }
-entity "Hildebrandt" {
+entity "Hildebrandt" kind="person" page="Org/Hildebrandt Corporation/People/Hildebrandt" {
     alias "Hildebrand"
     alias "Hildebrant"
     alias "Hildemarant"
     alias "Hiltabrand"
+    source "akasha"
     source "defs"
 }
 entity "Hildebrandt Corporation" kind="org" page="Org/Hildebrandt Corporation/index" {
+    source "akasha"
+}
+entity "Hildebrandt Tower" kind="place" page="Geography/Færrin/Calaria/Hallia/Hildebrandt Tower" {
     source "akasha"
 }
 entity "Hlarf" kind="person" page="Org/Roundhat Gang/People/Hlarf" {
@@ -1808,6 +1815,9 @@ entity "Phlogiston" kind="phenomenon" page="Phenomena/Phlogiston" {
     source "defs"
 }
 entity "Pilgrimage" kind="phenomenon" page="Phenomena/Pilgrimage" {
+    source "akasha"
+}
+entity "Plague Codex" kind="phenomenon" page="Phenomena/Plague Codex" {
     source "akasha"
 }
 entity "Plaza" kind="place" page="Geography/Færrin/Alternate Planes/Black and White/Plaza" {
@@ -2627,6 +2637,9 @@ entity "Vermin" kind="creature" page="Bestiary/Vermin" {
     alias "Scythe-Armed Spider"
     alias "Apothecary Bug"
     alias "Hiveling"
+    source "akasha"
+}
+entity "Victor Frey" kind="person" page="Org/Hildebrandt Corporation/People/Victor Frey" {
     source "akasha"
 }
 entity "Vikar" kind="place" page="Geography/Althane/Realms/Vikar" {
