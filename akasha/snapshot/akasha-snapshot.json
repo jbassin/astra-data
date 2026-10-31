@@ -281,6 +281,20 @@
       "target": "People/Althane/Tennobrin Er-K"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Bestiary/Mimics",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Weft's",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Bestiary/Mimics",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "Infinite Horizon",
       "heading": null,
       "resolved": "Geography/Færrin/Infinite Horizon/index",
@@ -3247,6 +3261,27 @@
       "resolved": "Geography/Althane/index",
       "source": "Geography/Althane/Oresk/Kirov",
       "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Sarengrad",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/Sarengrad",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Geography/Althane/Oresk/Sarengrad"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "People/Althane/Karkov"
     },
     {
       "alias": "Oresk",
@@ -7498,6 +7533,13 @@
       "target": "Geography/Althane/Oresk/Sarengrad"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Org/Althane/The First House",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
       "alias": "Sparrows",
       "heading": null,
       "resolved": "Org/Althane/Golden Sparrows",
@@ -7685,6 +7727,20 @@
       "resolved": "Org/Althane/The First House",
       "source": "Org/Althane/The Weft",
       "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Crystal Earring",
+      "heading": null,
+      "resolved": "People/Althane/Crystal Earring",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Crystal Earring"
+    },
+    {
+      "alias": "tzitzimitl",
+      "heading": null,
+      "resolved": "Bestiary/Mimics",
+      "source": "Org/Althane/The Weft",
+      "target": "Bestiary/Mimics"
     },
     {
       "alias": "Sanguis Noxa",
@@ -13735,6 +13791,20 @@
       "target": "Org/Althane/Red Dragon Rail Company"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Crystal Earring",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/Crystal Earring",
+      "target": "People/Althane/Divex"
+    },
+    {
       "alias": "the lava ruin",
       "heading": null,
       "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
@@ -14146,6 +14216,20 @@
       "resolved": "People/Althane/Rampart",
       "source": "People/Althane/Karkov",
       "target": "People/Althane/Rampart"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Karkov",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Masha",
@@ -19654,6 +19738,38 @@
     {
       "crossrefs": [
         {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Weft's",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        }
+      ],
+      "date": "2024-12-23T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Mimic",
+          "Tzitzimitl",
+          "Sitzmittel"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-23T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Bestiary/Mimics"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Infinite Horizon",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/index"
@@ -23656,6 +23772,41 @@
         "title": null
       },
       "path": "Geography/Althane/Oresk/Kirov"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Sarengrad",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/Sarengrad"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
+        }
+      ],
+      "date": "2024-12-23T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-23T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/Oresk/RC3"
     },
     {
       "crossrefs": [
@@ -29313,6 +29464,11 @@
           "target": "Geography/Althane/Oresk/Sarengrad"
         },
         {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
           "alias": "Sparrows",
           "heading": null,
           "target": "Org/Althane/Golden Sparrows"
@@ -29328,14 +29484,14 @@
           "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2024-12-23T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2024-12-23T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29605,16 +29761,26 @@
           "alias": "the First House",
           "heading": null,
           "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Crystal Earring",
+          "heading": null,
+          "target": "People/Althane/Crystal Earring"
+        },
+        {
+          "alias": "tzitzimitl",
+          "heading": null,
+          "target": "Bestiary/Mimics"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2024-12-23T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2024-12-23T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -37340,6 +37506,36 @@
     {
       "crossrefs": [
         {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        }
+      ],
+      "date": "2024-12-23T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-12-23T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "item"
+        ],
+        "title": null
+      },
+      "path": "People/Althane/Crystal Earring"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "the lava ruin",
           "heading": null,
           "target": "Geography/Althane/The Hollow/Lava Ruin/index"
@@ -37893,12 +38089,22 @@
           "target": "People/Althane/Rampart"
         },
         {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "Masha",
           "heading": null,
           "target": "People/Althane/Masha"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2024-12-23T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -37907,7 +38113,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2024-12-23T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -38706,7 +38912,7 @@
           "target": "People/Althane/Masha"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2024-12-23T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Roychek"
@@ -38715,7 +38921,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2024-12-23T00:00:00-04:00"
         },
         "img": null,
         "tags": [

@@ -1585,6 +1585,12 @@ entity "Midnight Sun" kind="phenomenon" page="Phenomena/Midnight Sun" {
 entity "Mika" kind="person" being="tanner" {
     source "being"
 }
+entity "Mimics" kind="creature" page="Bestiary/Mimics" {
+    alias "Mimic"
+    alias "Tzitzimitl"
+    alias "Sitzmittel"
+    source "akasha"
+}
 entity "Ministry of Cultural Progress" kind="org" page="Org/Ministry of Cultural Progress/index" {
     source "akasha"
 }
@@ -1934,6 +1940,9 @@ entity "Rapid Connection" kind="org" page="Org/Prime Meridian/Rapid Connection" 
     source "akasha"
 }
 entity "Ravic" kind="place" page="Geography/Althane/Realms/Ravic" {
+    source "akasha"
+}
+entity "RC3" kind="place" page="Geography/Althane/Oresk/RC3" {
     source "akasha"
 }
 entity "Realms" kind="place" page="Geography/Althane/Realms/index" {
