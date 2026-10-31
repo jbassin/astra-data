@@ -416,7 +416,7 @@
 000416	Dawnmonger: We got to the top of the pyramid.  
 000417	Dawnmonger: The Deep was like, allow me to remake you in the image of old Thessia.  
 000418	Dawnmonger: Henrik stabbed him with a needle.  
-000419	Dawnmonger: And then we were fighting The Deep and Kharkov and some madness made flesh.  
+000419	Dawnmonger: And then we were fighting The Deep and Karkov and some madness made flesh.  
 000420	Dawnmonger: But there were some semantic questions about the madness made flesh.  
 000421	Gamemaster: It was both.  
 000422	Dawnmonger: Oh, Lev achieved...  
@@ -945,10 +945,10 @@
 000945	Gamemaster: If you want to stand on top of the deep, that is an option available to you.  
 000946	Dawnmonger: Okay.  
 000947	Gamemaster: I don't know if Divex would think that that's such a great idea.  
-000948	Gamemaster: But yes, physically in the air, the only things present are the deep, Kharkov, and your two allies.  
+000948	Gamemaster: But yes, physically in the air, the only things present are the deep, Karkov, and your two allies.  
 000949	Gamemaster: So if you're looking for something to stand on top of, it's one of those four things.  
-000950	Gamemaster: Kharkov did have his torso ripped off and then replaced with a fungal tripod.  
-000951	Divex: Does Kharkov look like more piggyback-able?  
+000950	Gamemaster: Karkov did have his torso ripped off and then replaced with a fungal tripod.  
+000951	Divex: Does Karkov look like more piggyback-able?  
 000952	Lev: you  
 000953	Dawnmonger: Sounds like a yeah.  
 000954	Gamemaster: I don't know if that helps one way or the other, but it is something to keep in mind.  
@@ -1183,17 +1183,17 @@
 001183	Lev: That's an action, I'm assuming.  
 001184	Gamemaster: You can do that next turn.  
 001185	Lev: Yeah, yeah.  
-001186	Gamemaster: That brings us to Kharkov.  
+001186	Gamemaster: That brings us to Karkov.  
 001187	Dawnmonger: Ooh.  
-001188	Gamemaster: Kharkov heals.  
+001188	Gamemaster: Karkov heals.  
 001189	Henrik: Lame.  
-001190	Gamemaster: Kharkov has realized...  
-001191	Gamemaster: And by has realized, I mean the deepest telepathically screaming into Kharkov's head.  
+001190	Gamemaster: Karkov has realized...  
+001191	Gamemaster: And by has realized, I mean the deepest telepathically screaming into Karkov's head.  
 001192	Gamemaster: The equivalent of like, yeah, profanities, effectively.  
 001193	Lev: Get the fuck out of here.  
-001194	Gamemaster: So I think Kharkov is going to leave.  
-001195	Gamemaster: Kharkov!  
-001196	Gamemaster: Kharkov probably wants to head down and try and mess up Divex, I think.  
+001194	Gamemaster: So I think Karkov is going to leave.  
+001195	Gamemaster: Karkov!  
+001196	Gamemaster: Karkov probably wants to head down and try and mess up Divex, I think.  
 001197	Gamemaster: So he's fully healed.  
 001198	Dawnmonger: Thank you.  
 001199	Gamemaster: He can just tank the damage.  
@@ -1503,7 +1503,7 @@
 001503	Henrik: That's so kind.  
 001504	Henrik: It's as if I never fell.  
 001505	Gamemaster: 60 hit points.  
-001506	Dawnmonger: And then last action, I guess I'll just try and punch Kharkov.  
+001506	Dawnmonger: And then last action, I guess I'll just try and punch Karkov.  
 001507	Gamemaster: Just undo that.  
 001508	Gamemaster: Yeah, go for it.  
 001509	Gamemaster: Unfortunately, that is a miss.  
@@ -1615,11 +1615,11 @@
 001615	Gamemaster: He points to a little name tag on his chest.  
 001616	Gamemaster: It's E-E-T-O.  
 001617	Gamemaster: This is why we wear the name tags.  
-001618	Gamemaster: It's Kharkov's turn now.  
+001618	Gamemaster: It's Karkov's turn now.  
 001619	Henrik: Josh, was that a spelling or are those like, they look like initials?  
 001620	Gamemaster: It looks like just one name.  
 001621	Gamemaster: E-E-T-O.  
-001622	Gamemaster: Kharkov.  
+001622	Gamemaster: Karkov.  
 001623	Dawnmonger: Okay.  
 001624	Gamemaster: Because, you know, that lighthouse thing happens over the course of six seconds.  
 001625	Gamemaster: So we're going to look away from that.  
@@ -2393,7 +2393,7 @@
 002393	Gamemaster: Well, actually, you've already used it once.  
 002394	Gamemaster: Is there a restriction on how often you can use it?  
 002395	Divex: I have not used Entangled Shadow.  
-002396	Gamemaster: Did you not use it on Kharkov?  
+002396	Gamemaster: Did you not use it on Karkov?  
 002397	Divex: No, no, you're thinking of Entangled Vendetta.  
 002398	Gamemaster: Oh, right.  
 002399	Gamemaster: This is the one where you make a buff Divex appear.  
@@ -3393,9 +3393,9 @@
 003393	Gamemaster: It's happening.  
 003394	Gamemaster: The door to the White House is open.  
 003395	Dawnmonger: Thank you.  
-003396	Gamemaster: It is not blocking you in the same way that it was preventing the Deep or Kharkov or whatever was left of him.  
+003396	Gamemaster: It is not blocking you in the same way that it was preventing the Deep or Karkov or whatever was left of him.  
 003397	Gamemaster: He was... Which...  
-003398	Gamemaster: The time that you managed to get the, like, stun off was fantastic, because if the moon were to land when he still had actions, he was going to protect himself with Kharkov, which would have increased the health he had going into the next phase.  
+003398	Gamemaster: The time that you managed to get the, like, stun off was fantastic, because if the moon were to land when he still had actions, he was going to protect himself with Karkov, which would have increased the health he had going into the next phase.  
 003399	Gamemaster: But because he was stunned, he couldn't do that, which is terribly rude of you.  
 003400	Gamemaster: Either way, you all walk into the lighthouse.  
 003401	Gamemaster: This is familiar to most of you.  
@@ -3620,10 +3620,10 @@
 003620	Divex: No, but how direct, I mean.  
 003621	Gamemaster: Yes.  
 003622	Gamemaster: You all built the lighthouse.  
-003623	Gamemaster: Once upon a time, the big Sondheim ship  
+003623	Gamemaster: Once upon a time, the big Sundom ship  
 003624	Gamemaster: Shoa, it worked with, you know, the Thessians to prepare, build the lighthouse, make the whole thing to capture the Dark Bramble.  
 003625	Gamemaster: Dark Bramble come, there's a big fight, everybody dies.  
-003626	Gamemaster: Santham gets the whole memory wipe, you do your whole loop-de-loop-de-loop-de thing, and the lighthouse stays.  
+003626	Gamemaster: Sundom gets the whole memory wipe, you do your whole loop-de-loop-de-loop-de thing, and the lighthouse stays.  
 003627	Gamemaster: But originally, it built the lighthouse.  
 003628	Divex: Okay.  
 003629	Gamemaster: Everybody on Altheid built the lighthouse at one time.  
@@ -4223,7 +4223,7 @@
 004223	Gamemaster: That was never a worry.  
 004224	Gamemaster: But, like, yes, if he had spread it out enough, absorbed enough energy from Beast, he would have ascended.  
 004225	Lev: What about that bug?  
-004226	Gamemaster: But that would have been put to a stop earlier because the Deep would have told Kharkov to tell him to cut that out.  
+004226	Gamemaster: But that would have been put to a stop earlier because the Deep would have told Karkov to tell him to cut that out.  
 004227	Lev: Where did that come from?  
 004228	Lev: The archive?  
 004229	Gamemaster: The Lighthouse.  
@@ -4325,7 +4325,7 @@
 004325	Henrik: We're all they know now.  
 004326	Gamemaster: So... True.  
 004327	Lev: Why... This is probably a spoiler.  
-004328	Lev: Where was Kharkov's teleporter going and why?  
+004328	Lev: Where was Karkov's teleporter going and why?  
 004329	Gamemaster: The one that he was using the cave for?  
 004330	Gamemaster: It was... I know.  
 004331	Lev: Yeah.  

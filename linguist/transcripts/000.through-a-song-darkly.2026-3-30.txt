@@ -1840,7 +1840,7 @@
 001840	Benny: Benny will exit his room and like...  
 001841	Argyle: Might I ask where you acquired this exclusive?  
 001842	Gamemaster: Get it, Bob?  
-001843	Johnny: Thanks, Rhett.  
+001843	Johnny: Thanks, Ret.  
 001844	Johnny: I put the chess piece away.  
 001845	Johnny: I got us a bomb.  
 001846	Anzu: All right, so we're set in a big way.  

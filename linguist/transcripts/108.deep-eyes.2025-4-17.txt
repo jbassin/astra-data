@@ -297,7 +297,7 @@
 000297	Lev: You know, maybe he would have been if we played it differently.  
 000298	Henrik: Oh, I'm going to say... No, he was a bad guy.  
 000299	Henrik: He was a bad guy.  
-000300	Divex: Imex had a big heart that was going to kill him eventually, so we put him out of his misery.  
+000300	Divex: Immix had a big heart that was going to kill him eventually, so we put him out of his misery.  
 000301	Lev: Yeah.  
 000302	Gamemaster: Right, of course.  
 000303	Lev: We could have changed him.  
@@ -936,7 +936,7 @@
 000936	Lev: A mini lighthouse beacon.  
 000937	Gamemaster: Effectively, yes.  
 000938	Gamemaster: And so they had...  
-000939	Gamemaster: severed their connection to the 13th Realm, because Kharkov was on this whole, we need to get rid of the 13th Realm thing, so they came up with an alternative there.  
+000939	Gamemaster: severed their connection to the 13th Realm, because Karkov was on this whole, we need to get rid of the 13th Realm thing, so they came up with an alternative there.  
 000940	Gamemaster: But given that you destroyed the bit that held the people of their beacon, that is no longer functioning, and any of the souls that were contained within are lost, gone to wherever souls actually go when somebody dies.  
 000941	Divex: Oops.  
 000942	Lev: What about carbide?  
@@ -1425,7 +1425,7 @@
 001425	Lev: Then, I guess, transport them to Althane, then kill them.  
 001426	Gamemaster: Sure.  
 001427	Lev: Okay, so... Ultesia?  
-001428	Gamemaster: Although, the other thing is you would note that Imex wasn't working for the 13th realm up until the Thiep Shaman.  
+001428	Gamemaster: Although, the other thing is you would note that Immix wasn't working for the 13th realm up until the Thiep Shaman.  
 001429	Lev: Yeah.  
 001430	Lev: But these divine batteries that we noticed were more recent.  
 001431	Lev: So, uh...  
@@ -1648,7 +1648,7 @@
 001648	Gamemaster: Okay, so anything else you guys are doing?  
 001649	Dawnmonger: Yeah.  
 001650	Henrik: Okay.  
-001651	Henrik: I take the pin and I make an attack roll on Levmir.  
+001651	Henrik: I take the pin and I make an attack roll on Lev'Myr.  
 001652	Lev: I knew it would happen.  
 001653	Gamemaster: Okay, absolutely.  
 001654	Divex: Yep.  
@@ -2245,7 +2245,7 @@
 002245	Lev: Did we just leave and go to a different place and then we go to the lighthouse from the inside?  
 002246	Gamemaster: You could.  
 002247	Lev: Yeah.  
-002248	Gamemaster: If you recall, the exit of the lighthouse here is currently under siege by a number of things, including Kharkov.  
+002248	Gamemaster: If you recall, the exit of the lighthouse here is currently under siege by a number of things, including Karkov.  
 002249	Gamemaster: I don't know if that's necessarily what you want to do, but you could.  
 002250	Lev: All right, we'll leave it, but in case it gets tricky, we can do that.  
 002251	Gamemaster: Okay, absolutely.  

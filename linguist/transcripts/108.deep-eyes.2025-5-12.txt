@@ -590,7 +590,7 @@
 000590	Dawnmonger: Okay.  
 000591	Dawnmonger: Several years ago, on a train to...  
 000592	Dawnmonger: wherever Lady Graves was, four people met on a train.  
-000593	Gamemaster: Poleros.  
+000593	Gamemaster: Toleros.  
 000594	Dawnmonger: They were all whack.  
 000595	Dawnmonger: Then the train was robbed by some dudes wearing picnic blankets.  
 000596	Dawnmonger: We didn't stop that robbery at all.  
@@ -628,7 +628,7 @@
 000628	Dawnmonger: We left for a little bit.  
 000629	Dawnmonger: Discovered some more about the Gulch.  
 000630	Dawnmonger: Came back.  
-000631	Dawnmonger: We were like, oh my god, this guy Kharkov is another Duskwalker.  
+000631	Dawnmonger: We were like, oh my god, this guy Karkov is another Duskwalker.  
 000632	Dawnmonger: We gotta meet this guy.  
 000633	Dawnmonger: Bad idea.  
 000634	Dawnmonger: Then we discovered a beast.  
@@ -713,7 +713,7 @@
 000713	Dawnmonger: Let's be real.  
 000714	Lev: Thank you.  
 000715	Dawnmonger: We all then got our asses whooped by the Rampart.  
-000716	Dawnmonger: Went to a wizard prison with an aspect of Imex.  
+000716	Dawnmonger: Went to a wizard prison with an aspect of Immix.  
 000717	Dawnmonger: Left the wizard prison.  
 000718	Dawnmonger: Came back.  
 000719	Dawnmonger: Dawn was now part of the party.  
@@ -728,7 +728,7 @@
 000728	Dawnmonger: And we said, awesome, we're going to go to the other side of the continent.  
 000729	Dawnmonger: So because Josh one time mentioned there was something there in passing.  
 000730	Dawnmonger: So we went to the other side of the continent.  
-000731	Dawnmonger: On the way there, we met Levmir, who, unbeknownst to us, was too overpowered.  
+000731	Dawnmonger: On the way there, we met Lev'Myr, who, unbeknownst to us, was too overpowered.  
 000732	Dawnmonger: And that was the first time that we realized just how intensely Jorge's mania for building overpowered characters was.  
 000733	Dawnmonger: We met him.  
 000734	Dawnmonger: He was like, oh, yes, I'm a vampire.  
@@ -904,9 +904,9 @@
 000904	Dawnmonger: We were like, oh, they have a happy little family here.  
 000905	Dawnmonger: That's sad.  
 000906	Dawnmonger: We're going to brush over that.  
-000907	Dawnmonger: Then we jumped Kharkov and his adopted daughter.  
+000907	Dawnmonger: Then we jumped Karkov and his adopted daughter.  
 000908	Dawnmonger: We beat her up real fast, which turned out was a good thing because she was a dragon.  
-000909	Dawnmonger: We then had a tough fight against Kharkov, who we fully beat.  
+000909	Dawnmonger: We then had a tough fight against Karkov, who we fully beat.  
 000910	Dawnmonger: But then he got dragged into the city in yellow.  
 000911	Dawnmonger: We were like, awesome.  
 000912	Dawnmonger: This worked out great.  
@@ -967,9 +967,9 @@
 000967	Dawnmonger: Sorry, some eyes with stalks.  
 000968	Dawnmonger: We were like, hey, can we watch too?  
 000969	Dawnmonger: And they were like, nah, someone else is watching right now, but not really.  
-000970	Dawnmonger: Turned out it was our buddy Imex, who we did confront at a panel he was on.  
+000970	Dawnmonger: Turned out it was our buddy Immix, who we did confront at a panel he was on.  
 000971	Dawnmonger: Don't do that at an actual Comic-Con.  
-000972	Dawnmonger: It's very offensive unless they're an aspect of Imex.  
+000972	Dawnmonger: It's very offensive unless they're an aspect of Immix.  
 000973	Dawnmonger: Uh, we then were like, God, I guess we should go fight Immix.  
 000974	Dawnmonger: So we then went to fight Immix.  
 000975	Dawnmonger: Oh, Lev gave up his, uh, Pact of the God to be able to navigate the lighthouse, which was a great deal, and actually had no drawbacks, really.  
@@ -1033,7 +1033,7 @@
 001033	Gamemaster: you  
 001034	Dawnmonger: wink, wink, we all looked at the camera.  
 001035	Dawnmonger: Then the narrator said, plot twist, it did happen.  
-001036	Dawnmonger: We went to Ilkain, we completed a whole bunch of challenges, we went and Henrik jumped 120 feet in the air, we fought Kharkov, we turned the deep into just a pile of teeth and stuff.  
+001036	Dawnmonger: We went to Ilkain, we completed a whole bunch of challenges, we went and Henrik jumped 120 feet in the air, we fought Karkov, we turned the deep into just a pile of teeth and stuff.  
 001037	Dawnmonger: We then got hit by the 13th realm, which was crazy.  
 001038	Dawnmonger: Almost died, finally defeated.  
 001039	Dawnmonger: the deep.  
@@ -1463,28 +1463,28 @@
 001463	Gamemaster: They were an interloper.  
 001464	Gamemaster: They were hiding knowledge.  
 001465	Gamemaster: All of that fun stuff.  
-001466	Gamemaster: I think that Oxus here should...  
+001466	Gamemaster: I think that Oxas here should...  
 001467	Gamemaster: take the reins, and there are a lot of grumbling.  
 001468	Gamemaster: There's a lot of grumbling from people who do not agree with Divex, but no one would dare say no to his face.  
 001469	Lev: Thank you.  
-001470	Gamemaster: And so Oxus does end up just de facto leaning.  
+001470	Gamemaster: And so Oxas does end up just de facto leaning.  
 001471	Gamemaster: Um...  
-001472	Gamemaster: She doesn't mind, because Oxus is, by nature, a relatively power-hungry person.  
+001472	Gamemaster: She doesn't mind, because Oxas is, by nature, a relatively power-hungry person.  
 001473	Gamemaster: And, you know, for this whole time she's been working for some shadowy, unknown broker figure.  
 001474	Gamemaster: This way she can get under their yoke, whoever that broker is.  
 001475	Gamemaster: and just hold onto power for herself.  
 001476	Gamemaster: There is definitely going to be a learning curve.  
-001477	Gamemaster: It's going to be a bumpy few years as Oxus kind of asserts influence over the trust after receiving the power, instead of the opposite way that one usually attains that position.  
+001477	Gamemaster: It's going to be a bumpy few years as Oxas kind of asserts influence over the trust after receiving the power, instead of the opposite way that one usually attains that position.  
 001478	Gamemaster: But so long as Divex is at least keeping Anaïs on it, maybe for the first year or two...  
 001479	Gamemaster: Nobody would dare, like, try and chuck her out of there.  
 001480	Gamemaster: And at some point, Divex will feel comfortable with that situation and leave the top right on its own.  
 001481	Divex: I will say, yeah, she, at least in the beginning, should not be fully shucking a yoke, because, I mean, she's ruling at the behest of Divex, essentially, so it's not fully do whatever you want, but, I mean, once you figure out what the hell is going on, yeah, Divex will trust her.  
 001482	Gamemaster: Oh, no, so she'll absolutely, like, the first thing she does is immediately start some kind of corrupted scheme involving, like, trying to sabotage some of her former enemies before she had the power.  
 001483	Gamemaster: I think Divex would be aware of all the things that are going on, and none of it is serious enough to, like, do any damage to the organization or to the average person or something like that.  
-001484	Gamemaster: I think you can be confident that Oxus is not going to go down as the greatest head the Trust has ever seen, but she also won't go down as the last head the Trust has ever seen, which is probably a stable enough point to leave the organization, given all of the upheaval that it just went through.  
+001484	Gamemaster: I think you can be confident that Oxas is not going to go down as the greatest head the Trust has ever seen, but she also won't go down as the last head the Trust has ever seen, which is probably a stable enough point to leave the organization, given all of the upheaval that it just went through.  
 001485	Divex: I think that level of cutthroatness comes with the territory in appointing someone who is strong enough to be the second head of the trust.  
 001486	Divex: I don't think I could put a flimsy person in that position.  
-001487	Divex: I think it has to be Oxus.  
+001487	Divex: I think it has to be Oxas.  
 001488	Divex: I don't think we can take the original professor who appointed Divex and be like, go run the trust now and not expect a head of state to be killed by not the weft.  
 001489	Gamemaster: Yeah, if anybody's going to kill a head of state, it's going to be me.  
 001490	Divex: Yeah.  
@@ -1571,7 +1571,7 @@
 001571	Gamemaster: Like, I'm not saying it's good decision-making.  
 001572	Gamemaster: I'm saying it's consistent decision-making.  
 001573	Lev: Thank you.  
-001574	Gamemaster: Like, Kharkov's whole deal was he was trying to fight a moon.  
+001574	Gamemaster: Like, Karkov's whole deal was he was trying to fight a moon.  
 001575	Gamemaster: So you guys are just the next moon that they're planning on fighting, effectively.  
 001576	Gamemaster: Either way, Orisk isn't showing up.  
 001577	Gamemaster: Corbai would definitely send representatives.  
@@ -1672,7 +1672,7 @@
 001672	Gamemaster: So... Actually...  
 001673	Gamemaster: Yeah, the trust is now too, I suppose.  
 001674	Gamemaster: I was going to say the network, but the current broker doesn't exist.  
-001675	Gamemaster: And the only person in the network that likes you is Oxus.  
+001675	Gamemaster: And the only person in the network that likes you is Oxas.  
 001676	Gamemaster: And she would absolutely abandon the network to become the head of the trust.  
 001677	Divex: Well, I don't... Well, I mean... Well, what are the qualifications to be the broker?  
 001678	Gamemaster: She'll keep the ties that she has there, but she's not going to be doing jobs for them.  
@@ -3375,7 +3375,7 @@
 003375	Gamemaster: Pharos form, yeah.  
 003376	Gamemaster: It worked out really well.  
 003377	Dawnmonger: Yeah.  
-003378	Lev: I am also happy we didn't go with the other plan of Word of Revision, because I think Levmir would have just splattered.  
+003378	Lev: I am also happy we didn't go with the other plan of Word of Revision, because I think Lev'Myr would have just splattered.  
 003379	Divex: Yeah.  
 003380	Lev: If he didn't go to the lighthouse.  
 003381	Dawnmonger: Yeah.  

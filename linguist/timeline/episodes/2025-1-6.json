@@ -2,8 +2,8 @@
   "date": "2025-1-6",
   "show": "deep-eyes",
   "summary": {
-    "title": "Commercial Break: Q&A with the Aspect of Imex",
-    "synopsis": "The party delves deeper into the Oreskian research facility RC3, exploring floors full of strange departments—emotional contagion paintings, memory spools, lightning traps, and puzzle doors—while harvesting keycards and passwords from the corpses of fallen researchers. A threshold expedition transports them onto the set of a grotesque talk show hosted by an Aspect of Imex, who reveals key truths about Sarah Gelskaller's death and Kharkov's whereabouts before dumping them into the ruined carcass of the Archive, where combat erupts.",
+    "title": "Commercial Break: Q&A with the Aspect of Immix",
+    "synopsis": "The party delves deeper into the Oreskian research facility RC3, exploring floors full of strange departments—emotional contagion paintings, memory spools, lightning traps, and puzzle doors—while harvesting keycards and passwords from the corpses of fallen researchers. A threshold expedition transports them onto the set of a grotesque talk show hosted by an Aspect of Immix, who reveals key truths about Sarah Gelskaller's death and Karkov's whereabouts before dumping them into the ruined carcass of the Archive, where combat erupts.",
     "key_beats": [
       "The party returns to Floor 1's Department of Emotional Contagion, discovering magical abstract paintings that grant catharsis-style emotional boons and penalties (e.g., the Canvas of Anger: bonus spell damage after taking damage, then fatigue).",
       "On Floor 2, the party explores the Department of Ontological Stability, finding an ontological anchor (blocks teleportation magic) and learning that the floating yellow-eyed corpses explode when approached; Lev briefly checks the Bureau of Linguistic Aberrations (walls of mad ravings) and sets it ablaze.",
@@ -12,22 +12,22 @@
       "In the Department of Recursive Entities, Divex is entranced by fractal drafting tables (stupefied 1); the party finds a puzzle-locked door (chest/treasure dials) and learns from terminal messages that a coworker sent the solution to B. Walensky.",
       "The Blacklight Initiative traps a body in black lightning from four pillar-mounted orbs; Lev flies in to grab the corpse, gets hit for ~160 electricity damage and stunned 3 (saved by hasted boots), and retrieves a green keycard (B. Walensky) plus his password.",
       "Dawn sneaks through the puzzle door with invisibility and flight, cutting cords to retrieve a Speely device and a yellow keycard (Stojan Polak) from one body and a blue keycard (Mile Lansky) from another; logging in as admin Lonsky, the party plays Xerne's violet memory—showing his 28-character threshold code and three lamp-cord pulls.",
-      "The party uses the threshold code and pulls the lamp cord three times, transporting themselves onto a red velvet couch facing the Aspect of Imex, a 12-foot ceramic figure, and Imex's talk-show set.",
-      "Imex hosts a Q&A: he reveals he betrayed Sarah Gelskaller (lured her to a city, staged attacks, stabbed her and stole her divinity for 'you-know-who'), that Kharkov is on Floor 6 doing doomsday prep against the Deep, and that the closest violet keycard lies at their next destination—the ruined Archive.",
-      "Dawn slaps Imex ('that's commercial break') and the party is transported to the ruined carcass of the Archive atop a pile of books; a Paper Prophet and two Shoggoths emerge; combat begins—Henrik quickens allies and strikes, Shoggoths confuse Divex, Lev interrupts the Paper Prophet's spell with Weapon Paragon attacks, and Dawn loots a violet keycard (Radagast Sersnay), a sword, and a firearm from a nearby corpse before the session pauses mid-fight at the top of round 2."
+      "The party uses the threshold code and pulls the lamp cord three times, transporting themselves onto a red velvet couch facing the Aspect of Immix, a 12-foot ceramic figure, and Immix's talk-show set.",
+      "Immix hosts a Q&A: he reveals he betrayed Sarah Gelskaller (lured her to a city, staged attacks, stabbed her and stole her divinity for 'you-know-who'), that Karkov is on Floor 6 doing doomsday prep against the Deep, and that the closest violet keycard lies at their next destination—the ruined Archive.",
+      "Dawn slaps Immix ('that's commercial break') and the party is transported to the ruined carcass of the Archive atop a pile of books; a Paper Prophet and two Shoggoths emerge; combat begins—Henrik quickens allies and strikes, Shoggoths confuse Divex, Lev interrupts the Paper Prophet's spell with Weapon Paragon attacks, and Dawn loots a violet keycard (Radagast Sersnay), a sword, and a firearm from a nearby corpse before the session pauses mid-fight at the top of round 2."
     ],
     "characters_present": [
-      "Lev (Levmir)",
+      "Lev (Lev'Myr)",
       "Divex",
       "Dawn (Dawnmonger)",
       "Henrik",
-      "Aspect of Imex",
+      "Aspect of Immix",
       "Stojan Polak (corpse)",
       "B. Walensky (corpse)",
       "Mile Lansky (corpse)",
       "Spaso Bondar (corpse)",
       "Radagast Sersnay / Xerne (corpse)",
-      "Kharkov (mentioned)",
+      "Karkov (mentioned)",
       "The Broker (mentioned)",
       "Sarah Gelskaller (mentioned)"
     ],
@@ -35,13 +35,13 @@
       "RC3 Research Facility — Floor 1 (Department of Emotional Contagion)",
       "RC3 — Floor 2 (Department of Ontological Stability, Bureau of Linguistic Aberrations, Firebreak Alpha)",
       "RC3 — Floor 3 (Office of Mnemonic Preservation, Threshold Expeditions Office, Department of Recursive Entities, Blacklight Initiative, Firebreak Beta)",
-      "Aspect of Imex's talk-show set (threshold destination)",
+      "Aspect of Immix's talk-show set (threshold destination)",
       "The Ruined Carcass of the Archive"
     ],
     "factions": [
       "Oreskians (RC3 researchers)",
       "The Deep",
-      "Imex (and his aspects)",
+      "Immix (and his aspects)",
       "The Weft (the party)"
     ],
     "items": [

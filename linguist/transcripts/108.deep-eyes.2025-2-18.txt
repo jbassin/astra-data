@@ -1605,8 +1605,8 @@
 001605	Lev: Oh, so you guys are just trying to optimize for sadness.  
 001606	Dawnmonger: So your plan is we kill everyone, give them these new lives, throw the entire planet into chaos, or we have a structure that we understand.  
 001607	Lev: Not new lives, original lives.  
-001608	Dawnmonger: We are in a position that no one else on Althane, except maybe Kharkov, actually no one else, because we want to actually do good.  
-001609	Dawnmonger: Kharkov is dead, and he wanted to do good in the worst way possible.  
+001608	Dawnmonger: We are in a position that no one else on Althane, except maybe Karkov, actually no one else, because we want to actually do good.  
+001609	Dawnmonger: Karkov is dead, and he wanted to do good in the worst way possible.  
 001610	Lev: Carcob's dead, too.  
 001611	Gamemaster: And car clubs, too.  
 001612	Dawnmonger: We want to do good...  
@@ -1822,7 +1822,7 @@
 001822	Divex: Sorry.  
 001823	Divex: Guys, we have to go in that building.  
 001824	Lev: Alright, so...  
-001825	Lev: Okay, so, you know, I really got moved when I saw Kharkov's quarters.  
+001825	Lev: Okay, so, you know, I really got moved when I saw Karkov's quarters.  
 001826	Lev: And he pulls out again.  
 001827	Lev: I don't know why he kept this, the little photo of the baby, of the two kids.  
 001828	Lev: You know, he tried to do the right thing.  
@@ -1903,7 +1903,7 @@
 001903	Gamemaster: Oh, no, you aren't.  
 001904	Lev: No, no, no, no.  
 001905	Lev: Yeah, I'm not.  
-001906	Gamemaster: Right, because you changed out of Tarv to look like Imex.  
+001906	Gamemaster: Right, because you changed out of Tarv to look like Immix.  
 001907	Lev: To then look like a normal Chroma guy.  
 001908	Gamemaster: And then, yeah, and then you said you were changing your disguise to look like just a random Joe Schmo.  
 001909	Lev: That'd be really funny if I was with arms and guns.  
@@ -2041,7 +2041,7 @@
 002041	Gamemaster: Yes.  
 002042	Henrik: I want to send a quick thought through Schism.  
 002043	Gamemaster: Okay.  
-002044	Henrik: Mostly aimed at Levmir the Silver Tongue.  
+002044	Henrik: Mostly aimed at Lev'Myr the Silver Tongue.  
 002045	Gamemaster: Uh-huh.  
 002046	Henrik: Tell him we're working on a new screenplay.  
 002047	Lev: Yeah.  
@@ -2742,7 +2742,7 @@
 002742	Gamemaster: You look organic enough.  
 002743	Gamemaster: I'm going to target any number of living creatures.  
 002744	Lev: So live doesn't count.  
-002745	Lev: I thought we established he didn't count when Kharkov had a thing that only affected living creatures.  
+002745	Lev: I thought we established he didn't count when Karkov had a thing that only affected living creatures.  
 002746	Gamemaster: So I think, I don't know if that doesn't count.  
 002747	Dawnmonger: Okay.  
 002748	Gamemaster: One second.  
@@ -3558,15 +3558,15 @@
 003558	Gamemaster: You're all really well on these.  
 003559	Gamemaster: Or really high, at least.  
 003560	Gamemaster: Why'd you roll twice?  
-003561	Dawnmonger: Why did it say Levmir rolled?  
-003562	Dawnmonger: It said Levmir on mine.  
+003561	Dawnmonger: Why did it say Lev'Myr rolled?  
+003562	Dawnmonger: It said Lev'Myr on mine.  
 003563	Gamemaster: To me, it says Noah rolled twice.  
 003564	Divex: Yeah, but it says Noah.  
 003565	Gamemaster: I see you have... Well, he didn't.  
 003566	Lev: It says no for me, too.  
 003567	Dawnmonger: That's very good.  
 003568	Dawnmonger: That's very confusing.  
-003569	Dawnmonger: Do you see Levmir take 25 damage and then 1d20 and then 1?  
+003569	Dawnmonger: Do you see Lev'Myr take 25 damage and then 1d20 and then 1?  
 003570	Dawnmonger: Nope.  
 003571	Gamemaster: I do, but it says Noah on that one.  
 003572	Gamemaster: And it's a different color.  
@@ -3959,7 +3959,7 @@
 003959	Lev: you  
 003960	Gamemaster: He very much cannot escape the compelled condition.  
 003961	Gamemaster: So he's going to keep attacking.  
-003962	Gamemaster: I need Henrik, Divex, and Dawn, because it doesn't apply to Levmir, to make fort saves.  
+003962	Gamemaster: I need Henrik, Divex, and Dawn, because it doesn't apply to Lev'Myr, to make fort saves.  
 003963	Henrik: Josh, before he does that... Well, as he does that, I'm going to take an attack.  
 003964	Gamemaster: Absolutely, it is a manipulate action.  
 003965	Henrik: Because I see the manipulate on there.  

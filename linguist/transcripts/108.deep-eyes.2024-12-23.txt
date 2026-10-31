@@ -684,7 +684,7 @@
 000684	Lev: That's funny.  
 000685	Gamemaster: Do we want to play some Pathfinder?  
 000686	Lev: Weird.  
-000687	Dawnmonger: Are we fighting Kharkov today?  
+000687	Dawnmonger: Are we fighting Karkov today?  
 000688	Dawnmonger: Is that happening?  
 000689	Gamemaster: Are we?  
 000690	Gamemaster: I mean, it would be useful if somebody could recap for me what happened last session.  
@@ -703,10 +703,10 @@
 000703	Divex: SeRaan left, and we left.  
 000704	Divex: And then Lev made a covenant with...  
 000705	Divex: a supposed-to-be-dead god thing.  
-000706	Divex: Anyways, now we're going to go ambush Kharkov.  
+000706	Divex: Anyways, now we're going to go ambush Karkov.  
 000707	Dawnmonger: you you  
 000708	Gamemaster: Thank you.  
-000709	Divex: Now we're going to ambush Kharkov.  
+000709	Divex: Now we're going to ambush Karkov.  
 000710	Divex: We need a card.  
 000711	Divex: We need a spirit print.  
 000712	Divex: We need to not be downfalled by the liars.  
@@ -1907,7 +1907,7 @@
 001907	Lev: The question would be more how to find it, or where is the other entrance.  
 001908	Divex: Wait, what is the backdoor?  
 001909	Lev: We don't know, but we know there is one.  
-001910	Divex: This is how Kharkov gets in?  
+001910	Divex: This is how Karkov gets in?  
 001911	Lev: Masha told us.  
 001912	Divex: Masha told us, okay.  
 001913	Lev: And told us she couldn't tell us more.  
@@ -2155,7 +2155,7 @@
 002155	Lev: All right.  
 002156	Lev: So we can – we have a day, right?  
 002157	Lev: So we can take a day to do that, and then we can –  
-002158	Lev: We can also tell the playwright to start moving, to get Kharkov to move it, right?  
+002158	Lev: We can also tell the playwright to start moving, to get Karkov to move it, right?  
 002159	Lev: The item.  
 002160	Henrik: Yeah, do we want to do that?  
 002161	Divex: Does a low card get you in everything above it?  
@@ -2169,7 +2169,7 @@
 002169	Dawnmonger: Thank you.  
 002170	Divex: Is it like 10 minutes or is it like a day?  
 002171	Divex: Okay.  
-002172	Gamemaster: What you were told is that the playwright can get Kharkov to move the firearm from inside the vault.  
+002172	Gamemaster: What you were told is that the playwright can get Karkov to move the firearm from inside the vault.  
 002173	Gamemaster: No other guarantees have been made.  
 002174	Lev: We don't know if it's going to even be in the fucking facility.  
 002175	Divex: That would be really annoying if he did the thing I just thought of and I'm not going to say it.  
@@ -2195,8 +2195,8 @@
 002195	Divex: Okay.  
 002196	Lev: If we go Violet, we will 100% guarantee if he puts on a different floor than the vault, we will have access.  
 002197	Lev: If it's on the floor.  
-002198	Divex: But Kharkov has ultraviolet among a select other few.  
-002199	Divex: If we tried to get someone of Kharkov's stature into a compromising... No, no, no.  
+002198	Divex: But Karkov has ultraviolet among a select other few.  
+002199	Divex: If we tried to get someone of Karkov's stature into a compromising... No, no, no.  
 002200	Lev: I don't want... I want one tier below.  
 002201	Lev: That's what I'm saying.  
 002202	Divex: This is just an example.  
@@ -2524,9 +2524,9 @@
 002524	Dawnmonger: I think that they have prepared extensively for us.  
 002525	Henrik: I think you just.  
 002526	Dawnmonger: They know this is the exact sort of thing we can do.  
-002527	Dawnmonger: I think going to Ilkhan is all bad if Kharkov's running around there.  
-002528	Dawnmonger: I think fighting Kharkov on Ilkhan is going to get us killed.  
-002529	Dawnmonger: I think fighting Kharkov here is a better choice.  
+002527	Dawnmonger: I think going to Ilkhan is all bad if Karkov's running around there.  
+002528	Dawnmonger: I think fighting Karkov on Ilkhan is going to get us killed.  
+002529	Dawnmonger: I think fighting Karkov here is a better choice.  
 002530	Henrik: I think that just the prospect of going to Ilkain and walking through the Ilkain city is more dangerous than being on the red level of RC3.  
 002531	Divex: Yeah.  
 002532	Lev: Alright, let's do it.  
@@ -2681,7 +2681,7 @@
 002681	Gamemaster: The doors...  
 002682	Gamemaster: Open.  
 002683	Gamemaster: And roll a perception check.  
-002684	Henrik: Kharkov is aiming the gun at you.  
+002684	Henrik: Karkov is aiming the gun at you.  
 002685	Lev: 43.  
 002686	Lev: And it could be a 45 if I could use my tasting for this.  
 002687	Gamemaster: 43.  
@@ -2690,7 +2690,7 @@
 002690	Lev: Like a snake.  
 002691	Divex: It runs.  
 002692	Gamemaster: If you would like to click the elevator button, you may do so.  
-002693	Divex: Runs up and licks Kharkov's face.  
+002693	Divex: Runs up and licks Karkov's face.  
 002694	Divex: He's here.  
 002695	Gamemaster: The door opens to reveal a linoleum floor, metallic-walled hallway that extends out directly in front of you, and then it splits off into a T. It says, in very big yellow lettering in front of you, Floor 1, Clearance Red.  
 002696	Dawnmonger: Thank you.  
@@ -3255,7 +3255,7 @@
 003255	Henrik: I should have picked the other one, darn it.  
 003256	Lev: This potion is gonna be so fucking funny if we can force someone to drink it.  
 003257	Dawnmonger: really funny, though.  
-003258	Dawnmonger: Even if we can't force someone to drink it, if Henrik just, like, lays on Kharkov and then drinks it... I can't drink it.  
+003258	Dawnmonger: Even if we can't force someone to drink it, if Henrik just, like, lays on Karkov and then drinks it... I can't drink it.  
 003259	Henrik: I tackle him.  
 003260	Gamemaster: Okay.  
 003261	Lev: With the spikes!  
@@ -3731,8 +3731,8 @@
 003731	Gamemaster: I remember one time I watched them feed it to a guy and then it like burst out of his stomach.  
 003732	Lev: Terrifying.  
 003733	Dawnmonger: Here's the plan, guys.  
-003734	Dawnmonger: Henrik jumps on Kharkov, drinks the amoeba potion, holds him down.  
-003735	Dawnmonger: We run over to Kharkov, take the Sitzmittel, smash it into his mouth.  
+003734	Dawnmonger: Henrik jumps on Karkov, drinks the amoeba potion, holds him down.  
+003735	Dawnmonger: We run over to Karkov, take the Sitzmittel, smash it into his mouth.  
 003736	Dawnmonger: End of game.  
 003737	Lev: Yeah.  
 003738	Henrik: He would find a way to make that benefit him.  
@@ -3920,9 +3920,9 @@
 003920	Gamemaster: Love.  
 003921	Divex: I would be like, yeah, I don't know.  
 003922	Divex: I mean, I don't know what motivation they would have.  
-003923	Divex: I mean, this could be some incursion by Kharkov.  
-003924	Divex: Kharkov's like, I'm getting a slipseer, I'm getting this, and then we're going to fucking grab some shit from this lab and get the fuck out because they want to kill me.  
-003925	Lev: Maybe Kharkov also accidentally fucked up.  
+003923	Divex: I mean, this could be some incursion by Karkov.  
+003924	Divex: Karkov's like, I'm getting a slipseer, I'm getting this, and then we're going to fucking grab some shit from this lab and get the fuck out because they want to kill me.  
+003925	Lev: Maybe Karkov also accidentally fucked up.  
 003926	Lev: They pushed this facility too far.  
 003927	Dawnmonger: Yeah.  
 003928	Divex: That could also be...  

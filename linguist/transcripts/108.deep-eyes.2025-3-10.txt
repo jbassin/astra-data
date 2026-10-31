@@ -499,8 +499,8 @@
 000499	Dawnmonger: Lost some cool powers, but still got a really sweet deal out of it.  
 000500	Dawnmonger: And then we were like, oh, we thought of some ideas for people to go chat with.  
 000501	Dawnmonger: Uh, we were like, oh, everyone we know who's powerful is probably somewhere in here.  
-000502	Dawnmonger: And then we're like, nah, let's go gank Imex.  
-000503	Dawnmonger: Uh, Imex tried to have a conversation, was like, how dare you do this to me?  
+000502	Dawnmonger: And then we're like, nah, let's go gank Immix.  
+000503	Dawnmonger: Uh, Immix tried to have a conversation, was like, how dare you do this to me?  
 000504	Gamemaster: yeah sure I just I sent a picture of the other time that you guys have interacted with an observer like this in the campaign just as a refresher because I had that image yeah  
 000505	Dawnmonger: And we were like, this, this seems kind of like a you problem.  
 000506	Dawnmonger: And now we're here.  
@@ -543,7 +543,7 @@
 000543	Gamemaster: Having never seen it.  
 000544	Gamemaster: I'm sure if I watched an episode, I would change my mind.  
 000545	Dawnmonger: I think it would reaffirm your opinions.  
-000546	Dawnmonger: Anyway, so now we're going to kill Imex, hopefully.  
+000546	Dawnmonger: Anyway, so now we're going to kill Immix, hopefully.  
 000547	Dawnmonger: Oh, also, we got a blessing from Tech.  
 000548	Gamemaster: Okay.  
 000549	Gamemaster: Sure.  
@@ -1124,7 +1124,7 @@
 001124	Gamemaster: You're confused.  
 001125	Gamemaster: You're off guard.  
 001126	Gamemaster: You have to attack things.  
-001127	Gamemaster: Because Henrik did actually move out of the way, I believe you can choose to attack Imex.  
+001127	Gamemaster: Because Henrik did actually move out of the way, I believe you can choose to attack Immix.  
 001128	Henrik: you you  
 001129	Dawnmonger: Uh, I will.  
 001130	Dawnmonger: Am I allowed to move?  
@@ -1451,7 +1451,7 @@
 001451	Divex: What's that?  
 001452	Lev: I don't see it.  
 001453	Lev: I rolled it.  
-001454	Gamemaster: underneath spell rack at the bottom that says Levmir I don't know why that's so small do I have a way of making it big?  
+001454	Gamemaster: underneath spell rack at the bottom that says Lev'Myr I don't know why that's so small do I have a way of making it big?  
 001455	Lev: It doesn't show me.  
 001456	Lev: Gotcha.  
 001457	Dawnmonger: Oh, that's kinda cool.  
@@ -1976,7 +1976,7 @@
 001976	Dawnmonger: No, they should have been like those ones that they used to do inaugurations and stuff.  
 001977	Lev: Yeah.  
 001978	Gamemaster: The mayors who are doing that are compensating for something.  
-001979	Gamemaster: Imex doesn't need that.  
+001979	Gamemaster: Immix doesn't need that.  
 001980	Henrik: They're compensating for their lack of divinity.  
 001981	Gamemaster: Yes, that's what they're compensating for.  
 001982	Gamemaster: He's got it.  
@@ -2322,7 +2322,7 @@
 002322	Dawnmonger: So I am still doing this.  
 002323	Dawnmonger: So I will first...  
 002324	Henrik: Bye.  
-002325	Dawnmonger: Run around this Imex.  
+002325	Dawnmonger: Run around this Immix.  
 002326	Dawnmonger: Just stand right next to him, but run around so that I'm flanking with Lev.  
 002327	Gamemaster: Okay.  
 002328	Gamemaster: Absolutely.  
@@ -2365,7 +2365,7 @@
 002365	Dawnmonger: I have one action left.  
 002366	Dawnmonger: I still have a Flourish I can use for something.  
 002367	Dawnmonger: I will use a Flourish to cast Temporal Twin.  
-002368	Dawnmonger: on Levmir, right next to me, flanking with Levmir.  
+002368	Dawnmonger: on Lev'Myr, right next to me, flanking with Lev'Myr.  
 002369	Lev: I can just make a strike?  
 002370	Dawnmonger: Yep, you've got to make a strike against this dude.  
 002371	Lev: Ooh.  
@@ -2411,7 +2411,7 @@
 002411	Gamemaster: Okay.  
 002412	Gamemaster: Absolutely.  
 002413	Gamemaster: I have a question for all of you.  
-002414	Gamemaster: Can you see Imex the World Shaper right now?  
+002414	Gamemaster: Can you see Immix the World Shaper right now?  
 002415	Divex: Yeah.  
 002416	Henrik: No, he's gone.  
 002417	Divex: Oh no.  
@@ -2420,7 +2420,7 @@
 002420	Lev: I don't like that question.  
 002421	Dawnmonger: I don't like that.  
 002422	Dawnmonger: You just asked that.  
-002423	Gamemaster: Imex, can you see him sometimes?  
+002423	Gamemaster: Immix, can you see him sometimes?  
 002424	Divex: No.  
 002425	Gamemaster: Okay.  
 002426	Gamemaster: Great.  
@@ -2494,7 +2494,7 @@
 002494	Henrik: Oh, that's so sad.  
 002495	Gamemaster: I apologize.  
 002496	Lev: That guy sucks.  
-002497	Gamemaster: It's Imex.  
+002497	Gamemaster: It's Immix.  
 002498	Gamemaster: He takes 37 damage.  
 002499	Lev: That's the part that sucks.  
 002500	Lev: That one right there.  
@@ -2707,7 +2707,7 @@
 002707	Dawnmonger: Now he's got it.  
 002708	Henrik: Yes.  
 002709	Henrik: The doctor is in.  
-002710	Henrik: I will make a doctor's visitation in which I stride to this point and then make a treat wounds battle medicine at DC 40 for my ally Levmir.  
+002710	Henrik: I will make a doctor's visitation in which I stride to this point and then make a treat wounds battle medicine at DC 40 for my ally Lev'Myr.  
 002711	Lev: Yes.  
 002712	Lev: Oh, TC40 is scary.  
 002713	Henrik: Well I have I have a plus 40.  
@@ -2935,8 +2935,8 @@
 002935	Henrik: you  
 002936	Divex: Let's see.  
 002937	Gamemaster: So you're going to need to make the IMAX is standing right next to them.  
-002938	Lev: You ever want to do that on Levmir?  
-002939	Lev: Levmir's been a real pain in the tushy.  
+002938	Lev: You ever want to do that on Lev'Myr?  
+002939	Lev: Lev'Myr's been a real pain in the tushy.  
 002940	Divex: Hold on, how does this work?  
 002941	Divex: When a spell targets you, you can spend a reaction to attempt to reflect it.  
 002942	Divex: So it's a counteract check?  
@@ -3138,7 +3138,7 @@
 003138	Dawnmonger: Great.  
 003139	Dawnmonger: That was my first action.  
 003140	Dawnmonger: I will say, you're gonna die and no one's gonna remember you.  
-003141	Dawnmonger: And I will use that as the help action to give Levmir advantage on his next attack as his full advantage.  
+003141	Dawnmonger: And I will use that as the help action to give Lev'Myr advantage on his next attack as his full advantage.  
 003142	Lev: Yay.  
 003143	Gamemaster: Okay, absolutely.  
 003144	Dawnmonger: That is one action.  
@@ -3334,7 +3334,7 @@
 003334	Gamemaster: What was the... I had a spell I was going to cast.  
 003335	Gamemaster: Now I can't.  
 003336	Gamemaster: What does this do?  
-003337	Dawnmonger: He's gonna kill Imex.  
+003337	Dawnmonger: He's gonna kill Immix.  
 003338	Gamemaster: He is a mix.  
 003339	Gamemaster: That's suicide.  
 003340	Gamemaster: That's illegal.  
@@ -3638,7 +3638,7 @@
 003638	Divex: Oh.  
 003639	Divex: Oh.  
 003640	Divex: More.  
-003641	Gamemaster: As the combined Imex on its last legs summons the full strength and recombines into a single entity once again.  
+003641	Gamemaster: As the combined Immix on its last legs summons the full strength and recombines into a single entity once again.  
 003642	Lev: What?  
 003643	Dawnmonger: Ugh.  
 003644	Gamemaster: Okay, good.  
@@ -3646,8 +3646,8 @@
 003646	Lev: I see it now.  
 003647	Divex: Yeah.  
 003648	Gamemaster: Great.  
-003649	Gamemaster: Uh, so you watch as the fully formed Imex pulls up to the side of this, um, this stage.  
-003650	Gamemaster: For the purposes of targeting Imex, uh, you can select the Imex at the top, uh, like on the crown as the thing you're hitting, but you can target like any of the hands on the corners of the map or the central body.  
+003649	Gamemaster: Uh, so you watch as the fully formed Immix pulls up to the side of this, um, this stage.  
+003650	Gamemaster: For the purposes of targeting Immix, uh, you can select the Immix at the top, uh, like on the crown as the thing you're hitting, but you can target like any of the hands on the corners of the map or the central body.  
 003651	Gamemaster: Order the fingers, but those do half damage and won't take AOE damage.  
 003652	Gamemaster: Just, you know, letting you know.  
 003653	Gamemaster: It's a massive creature, so there are a lot of points to hit on it.  
@@ -3659,7 +3659,7 @@
 003659	Gamemaster: That's fine.  
 003660	Henrik: How far?  
 003661	Henrik: Divex is way too far.  
-003662	Henrik: I'm going to do another Doctor's Visitation on Levmir.  
+003662	Henrik: I'm going to do another Doctor's Visitation on Lev'Myr.  
 003663	Lev: Oh, thank god.  
 003664	Gamemaster: okay okay  
 003665	Lev: I'm about to go do something stupid.  
@@ -4381,7 +4381,7 @@
 004381	Gamemaster: How do you want to do this?  
 004382	Lev: Lev is going to... While he sees him trying to heal himself and use all of his arms, Lev is going to look down at his blade, have a little self-reflection, then turn his wrist over and see that badge of Sedecium and is like, Guide me, Tech!  
 004383	Lev: And then he starts hacking away at his wings, and he wants to cut away the dude's wings on top.  
-004384	Gamemaster: absolutely and with that you for good this time kill Imex you um you stab right into his head you watch as the whole body goes limp and the larger body you're on  
+004384	Gamemaster: absolutely and with that you for good this time kill Immix you um you stab right into his head you watch as the whole body goes limp and the larger body you're on  
 004385	Lev: And then stab him in the head.  
 004386	Henrik: you  
 004387	Gamemaster: Falls forward.  

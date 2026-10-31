@@ -3,28 +3,28 @@
   "show": "deep-eyes",
   "summary": {
     "title": "The Longest Night: Broadcast, Bargains, and the Flight to Sarengrad",
-    "synopsis": "After crafting a Wand of Raise Dead with Damien the Forge and loading Divex's shadow with 9,000 clockwork dials, the party takes a rest — only to be visited by Insuperlex the bifurcated man, who broadcasts their existence, location, and capabilities to every enemy across Althane via Immix's television show. Fleeing Oresk through the snow, Levmir earns week-long scrying immunity from a failed scry by Slipseer, the party contacts the Broker through SeRaan, and then Levmir strikes a Bargain with Nox, the Thessian of Night — fusing black silk to his arm and gaining a veil of protection, at the cost of his companions suffering devastating mental trauma from witnessing the entity.",
+    "synopsis": "After crafting a Wand of Raise Dead with Damien the Forge and loading Divex's shadow with 9,000 clockwork dials, the party takes a rest — only to be visited by Insuperlex the bifurcated man, who broadcasts their existence, location, and capabilities to every enemy across Althane via Immix's television show. Fleeing Oresk through the snow, Lev'Myr earns week-long scrying immunity from a failed scry by Slipseer, the party contacts the Broker through SeRaan, and then Lev'Myr strikes a Bargain with Nox, the Thessian of Night — fusing black silk to his arm and gaining a veil of protection, at the cost of his companions suffering devastating mental trauma from witnessing the entity.",
     "key_beats": [
-      "The party decides what Damien should create with its 18 levels of crafting power, settling on a Wand of Raise Dead (8th rank, level 17 item). Don successfully reverse-engineers it to obtain the formula, and Damien also crafts Fortune's Coins and disguise prosthetics for Levmir.",
+      "The party decides what Damien should create with its 18 levels of crafting power, settling on a Wand of Raise Dead (8th rank, level 17 item). Don successfully reverse-engineers it to obtain the formula, and Damien also crafts Fortune's Coins and disguise prosthetics for Lev'Myr.",
       "Divex stuffs his extradimensional shadow with 9,000 clockwork dials — worth 180,000 gold — turning himself into a bulk trader.",
-      "During Levmir's watch, Insuperlex (the bifurcated man) appears, unhappy the party obtained the god-killing needle outside the bounds of the story. He triggers a CRT-television broadcast hosted by Immix that reveals the party's identities, location, and capabilities to enemies across Althane — including Kharkov, Slipseer, Rampart, the Broker, Ezrik Oreskalka, the Crystal Point Lattice, a giant brain with four figures, and Nox.",
+      "During Lev'Myr's watch, Insuperlex (the bifurcated man) appears, unhappy the party obtained the god-killing needle outside the bounds of the story. He triggers a CRT-television broadcast hosted by Immix that reveals the party's identities, location, and capabilities to enemies across Althane — including Karkov, Slipseer, Rampart, the Broker, Ezrik Oreskalka, the Crystal Point Lattice, a Giant brain with four figures, and Nox.",
       "Insuperlex grants a boon: the party may broadcast a single message to all of Althane. They bank it for later use.",
-      "The party flees Oresk through deep snow. Levmir flies with bat wings while carrying the others in the orb, disguised as Oreskian soldiers.",
-      "Slipseer (Kharkov's lieutenant) attempts to scry on Levmir; Lev critically succeeds on his Will save thanks to Resolve and Greater Resolve, gaining immunity to scrying for a week and a glimpse of Slipseer.",
+      "The party flees Oresk through deep snow. Lev'Myr flies with bat wings while carrying the others in the orb, disguised as Oreskian soldiers.",
+      "Slipseer (Karkov's lieutenant) attempts to scry on Lev'Myr; Lev critically succeeds on his Will save thanks to Resolve and Greater Resolve, gaining immunity to scrying for a week and a glimpse of Slipseer.",
       "Divex uses a crystal ball to contact SeRaan, learning the Broker recalled him because the party's exposure triggered immediate scrys. The Broker advises them to hide and notes scrying reveals surroundings but not exact coordinates.",
-      "The party encounters Nox, the Thessian of Night — a massive entity of black silk. Levmir volunteers to pay the price, offering 'everything.' He undergoes a sensory-deprivation experience and Nox fuses black silk to his arm; his blood sword now flows with black ichor and silk, and the party gains Veil of Primacy (DC 45 detection protection) while near Lev.",
+      "The party encounters Nox, the Thessian of Night — a massive entity of black silk. Lev'Myr volunteers to pay the price, offering 'everything.' He undergoes a sensory-deprivation experience and Nox fuses black silk to his arm; his blood sword now flows with black ichor and silk, and the party gains Veil of Primacy (DC 45 detection protection) while near Lev.",
       "Don, Henrik, and Divex suffer mental damage from witnessing Nox: Don crit succeeds (unaffected), Henrik fails (71 damage, drained 2), Divex critically fails (142 damage, drained 2, doomed increased to 2).",
       "A large First House patrol construct with a floating ghost-light passes near their camp; the party avoids it by floating up in the orb but abandons their explorer's yurt. They cross the northern river onto the mainland and continue toward Sarengrad as dawn breaks, still roughly a day or two from the city."
     ],
     "characters_present": [
-      "Levmir",
+      "Lev'Myr",
       "Divex",
       "Henrik",
       "Don",
       "Damien (the Forge)",
       "Insuperlex (the bifurcated man)",
       "Immix (TV host)",
-      "Kharkov",
+      "Karkov",
       "Slipseer",
       "Rampart",
       "SeRaan",
@@ -44,7 +44,7 @@
       "The Left (party)",
       "Golden Sparrows",
       "The Menhir / Narrative",
-      "First House (Kharkov's forces)",
+      "First House (Karkov's forces)",
       "The Cabal (Ezrik Oreskalka)",
       "The Broker's network",
       "The Thessians (Nox)"
@@ -54,11 +54,11 @@
       "God-killing needle (relocated to Divex's shadow)",
       "Fortune's Coins (level 8, crafted by Damien)",
       "9,000 clockwork dials (Divex's shadow)",
-      "Levmir's silk-wrapped blood sword (black ichar and silk, from Nox's Bargain)",
-      "Silk fused to Levmir's arm (Nox deal mark)",
+      "Lev'Myr's silk-wrapped blood sword (black ichar and silk, from Nox's Bargain)",
+      "Silk fused to Lev'Myr's arm (Nox deal mark)",
       "Crystal ball (used to contact SeRaan/Broker)",
       "Explorer's yurt (abandoned in the snow)"
     ],
-    "cliffhanger": "The party flies low across the snowy plains toward Sarengrad — headquarters of the Golden Sparrows and current seat of Kharkov's First House operation — knowing every major power on Althane has just received a dossier on their identities, location, and capabilities. Divex is battered from the Nox encounter, the god-killing needle rides in Divex's shadow, and the party is roughly a day or two from the city, beelining straight into enemy territory."
+    "cliffhanger": "The party flies low across the snowy plains toward Sarengrad — headquarters of the Golden Sparrows and current seat of Karkov's First House operation — knowing every major power on Althane has just received a dossier on their identities, location, and capabilities. Divex is battered from the Nox encounter, the god-killing needle rides in Divex's shadow, and the party is roughly a day or two from the city, beelining straight into enemy territory."
   }
 }

@@ -3,9 +3,9 @@
   "show": "deep-eyes",
   "summary": {
     "title": "Curtain Call — The Fall of Mr. Feep and the Road to the Deep",
-    "synopsis": "The party finishes their desperate fight against Mr. Feep, with Dawn delivering the killing blow via a humble Wand of Force Barrage. Feep's death rips open a tear into the Slip, drawing the attention of a horrifying mass of screaming golden figures, but the Broker (Tech) arrives to seal the breach — at the cost of being wiped from everyone's memory by the Echo Fragment. The party then travels to Fatcock City, contacts the freed Playwright, and ascends to the 13th Realm to parley with Admiral Udon, who refuses to abandon the cycles and reveals the Deep is already trying to break into the Lighthouse — with a corrupted, fungal Kharkov at its door.",
+    "synopsis": "The party finishes their desperate fight against Mr. Feep, with Dawn delivering the killing blow via a humble Wand of Force Barrage. Feep's death rips open a tear into the Slip, drawing the attention of a horrifying mass of screaming golden figures, but the Broker (Tech) arrives to seal the breach — at the cost of being wiped from everyone's memory by the Echo Fragment. The party then travels to Fatcock City, contacts the freed Playwright, and ascends to the 13th Realm to parley with Admiral Udon, who refuses to abandon the cycles and reveals the Deep is already trying to break into the Lighthouse — with a corrupted, fungal Karkov at its door.",
     "key_beats": [
-      "Fight resumes at top of initiative; Feep casts Weapon of Judgment, summoning a giant incorporeal sword that punishes Henrik if he takes hostile actions.",
+      "Fight resumes at top of initiative; Feep casts Weapon of Judgment, summoning a Giant incorporeal sword that punishes Henrik if he takes hostile actions.",
       "Lev uses Sever Magic to counteract the Weapon of Judgment, freeing Henrik to attack. Henrik crits Feep with a Warp Glass Spike, applying a Warp Wave that confuses Feep and grants him temporary HP.",
       "Feep, confused and slowed, flails at Henrik and misses three times; sonic damage eventually breaks his confusion.",
       "Dawn tries to cast Clockwork Celerity but Rowan's attack of opportunity critically hits, disrupting the spell. Dawn falls back on a third-rank Wand of Force Barrage, firing four force shards that kill Mr. Feep — 'You really were always nothing.'",
@@ -18,9 +18,9 @@
       "Via the Playwright, they teleport to the 13th Realm. A lieutenant escorts them through the station — past repair crews, canteens, and an observatory overlooking all of Althane — to meet Admiral Udon, a purple-glowing orb.",
       "Lev makes a strong diplomatic impression, then the party delivers a 'PowerPoint' presentation arguing for compounding knowledge over cyclical resets, with extremely high skill checks (60, 64, 54). Udon is impressed but unmoved: the cycles produced the party, proving they work. The win condition is ascending and destroying the Lighthouse.",
       "Udon reveals that the people of Althane are 'toys' and 13th Realm staff are recycled souls — not 'real people.' He interprets Henrik's divine-transfer ability as Henrik volunteering to be studied. He doesn't know the party possesses the golden needle.",
-      "The party asks to spy on Kharkov. The 13th Realm physically repositions over the City in Yellow. They see the Lighthouse surrounded by fungal tendrils, with a corrupted, myconid-like Kharkov (missing lower half, three fungal legs, pallid yellow skin, mycelial skull growth) mindlessly trying to break in.",
+      "The party asks to spy on Karkov. The 13th Realm physically repositions over the City in Yellow. They see the Lighthouse surrounded by fungal tendrils, with a corrupted, myconid-like Karkov (missing lower half, three fungal legs, pallid yellow skin, mycelial skull growth) mindlessly trying to break in.",
       "Everyone makes Fortitude saves against the Deep's awareness. Dawn (35) and Divex (36) fail; Henrik and Lev resist. Dawn and Divex attempt Will saves to extract information from the mental connection. Dawn fails and falls unconscious. Divex critically succeeds (via Resolve) and learns the Deep's intent: to reshape the party into Thessians and rebuild his empire, offering them titles.",
-      "The session ends with the party planning to needle the Deep (stripping its divinity), then return to seize the 13th Realm. They also learn Kharkov's stored soul has turned yellow from the Deep's corruption."
+      "The session ends with the party planning to needle the Deep (stripping its divinity), then return to seize the 13th Realm. They also learn Karkov's stored soul has turned yellow from the Deep's corruption."
     ],
     "characters_present": [
       "Lev",
@@ -33,7 +33,7 @@
       "Marzo",
       "The Playwright",
       "Admiral Udon",
-      "Kharkov",
+      "Karkov",
       "13th Realm Lieutenant",
       "Captain/Lieutenant (escort)"
     ],
@@ -68,6 +68,6 @@
       "Spell Scrolls (various)",
       "Coin of the Thessians"
     ],
-    "cliffhanger": "Dawn lies unconscious from the Deep's mental assault, Kharkov is corrupted and clawing at the Lighthouse door, and the party has resolved to needle the Deep to strip its divinity before returning to seize the 13th Realm — all while Udon remains unaware of their golden needle trump card."
+    "cliffhanger": "Dawn lies unconscious from the Deep's mental assault, Karkov is corrupted and clawing at the Lighthouse door, and the party has resolved to needle the Deep to strip its divinity before returning to seize the 13th Realm — all while Udon remains unaware of their golden needle trump card."
   }
 }

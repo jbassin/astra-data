@@ -558,7 +558,7 @@
 000558	Dawnmonger: I was like, oh, that's pretty cool.  
 000559	Dawnmonger: He has this version.  
 000560	Dawnmonger: And I remember having that thought.  
-000561	Gamemaster: I really like 100 Hands Imex guy.  
+000561	Gamemaster: I really like 100 Hands Immix guy.  
 000562	Gamemaster: He's the fun one.  
 000563	Gamemaster: For some reason, there just aren't many battle maps that involve just like a really big scary looking guy.  
 000564	Gamemaster: I know it's usually because the idea is that you're supposed to put your own big scary looking guy on top of there, but there's nothing like just having the big scary looking guy on the map, you know?  
@@ -580,7 +580,7 @@
 000580	Gamemaster: It's not relevant anymore.  
 000581	Lev: Immix.  
 000582	Gamemaster: Thanks, thank you.  
-000583	Gamemaster: What the lighthouse has built to contain Imex had he actually ascended, and then he didn't, and then you made him, and you killed him anyway.  
+000583	Gamemaster: What the lighthouse has built to contain Immix had he actually ascended, and then he didn't, and then you made him, and you killed him anyway.  
 000584	Gamemaster: Which means, you know, gods zero weft two.  
 000585	Gamemaster: So, good for you.  
 000586	Gamemaster: Yeah, so we ended the previous session as the body bodies of Immix kind of collapsed in on themselves after a good murder.  
@@ -680,9 +680,9 @@
 000680	Gamemaster: The Feep started out as a mortal and needs mortal energy.  
 000681	Gamemaster: So he needs somebody to go and turn the divine energy into mortal energy so that he can then use it, which is his whole deal of getting all of you and everybody else on Althane to take power from the Thessians, do their own mortal, convert it into something they can use, and then when they cast magic and all of that stuff, it gets let back out into the air where he can then take it.  
 000682	Gamemaster: So...  
-000683	Gamemaster: When Imex died just now, all of his divine energy kind of got dispersed in this prison because it is limited from the outside world.  
+000683	Gamemaster: When Immix died just now, all of his divine energy kind of got dispersed in this prison because it is limited from the outside world.  
 000684	Dawnmonger: Bye.  
-000685	Gamemaster: So in theory, you could or one could spend time here and collect all of it back up and either remake Imex or just take the energy and move on.  
+000685	Gamemaster: So in theory, you could or one could spend time here and collect all of it back up and either remake Immix or just take the energy and move on.  
 000686	Gamemaster: But that is true of all of the...  
 000687	Gamemaster: areas in which you've been in the lighthouse like when you killed savik you took his divine energy you absorbed it um because it couldn't go anywhere yes  
 000688	Henrik: He'll remain trapped, won't he?  
@@ -1459,10 +1459,10 @@
 001459	Lev: So, question for Josh, because this happened in-game only like two days ago.  
 001460	Lev: We were originally told that we could make a collateral trade, but did we need to kill Immix first, or were we able to kill Immix to not do a collateral trade?  
 001461	Gamemaster: So what you were told is that originally it was three of them.  
-001462	Gamemaster: Imex took one of their spots and then Imex left.  
+001462	Gamemaster: Immix took one of their spots and then Immix left.  
 001463	Gamemaster: And they said that they couldn't give up any more spots for people to watch because they already lost one and they didn't trust that you guys would just run off as well.  
 001464	Lev: We show up.  
-001465	Gamemaster: And then you said, can we go kill Imex?  
+001465	Gamemaster: And then you said, can we go kill Immix?  
 001466	Gamemaster: Is that all right?  
 001467	Gamemaster: And they said that would mean that a spot opens up.  
 001468	Gamemaster: So, as presented to you, there is now a spot available for somebody to go watch because, you know, whoever used to be there is very dead now.  
@@ -2683,7 +2683,7 @@
 002683	Gamemaster: We hadn't had the time to hold a funeral for you yet, so that saves me a bit of grief.  
 002684	Henrik: there you go yeah we kind of pulled it off with the whole car cop thing  
 002685	Dawnmonger: Oh.  
-002686	Gamemaster: Well, we heard about the whole Kharkov thing.  
+002686	Gamemaster: Well, we heard about the whole Karkov thing.  
 002687	Gamemaster: I don't know if you've been in the city yet, but there is a month-long celebration of life happening right now.  
 002688	Gamemaster: The city is officially grieving because its hero and, you know...  
 002689	Gamemaster: Somebody particularly high up in the bureaucracy has passed away.  
@@ -2725,7 +2725,7 @@
 002725	Gamemaster: It will...  
 002726	Gamemaster: It will take some time for them to replenish with members of the First House from Kirov.  
 002727	Gamemaster: So a little bit of reprieve, at least.  
-002728	Henrik: Who is in charge now that Kharkov's gone?  
+002728	Henrik: Who is in charge now that Karkov's gone?  
 002729	Gamemaster: Interim leader is one... Shit, I do actually have this.  
 002730	Gamemaster: Give me a second.  
 002731	Lev: Are we about to do the funniest thing ever?  
@@ -2766,19 +2766,19 @@
 002766	Gamemaster: You have become collectively more cryptic since...  
 002767	Dawnmonger: Have we?  
 002768	Gamemaster: Yes.  
-002769	Lev: Oh, I hand him the locket from Kharkov's possessions.  
+002769	Lev: Oh, I hand him the locket from Karkov's possessions.  
 002770	Lev: Do you want this?  
 002771	Lev: I don't know why I took it.  
 002772	Lev: I'm going to be honest with you.  
 002773	Gamemaster: Sure, I'm sure we can find the use for it.  
 002774	Lev: Yeah, yeah.  
-002775	Gamemaster: And he will take... This is the locket with Kharkov and his two kids, right?  
+002775	Gamemaster: And he will take... This is the locket with Karkov and his two kids, right?  
 002776	Gamemaster: Okay, sure.  
 002777	Gamemaster: A little strange to be carrying around a memento of the three people you murdered.  
 002778	Gamemaster: But, sure.  
 002779	Dawnmonger: love.  
 002780	Lev: Thank you.  
-002781	Henrik: That's Levmir, yeah.  
+002781	Henrik: That's Lev'Myr, yeah.  
 002782	Henrik: I'd like to go to the clinic.  
 002783	Gamemaster: Okay.  
 002784	Henrik: And I'd like to take someone who is more recently infected.  
@@ -2950,9 +2950,9 @@
 002950	Henrik: Who do you think... So you think there's someone that would be controlling them?  
 002951	Lev: That's a way to get around the mind control.  
 002952	Lev: You just literally force all of them to be thralls.  
-002953	Henrik: Because it wasn't Kharkov.  
+002953	Henrik: Because it wasn't Karkov.  
 002954	Lev: Yeah, so... Yeah, so they're...  
-002955	Henrik: Kharkov didn't seem vampiric at all.  
+002955	Henrik: Karkov didn't seem vampiric at all.  
 002956	Henrik: Well, he didn't have Nox, right?  
 002957	Henrik: He was a little Nox-y.  
 002958	Lev: Yeah, he took the blessing.  
@@ -4113,7 +4113,7 @@
 004113	Lev: The enemy can have 3,000 health because if any guy goes down, there's no wounded or dying condition.  
 004114	Dawnmonger: Yeah.  
 004115	Gamemaster: But yeah, no, I think just the four of you going in for the fight will be fine.  
-004116	Gamemaster: It should be cinematic, you know, and I feel like it'll be less cinematic if it's the four of you, and then also Lacey in the background, and like, Oxus the professor from Illyara, and... And who else?  
+004116	Gamemaster: It should be cinematic, you know, and I feel like it'll be less cinematic if it's the four of you, and then also Lacey in the background, and like, Oxas the professor from Illyara, and... And who else?  
 004117	Divex: We'd really just be risking their lives.  
 004118	Henrik: And Roy Tech.  
 004119	Gamemaster: Oh yeah, and Roychek, the very old gnome.  

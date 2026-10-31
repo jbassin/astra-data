@@ -535,12 +535,12 @@
 000535	Lev: Slightly incorrect, but probably would have got us a little much closer if we didn't just do that.  
 000536	Lev: And we then decide we're going to follow the violet fellow to the other where he was going.  
 000537	Gamemaster: Just know that.  
-000538	Lev: Before we do that, we got kidnapped by Aspect of Imex.  
+000538	Lev: Before we do that, we got kidnapped by Aspect of Immix.  
 000539	Lev: We threatened to needle him, realized he lost his divinity because he just gave it all away.  
 000540	Lev: We also figured out he just backstabbed one of his good friends, also for the Feep.  
-000541	Lev: We also found out that Kharkov is hiding like a little bitch.  
+000541	Lev: We also found out that Karkov is hiding like a little bitch.  
 000542	Lev: on the last floor, scared that the Deep's gonna invade and take him over and kill everyone.  
-000543	Lev: To when Dawn was like, hey, we might need to actually work with Kharkov.  
+000543	Lev: To when Dawn was like, hey, we might need to actually work with Karkov.  
 000544	Lev: And then Dive actually was like, fuck no, we'll kill him, the Deep's still a bitch, we'll go kill the Deep too, and then we'll handle everything else.  
 000545	Lev: And then we teleported there, and we got jumped by some dead bookie things.  
 000546	Lev: And Lev was very skillful in battle.  
@@ -548,7 +548,7 @@
 000548	Gamemaster: I mean, mostly good.  
 000549	Gamemaster: I think a few comments.  
 000550	Lev: Okay.  
-000551	Gamemaster: First off, I did want to note, at no point was Kharkov described as scared and slash or hiding.  
+000551	Gamemaster: First off, I did want to note, at no point was Karkov described as scared and slash or hiding.  
 000552	Gamemaster: He was preparing, which are different things.  
 000553	Henrik: It did seem like he was described as being in crisis.  
 000554	Dawnmonger: When we say we're preparing, it means we're scared and hiding, so we just assumed.  
@@ -1972,7 +1972,7 @@
 001972	Dawnmonger: Uh... Uh...  
 001973	Lev: It's about Slackjohn.  
 001974	Divex: Hold on.  
-001975	Dawnmonger: Do we want to go down to the fifth floor or do we want to go straight to Kharkov and deal with that?  
+001975	Dawnmonger: Do we want to go down to the fifth floor or do we want to go straight to Karkov and deal with that?  
 001976	Dawnmonger: It was a short sword.  
 001977	Divex: Dimex is going to take 18 seconds.  
 001978	Divex: I think it's shorter than 18 seconds.  
@@ -2118,7 +2118,7 @@
 002118	Divex: Look at him.  
 002119	Gamemaster: No, there's actually, it's first house trading cards.  
 002120	Divex: Oh.  
-002121	Gamemaster: Yeah, if you get like a holographic Kharkov, that's not bad.  
+002121	Gamemaster: Yeah, if you get like a holographic Karkov, that's not bad.  
 002122	Dawnmonger: Okay.  
 002123	Gamemaster: That's worth money on eBay.  
 002124	Divex: Oh, no, don't crease it.  
@@ -2138,14 +2138,14 @@
 002138	Lev: Do we have access to the sixth floor to skip it or no?  
 002139	Divex: We could go to the fourth floor.  
 002140	Gamemaster: With the violet key card, you can go straight to the sixth floor.  
-002141	Lev: And that's where Kharkov is.  
+002141	Lev: And that's where Karkov is.  
 002142	Gamemaster: Correct.  
 002143	Lev: OK.  
 002144	Divex: We could also go to the... Did that mean no fourth floor?  
 002145	Lev: And is that where the vault is?  
 002146	Gamemaster: Yeah.  
 002147	Lev: So we do need this gun, gentlemen.  
-002148	Dawnmonger: I think we should just go straight for Kharkov.  
+002148	Dawnmonger: I think we should just go straight for Karkov.  
 002149	Lev: I know we're having a blast, but we do need to get that gun.  
 002150	Henrik: Oh, wait, before we go.  
 002151	Lev: Pun intended.  
@@ -2325,7 +2325,7 @@
 002325	Gamemaster: You can't do that.  
 002326	Dawnmonger: That's absurd.  
 002327	Lev: No, no, personal antithesis wouldn't work.  
-002328	Lev: This is Levmir hoping that there's some Duskwalker weakness.  
+002328	Lev: This is Lev'Myr hoping that there's some Duskwalker weakness.  
 002329	Henrik: Guys, Lev's a racist.  
 002330	Lev: I know there isn't.  
 002331	Gamemaster: Okay, yeah.  
@@ -2436,7 +2436,7 @@
 002436	Gamemaster: And also, to clarify, it's not an instantaneous thing.  
 002437	Divex: Yeah.  
 002438	Gamemaster: It's not like you hit the button and then it's moved.  
-002439	Gamemaster: Kharkov has to physically get to the gun, pick it up, and move it somewhere, which will take some amount of time.  
+002439	Gamemaster: Karkov has to physically get to the gun, pick it up, and move it somewhere, which will take some amount of time.  
 002440	Lev: I think we missed the boat on that.  
 002441	Divex: What?  
 002442	Divex: Why?  
@@ -2463,7 +2463,7 @@
 002463	Gamemaster: You know it's an artifact, so the matchstick that you got from Masha would not work on damage from that weapon in particular.  
 002464	Lev: Or...  
 002465	Divex: oh yeah okay  
-002466	Henrik: My opinion is that it is probably safer to take out Kharkov and then try to break into the vault.  
+002466	Henrik: My opinion is that it is probably safer to take out Karkov and then try to break into the vault.  
 002467	Henrik: At this point.  
 002468	Dawnmonger: I think we just got to go.  
 002469	Lev: I guess we could try to have him move it.  
@@ -4689,7 +4689,7 @@
 004689	Dawnmonger: Yeah!  
 004690	Divex: Yes.  
 004691	Dawnmonger: Yeah.  
-004692	Dawnmonger: I don't know how we're going to go from this fight to possibly another fight with Kharkov and then maybe a god.  
+004692	Dawnmonger: I don't know how we're going to go from this fight to possibly another fight with Karkov and then maybe a god.  
 004693	Gamemaster: Well, don't worry, because you guys haven't thought about escape route at all, either.  
 004694	Gamemaster: So, you know, that's fine.  
 004695	Dawnmonger: Kali and Tenno are awesome.  
@@ -4711,7 +4711,7 @@
 004711	Dawnmonger: We just need to preserve his brain.  
 004712	Lev: Yeah.  
 004713	Dawnmonger: Easy cheat.  
-004714	Gamemaster: You just need to go to a world where Kharkov is not looking too good, or he's at least below max hit points, and then you're set.  
+004714	Gamemaster: You just need to go to a world where Karkov is not looking too good, or he's at least below max hit points, and then you're set.  
 004715	Henrik: Pathfinder is easy.  
 004716	Henrik: You just need the cursor.  
 004717	Gamemaster: Yeah.  

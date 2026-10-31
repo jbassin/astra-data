@@ -156,7 +156,7 @@
 000156	Gamemaster: I'm going to run some query, I think, to evict Vilksnake forever, probably.  
 000157	Divex: That's okay.  
 000158	Gamemaster: What?  
-000159	Lev: Do you mind throwing Levmir into the Bitly map when you also get a chance so I can add some items?  
+000159	Lev: Do you mind throwing Lev'Myr into the Bitly map when you also get a chance so I can add some items?  
 000160	Lev: Foundry, so I can add some.  
 000161	Gamemaster: What do you mean, throw him into... What do you mean by that?  
 000162	Lev: Lev has Foundry, so I can add items to it.  
@@ -999,7 +999,7 @@
 000999	Lev: So I definitely feel like we probably need to get our hands on it.  
 001000	Dawnmonger: Thank you.  
 001001	Lev: One, to help with your current of all the plague.  
-001002	Lev: And two, it is probably the best way to beat Kharkov, in my opinion.  
+001002	Lev: And two, it is probably the best way to beat Karkov, in my opinion.  
 001003	Lev: So we could swallow some Umbrite.  
 001004	Lev: Maybe you guys  
 001005	Lev: Two at the same time as you swallow the other Thracian Bloods, and then you know, bada bing, bada boom, we have all those powers.  
@@ -3200,7 +3200,7 @@
 003200	Gamemaster: Is that the end of your turn, then?  
 003201	Divex: Yeah.  
 003202	Gamemaster: Henrik.  
-003203	Henrik: First, I'm going to do Battle Medicine on Levmir.  
+003203	Henrik: First, I'm going to do Battle Medicine on Lev'Myr.  
 003204	Lev: Perfect.  
 003205	Henrik: DC 30.  
 003206	Henrik: Um...  
@@ -3993,7 +3993,7 @@
 003993	Gamemaster: He is the Commandant.  
 003994	Gamemaster: He's the head of Oresk.  
 003995	Dawnmonger: We don't know.  
-003996	Gamemaster: Kharkov is a false Hydra.  
+003996	Gamemaster: Karkov is a false Hydra.  
 003997	Divex: The worst timeline?  
 003998	Lev: Yeah, that's a really good session.  
 003999	Gamemaster: You guys are just... I like doing a good, just complete divergence from the actual plot of the game.  

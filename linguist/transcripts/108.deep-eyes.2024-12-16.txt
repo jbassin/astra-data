@@ -600,7 +600,7 @@
 000600	Gamemaster: now just crossed onto the northern half of Oresk.  
 000601	Gamemaster: And so I think at this point, what would be useful for me is to know, what are you guys doing?  
 000602	Henrik: We're still several days of travel away, aren't we?  
-000603	Dawnmonger: Are we just booking it for Kharkov's place and going?  
+000603	Dawnmonger: Are we just booking it for Karkov's place and going?  
 000604	Lev: Yeah, they were just going to start a grab, right?  
 000605	Gamemaster: You're, uh, assuming you keep this pace, and that you, like, rest in the orb, taking shifts, which I've already established that you can do to my own detriment, um, you can make it to Sarengrad with 48 hours straight of travel.  
 000606	Dawnmonger: That's two days.  
@@ -1630,9 +1630,9 @@
 001630	Gamemaster: Which is crazy to think about from, like, a character growth perspective.  
 001631	Gamemaster: Like, you leave just some guy with a spiky shield and you come back as a demigod.  
 001632	Divex: You know.  
-001633	Lev: Yeah, think about Kharkov.  
+001633	Lev: Yeah, think about Karkov.  
 001634	Gamemaster: Like, that's just a huge growth.  
-001635	Lev: Yeah, think about Kharkov.  
+001635	Lev: Yeah, think about Karkov.  
 001636	Henrik: And the greatest doctor of all time.  
 001637	Lev: He's just like, what the fuck?  
 001638	Gamemaster: Yes, the greatest doctor of all time with the greatest crafter of multiple possible parallel universes.  
@@ -1918,7 +1918,7 @@
 001918	Gamemaster: It does not have information on the enemies, it only has information on you guys.  
 001919	Dawnmonger: Okay, gotcha.  
 001920	Gamemaster: Yeah, so there's no convenient flip to page 42.  
-001921	Gamemaster: These are all of the weaknesses of Kharkov here.  
+001921	Gamemaster: These are all of the weaknesses of Karkov here.  
 001922	Gamemaster: But it does list down a lot of information about you guys, as well as the broker and the sparrows.  
 001923	Gamemaster: And if you flip through, if you start idly flipping through while they're having this conversation, the list of people in this docket are you guys, the golden sparrows, the broker and co.,  
 001924	Gamemaster: um, which includes some of the network, but not all of the network.  
@@ -2669,7 +2669,7 @@
 002669	Gamemaster: One second.  
 002670	Gamemaster: Where's my... Where are you?  
 002671	Gamemaster: Come back.  
-002672	Henrik: It's Kharkov's heart.  
+002672	Henrik: It's Karkov's heart.  
 002673	Gamemaster: Xanthin.  
 002674	Dawnmonger: Okay.  
 002675	Gamemaster: Xanthin Oreskalka.  
@@ -2803,7 +2803,7 @@
 002803	Divex: So... Well, I'm saying, in the end, this is something that we can definitely allow the Sparrows to use to undo this.  
 002804	Dawnmonger: Oh, yeah.  
 002805	Divex: But for three charges right now, if this can, like...  
-002806	Divex: undo a permanent effect from Kharkov if we're able to limp away and lick our wounds I think it's much better spent on us than removing Nox curse or whatever from someone else  
+002806	Divex: undo a permanent effect from Karkov if we're able to limp away and lick our wounds I think it's much better spent on us than removing Nox curse or whatever from someone else  
 002807	Lev: We might.  
 002808	Lev: Oh.  
 002809	Lev: Do you think we could fix the broker with this?  
@@ -3223,7 +3223,7 @@
 003223	Dawnmonger: You have a very special place here.  
 003224	Gamemaster: Our goals align, and you are trying to do good.  
 003225	Lev: Is there anything you want us to keep Anaïs out for when we're in the den?  
-003226	Gamemaster: If Kharkov escapes, it will be to the bottom of the floor.  
+003226	Gamemaster: If Karkov escapes, it will be to the bottom of the floor.  
 003227	Gamemaster: There is a passage there.  
 003228	Lev: Where does it go to?  
 003229	Gamemaster: I can't answer.  
@@ -3310,7 +3310,7 @@
 003310	Gamemaster: Like, literally just like a matchstick, effectively, but without the top.  
 003311	Lev: Okay.  
 003312	Gamemaster: And she will hold it out, probably to Henrik.  
-003313	Gamemaster: and say if you snap that you will be invulnerable for six seconds don't lose it you can lose it you just shouldn't give it to kharkov  
+003313	Gamemaster: and say if you snap that you will be invulnerable for six seconds don't lose it you can lose it you just shouldn't give it to Karkov  
 003314	Henrik: Whoa.  
 003315	Henrik: That is, uh, very kind.  
 003316	Henrik: Uh, well... Right.  
@@ -3408,7 +3408,7 @@
 003408	Lev: Fuck.  
 003409	Divex: So the end goal is to get that gun and leave.  
 003410	Gamemaster: Anything else is what you want to do.  
-003411	Henrik: Attack Kharkov, which is crazy.  
+003411	Henrik: Attack Karkov, which is crazy.  
 003412	Henrik: Attack Rampart and get Hallia and Tenno, which is probably also a little crazy.  
 003413	Henrik: When we saw the vision of Rampart on the TV screen, did he look like he had his max hit points?  
 003414	Lev: Thank you.  
@@ -3557,7 +3557,7 @@
 003557	Divex: Is the gun... Is it on the bottom floor?  
 003558	Divex: Did we learn that from the playwright?  
 003559	Gamemaster: It's on the bottom floor and it's very well locked away.  
-003560	Gamemaster: You have an outstanding request you can make to ask the playwright to get Kharkov to move it.  
+003560	Gamemaster: You have an outstanding request you can make to ask the playwright to get Karkov to move it.  
 003561	Gamemaster: That was a request you made of the playwright that the playwright granted to you, but no guarantee about where and how.  
 003562	Lev: Yeah.  
 003563	Lev: Yeah.  
@@ -3597,7 +3597,7 @@
 003597	Gamemaster: They are the bodyguards.  
 003598	Divex: I think getting someone on some level to, like dominating them to attempt to, I don't know, steal a key card from someone else is pretty reasonable.  
 003599	Divex: Like some random dude.  
-003600	Dawnmonger: We're going to walk into this place and Kharkov, Rampart, and the Slipseer are just going to be hanging out having coffee right in the middle of the first floor.  
+003600	Dawnmonger: We're going to walk into this place and Karkov, Rampart, and the Slipseer are just going to be hanging out having coffee right in the middle of the first floor.  
 003601	Henrik: That'd be ideal.  
 003602	Gamemaster: Yeah.  
 003603	Henrik: We'll take him out.  
@@ -3614,9 +3614,9 @@
 003614	Gamemaster: Give them the phrase.  
 003615	Divex: The closer they are, the harder they fall.  
 003616	Dawnmonger: Rampart, Alert to Magic.  
-003617	Dawnmonger: Kharkov, some form of champion maybe.  
+003617	Dawnmonger: Karkov, some form of champion maybe.  
 003618	Dawnmonger: Slipsier, no idea.  
-003619	Dawnmonger: But isn't she Kharkov's sister?  
+003619	Dawnmonger: But isn't she Karkov's sister?  
 003620	Dawnmonger: Sorry, Rampart.  
 003621	Gamemaster: So the Slipsier and Rampart are siblings.  
 003622	Dawnmonger: My working theory is she's the exact opposite of Rampart and...  
@@ -3679,12 +3679,12 @@
 003679	Dawnmonger: The two marshals go for Rampart.  
 003680	Gamemaster: Thank you.  
 003681	Dawnmonger: Dawn and Divex go for the slips here.  
-003682	Dawnmonger: We hope Kharkov is somewhere else.  
+003682	Dawnmonger: We hope Karkov is somewhere else.  
 003683	Divex: Chiasmus.  
 003684	Lev: So, okay.  
 003685	Lev: Let's say we get the gun.  
 003686	Lev: What's our next plan?  
-003687	Henrik: We shoot Kharkov with the gun.  
+003687	Henrik: We shoot Karkov with the gun.  
 003688	Dawnmonger: Yeah.  
 003689	Divex: Bop bop.  
 003690	Henrik: Who says no?  
@@ -3838,7 +3838,7 @@
 003838	Divex: Oops.  
 003839	Gamemaster: I don't think it is.  
 003840	Gamemaster: I don't think it's possible for you to do that.  
-003841	Gamemaster: If you heard that Kharkov had one less than full health, you would immediately start making fun of him.  
+003841	Gamemaster: If you heard that Karkov had one less than full health, you would immediately start making fun of him.  
 003842	Lev: Bye.  
 003843	Divex: I love how we were talking to Masha, like, listen, you better not have any nefarious things going on, okay?  
 003844	Divex: What we're trying to work on, we have some common goals, and I'm like, in my head, I'm like, we just want to attack people that were disrespectful to us.  
@@ -3848,7 +3848,7 @@
 003848	Divex: Oh, we want to take out a couple of key people in the first house.  
 003849	Divex: And Masha's like, that sounds like a great plan, but you have to take out much more and create systemic change.  
 003850	Divex: Who are you planning on taking out?  
-003851	Divex: Oh, Kharkov, Rampart, and the Slipseer, and anyone else who says anything mean to us.  
+003851	Divex: Oh, Karkov, Rampart, and the Slipseer, and anyone else who says anything mean to us.  
 003852	Lev: what did he say he called me a hamburger absolutely  
 003853	Divex: Mean to you?  
 003854	Divex: Is this not to dismantle the Oreskian government?  

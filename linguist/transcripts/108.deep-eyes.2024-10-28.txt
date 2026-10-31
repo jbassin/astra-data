@@ -1833,7 +1833,7 @@
 001833	Gamemaster: From the distance that you're currently at, it looks like it's just had one of the tentacles completely spiraled around it.  
 001834	Dawnmonger: I think it's the Emperor, probably.  
 001835	Divex: Time to remove.  
-001836	Gamemaster: Okay, so... Imex, Sarix, or Raxix?  
+001836	Gamemaster: Okay, so... Immix, Sarix, or Raxix?  
 001837	Divex: Yeah, let's, I guess, head.  
 001838	Lev: You guys think this is one of the bodies of, like, the three people?  
 001839	Lev: MX, or not MX.  
@@ -2197,7 +2197,7 @@
 002197	Divex: You think the greatest inventor couldn't figure out perpetual motion?  
 002198	Gamemaster: Yeah, that's fine.  
 002199	Henrik: Oh, that's what I wrap for.  
-002200	Divex: Then explain Kharkov.  
+002200	Divex: Then explain Karkov.  
 002201	Dawnmonger: Exactly.  
 002202	Gamemaster: Yes.  
 002203	Dawnmonger: Come on.  
@@ -2302,10 +2302,10 @@
 002302	Gamemaster: The question is, which would you prefer?  
 002303	Gamemaster: And also, where are you going?  
 002304	Lev: Sorry, so are the two options again for travel?  
-002305	Dawnmonger: It's really... So we're trying to get to... We're trying to get to wherever... Kharkov is.  
+002305	Dawnmonger: It's really... So we're trying to get to... We're trying to get to wherever... Karkov is.  
 002306	Gamemaster: Yeah.  
 002307	Dawnmonger: Do we want to try and...  
-002308	Gamemaster: Kharkov, you know that Kharkov is currently in Serengrad, which is one of the northernmost towns in Oresk.  
+002308	Gamemaster: Karkov, you know that Karkov is currently in Serengrad, which is one of the northernmost towns in Oresk.  
 002309	Gamemaster: So the two options are, actually, let's have two people can roll either survival or nature checks here.  
 002310	Henrik: I might be okay.  
 002311	Henrik: Let me take a look.  
@@ -2586,7 +2586,7 @@
 002586	Gamemaster: There we are.  
 002587	Gamemaster: Okay, so Kirov is all the way down here at the bottom point.  
 002588	Gamemaster: That's the capital.  
-002589	Gamemaster: Sarengrad, where you're trying to go if you're trying to meet up with Kharkov, is up here.  
+002589	Gamemaster: Sarengrad, where you're trying to go if you're trying to meet up with Karkov, is up here.  
 002590	Gamemaster: This dot right here is the Kurnia prison outpost.  
 002591	Gamemaster: That's where that one one-shot took place, where you guys were in the mountains and all of that stuff.  
 002592	Lev: Well, maybe we should go over to that.  
@@ -3726,7 +3726,7 @@
 003726	Lev: Yeah.  
 003727	Gamemaster: It's not really my problem.  
 003728	Lev: Yeah, so random question.  
-003729	Lev: So since you know a lot about Thessians, we heard that the head of the guy who's marching at Kharkov has all three Thessian bloods in him at once, and it makes him more powerful.  
+003729	Lev: So since you know a lot about Thessians, we heard that the head of the guy who's marching at Karkov has all three Thessian bloods in him at once, and it makes him more powerful.  
 003730	Lev: Do you know anything about that, if that works?  
 003731	Gamemaster: I mean, given that you just told me that he did it, I assume it works.  
 003732	Lev: Yeah, OK.  
@@ -3824,7 +3824,7 @@
 003824	Lev: yes thank you okay yeah um we probably need to get rid of the rescue actor karkov because he's definitely in the pocket so we'll need to do that before we do all of this  
 003825	Gamemaster: That's fine.  
 003826	Gamemaster: Once you kill him, the rods will fall.  
-003827	Gamemaster: Kharkov will die.  
+003827	Gamemaster: Karkov will die.  
 003828	Dawnmonger: Okay.  
 003829	Dawnmonger: I'm not going to have this argument.  
 003830	Lev: I meant we might have to do it before because I foresee him trying to get in the way of this.  
@@ -4452,7 +4452,7 @@
 004452	Gamemaster: Food rots so quickly.  
 004453	Gamemaster: It's so cold.  
 004454	Gamemaster: Everybody is unhappy all the time.  
-004455	Gamemaster: You just have to think about the kind of environment that would have made Kharkov and legions of people who would agree with and follow Kharkov.  
+004455	Gamemaster: You just have to think about the kind of environment that would have made Karkov and legions of people who would agree with and follow Karkov.  
 004456	Dawnmonger: The worst place on the planet.  
 004457	Lev: I like him.  
 004458	Gamemaster: But it's fine.  
@@ -4565,15 +4565,15 @@
 004565	Lev: Yeah.  
 004566	Gamemaster: Listen, you guys were co-workers at some point.  
 004567	Lev: Yeah, well... I like... I honestly like Karkov more than I like Ashmont.  
-004568	Gamemaster: But you guys were also co-workers with Kharkov at some point, so... Really?  
+004568	Gamemaster: But you guys were also co-workers with Karkov at some point, so... Really?  
 004569	Lev: Yeah.  
 004570	Dawnmonger: Thank you.  
 004571	Gamemaster: Gosh, it's like how you guys liked Mephi more than you liked Dahl, despite Dahl being the minor bad guy and Mephi being the big one.  
 004572	Lev: Yeah.  
-004573	Lev: But the thing with Kharkov was that he's doing... He's trying to fight the... It doesn't feel as selfish as just pure Ashmont.  
+004573	Lev: But the thing with Karkov was that he's doing... He's trying to fight the... It doesn't feel as selfish as just pure Ashmont.  
 004574	Henrik: you  
 004575	Lev: Ashmont feels evil and selfish.  
-004576	Gamemaster: So, both Kharkov and Ashmont believe what they're doing is for the... Actually, and Udan, believe what they're doing is the best possible path for everyone.  
+004576	Gamemaster: So, both Karkov and Ashmont believe what they're doing is for the... Actually, and Udan, believe what they're doing is the best possible path for everyone.  
 004577	Lev: What about the minor god?  
 004578	Gamemaster: You have not fought, I think, an enemy this campaign that's been, like, sentient, that has not believed that what it's doing is the absolute correct thing to do in that situation.  
 004579	Gamemaster: Savick?  

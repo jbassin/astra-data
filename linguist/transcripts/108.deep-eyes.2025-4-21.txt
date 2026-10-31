@@ -1363,7 +1363,7 @@
 001363	Gamemaster: Okay, presiding the name fills in, and it says Levmere.  
 001364	Dawnmonger: You.  
 001365	Gamemaster: Well, it would say Lev's whole name, whatever that is.  
-001366	Lev: Levmir.  
+001366	Lev: Lev'Myr.  
 001367	Lev: And then it's the name of the family.  
 001368	Lev: Oroskelka.  
 001369	Gamemaster: Oh, or Ascalca, right.  
@@ -1541,7 +1541,7 @@
 001541	Dawnmonger: This trial is unjust because the people making the decision are far worse than the accused.  
 001542	Gamemaster: Okay.  
 001543	Lev: You know, I've been there.  
-001544	Lev: I met Kharkov, and he really was a terrible guy.  
+001544	Lev: I met Karkov, and he really was a terrible guy.  
 001545	Lev: He let his people die, and he really needed to go.  
 001546	Lev: And I saw him make actual difference.  
 001547	Divex: Whoa, whoa.  
@@ -3573,15 +3573,15 @@
 003573	Gamemaster: It is the sound that you have been hearing as you head up the staircase.  
 003574	Gamemaster: It also doesn't look like it's playing of its own accord.  
 003575	Gamemaster: Looming over the organ, large enough that you can't actually get a view of the whole body, you see a flat yellow faceplate with a single large red eye and two hands.  
-003576	Gamemaster: hovering over the area with strings, tendrils almost, of that same yellow cotton candy floss-like material extending out of the fingers, moving what used to be Kharkov's body like a marionette.  
+003576	Gamemaster: hovering over the area with strings, tendrils almost, of that same yellow cotton candy floss-like material extending out of the fingers, moving what used to be Karkov's body like a marionette.  
 003577	Gamemaster: As you see...  
 003578	Dawnmonger: What the heck?  
 003579	Lev: Dammit, I was going to send it, but I didn't want to send it.  
 003580	Lev: I typed the gif out, but I thought it was rude.  
 003581	Lev: Oh.  
-003582	Gamemaster: As you see, standing at the precipice of this city, that which was once Kharkov turns.  
+003582	Gamemaster: As you see, standing at the precipice of this city, that which was once Karkov turns.  
 003583	Gamemaster: And none of the marionette strings are attached to the head, so it kind of lulls and moves just with gravity as the body turns.  
-003584	Gamemaster: And a voice that is similar to, but clearly not quite Kharkov's, as if something has grown into his throat and is forcibly moving the vocal cords so that they approximate the sounds of what it would be like if he were talking, says, Welcome.  
+003584	Gamemaster: And a voice that is similar to, but clearly not quite Karkov's, as if something has grown into his throat and is forcibly moving the vocal cords so that they approximate the sounds of what it would be like if he were talking, says, Welcome.  
 003585	Lev: Oh.  
 003586	Gamemaster: It is time for you to be shaped to your ascended, true, perfect forms.  
 003587	Gamemaster: And it's a little early, but I think that's where we'll end it for today.  
@@ -3611,10 +3611,10 @@
 003611	Dawnmonger: Wow.  
 003612	Dawnmonger: This is horrifying.  
 003613	Gamemaster: This is just a little car cuff playing a song.  
-003614	Dawnmonger: I think we got to needle the deep, but I'm worried if we needle him before killing Kharkov, we're going to have to fight both of them at once.  
+003614	Dawnmonger: I think we got to needle the deep, but I'm worried if we needle him before killing Karkov, we're going to have to fight both of them at once.  
 003615	Gamemaster: Just doing a little dance.  
 003616	Lev: So do we have to needle the deep?  
-003617	Dawnmonger: But it might also kill Kharkov.  
+003617	Dawnmonger: But it might also kill Karkov.  
 003618	Dawnmonger: Might not.  
 003619	Lev: I don't think it's a good idea to not needle the deep.  
 003620	Lev: And I think delaying it may only give him more time to snap us out of existence.  
@@ -3644,7 +3644,7 @@
 003644	Gamemaster: Bye.  
 003645	Divex: It doesn't align with any parts of the plan, and I don't think it would be simply a promotion.  
 003646	Dawnmonger: We don't have.  
-003647	Divex: Seems like it would be... I mean, Kharkov seems to be having a great go at becoming a Thessian via the deep.  
+003647	Divex: Seems like it would be... I mean, Karkov seems to be having a great go at becoming a Thessian via the deep.  
 003648	Divex: I mean, look, he definitely has...  
 003649	Divex: A will of his own.  
 003650	Divex: That is pretty cool.  

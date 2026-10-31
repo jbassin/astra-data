@@ -323,19 +323,19 @@
 000323	Dawnmonger: to go inside the most secure spot in the entire building in an unprecedented move where we then proceeded to hang out for a day and a half and just kind of recoup followed by using the skeleton of the guy we killed to  
 000324	Henrik: Thank you.  
 000325	Dawnmonger: melt this lock.  
-000326	Dawnmonger: Also, while we were doing that, uh, Kharkov, the other guy we came in here to ostensibly kill, put out an alert to the entire country telling them to lynch us on site.  
+000326	Dawnmonger: Also, while we were doing that, uh, Karkov, the other guy we came in here to ostensibly kill, put out an alert to the entire country telling them to lynch us on site.  
 000327	Dawnmonger: Uh, we burned through this vault door, got all the cool stuff in it, which I fully think that Josh meant for us to get after this fight.  
 000328	Dawnmonger: Uh, but what are you gonna do?  
 000329	Dawnmonger: We then snuck around, really quickly looked down a hallway, saw a bunch of coral and two people, and were like, that's probably not where we want to be right now.  
-000330	Dawnmonger: Went to just some very sparse bunks, where we learned that Kharkov, Rampart, and the Slips here are kind of a cute little family, and everyone has their own story, and that's important to know.  
+000330	Dawnmonger: Went to just some very sparse bunks, where we learned that Karkov, Rampart, and the Slips here are kind of a cute little family, and everyone has their own story, and that's important to know.  
 000331	Dawnmonger: Following that, we then...  
 000332	Dawnmonger: all went invisible.  
-000333	Dawnmonger: We got the orb, Dawn went invisible, we then snuck over and immediately tried to kill Kharkov's adopted daughter, which he didn't like.  
+000333	Dawnmonger: We got the orb, Dawn went invisible, we then snuck over and immediately tried to kill Karkov's adopted daughter, which he didn't like.  
 000334	Dawnmonger: But after a full round where we all almost died, we did kill her.  
 000335	Dawnmonger: Turned out she was a dragon, so that was crazy.  
 000336	Dawnmonger: In another series of life or death impressive moves, Divex kept everyone alive.  
 000337	Dawnmonger: Henrik  
-000338	Dawnmonger: shielded everyone uh lev took way too many reactions and then dawn ultimately stole the leech or the divinity leech which was the gun that was pretty cool uh and shot kharkov with it hopefully hopefully saving us we're also all semi-bloodied  
+000338	Dawnmonger: shielded everyone uh lev took way too many reactions and then dawn ultimately stole the leech or the divinity leech which was the gun that was pretty cool uh and shot Karkov with it hopefully hopefully saving us we're also all semi-bloodied  
 000339	Lev: Yeah.  
 000340	Gamemaster: Yeah, everybody's semi-bloodied.  
 000341	Gamemaster: I am annoyed at you guys for burning down the dragon before it got to do any dragon-like things.  
@@ -344,13 +344,13 @@
 000344	Gamemaster: Yeah, no, I mean, that's a pretty good summary.  
 000345	Gamemaster: I think I will give you the heroic point for that.  
 000346	Divex: There was one other thing.  
-000347	Divex: We could see Kharkov shudder at the sight of Henrik's Giant neck and his previous threats fell flat.  
+000347	Divex: We could see Karkov shudder at the sight of Henrik's Giant neck and his previous threats fell flat.  
 000348	Dawnmonger: We did learn.  
 000349	Gamemaster: We could have left that in the previous session.  
 000350	Dawnmonger: But we learned there's not enough rope in a rat.  
 000351	Gamemaster: Doomed to be Forgotten.  
 000352	Divex: There's not enough rope in a risk!  
-000353	Henrik: Kharkov has the rest of the first house desperately searching for all the rope they can find.  
+000353	Henrik: Karkov has the rest of the first house desperately searching for all the rope they can find.  
 000354	Divex: You just, like, before the fight starts, get us all the rope you can find.  
 000355	Gamemaster: I hate it so much.  
 000356	Gamemaster: It's terrible.  
@@ -407,8 +407,8 @@
 000407	Gamemaster: OK, so we're going to just jump right in.  
 000408	Gamemaster: Whoever isn't currently in vtl.arudi.cc, I'd love it if you could go, although it looks like you're all here.  
 000409	Gamemaster: We start.  
-000410	Gamemaster: at the top of the initiative order with Kharkov.  
-000411	Gamemaster: If you recall, Kharkov was just shot with the weapon, the Divinity Leech, which bloodied him.  
+000410	Gamemaster: at the top of the initiative order with Karkov.  
+000411	Gamemaster: If you recall, Karkov was just shot with the weapon, the Divinity Leech, which bloodied him.  
 000412	Gamemaster: But you noted that he attempted to cast some sort of spell, and that was, in fact, prevented by the leech.  
 000413	Gamemaster: He is clearly being affected by this leech in a negative way for him, and I suppose in a positive way for you.  
 000414	Gamemaster: It is his turn.  
@@ -432,7 +432,7 @@
 000432	Lev: I'm going to hear.  
 000433	Lev: I just got to bring this plate to the kitchen.  
 000434	Gamemaster: Absolutely.  
-000435	Gamemaster: Well, while you're doing that, Kharkov is going to roll a two.  
+000435	Gamemaster: Well, while you're doing that, Karkov is going to roll a two.  
 000436	Gamemaster: I'm going to try again.  
 000437	Gamemaster: This has been atrocious.  
 000438	Gamemaster: So I missed three times.  
@@ -678,7 +678,7 @@
 000678	Gamemaster: Sorry, like 12 auras just applied to you all at the same time.  
 000679	Dawnmonger: Wow.  
 000680	Dawnmonger: Wow, that's so many things.  
-000681	Dawnmonger: And I will make a technomantic punch against Kharkov.  
+000681	Dawnmonger: And I will make a technomantic punch against Karkov.  
 000682	Gamemaster: Yeah.  
 000683	Gamemaster: Okay.  
 000684	Gamemaster: I have no idea how you would play this game without a computer keeping track of you.  
@@ -711,13 +711,13 @@
 000711	Gamemaster: Okay, absolutely.  
 000712	Gamemaster: Well... How do I want to do this?  
 000713	Dawnmonger: Dawn has been splitting the timeline a whole bunch recently, and as I slip through the weave, there's a ripple effect, and two Dawns appear on either side.  
-000714	Dawnmonger: almost like Lev, except one is Don, and one is a very familiar-looking man with a very large sword, and as Don goes to punch at the exact same moment, Big Fish from another world slams the sword through him, and there is a large explosion of light, and Kharkov is on the ground with the sword of Big Fish driven through him.  
+000714	Dawnmonger: almost like Lev, except one is Don, and one is a very familiar-looking man with a very large sword, and as Don goes to punch at the exact same moment, Big Fish from another world slams the sword through him, and there is a large explosion of light, and Karkov is on the ground with the sword of Big Fish driven through him.  
 000715	Gamemaster: Absolutely.  
 000716	Gamemaster: Big ol' cloned finish, stabbing him right through.  
 000717	Gamemaster: Sword goes through and he gets stuck where the sword is kind of pinning him up a little bit off of the ground.  
 000718	Gamemaster: And you watch as the light leaves his eyes.  
 000719	Dawnmonger: Thank you.  
-000720	Lev: Lev attempts to catch Kharkov so he doesn't land on the ground.  
+000720	Lev: Lev attempts to catch Karkov so he doesn't land on the ground.  
 000721	Gamemaster: Roll a...  
 000722	Gamemaster: Roll a reflex save for me, please.  
 000723	Lev: Can I do athletics?  
@@ -771,7 +771,7 @@
 000771	Gamemaster: And just as you notice that, there is, directly in front of you, this open portal to what you can only imagine, I assume, is the deep on Ilkain.  
 000772	Gamemaster: And you watch as...  
 000773	Gamemaster: Flicking out of the portal are these fungal tendrils, almost similar to that of the mycelium that you had seen in Vyre.  
-000774	Gamemaster: Eight or so of them all shoot out of the portal, grab onto Kharkov's corpse-ish, and pull him through.  
+000774	Gamemaster: Eight or so of them all shoot out of the portal, grab onto Karkov's corpse-ish, and pull him through.  
 000775	Lev: Can I get any attack of opportunities?  
 000776	Gamemaster: You can get an attack of opportunity.  
 000777	Lev: All right.  
@@ -851,9 +851,9 @@
 000851	Dawnmonger: Thank you.  
 000852	Lev: 25.  
 000853	Lev: You know what, Divex?  
-000854	Lev: If you can, just disintegrate Kharkov.  
+000854	Lev: If you can, just disintegrate Karkov.  
 000855	Lev: Fuck stopping it.  
-000856	Lev: Disintegrate Kharkov.  
+000856	Lev: Disintegrate Karkov.  
 000857	Lev: You can.  
 000858	Gamemaster: Okay, so the tendrils rolled somewhere between 44 and 55.  
 000859	Divex: Yeah.  
@@ -913,7 +913,7 @@
 000913	Gamemaster: You do disintegrate.  
 000914	Gamemaster: You watch the bottom half of his body gets completely vaporized.  
 000915	Gamemaster: But there is protective magic being put in place here.  
-000916	Gamemaster: The Deep does not want to let go of Kharkov's body.  
+000916	Gamemaster: The Deep does not want to let go of Karkov's body.  
 000917	Gamemaster: And he just gets pulled the rest of the way in.  
 000918	Gamemaster: Half the man that he was before.  
 000919	Gamemaster: And the portal closes.  
@@ -962,7 +962,7 @@
 000962	Dawnmonger: In Schism, uh, no, in Saran, uh, I'll contact the broker.  
 000963	Gamemaster: The broker, after like a minute of the connection actually taking place, will say, is it an issue?  
 000964	Dawnmonger: Hey, broker, uh, good news and bad news.  
-000965	Dawnmonger: Good news, we killed Kharkov and got the gun.  
+000965	Dawnmonger: Good news, we killed Karkov and got the gun.  
 000966	Dawnmonger: Bad news, uh, the Deep took his body.  
 000967	Dawnmonger: Half of his body.  
 000968	Dawnmonger: We disintegrated his life.  
@@ -970,10 +970,10 @@
 000970	Dawnmonger: Uh, so, is that, is that an issue?  
 000971	Dawnmonger: I don't know.  
 000972	Lev: I think it's a problem for later, you know.  
-000973	Gamemaster: If you have some vendetta against Kharkov specifically, and you just really, really want to make sure it's dead, which I get, then I imagine it's weaker now than it will be whenever the Deep does whatever the Deep will to Kharkov's corpse.  
+000973	Gamemaster: If you have some vendetta against Karkov specifically, and you just really, really want to make sure it's dead, which I get, then I imagine it's weaker now than it will be whenever the Deep does whatever the Deep will to Karkov's corpse.  
 000974	Gamemaster: I don't think it's meaningful on a planetary Scale, if that's your worry.  
 000975	Dawnmonger: So it's not going to... Other question.  
-000976	Gamemaster: If the Deep is planning on invading Althane from Ilkhan, it will be able to do that without Kharkov.  
+000976	Gamemaster: If the Deep is planning on invading Althane from Ilkhan, it will be able to do that without Karkov.  
 000977	Lev: What?  
 000978	Dawnmonger: If the lighthouse is on Ilkain, what are the ramifications of that?  
 000979	Gamemaster: Mm-hmm.  
@@ -988,7 +988,7 @@
 000988	Gamemaster: eek into his voice.  
 000989	Gamemaster: We can talk about this at any length you like once you return.  
 000990	Lev: Yeah, where do you want us to meet you?  
-000991	Gamemaster: Come back to Oxus's office.  
+000991	Gamemaster: Come back to Oxas's office.  
 000992	Lev: Oh, I thought you ran from there.  
 000993	Gamemaster: Yeah, and once you were finished murdering Ashmont, I went back.  
 000994	Lev: Okay.  
@@ -1054,7 +1054,7 @@
 001054	Divex: Oh, I love the dinky middle.  
 001055	Gamemaster: Yeah, all of that.  
 001056	Lev: Cool.  
-001057	Gamemaster: You've recovered a little bit of Kharkov's blood in whatever mixture that might be.  
+001057	Gamemaster: You've recovered a little bit of Karkov's blood in whatever mixture that might be.  
 001058	Gamemaster: What'd you get?  
 001059	Divex: 48.  
 001060	Gamemaster: 48.  
@@ -1150,7 +1150,7 @@
 001150	Lev: So quick question.  
 001151	Lev: We've been on this floor.  
 001152	Lev: We've got a lot of place on this floor.  
-001153	Lev: Is there any intercom system that we see where Kharkov could have sent that message from?  
+001153	Lev: Is there any intercom system that we see where Karkov could have sent that message from?  
 001154	Gamemaster: You can roll a perception check just to see what's around.  
 001155	Lev: I'd signal this to the Russians.  
 001156	Henrik: You want me to look around?  
@@ -1202,10 +1202,10 @@
 001202	Gamemaster: phone here by which you might be able to use it.  
 001203	Henrik: Thank you.  
 001204	Gamemaster: I will say two things.  
-001205	Gamemaster: One, it was probably some kind of either handheld device or magical built-in device that Kharkov had.  
+001205	Gamemaster: One, it was probably some kind of either handheld device or magical built-in device that Karkov had.  
 001206	Lev: Yeah.  
 001207	Gamemaster: And two, I think you guys rolled really well looking around the private quarters in the dormitory.  
-001208	Gamemaster: You know that there would be one in Kharkov's dormitory.  
+001208	Gamemaster: You know that there would be one in Karkov's dormitory.  
 001209	Lev: Oh, let's go back to Karkov's Corp before we go.  
 001210	Divex: on the way.  
 001211	Lev: What do you guys want to say?  
@@ -1218,17 +1218,17 @@
 001218	Lev: What do you guys think?  
 001219	Henrik: oh, you want to put out an evacuation order.  
 001220	Lev: So one thing, one evacuation, get them out of the sparrows here.  
-001221	Lev: Two, I do think it's good to let everyone know that Kharkov is taken by the deep, because they're still actively expanding down here, so that the Ruskins can start handling this.  
+001221	Lev: Two, I do think it's good to let everyone know that Karkov is taken by the deep, because they're still actively expanding down here, so that the Ruskins can start handling this.  
 001222	Divex: Sure.  
 001223	Henrik: I think that's fair.  
 001224	Dawnmonger: Yeah.  
-001225	Lev: So I don't have to pretend to be Kharkov.  
+001225	Lev: So I don't have to pretend to be Karkov.  
 001226	Lev: just tell everyone, hey guys, we killed him, but also, the deep's still here, so come take care of that.  
 001227	Lev: Or I can pretend to be Karkov and lost in battle.  
 001228	Lev: And, if you want, I can throw in that we killed those people, so they stop looking for us.  
 001229	Henrik: mmm they can pause their rope searching operation  
 001230	Divex: Ooh, I do like that.  
-001231	Divex: I think if we're gonna go Kharkov, we throw in... We throw in, uh, I have been mortally wounded in battle, and the deep is grabbing a hold of me.  
+001231	Divex: I think if we're gonna go Karkov, we throw in... We throw in, uh, I have been mortally wounded in battle, and the deep is grabbing a hold of me.  
 001232	Divex: But I was able to kill the guys with the friend with the big neck.  
 001233	Dawnmonger: I like that.  
 001234	Gamemaster: Okay, so  
@@ -1241,7 +1241,7 @@
 001241	Dawnmonger: I feel like it always turns...  
 001242	Divex: Yeah.  
 001243	Lev: All right, all right.  
-001244	Gamemaster: You are making your way over to Kharkov's dormitory to find the phone, and then you've just got, you've got a message for the people.  
+001244	Gamemaster: You are making your way over to Karkov's dormitory to find the phone, and then you've just got, you've got a message for the people.  
 001245	Lev: We're going to bring the phone over to the teleporter room, I think.  
 001246	Gamemaster: Okay, sure, so you could, like, make a quick exit in case somebody immediately tries to head down?  
 001247	Lev: Yeah, I don't want those doors or something.  
@@ -1292,7 +1292,7 @@
 001292	Lev: Yeah, I'll still do the last thing anyway.  
 001293	Lev: So it's still 34, 33, 36.  
 001294	Lev: OK.  
-001295	Lev: This is going to be Lev's impersonation of Kharkov's accent, but I'm just going to do Lev's.  
+001295	Lev: This is going to be Lev's impersonation of Karkov's accent, but I'm just going to do Lev's.  
 001296	Gamemaster: Sure.  
 001297	Lev: He's not going to say it's coughing, but I'm doing coughing motions.  
 001298	Lev: And he's going to go, greetings, comrades.  
@@ -1316,7 +1316,7 @@
 001316	Gamemaster: Stupid.  
 001317	Dawnmonger: Crazy.  
 001318	Gamemaster: Okay.  
-001319	Gamemaster: For those of you who are in the room with him doing the call, if your eyes were closed, you would think it was Kharkov on the phone.  
+001319	Gamemaster: For those of you who are in the room with him doing the call, if your eyes were closed, you would think it was Karkov on the phone.  
 001320	Gamemaster: It's the best impression you've ever heard to the point that you assume that he has some magical device that lets him impersonate someone.  
 001321	Gamemaster: He doesn't.  
 001322	Gamemaster: He's just really good at doing voices.  
@@ -1451,12 +1451,12 @@
 001451	Gamemaster: Regardless, you make your way through the portal.  
 001452	Gamemaster: You end up in a very familiar looking at this point.  
 001453	Gamemaster: You've been here a few times.  
-001454	Gamemaster: The office of Oxus, Oxide, Professor Lady.  
+001454	Gamemaster: The office of Oxas, Oxide, Professor Lady.  
 001455	Gamemaster: Stack time with books on one side, window that overlooks into the interior of Illyara.  
 001456	Gamemaster: You have jumped cross-continentally as part of this, which is...  
 001457	Gamemaster: Like, way further than the first time you jumped with this teleporty thing, but you are aware that it is by no means the furthest point you could have teleported with that structure.  
 001458	Gamemaster: Regardless, you made it into Iliara.  
-001459	Gamemaster: You do startle Oxus, who did not expect for people to jump into her well-shielded-against-teleportation office, but you just pop up into existence.  
+001459	Gamemaster: You do startle Oxas, who did not expect for people to jump into her well-shielded-against-teleportation office, but you just pop up into existence.  
 001460	Lev: And one looks like the Babadook.  
 001461	Gamemaster: Yeah, and one's a vampire pope.  
 001462	Dawnmonger: Hey, Archers.  
@@ -1477,7 +1477,7 @@
 001477	Lev: Do any of you guys want pierogies?  
 001478	Lev: There may or may not be divine corpse blood in it.  
 001479	Lev: We were not able to suss it out.  
-001480	Gamemaster: Oxus will go and eat one and be like, tastes like a pierogi.  
+001480	Gamemaster: Oxas will go and eat one and be like, tastes like a pierogi.  
 001481	Gamemaster: The broker will hold it up by the very edge of one of the crimps.  
 001482	Gamemaster: There's an oxblood in this.  
 001483	Dawnmonger: Hmm.  
@@ -1552,7 +1552,7 @@
 001552	Gamemaster: And he'll say, no, I'm not destroying it.  
 001553	Gamemaster: I need it so that I can undo the wound that it's caused to me.  
 001554	Lev: OK.  
-001555	Lev: Will that wound, if you undo it, is it going to undo the wound we just caused to Kharkov?  
+001555	Lev: Will that wound, if you undo it, is it going to undo the wound we just caused to Karkov?  
 001556	Dawnmonger: Oh, I did shoot Karkov with it.  
 001557	Gamemaster: It might, but you said he's dead, right?  
 001558	Lev: Yeah.  
@@ -2327,7 +2327,7 @@
 002327	Gamemaster: Less souls than you would think.  
 002328	Gamemaster: Like, more than on all things, but less than the number would imply.  
 002329	Gamemaster: Either way, the whole planet is covered in what you would be calling a dream.  
-002330	Gamemaster: They call it the Rhett.  
+002330	Gamemaster: They call it the Ret.  
 002331	Gamemaster: They are extremely technologically advanced compared to your structure.  
 002332	Gamemaster: Like, you guys just figured out trains?  
 002333	Gamemaster: They've had trains for a while.  
@@ -2942,7 +2942,7 @@
 002942	Gamemaster: Correct.  
 002943	Gamemaster: It did come close a little bit there.  
 002944	Gamemaster: I think if not for some very clutch healing and delaying of consequences, at least one of you would have gone down.  
-002945	Gamemaster: And Kharkov is the kind of person who will follow up downing somebody with a 3-tap.  
+002945	Gamemaster: And Karkov is the kind of person who will follow up downing somebody with a 3-tap.  
 002946	Lev: Yeah.  
 002947	Gamemaster: So...  
 002948	Henrik: Ooh, I can crit on a 19.  
@@ -2950,7 +2950,7 @@
 002950	Lev: There was...  
 002951	Lev: There was a moment there that I was just like, maybe we're the bad guys.  
 002952	Lev: And then I was like, no.  
-002953	Gamemaster: Canonically, Kharkov is good aligned.  
+002953	Gamemaster: Canonically, Karkov is good aligned.  
 002954	Lev: Perkup sucks.  
 002955	Lev: In his head.  
 002956	Gamemaster: Yes!  
@@ -2963,11 +2963,11 @@
 002963	Gamemaster: He has a different moral reference frame than you guys.  
 002964	Gamemaster: He did the calculations.  
 002965	Gamemaster: He's a utilitarian.  
-002966	Henrik: so many people okay we cannot use levmir as the example because  
+002966	Henrik: so many people okay we cannot use Lev'Myr as the example because  
 002967	Gamemaster: Yeah, but it's better than everyone.  
 002968	Gamemaster: Listen, that's against... Somebody in this party just suggested killing 100% of the people in all things.  
 002969	Dawnmonger: I'm sorry.  
-002970	Gamemaster: So, like, I feel like Kharkov isn't the automatic wrongdoer here.  
+002970	Gamemaster: So, like, I feel like Karkov isn't the automatic wrongdoer here.  
 002971	Gamemaster: Well, I mean, it's fine.  
 002972	Gamemaster: Lev has his own morals.  
 002973	Gamemaster: What is Lev?  
@@ -3562,7 +3562,7 @@
 003562	Dawnmonger: Yeah.  
 003563	Henrik: Heck yeah.  
 003564	Divex: Yes.  
-003565	Henrik: I don't like that Kharkov's going to come back in some twisted fashion, but what are you going to do?  
+003565	Henrik: I don't like that Karkov's going to come back in some twisted fashion, but what are you going to do?  
 003566	Divex: Good lord.  
 003567	Lev: I fucking knew it too.  
 003568	Lev: I tried to grab his body.  

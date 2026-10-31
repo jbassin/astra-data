@@ -3112,7 +3112,7 @@
 003112	Dawnmonger: I just walk up to this thing, like, jogging by.  
 003113	Gamemaster: That's enough to straight up kill it.  
 003114	Lev: LES.  
-003115	Dawnmonger: As we go by, I pat Henrik on the shoulder and go, hi, Kharkov.  
+003115	Dawnmonger: As we go by, I pat Henrik on the shoulder and go, hi, Karkov.  
 003116	Dawnmonger: And then I just kind of, like,  
 003117	Henrik: I take offense to that.  
 003118	Dawnmonger: and I look around, and then I just punch its head off.  
@@ -3533,7 +3533,7 @@
 003533	Divex: Uh...  
 003534	Gamemaster: Tenna, the bulb will light up blue again and Tenna will say, I would guess so.  
 003535	Gamemaster: I haven't seen one recently.  
-003536	Henrik: I think that Kharkov will have it.  
+003536	Henrik: I think that Karkov will have it.  
 003537	Dawnmonger: Oh, they're sort of our new friend.  
 003538	Dawnmonger: They're sort of like you, but a computer.  
 003539	Gamemaster: That's honestly, I expected you to call me a computer too, so I actually just appreciate that you've made the distinction.  
@@ -3601,7 +3601,7 @@
 003601	Dawnmonger: Yeah, how's everyone doing on juice, I guess?  
 003602	Lev: All right, so back to the issue at hand.  
 003603	Lev: We need to get that artifact, which is in the Violet area.  
-003604	Lev: However, if we go into the Violet area, we might run into Kharkov.  
+003604	Lev: However, if we go into the Violet area, we might run into Karkov.  
 003605	Henrik: Yeah, that would not be good.  
 003606	Lev: I would prefer to rest, but honestly, I can fight.  
 003607	Dawnmonger: Yeah.  
@@ -3794,7 +3794,7 @@
 003794	Lev: Are we going up some floors and resting?  
 003795	Lev: Or what are we doing?  
 003796	Dawnmonger: Are we taking a full night's rest?  
-003797	Lev: Do you think we can go and potentially fight Kharkov?  
+003797	Lev: Do you think we can go and potentially fight Karkov?  
 003798	Dawnmonger: I don't think we'll have it if we wait eight hours.  
 003799	Lev: I know what will happen if we don't wait eight hours.  
 003800	Divex: It's true.  
@@ -3813,7 +3813,7 @@
 003813	Gamemaster: But I think Dimex would be pretty confident that neither of those would necessarily be of a lot of use down here.  
 003814	Lev: All right.  
 003815	Divex: What if I cast it twice?  
-003816	Lev: Do you guys think Kharkov can also see through magic?  
+003816	Lev: Do you guys think Karkov can also see through magic?  
 003817	Henrik: I don't think he has the same skill set as Rampart.  
 003818	Divex: Probably.  
 003819	Lev: Well, it's possible we preset the teleporter with Sneaky or just don Sneaky and just try to steal it.  
@@ -3838,11 +3838,11 @@
 003838	Dawnmonger: We can just camp outside of that door or across the way so we can see it.  
 003839	Lev: Here's the other thing.  
 003840	Dawnmonger: Or I can try and sneak in.  
-003841	Lev: If we rest here, do you think Kharkov would really be coming to this room?  
+003841	Lev: If we rest here, do you think Karkov would really be coming to this room?  
 003842	Dawnmonger: I don't know.  
 003843	Lev: I have no idea what's going to happen with the Deep.  
 003844	Dawnmonger: I just don't know what will happen in eight hours.  
-003845	Lev: But I don't know if Kharkov would be willing to leave Ultraviolet.  
+003845	Lev: But I don't know if Karkov would be willing to leave Ultraviolet.  
 003846	Divex: I think, yeah, no, I think we'd have to enter.  
 003847	Dawnmonger: You think it's like a safe room or like a panic room, basically?  
 003848	Lev: Why would he?  
@@ -3876,7 +3876,7 @@
 003876	Gamemaster: That would be if you had right.  
 003877	Gamemaster: There is a series of doors.  
 003878	Gamemaster: The doors are made out of the same kind of concrete that the rest of the compound is made out of, which means it's inherently anti-magic and anti-teleport.  
-003879	Gamemaster: It's locked, specifically coded to Kharkov.  
+003879	Gamemaster: It's locked, specifically coded to Karkov.  
 003880	Gamemaster: You know, standard spirit print, all of that fun stuff.  
 003881	Gamemaster: So if you wanted to open it with permission, you'd need him to go up and do it.  
 003882	Lev: Would you open it otherwise?  
@@ -3885,7 +3885,7 @@
 003885	Henrik: There's the resident.  
 003886	Gamemaster: Yeah.  
 003887	Gamemaster: If you went left...  
-003888	Gamemaster: sorry uh if you went left you'd get to the residences that's where kharkov natalia and victor all slept victor likely won't be sleeping there anymore so congrats um those it's a it's a small like internal greenhouse biome type area they each have their own houses quaint  
+003888	Gamemaster: sorry uh if you went left you'd get to the residences that's where Karkov natalia and victor all slept victor likely won't be sleeping there anymore so congrats um those it's a it's a small like internal greenhouse biome type area they each have their own houses quaint  
 003889	Henrik: No, go ahead.  
 003890	Gamemaster: And then if you go straight forward, I believe right now it just opens up to be a gaping hole in space-time that leads straight to the replica of the city in yellow on Alkine.  
 003891	Lev: Oh, why?  
@@ -3909,12 +3909,12 @@
 003909	Gamemaster: I only have plans, and I know what happens in this room.  
 003910	Gamemaster: I don't have, like, camera feeds into every room in the facility.  
 003911	Gamemaster: I know that they had been in this room together at one point.  
-003912	Gamemaster: I haven't seen Kharkov here in a few days, but I have seen Victor.  
+003912	Gamemaster: I haven't seen Karkov here in a few days, but I have seen Victor.  
 003913	Gamemaster: He was the one that usually managed the stuff.  
 003914	Dawnmonger: Have you seen the slips here?  
 003915	Gamemaster: Mostly because he wasn't in danger if there was an explosion.  
 003916	Lev: Can we start moving the bodies out of this room and then including Victor's?  
-003917	Gamemaster: No, she works closely with Kharkov.  
+003917	Gamemaster: No, she works closely with Karkov.  
 003918	Dawnmonger: Okay.  
 003919	Dawnmonger: Throw them in the closet.  
 003920	Lev: And then I'm going to start to disguise myself as Victor.  
@@ -3923,7 +3923,7 @@
 003923	Gamemaster: That's fine.  
 003924	Lev: Cool.  
 003925	Dawnmonger: So here's what I'm guessing.  
-003926	Dawnmonger: I bet Kharkov is...  
+003926	Dawnmonger: I bet Karkov is...  
 003927	Dawnmonger: holed up in there, doomsday prepping to try and avoid the deep.  
 003928	Dawnmonger: Maybe they made a deal with him or something.  
 003929	Dawnmonger: But I bet the slips here is in there too.  
@@ -3965,11 +3965,11 @@
 003965	Lev: In where, are you saying?  
 003966	Divex: It has not been that long since we've requested that the gun be moved, and as far as we can tell, unless he took it to the city in yellow, it kind of narrows down exactly where the gun is going to be.  
 003967	Lev: We also don't, if I recall correctly, this favor doesn't mean it's immediately moved.  
-003968	Gamemaster: The way it works is that the playwright can convince through some subtle nudging Kharkov that he needs to move the gun.  
+003968	Gamemaster: The way it works is that the playwright can convince through some subtle nudging Karkov that he needs to move the gun.  
 003969	Dawnmonger: Bye.  
 003970	Gamemaster: That was all of the information that you were given about the efficacy of the favor.  
 003971	Lev: If he knows the person's dead yet.  
-003972	Gamemaster: Timeline and all of that kind of stuff is more up to however Kharkov interprets it, unfortunately.  
+003972	Gamemaster: Timeline and all of that kind of stuff is more up to however Karkov interprets it, unfortunately.  
 003973	Divex: I mean, as far as I can tell, the best hint is that an officer was just killed, and there is a very capable group making their way through here, and maybe the best place for the gun is closer to where he sleeps than a vault that apparently the group that's in here has been proven they have a decent chance of getting through.  
 003974	Lev: He doesn't know Rampart's dead, necessarily.  
 003975	Divex: I would be surprised if they didn't have some sort of health monitor on all the officers.  
@@ -4043,10 +4043,10 @@
 004043	Lev: We shouldn't have used the stupid move the gun.  
 004044	Lev: We could have just teleported into the fucking vault.  
 004045	Divex: He'll probably put it back.  
-004046	Divex: Actually, is Kharkov...  
+004046	Divex: Actually, is Karkov...  
 004047	Dawnmonger: They still have this vault.  
 004048	Dawnmonger: There's got to be some good stuff in there.  
-004049	Dawnmonger: But also, is Kharkov in the vault?  
+004049	Dawnmonger: But also, is Karkov in the vault?  
 004050	Dawnmonger: I think we don't know what is on the other side of that door.  
 004051	Lev: Okay, should we just rest and then just immediately teleport to this fucking vault?  
 004052	Lev: Do you think the vault has a safety thing to get out?  
@@ -4098,10 +4098,10 @@
 004098	Divex: In case it doesn't work and we have to come back.  
 004099	Dawnmonger: I kind of think we only get one shot at this.  
 004100	Divex: After a long rest.  
-004101	Dawnmonger: I don't know what Kharkov is doing, but I think that if we go in there and then have to bamf out, it's not going to... I think we have to rest.  
+004101	Dawnmonger: I don't know what Karkov is doing, but I think that if we go in there and then have to bamf out, it's not going to... I think we have to rest.  
 004102	Lev: Yeah, I don't think we can.  
 004103	Dawnmonger: I think going in there...  
-004104	Lev: Do you think he'll send other people that aren't Kharkov to fight us if we stay here?  
+004104	Lev: Do you think he'll send other people that aren't Karkov to fight us if we stay here?  
 004105	Divex: don't know if it's  
 004106	Henrik: They're all in lockdown.  
 004107	Henrik: They're probably all dead.  
@@ -4170,7 +4170,7 @@
 004170	Divex: So we can assume around half the people that are chasing us are going to chase us through there.  
 004171	Dawnmonger: There's only two people that are going to be chasing us.  
 004172	Divex: Whatever party we're going to... They're not coming through.  
-004173	Dawnmonger: It's going to be Kharkov and the slips here.  
+004173	Dawnmonger: It's going to be Karkov and the slips here.  
 004174	Dawnmonger: If anyone comes through, then I don't think anyone's coming through that door.  
 004175	Dawnmonger: I think everyone else is too fucking scared or dead.  
 004176	Lev: Okay.  
@@ -4306,7 +4306,7 @@
 004306	Lev: Yeah.  
 004307	Gamemaster: Okay, that's fine.  
 004308	Gamemaster: I'll allow it.  
-004309	Gamemaster: So you're using Kharkov as a container for Kharkov's heart, which I guess all people are containers for their hearts, but still.  
+004309	Gamemaster: So you're using Karkov as a container for Karkov's heart, which I guess all people are containers for their hearts, but still.  
 004310	Gamemaster: You will...  
 004311	Henrik: Thank you.  
 004312	Gamemaster: Get into the orb.  
@@ -4449,7 +4449,7 @@
 004449	Divex: We go, you know what?  
 004450	Divex: Can we enter the thing that's hard to get out of and inside at the same time?  
 004451	Divex: And can we fucking sleep there?  
-004452	Divex: I mean, if Kharkov has a permanent scry, he's like, I'm going to leave.  
+004452	Divex: I mean, if Karkov has a permanent scry, he's like, I'm going to leave.  
 004453	Divex: I don't know what these maniacs are up to.  
 004454	Divex: I'm getting out of here.  
 004455	Lev: His scry probably wouldn't work.  

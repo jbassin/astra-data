@@ -1473,7 +1473,7 @@
 001473	Lev: What if you have to bomb, you know, like, I don't know, an office and then also assassinate the butler at the same time?  
 001474	Gamemaster: At this point, Skizzin will say, can't you guys just talk telepathically through me?  
 001475	Gamemaster: Oh, sorry.  
-001476	Divex: Divex also has Synchronize, which does exactly what Levmir is describing.  
+001476	Divex: Divex also has Synchronize, which does exactly what Lev'Myr is describing.  
 001477	Gamemaster: I do also come with a timekeeping function.  
 001478	Lev: You do?  
 001479	Henrik: you  
@@ -1481,7 +1481,7 @@
 001481	Gamemaster: Yes.  
 001482	Gamemaster: No, that's fine.  
 001483	Lev: Yeah, right.  
-001484	Lev: Well, and then Levmir makes sure to get his coin back from Don.  
+001484	Lev: Well, and then Lev'Myr makes sure to get his coin back from Don.  
 001485	Dawnmonger: Oh, yeah.  
 001486	Lev: Actually, you know what?  
 001487	Lev: You can keep it because you can owe me a new one.  
@@ -1696,7 +1696,7 @@
 001696	Gamemaster: You did not make yourselves known.  
 001697	Gamemaster: Same thing with Wutz's face, the rescue man.  
 001698	Gamemaster: What's his name?  
-001699	Gamemaster: Kharkov.  
+001699	Gamemaster: Karkov.  
 001700	Lev: Thank you.  
 001701	Gamemaster: Last time he saw you guys, you were ruts.  
 001702	Gamemaster: I just don't think it's fun if you show up and he's like, oh no, what happened?  
@@ -1782,7 +1782,7 @@
 001782	Gamemaster: The camera cuts.  
 001783	Gamemaster: and you see a familiar blue-skinned older Orestian man in a deep blue uniform sat at a desk.  
 001784	Gamemaster: It looks like he's talking to an elven woman also in first house uniform.  
-001785	Gamemaster: This is Kharkov.  
+001785	Gamemaster: This is Karkov.  
 001786	Gamemaster: And this slips here, one of the two lieutenants that he brought with him when we last saw him.  
 001787	Lev: Okay.  
 001788	Gamemaster: The camera pans upward, and we can see on the desk is this dossier, which similarly holds images of the four of you, as it looks like they flip through it.  
@@ -1840,10 +1840,10 @@
 001840	Gamemaster: It cuts again.  
 001841	Gamemaster: There's no image on the screen, but instead there's just the sound of a heartbeat.  
 001842	Gamemaster: The screen of the monitor cracks.  
-001843	Gamemaster: And it cuts back to Imex.  
+001843	Gamemaster: And it cuts back to Immix.  
 001844	Gamemaster: The soundstage appears to have taken some damage.  
 001845	Gamemaster: The sign on the back that says the lighthouse has fallen down a little bit, the desk is askew, papers are everywhere, the couch has fallen over.  
-001846	Gamemaster: Imex, a little bedraggled, says, And folks...  
+001846	Gamemaster: Immix, a little bedraggled, says, And folks...  
 001847	Gamemaster: That's not all.  
 001848	Gamemaster: I'm sure there are others who are interested in what's coming up.  
 001849	Gamemaster: We're going to keep our eyes on whatever will unfold in the future.  
@@ -1922,7 +1922,7 @@
 001922	Lev: Can it fit into a portable hole?  
 001923	Gamemaster: As I said last time, it is a star.  
 001924	Gamemaster: You are not going to be able to put a star in your portable home.  
-001925	Divex: DiveX will kindly request Levmir to get in the portable and be like, what do you mean?  
+001925	Divex: DiveX will kindly request Lev'Myr to get in the portable and be like, what do you mean?  
 001926	Divex: We can't have a star in the portable.  
 001927	Dawnmonger: We gotta go.  
 001928	Lev: Let's go.  
@@ -2549,14 +2549,14 @@
 002549	Gamemaster: Not south, like down, altitude-wise, from where you are.  
 002550	Lev: Hmm.  
 002551	Gamemaster: You actually saw...  
-002552	Gamemaster: this room projected on the tv earlier uh you are looking at this elven woman that you know to be the slips here uh one of kharkov's lieutenants um so you  
+002552	Gamemaster: this room projected on the tv earlier uh you are looking at this elven woman that you know to be the slips here uh one of Karkov's lieutenants um so you  
 002553	Gamemaster: You can look around, roll a perception check if you like, just because you get a view into this room.  
 002554	Gamemaster: There isn't a lot to learn here, just like there isn't a lot in general to learn from scrying, but I will give you a perception check to see if there's anything that stands out to you.  
 002555	Lev: don't worry about it it's 29  
-002556	Henrik: On Levmir.  
+002556	Henrik: On Lev'Myr.  
 002557	Gamemaster: Okay.  
 002558	Gamemaster: I mean, you saw this room from the thing.  
-002559	Gamemaster: You know now that Kharkov has a vested interest in figuring out where you guys are.  
+002559	Gamemaster: You know now that Karkov has a vested interest in figuring out where you guys are.  
 002560	Gamemaster: But it seems that this spell, and now for the next week, any scrying clairvoyant spells from the slips here will just not work on you.  
 002561	Dawnmonger: Thank you.  
 002562	Gamemaster: On Lefmere specifically.  
@@ -3396,7 +3396,7 @@
 003396	Lev: So we could just take out the yurt and go.  
 003397	Lev: OK.  
 003398	Henrik: I'm thinking I could spend another 10 minutes now that it's been a couple hours to treat wounds on dolphin dyvex again.  
-003399	Lev: But before we get into the yurt, Levmir's going to go through and try to make sure to get it.  
+003399	Lev: But before we get into the yurt, Lev'Myr's going to go through and try to make sure to get it.  
 003400	Lev: Making sure we're not leaving hair or something there, basically, if possible.  
 003401	Gamemaster: Okay.  
 003402	Gamemaster: Yeah, I don't know what a cleaning check would be here.  
@@ -3612,7 +3612,7 @@
 003612	Gamemaster: They're all representative.  
 003613	Henrik: but we were about to.  
 003614	Gamemaster: It's not the same.  
-003615	Gamemaster: You go up against Kharkov and he's like, what?  
+003615	Gamemaster: You go up against Karkov and he's like, what?  
 003616	Gamemaster: Last time you guys were level five and this was easy.  
 003617	Gamemaster: No.  
 003618	Dawnmonger: And now he got handed a document being like, here's everything they can do.  
@@ -3638,7 +3638,7 @@
 003638	Dawnmonger: Zlotsky.  
 003639	Divex: I do think it's very funny because it's not like, oh, finally, we've got our enemies.  
 003640	Divex: Now time to get them.  
-003641	Divex: It's more like Kharkov took the deal where you get $10 million, but a snail follows you, and if it touches you, you die.  
+003641	Divex: It's more like Karkov took the deal where you get $10 million, but a snail follows you, and if it touches you, you die.  
 003642	Gamemaster: Yeah.  
 003643	Divex: And all of a sudden, someone's like, hey, the snail's behind you.  
 003644	Divex: He's like, what?  
@@ -3672,7 +3672,7 @@
 003672	Dawnmonger: Yeah, so they know that we're in a resque, but they've just lost sight of us.  
 003673	Gamemaster: But... Correct.  
 003674	Gamemaster: They know where you guys were at this point last night, but since then, you've managed to elude.  
-003675	Dawnmonger: The question is, does Kharkov think we're stupid enough to launch an all-out assault?  
+003675	Dawnmonger: The question is, does Karkov think we're stupid enough to launch an all-out assault?  
 003676	Dawnmonger: And how well does he know how stupid we are?  
 003677	Divex: Does he?  
 003678	Henrik: Well, they got a dossier on us.  
@@ -3715,8 +3715,8 @@
 003715	Gamemaster: So, like, congrats.  
 003716	Lev: That means it was a good decision.  
 003717	Gamemaster: Yeah.  
-003718	Divex: I can just imagine Kharkov and the Slipseer.  
-003719	Divex: Kharkov's at his desk reading through it.  
+003718	Divex: I can just imagine Karkov and the Slipseer.  
+003719	Divex: Karkov's at his desk reading through it.  
 003720	Divex: The Slipseer's reading through it at the other side in one of the auxiliary chairs for the desk.  
 003721	Divex: And you just see to the left of them there's a big window.  
 003722	Divex: And he's just like, hmm.  
@@ -3847,7 +3847,7 @@
 003847	Dawnmonger: Our yurt.  
 003848	Lev: We should just sit on fire and leave.  
 003849	Divex: We were in great need of a rest.  
-003850	Divex: I had... You kept asking me, like, do you have a... No, I can't plan for... The one thing that I had was if the robot got too close, I would have cast Disappearance on Marza, or on Levmir, and then hopped in the orb and been like, we're fucking out of here.  
+003850	Divex: I had... You kept asking me, like, do you have a... No, I can't plan for... The one thing that I had was if the robot got too close, I would have cast Disappearance on Marza, or on Lev'Myr, and then hopped in the orb and been like, we're fucking out of here.  
 003851	Henrik: We could have taken it on.  
 003852	Divex: Fly the orb.  
 003853	Lev: Yeah.  
@@ -3866,7 +3866,7 @@
 003866	Lev: Yeah.  
 003867	Henrik: yeah he's done i don't know now i feel like we need to use it on nox because they're so awake why they're supposed to be dead they're so awake  
 003868	Lev: That's what I want to use the needle on.  
-003869	Gamemaster: On Imex?  
+003869	Gamemaster: On Immix?  
 003870	Lev: Yeah.  
 003871	Lev: Why?  
 003872	Lev: I'm going to be honest with you.  

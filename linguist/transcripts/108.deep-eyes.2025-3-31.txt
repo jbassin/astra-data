@@ -331,7 +331,7 @@
 000331	Lev: No.  
 000332	Divex: Well, I'm trying to build it.  
 000333	Gamemaster: Okay.  
-000334	Lev: Think about how much healthier our party got once we threw in Levmir, the second front line.  
+000334	Lev: Think about how much healthier our party got once we threw in Lev'Myr, the second front line.  
 000335	Lev: Think about it.  
 000336	Lev: We became unstoppable.  
 000337	Gamemaster: No.  
@@ -818,7 +818,7 @@
 000818	Lev: I would have actually said the opposite.  
 000819	Henrik: My concern with going to the deep is if we do something to the lighthouse.  
 000820	Lev: I trust the deep less right now.  
-000821	Lev: He's scheming with the body of Kharkov.  
+000821	Lev: He's scheming with the body of Karkov.  
 000822	Lev: And the Thiep's kind of been here 400 years.  
 000823	Lev: He wasn't awake for all of it.  
 000824	Dawnmonger: mmm yeah he's gonna release the deep good point no it's happening  
@@ -1008,7 +1008,7 @@
 001008	Lev: Do you want to needle him and then dip out and we take care of him, or should we handle that?  
 001009	Gamemaster: I was planning on hitting him with my needle.  
 001010	Gamemaster: You all can use yours on whatever you like.  
-001011	Gamemaster: It sounded like you wanted to use it on the deep, but I had Oxus retrieve this specifically for Mr. Feep.  
+001011	Gamemaster: It sounded like you wanted to use it on the deep, but I had Oxas retrieve this specifically for Mr. Feep.  
 001012	Lev: OK.  
 001013	Gamemaster: So I'll be using it on him.  
 001014	Lev: So we should, do you have a spot on your?  
@@ -3960,7 +3960,7 @@
 003960	Lev: Yeah.  
 003961	Gamemaster: Can you only do it once per day?  
 003962	Gamemaster: Yeah.  
-003963	Henrik: hit someone a second time that's already been hit yeah so but it's not per person so now i've hit levmir twice i cannot hit levmir again i also cannot hit divex again i think let me i'll figure that out but uh that was one two three we'll raise the shield with the fourth action  
+003963	Henrik: hit someone a second time that's already been hit yeah so but it's not per person so now i've hit Lev'Myr twice i cannot hit Lev'Myr again i also cannot hit divex again i think let me i'll figure that out but uh that was one two three we'll raise the shield with the fourth action  
 003964	Dawnmonger: No.  
 003965	Gamemaster: Nice.  
 003966	Gamemaster: Okay.  

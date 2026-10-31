@@ -2624,7 +2624,7 @@
 002624	Lev: I could try to grab it.  
 002625	Lev: I am... You know, I'm live meal.  
 002626	Henrik: He's right about that.  
-002627	Henrik: He is Levmir.  
+002627	Henrik: He is Lev'Myr.  
 002628	Dawnmonger: Alright.  
 002629	Dawnmonger: After you let me... I'm technically a champion of a holy entity, I guess.  
 002630	Lev: Alright.  
@@ -3049,7 +3049,7 @@
 003049	Dawnmonger: I mean, yeah, if someone wants to lend me a rune cutter object, I can get one.  
 003050	Lev: Yeah, my sword is quickened, and it's a runecutter.  
 003051	Dawnmonger: Okay.  
-003052	Dawnmonger: If you don't mind me borrowing the sword of Levmir.  
+003052	Dawnmonger: If you don't mind me borrowing the sword of Lev'Myr.  
 003053	Lev: Yes, go for it.  
 003054	Dawnmonger: I take it and assume it kind of squints.  
 003055	Divex: So gross.  
@@ -3091,7 +3091,7 @@
 003091	Gamemaster: That's a success.  
 003092	Gamemaster: You do also successfully cut the second chord.  
 003093	Gamemaster: There's like a very... the start of a screech, but you cut it off and it just collapses and falls to 20 feet.  
-003094	Lev: Levmir tries to catch them with his flame.  
+003094	Lev: Lev'Myr tries to catch them with his flame.  
 003095	Gamemaster: Roll an athletics trick.  
 003096	Lev: Excellent.  
 003097	Henrik: Thank you.  
@@ -3289,7 +3289,7 @@
 003289	Gamemaster: Sat behind it, dark-skinned, red velvet suit, immaculate smile.  
 003290	Gamemaster: Very familiar to you at this point.  
 003291	Gamemaster: You've seen him a few times.  
-003292	Gamemaster: Is, of course, an aspect of Imex.  
+003292	Gamemaster: Is, of course, an aspect of Immix.  
 003293	Gamemaster: Um...  
 003294	Gamemaster: He says, welcome back from commercial break, folks.  
 003295	Gamemaster: And of course, say hello to our guests of the evening, the Weft.  
@@ -3418,7 +3418,7 @@
 003418	Dawnmonger: I think we can assume at this point.  
 003419	Dawnmonger: Do we have anything present or can we just fuck with them?  
 003420	Lev: Where is his other aspects?  
-003421	Divex: I mean, so we know that each person got a different dossier on us, and we don't know what was in Kharkov's.  
+003421	Divex: I mean, so we know that each person got a different dossier on us, and we don't know what was in Karkov's.  
 003422	Lev: We can ask where his other aspects are.  
 003423	Lev: We could ask, what is the escape out of this place?  
 003424	Lev: Where does it go?  
@@ -3430,26 +3430,26 @@
 003430	Gamemaster: You guys are aware of what was in the dossiers.  
 003431	Gamemaster: It was like a compiled list of your abilities.  
 003432	Lev: Yeah.  
-003433	Divex: Where... Where Kharkov is right now?  
+003433	Divex: Where... Where Karkov is right now?  
 003434	Lev: What do you want to ask?  
 003435	Lev: Should we ask if there's any more holy gold, any more divinity cards?  
 003436	Gamemaster: Listen, folks, time's ticking.  
 003437	Lev: Yeah, let's do that.  
 003438	Lev: Yeah, that one.  
-003439	Divex: Where is Kharkov... Where is Kharkov right now?  
+003439	Divex: Where is Karkov... Where is Karkov right now?  
 003440	Lev: I like that one.  
-003441	Gamemaster: Kharkov, right now, is on the sixth floor of RC3.  
+003441	Gamemaster: Karkov, right now, is on the sixth floor of RC3.  
 003442	Gamemaster: He's in the Eschatology division.  
 003443	Gamemaster: He is, as we speak, doing a little bit of doomsday prep.  
 003444	Henrik: you  
 003445	Gamemaster: It seems the Deep is trying to break down the door and get into his head, controlling him in and out, dragging him down into eternal slumber.  
 003446	Gamemaster: He doesn't want that, so he's planning on fighting back.  
-003447	Dawnmonger: Are we gonna have to fight alongside Kharkov?  
+003447	Dawnmonger: Are we gonna have to fight alongside Karkov?  
 003448	Dawnmonger: This is above the table.  
 003449	Divex: We're fighting alongside the deep.  
 003450	Divex: I think you need to understand in terms of how we've been wronged, it is significantly higher.  
-003451	Divex: Kharkov has wronged us significantly worse than the deep.  
-003452	Dawnmonger: Okay, but Kharkov is a dude.  
+003451	Divex: Karkov has wronged us significantly worse than the deep.  
+003452	Dawnmonger: Okay, but Karkov is a dude.  
 003453	Dawnmonger: The Deep wants to end existence.  
 003454	Divex: Counterpoint.  
 003455	Henrik: Well,  
@@ -3559,7 +3559,7 @@
 003559	Lev: Yeah.  
 003560	Dawnmonger: Wait.  
 003561	Lev: See you in the Yellow City, my friend.  
-003562	Dawnmonger: Hey, Imex.  
+003562	Dawnmonger: Hey, Immix.  
 003563	Lev: I want the record to show that  
 003564	Dawnmonger: So the second you say back to commercial break, or somebody says, are we going to get transported out of here?  
 003565	Gamemaster: Yes, you are.  
@@ -3567,7 +3567,7 @@
 003567	Dawnmonger: I lean over the table and I go, I smack him and go, that's commercial break.  
 003568	Gamemaster: Yeah, I'll allow it.  
 003569	Gamemaster: You slap him and then all of you feel this pressure as, like, just the whole ocean returns and pulls away.  
-003570	Lev: Levmir is usually very good at hiding his emotions and is calm under pressure.  
+003570	Lev: Lev'Myr is usually very good at hiding his emotions and is calm under pressure.  
 003571	Lev: He looked shocked.  
 003572	Lev: When you slapped him, he was like, what?  
 003573	Dawnmonger: metal arm pull just boom that's commercial break look right in the camera  

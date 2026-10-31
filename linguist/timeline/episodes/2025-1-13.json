@@ -3,14 +3,14 @@
   "show": "deep-eyes",
   "summary": {
     "title": "The Dragon in the Hole — Rampart's Wild Ride",
-    "synopsis": "The party finishes off the Shoggoths and Paper Prophet inside the decaying corpse of the Archive, loots powerful enchanted gear, then rides the elevator down to Floor 6 to confront Kharkov. There they discover Beacon Maintenance occupied by Rampart and two Oreskian allies. A tense infiltration goes sideways when Rampart — immune to all magic — sees straight through the party's invisibility. A brutal combat erupts, and the session ends with Victor summoning a skeletal fiery dragon from the portal in the arena floor.",
+    "synopsis": "The party finishes off the Shoggoths and Paper Prophet inside the decaying corpse of the Archive, loots powerful enchanted gear, then rides the elevator down to Floor 6 to confront Karkov. There they discover Beacon Maintenance occupied by Rampart and two Oreskian allies. A tense infiltration goes sideways when Rampart — immune to all magic — sees straight through the party's invisibility. A brutal combat erupts, and the session ends with Victor summoning a skeletal fiery dragon from the portal in the arena floor.",
     "key_beats": [
       "Henrik escapes a Shoggoth's restraint but is quickly grappled and engulfed again, suffering acid and suffocation damage.",
       "Divex casts Collective Transposition to teleport Henrik to safety next to the Paper Prophet, then casts Weird (9th-level) — one Shoggoth critically fails its save and dies of fright from visions of men in high-vis vests with sawdust-filled leaf blowers.",
       "Lev and Henrik obliterate the Paper Prophet before it can cast a single spell — Lev's attack of opportunity interrupts its Harm attempt and crits for massive damage, and Henrik follows up with a crit of his own.",
       "The party grinds down the final Shoggoth over several rounds; Don finishes it with a fire-damage technomantic strike. Henrik survives only thanks to Lev's Lay on Hands and his own Battle Medicine.",
       "Post-combat looting yields a blue keycard, a +3 holy greater flaming greater striking silver meteor hammer, a greater blade of four energies (shifting short sword), a greater messenger's ring, and book covers enchanted with retrieval spells whose pages all read 'Harrow.'",
-      "The party debates their approach to Floor 6 and Kharkov, ultimately deciding to signal the Playwright to make Kharkov move the god-killing gun from the vault, then rides the elevator down to the sixth (violet) floor.",
+      "The party debates their approach to Floor 6 and Karkov, ultimately deciding to signal the Playwright to make Karkov move the god-killing gun from the vault, then rides the elevator down to the sixth (violet) floor.",
       "On Floor 6 they find the vault and eschatology division sealed behind ultraviolet clearance. They proceed to Beacon Maintenance, where Divex's shared invisibility and Lev's disguise as 'Desmond' fail against Rampart — who is immune to all magic effects.",
       "Combat erupts against Rampart, Victor (a hulking adamantine-fisted brute), the Blushsinger (conjoined-twin support caster), and an Oreskian Fateweaver. The Fateweaver casts Visions of Danger, creating a persistent hazardous AoE. Victor repeatedly crits Don and Lev for enormous bludgeoning damage, breaking Don's armor.",
       "Divex casts Desiccate (9th-level) to bloody the Blushsinger and Fateweaver, then casts Weird again — the Blushsinger fails and dies outright. Victor keeps cycling damage immunities each time he's hit by a new damage type.",
@@ -18,7 +18,7 @@
     ],
     "characters_present": [
       "Henrik",
-      "Lev (Levmir)",
+      "Lev (Lev'Myr)",
       "Divex",
       "Don (Dawn)",
       "Rampart",
@@ -26,7 +26,7 @@
       "Blushsinger",
       "Fateweaver",
       "Paper Prophet",
-      "Kharkov (mentioned)"
+      "Karkov (mentioned)"
     ],
     "locations": [
       "The decaying corpse of the Archive (Floor 3 / yellow level)",
@@ -38,7 +38,7 @@
     "factions": [
       "The Archive / Oreskian Research Complex",
       "The Deep",
-      "Kharkov's group",
+      "Karkov's group",
       "The Narrative"
     ],
     "items": [

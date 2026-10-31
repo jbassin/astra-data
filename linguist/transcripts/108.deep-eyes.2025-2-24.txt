@@ -1208,7 +1208,7 @@
 001208	Divex: Yeah.  
 001209	Dawnmonger: Do some reconnaissance.  
 001210	Lev: I would like to go with him.  
-001211	Lev: Is there a Rett?  
+001211	Lev: Is there a Ret?  
 001212	Divex: Yeah, I don't want to lose him as well.  
 001213	Dawnmonger: That's fair.  
 001214	Divex: Alright, we plop in the orb.  
@@ -2335,7 +2335,7 @@
 002335	Gamemaster: You have a minus 15 circumstance penalty to this roll.  
 002336	Henrik: Hello.  
 002337	Divex: We got him.  
-002338	Lev: Lev is going to pull out the little picture he has from Kharkov and go, what did Kharkov do?  
+002338	Lev: Lev is going to pull out the little picture he has from Karkov and go, what did Karkov do?  
 002339	Lev: I'm kidding.  
 002340	Lev: I don't actually do that.  
 002341	Gamemaster: I like to imagine that Lev has a little WWKD necklace that he's just been wearing around.  
@@ -2439,7 +2439,7 @@
 002439	Divex: It's just morale.  
 002440	Lev: Let me pull this up.  
 002441	Lev: Yes, I'm using Heroic Presence, which allows me to cast Zealous Conviction, which gives you all 12 temporary hit points and a plus 2 status bonus to saves or wills against mental.  
-002442	Dawnmonger: Josh, are these things, I'm going to expand my aura too, are these things just in the Rhett or in the real world?  
+002442	Dawnmonger: Josh, are these things, I'm going to expand my aura too, are these things just in the Ret or in the real world?  
 002443	Gamemaster: You guys can't see into the real world.  
 002444	Gamemaster: You can only see into the red.  
 002445	Gamemaster: There is a wall in the way in the real world.  
@@ -2465,7 +2465,7 @@
 002465	Dawnmonger: What?  
 002466	Divex: Did I...  
 002467	Lev: Cool.  
-002468	Lev: Without going into the Rett, can I look through the Rett to...  
+002468	Lev: Without going into the Ret, can I look through the Ret to...  
 002469	Lev: exploit vulnerability on this fella.  
 002470	Gamemaster: I think probably.  
 002471	Gamemaster: Let me double check, but I'm pretty sure the answer is yes.  
@@ -2544,7 +2544,7 @@
 002544	Gamemaster: Absolutely.  
 002545	Gamemaster: So we will begin the encounter with Havoc.  
 002546	Henrik: So I can move through this wall now?  
-002547	Henrik: Because we're in the Rhett?  
+002547	Henrik: Because we're in the Ret?  
 002548	Gamemaster: Correct.  
 002549	Henrik: Is that what happened?  
 002550	Gamemaster: Yeah, so we're starting this encounter with all of you jumping into the ret first for the fight.  

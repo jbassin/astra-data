@@ -1454,7 +1454,7 @@
 001454	Gamemaster: Okay, you get resistance, too.  
 001455	Dawnmonger: I have a lot of things.  
 001456	Gamemaster: Okay, then make a fort save, please.  
-001457	Lev: Is Levmir in one of them?  
+001457	Lev: Is Lev'Myr in one of them?  
 001458	Gamemaster: He isn't.  
 001459	Lev: I'd feel guilty not.  
 001460	Gamemaster: He isn't.  
@@ -2386,7 +2386,7 @@
 002386	Gamemaster: He just quickly pulls out a simple lever attached to a pulley system that he just needs to, like... Yeah, I mean...  
 002387	Dawnmonger: I just very quickly pull out a lever attached to the pulley, 46.  
 002388	Dawnmonger: I just run by.  
-002389	Divex: With Levmir's face on the end.  
+002389	Divex: With Lev'Myr's face on the end.  
 002390	Gamemaster: That is more than enough.  
 002391	Gamemaster: You absolutely push the guy into the lava, which he will make contact with and immediately burn up.  
 002392	Lev: Do we have any idea how to stop the other ones from channeling without causing the bombs to go off?  

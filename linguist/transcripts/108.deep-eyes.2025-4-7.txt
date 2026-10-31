@@ -2172,7 +2172,7 @@
 002172	Gamemaster: If you combined all three of them and then consumed it in nearly any quantity, you are just on the cusp, so that would work.  
 002173	Lev: Why didn't it work?  
 002174	Lev: Why didn't it Kirkov send?  
-002175	Gamemaster: Kharkov didn't have a heart.  
+002175	Gamemaster: Karkov didn't have a heart.  
 002176	Gamemaster: You already have divinity in you, and you're planning on injecting more.  
 002177	Lev: Oh.  
 002178	Lev: I see, I see.  
@@ -2418,14 +2418,14 @@
 002418	Divex: We're a few bombs short of our last plan.  
 002419	Lev: Well, if we want to install a new leader, we could give this over to... I don't remember how we know him, but there's some guy here who got this in.  
 002420	Gamemaster: No, you know about Bull, right?  
-002421	Gamemaster: Because he's part of the same organization as Oxus.  
+002421	Gamemaster: Because he's part of the same organization as Oxas.  
 002422	Lev: No.  
 002423	Divex: Yeah.  
 002424	Lev: No, I'm saying is I don't know how we got in.  
 002425	Lev: Who put our name in?  
 002426	Lev: Because I thought it was the broker that arranged it.  
-002427	Gamemaster: Yeah, I mean, you were talking with Oxus.  
-002428	Gamemaster: Oxus was... Yeah.  
+002427	Gamemaster: Yeah, I mean, you were talking with Oxas.  
+002428	Gamemaster: Oxas was... Yeah.  
 002429	Lev: Oh, yeah.  
 002430	Lev: Yeah, so we could do that.  
 002431	Lev: But I could, I don't know, take it.  
@@ -3463,7 +3463,7 @@
 003463	Gamemaster: as it's trying to get in, and it can't.  
 003464	Gamemaster: And the view zooms in even further, and you can see a half-familiar face pulling at the door, trying to get it open.  
 003465	Gamemaster: The upper torso...  
-003466	Gamemaster: Kharkov.  
+003466	Gamemaster: Karkov.  
 003467	Gamemaster: Definitely looking worse for wear.  
 003468	Gamemaster: Skin this almost pallid yellow.  
 003469	Gamemaster: The half of his face it looks like the skin has actually been completely ripped off or maybe flaked off and it has been replaced with some kind of mycelial outcropping coming out of where his skull should be.  
@@ -3692,7 +3692,7 @@
 003692	Gamemaster: I want to guarantee.  
 003693	Gamemaster: The Thessians cannot destroy the lighthouse.  
 003694	Lev: That's fair.  
-003695	Gamemaster: So if you can, I know for a fact you can keep the Sondheim safe.  
+003695	Gamemaster: So if you can, I know for a fact you can keep the Sundom safe.  
 003696	Lev: So why do we need to ascend to be able to destroy it?  
 003697	Gamemaster: Because, first of all, you can't.  
 003698	Gamemaster: That is very plain to me.  
@@ -3953,7 +3953,7 @@
 003953	Lev: We'll just get rid of the majority of it that was in the live deep.  
 003954	Dawnmonger: Okay.  
 003955	Divex: We kill the deep.  
-003956	Divex: We kill Kharkov 2.  
+003956	Divex: We kill Karkov 2.  
 003957	Gamemaster: No.  
 003958	Divex: Vessi and Boogaloo.  
 003959	Divex: And... So the... The 13th round will essentially be...  

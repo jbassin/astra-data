@@ -74,9 +74,9 @@
 000074	Gamemaster: But it wasn't built.  
 000075	Gamemaster: Like, you know, every once in a while... Actually, I'm trying to think about it.  
 000076	Gamemaster: I don't know if I've ever thrown a fight at you guys in an actual campaign where the expectation is that you just die outright.  
-000077	Arctos: Kharkov.  
+000077	Arctos: Karkov.  
 000078	Gamemaster: That has happened in one chops.  
-000079	Arctos: Kharkov.  
+000079	Arctos: Karkov.  
 000080	Arctos: The first time we met him.  
 000081	Gamemaster: The first time you met him, you probably would have died if you fought him, but I didn't think that you were going to fight him, so I don't know if that counts.  
 000082	Johnny: Who?  

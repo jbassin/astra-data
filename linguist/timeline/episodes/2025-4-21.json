@@ -3,7 +3,7 @@
   "show": "deep-eyes",
   "summary": {
     "title": "The City in Yellow: Six Spires and the Shaping",
-    "synopsis": "The party completes a sequence of six spire trials across the City in Yellow on Ilkain, each one progressively rebuilding the decaying fungal city and transforming its faceless inhabitants into living Thessians. After learning that Thessians evolved from three-armed, radially symmetric starfish-like creatures, stabilizing the city's sky, life cycle, and geometry, the party ascends the central hill to find Kharkov's body puppeted by the Deep, who announces it is time to shape them into their \"ascended, true, perfect forms.\"",
+    "synopsis": "The party completes a sequence of six spire trials across the City in Yellow on Ilkain, each one progressively rebuilding the decaying fungal city and transforming its faceless inhabitants into living Thessians. After learning that Thessians evolved from three-armed, radially symmetric starfish-like creatures, stabilizing the city's sky, life cycle, and geometry, the party ascends the central hill to find Karkov's body puppeted by the Deep, who announces it is time to shape them into their \"ascended, true, perfect forms.\"",
     "key_beats": [
       "Combat resumes against fungal tree creatures (a sard and a fungal triceratops) in the City in Yellow; Don obliterates the triceratops with a 140-damage magic punch, and Henrik finishes the sard with a 124-damage critical strike.",
       "After combat, a fairy ring of blue fungal growth with a floating yellow bulb appears; Divex's occultism check reveals the growths share ancestry with the city and that a convection cell of energy flows between the rings. Lev touches the bulb, which bursts and rebuilds the city into pristine condition; the Spire of History fires a beam of light, reducing everyone's 'unworthy' stacks from six to five.",
@@ -13,14 +13,14 @@
       "At the Spire of Sky, an obsidian dome contains a golden orrery with ten boring, uniform rocky planets and incorrectly positioned painted stars; the party removes all planets but one (made yellow) and erases all the stars, stabilizing the orbit and triggering the change — the city's sky becomes black and starless, and the background drone shifts to organ music.",
       "At the Spire of Cycle, a white dome contains a tallow candle, a yellow sapling, a Thessian skull, and a shrieking Thessian baby on a pedestal; the party deduces the life cycle (bone meal fertilizes the sapling, the baby eats the plant, the baby dies and becomes tallow) and places all four items into alcoves in the correct order on the first try.",
       "At the Spire of Geometry, the party falls through a void with a square platform and a lever that redirects gravity; after multiple jumps, lever pulls, and falling rotations, all four land on a circular platform that descends, completing the trial and stabilizing the city's non-Euclidean geometry into proper form. All become 'worthy.'",
-      "The party ascends the central hill and finds a giant fungal organ played by Kharkov's body, puppeted by the Deep — a flat yellow faceplate with a single red eye and marionette strings. The Deep speaks through Kharkov: 'Welcome. It is time for you to be shaped to your ascended, true, perfect forms.'"
+      "The party ascends the central hill and finds a Giant fungal organ played by Karkov's body, puppeted by the Deep — a flat yellow faceplate with a single red eye and marionette strings. The Deep speaks through Karkov: 'Welcome. It is time for you to be shaped to your ascended, true, perfect forms.'"
     ],
     "characters_present": [
       "Henrik (played by Tanner)",
       "Lev / Levmere Oroskelka (played by Jorge)",
       "Divex (played by Mike)",
       "Don / Dawnmonger (played by Noah)",
-      "Kharkov (puppeted by the Deep)",
+      "Karkov (puppeted by the Deep)",
       "Admiral Udon (mentioned)",
       "The Deep"
     ],
@@ -55,6 +55,6 @@
       "Robust Health feat",
       "Strange Script feat"
     ],
-    "cliffhanger": "The Deep, looming 150 feet above and puppeteering Kharkov's fungal-covered body like a marionette at the top of the city's central hill, announces: 'Welcome. It is time for you to be shaped to your ascended, true, perfect forms.' — setting up a confrontation as the party debates whether to needle the Deep before or after dealing with Kharkov."
+    "cliffhanger": "The Deep, looming 150 feet above and puppeteering Karkov's fungal-covered body like a marionette at the top of the city's central hill, announces: 'Welcome. It is time for you to be shaped to your ascended, true, perfect forms.' — setting up a confrontation as the party debates whether to needle the Deep before or after dealing with Karkov."
   }
 }

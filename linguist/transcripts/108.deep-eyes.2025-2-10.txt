@@ -602,7 +602,7 @@
 000602	Divex: Go as grim.  
 000603	Lev: But just better than everyone else.  
 000604	Dawnmonger: Someone else in the party.  
-000605	Henrik: I was thinking we just try to be like a different NPC from the campaign and hope there's like a big Oxus fan out there.  
+000605	Henrik: I was thinking we just try to be like a different NPC from the campaign and hope there's like a big Oxas fan out there.  
 000606	Dawnmonger: Thank you.  
 000607	Gamemaster: Could be, you know or not.  
 000608	Lev: Yeah.  
@@ -1269,7 +1269,7 @@
 001269	Gamemaster: Okay, so that's three registrants.  
 001270	Dawnmonger: We're going to lose to a character we've never even heard of.  
 001271	Gamemaster: You're all together.  
-001272	Gamemaster: You are a party from the Weft from the Lighthouse with Imex.  
+001272	Gamemaster: You are a party from the Weft from the Lighthouse with Immix.  
 001273	Divex: Yeah.  
 001274	Gamemaster: Okay, and then you are obviously Tarv.  
 001275	Henrik: We're going to lose because there's only three of us.  
@@ -2010,7 +2010,7 @@
 002010	Dawnmonger: This is what I was born to do.  
 002011	Dawnmonger: I fought the moon my entire life to make machine gun arms.  
 002012	Lev: Cool.  
-002013	Henrik: But can you put them on Levmir?  
+002013	Henrik: But can you put them on Lev'Myr?  
 002014	Dawnmonger: Lev, do you need your arms?  
 002015	Dawnmonger: It'd be a lot more authentic if you didn't have arms.  
 002016	Lev: Oh, I would prefer to keep them unless you can reattach them.  
@@ -3251,7 +3251,7 @@
 003251	Gamemaster: What could I get with 250 creds?  
 003252	Gamemaster: Like, a hamburger?  
 003253	Dawnmonger: A low quality implant?  
-003254	Lev: I'm going to, Levmir is going to, it makes a lot of sense, and pull out this weird black blindfold and then tie it around his eyes so it covers his eyes.  
+003254	Lev: I'm going to, Lev'Myr is going to, it makes a lot of sense, and pull out this weird black blindfold and then tie it around his eyes so it covers his eyes.  
 003255	Lev: And they, I believe, will have to, first time a particular creature sees it in a day, they must make a 37 will save or be frightened.  
 003256	Gamemaster: Okay.  
 003257	Lev: Unfortunately, that's everyone that sees it.  
@@ -3391,7 +3391,7 @@
 003391	Henrik: Anyway, these people tried to cyberbully us and we don't even have access to the internet yet.  
 003392	Dawnmonger: Yeah, that's really funny to be like, I want to post this video of you and us being like, we don't even live on this planet, man.  
 003393	Gamemaster: Correct.  
-003394	Lev: Hendrik and Levmir also swapped some items.  
+003394	Lev: Hendrik and Lev'Myr also swapped some items.  
 003395	Gamemaster: They didn't know that!  
 003396	Divex: We're from Hall of Fame.  
 003397	Divex: We keep telling people this.  
@@ -3479,8 +3479,8 @@
 003479	Gamemaster: One of whom, definitely familiar to you.  
 003480	Gamemaster: Um...  
 003481	Gamemaster: There are three definitely straight-up talk show host-looking people, as much as somebody can look like the host of a talk show.  
-003482	Gamemaster: One of them, dark-skinned, velvet suit, cloudy eye, it's Imex.  
-003483	Gamemaster: It looks like Imex, unchanged from how you have seen him in the lighthouse.  
+003482	Gamemaster: One of them, dark-skinned, velvet suit, cloudy eye, it's Immix.  
+003483	Gamemaster: It looks like Immix, unchanged from how you have seen him in the lighthouse.  
 003484	Gamemaster: And the three of them are set up there.  
 003485	Gamemaster: The facilitator, whose name is...  
 003486	Gamemaster: Rex Fathom says, all right, folks, we don't really have anything planned.  
@@ -3622,7 +3622,7 @@
 003622	Divex: a desire for tragic endings.  
 003623	Gamemaster: he'll immediately respond with, they wouldn't, I'll take them.  
 003624	Lev: transform just to what else for my next question just to look like more people are asking questions and you should see through it but it's like it's fine  
-003625	Gamemaster: The facilitator is dumbfounded at this, given that it looked like they didn't know who Imex was, and now three people have come up and directed a question directly at the person who nobody knows who they are or why they're here.  
+003625	Gamemaster: The facilitator is dumbfounded at this, given that it looked like they didn't know who Immix was, and now three people have come up and directed a question directly at the person who nobody knows who they are or why they're here.  
 003626	Gamemaster: Um...  
 003627	Dawnmonger: Thank you.  
 003628	Gamemaster: Immix will respond with, no, see, I've been in this industry for a very long time.  
@@ -3668,7 +3668,7 @@
 003668	Gamemaster: Sure, we only get them in for an interview once or twice, but we've been keeping Anaïs out.  
 003669	Gamemaster: You know, all the people that matter, I suppose, have been making regular appearances on our show.  
 003670	Gamemaster: Yes, Don, again.  
-003671	Dawnmonger: Hey, Imex, great to see you again.  
+003671	Dawnmonger: Hey, Immix, great to see you again.  
 003672	Dawnmonger: Speaking of people that matter, we've been walking around a whole bunch and we put on these great cosplays and we really feel like we put our whole heart into who we are for this.  
 003673	Dawnmonger: It's such a shame.  
 003674	Dawnmonger: No one I've talked to here...  
@@ -3714,7 +3714,7 @@
 003714	Gamemaster: And you just keep going into the backstage.  
 003715	Lev: Excuse me.  
 003716	Lev: Great job.  
-003717	Gamemaster: You pull back the curtain, follow Imex, and that's where we'll end it for today's session.  
+003717	Gamemaster: You pull back the curtain, follow Immix, and that's where we'll end it for today's session.  
 003718	Lev: Great job.  
 003719	Dawnmonger: Excellent.  
 003720	Dawnmonger: Shake their hands.  
@@ -3723,7 +3723,7 @@
 003723	Divex: Mm hmm.  
 003724	Gamemaster: Just so it doesn't get dropped between.  
 003725	Gamemaster: Oh, yeah.  
-003726	Gamemaster: I like how at some point, maybe like two or three TV shows in, you guys became openly antagonistic towards Imex.  
+003726	Gamemaster: I like how at some point, maybe like two or three TV shows in, you guys became openly antagonistic towards Immix.  
 003727	Henrik: Well he sold out his family.  
 003728	Gamemaster: Like, literally every time you have the chance to shit talk him to his face, you will do so.  
 003729	Lev: Yeah.  
