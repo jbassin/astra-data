@@ -4264,6 +4264,27 @@
       "target": "Phenomena/Althane/Cycle"
     },
     {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
       "alias": "Crystal Sphere",
       "heading": null,
       "resolved": "Phenomena/Crystal Sphere",
@@ -7001,6 +7022,13 @@
       "target": "Phenomena/Midnight Sun"
     },
     {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Geography/Syrin (Locality)/Dive Bar",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
       "alias": "Omnivox",
       "heading": null,
       "resolved": "Org/Omnivox/index",
@@ -7125,6 +7153,13 @@
       "resolved": "Geography/Althane/index",
       "source": "Geography/Syrin (Locality)/index",
       "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "Omnivox",
+      "heading": null,
+      "resolved": "Org/Omnivox/index",
+      "source": "Geography/Syrin (Locality)/index",
+      "target": "Org/Omnivox/index"
     },
     {
       "alias": "Terminus",
@@ -8322,6 +8357,20 @@
       "resolved": "Divinity/Unknown Entities/The Deep",
       "source": "Org/Althane/The Weft",
       "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/The Broker"
     },
     {
       "alias": "Sanguis Noxa",
@@ -11082,6 +11131,13 @@
       "target": "Org/Omnivox/Tarv of the Rising Moon"
     },
     {
+      "alias": "Rhett",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Omnivox/index",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
       "alias": "Widdershins",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/Widdershins/index",
@@ -12445,6 +12501,34 @@
       "resolved": "Divinity/Thessians",
       "source": "Org/The Fifth Prosperous Empire of the Sundom",
       "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Althane",
+      "heading": null,
+      "resolved": "Geography/Althane/index",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Geography/Althane/index"
+    },
+    {
+      "alias": "cycle",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Cycle",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Phenomena/Althane/Cycle"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Divinity/Immix"
     },
     {
       "alias": "Providence",
@@ -14519,6 +14603,13 @@
       "target": "Geography/Althane/The Hollow/Lava Ruin/index"
     },
     {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -14552,6 +14643,13 @@
       "resolved": "Phenomena/Althane/Godpiercer",
       "source": "People/Althane/Divex",
       "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Divex",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Tidereader's Rest",
@@ -14762,6 +14860,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Henrik",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Henrik",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Gnome",
@@ -15084,6 +15189,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Lev",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Lev",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Trust",
@@ -15525,6 +15637,13 @@
       "resolved": "Divinity/The Narrative/index",
       "source": "People/Althane/The Broker",
       "target": "Divinity/The Narrative/index"
+    },
+    {
+      "alias": "Terminus",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/Terminus",
+      "source": "People/Althane/The Broker",
+      "target": "Geography/Syrin (Locality)/Terminus"
     },
     {
       "alias": "Illyara",
@@ -18206,6 +18325,34 @@
       "resolved": "Org/Althane/The Trust",
       "source": "Phenomena/Althane/Cycle",
       "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Divinity/Immix"
     },
     {
       "alias": "forge-heart",
@@ -26172,16 +26319,31 @@
           "alias": "cycle",
           "heading": null,
           "target": "Phenomena/Althane/Cycle"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -29509,6 +29671,31 @@
     {
       "crossrefs": [
         {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        }
+      ],
+      "date": "2025-02-18T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-02-18T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": "Dive Bar"
+      },
+      "path": "Geography/Syrin (Locality)/Dive Bar"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Omnivox",
           "heading": null,
           "target": "Org/Omnivox/index"
@@ -29659,17 +29846,22 @@
           "target": "Geography/Althane/index"
         },
         {
+          "alias": "Omnivox",
+          "heading": null,
+          "target": "Org/Omnivox/index"
+        },
+        {
           "alias": "Terminus",
           "heading": null,
           "target": "Geography/Syrin (Locality)/Terminus"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -31321,16 +31513,26 @@
           "alias": "Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -34845,16 +35047,21 @@
           "alias": "Tarv of the Rising Moon",
           "heading": null,
           "target": "Org/Omnivox/Tarv of the Rising Moon"
+        },
+        {
+          "alias": "Rhett",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-02-10T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-10T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -36573,14 +36780,34 @@
           "alias": "Thessians",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Althane",
+          "heading": null,
+          "target": "Geography/Althane/index"
+        },
+        {
+          "alias": "cycle",
+          "heading": null,
+          "target": "Phenomena/Althane/Cycle"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -39238,16 +39465,21 @@
           "alias": "the lava ruin",
           "heading": null,
           "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -39281,16 +39513,21 @@
           "alias": "godpiercer",
           "heading": null,
           "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -39571,16 +39808,21 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -39986,16 +40228,21 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2024-12-16T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-16T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40560,16 +40807,21 @@
           "alias": "the Narrative",
           "heading": null,
           "target": "Divinity/The Narrative/index"
+        },
+        {
+          "alias": "Terminus",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)/Terminus"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -43980,16 +44232,36 @@
           "alias": "the Trust",
           "heading": null,
           "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2025-02-18T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2025-02-18T00:00:00-04:00"
         },
         "img": null,
         "tags": [

@@ -613,6 +613,9 @@ entity "dhampir" {
 entity "Diamond District" kind="place" page="Geography/Færrin/Calaria/Hallia/Diamond District/index" {
     source "akasha"
 }
+entity "Dive Bar" kind="place" page="Geography/Syrin (Locality)/Dive Bar" {
+    source "akasha"
+}
 entity "Divex" kind="person" being="mike" {
     alias "Dybeck"
     alias "Dive-X"
