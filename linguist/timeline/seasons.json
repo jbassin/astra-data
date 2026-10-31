@@ -8,7 +8,7 @@
         {
           "number": 1,
           "title": "Delivery Boys",
-          "arc_summary": "The newly formed party takes odd jobs as couriers and investigators in Hallia, gradually uncovering a conspiracy involving Ugathul skinwalkers, the Roundhat Gang's radar dishes, and the necromancer Master Grayson — culminating in a raid on Grayson's underground Fane and a narrow escape with damning evidence.",
+          "arc_summary": "The party forms as freelance couriers in Hallia, taking odd jobs that lead them to discover Ugathul infiltrators, the Embercall conspiracy, and the necromantic activities of Councilor Grayson — culminating in a harrowing escape from his underground Fane.",
           "episode_dates": [
             "2025-8-28",
             "2025-10-20",
@@ -21,7 +21,7 @@
         {
           "number": 2,
           "title": "The Black and White",
-          "arc_summary": "A catastrophic ambush at the Crowded Flea leaves three party members dead, sending Johnny and Benny through the void of the Black and White to be restored by the entity Aut. Reunited and reinforced by Sir Arctos, the party takes revenge on Hlarf, assaults Tywelwyn Leatherhide in his fiery Fane, and discovers six Thessian gods attempting to crack the Firmament.",
+          "arc_summary": "A catastrophic ambush at the Crowded Flea leaves three party members dead, sending Johnny and Benny through the Black and White void where they meet the entity Aut. Resurrected but diminished, the party hunts down Hlarf and Tywelwyn Leatherhide, uncovering a conspiracy of six Thessian gods attempting to breach the Firmament via radar dishes across Hallia.",
           "episode_dates": [
             "2025-12-2",
             "2025-12-9",
@@ -34,7 +34,7 @@
         {
           "number": 3,
           "title": "The Pilgrimage",
-          "arc_summary": "Rescuing Anaïs reveals the cosmic family called the Narrative, and the party attends a massive pilgrimage gathering at Ragged Roost to compete for keystones granting passage aboard a colossal Strider. Through gladiatorial trials, puzzle-solving, diplomacy with a Prime Meridian Heart, and a bloody ambush by Concordia enforcers, the party secures their keystone and prepares for the voidward journey.",
+          "arc_summary": "The rescue of Anaïs reveals the cosmic Narrative — five sibling entities including the party's patron Aut. The party attends a mysterious Pilgrimage event, competes in trials and a scavenger hunt, and trades a stolen painting to a train-heart for their first keystone — securing passage aboard a colossal walking Strider.",
           "episode_dates": [
             "2026-1-13",
             "2026-1-20",
@@ -48,7 +48,7 @@
         {
           "number": 4,
           "title": "Cracks in the Firmament",
-          "arc_summary": "During a six-month downtime, the party investigates the sewers beneath Teller's Run and discovers a fracture in reality itself — a window into a parallel world where a two-mile-tall deity stands imprisoned behind the Firmament. After hacking a research terminal to uncover a vast conspiracy and bombing the facility, they escape as Teller's Run collapses in ash.",
+          "arc_summary": "Argyle returns from the dead as only half a man while the party investigates Teller's Run's sewers, discovering a crack in the Firmament itself where a two-mile-tall imprisoned deity looms. After uncovering a vast conspiracy funded by Grayson to shatter reality, the party bombs the research facility and triggers the Pilgrimage's departure.",
           "episode_dates": [
             "2026-3-9",
             "2026-3-16",
@@ -59,8 +59,8 @@
         },
         {
           "number": 5,
-          "title": "The Strider",
-          "arc_summary": "Aboard the colossal Strider, the party builds a Fane with their newborn heart Eerie, navigates deadly faction politics under a devilish Master of Ceremonies who demands weekly tithes of life energy, and delves deep into the Undercroft to ally with the ancient Machine God and purge the Herald's cultists — until a catastrophic ritual to recruit the Menhir destroys that cosmic sibling and flings the Strider to a dead, scoured world far off every map.",
+          "title": "Aboard the Strider",
+          "arc_summary": "Aboard the colossal Strider, the party builds their Fane, navigates deadly faction politics, and endures the Harlequin's weekly tithe. Delving into the Undercroft, they ally with the ancient Machine God, assault the sleeping clan's hospital, and — in a desperate bid for power — destroy the Menhir, a member of the Narrative, catastrophically stranding the Strider on a dead world.",
           "episode_dates": [
             "2026-5-7",
             "2026-5-11",
@@ -82,10 +82,9 @@
         {
           "number": 6,
           "title": "Stranded",
-          "arc_summary": "Stranded on a godless horizon, the party rallies surviving factions, frees a half-minotaur gunslinger from the Herald's compulsion via psychic mind-dives, battles corrupted Harlequins in the Strider's spire, defeats Anzu's sister Galzu inside Tally's Fane, and ventures across the wastes to explore the abandoned Hesperid mining outposts — making first contact with alien castaways who reveal the Ashen Pact's newly ascended Thessians.",
+          "arc_summary": "Stranded far beyond the known map, the party rallies surviving factions, rescues a gunslinger from the Herald's thrall, hunts Anzu's corrupted sister Galzu through a surreal Fane, and discovers the alien Hesperid outpost — making first contact with castaways who reveal the true nature of the Ashen Pact and the ascension of new Thessian gods.",
           "episode_dates": [
             "2026-8-24",
-            "2026-9-3",
             "2026-9-7",
             "2026-9-17",
             "2026-10-1",
@@ -119,8 +118,8 @@
       "seasons": [
         {
           "number": 1,
-          "title": "The Joker World Descent",
-          "arc_summary": "The Scale operatives — Sir Cliff, Gregor, the Reverend, and Zangren Lee — are dispatched to a shattered Joker World to investigate a slip-shielded structure, battling through demon swarms and solving the Quorum's fiendish puzzles before descending through a bloodfall portal to rescue Voice of Many, a trapped divine heart, and escape back to headquarters. (The season also opens with the conclusion of a prior Cagley Middle one-shot.)",
+          "title": "The Descent into the Joker World",
+          "arc_summary": "The Cagley Middle heroes slay the Terror of Cagley's shadow demon, then four high-ranking Scale operatives descend onto a shattered Joker World to investigate a mysterious structure. They fight through the fiend-held Quorum, uncover a bloodfall portal leading to the trapped divine heart Voice of Many, and wage a desperate defense to free it and escape.",
           "episode_dates": [
             "2025-6-9",
             "2025-6-16",
@@ -151,17 +150,10 @@
       "seasons": [
         {
           "number": 1,
-          "title": "The Everdawn Drift",
-          "arc_summary": "Sedecium agents Scrazzy, Foral, and Ozzie investigate an unpowered orbital station half-sunk in the slip, uncovering that the Thessian Gremory ('Esoterica') tortured the station's AI and accessed records of a massive magical spike near the Astra's core. The season establishes the team, their handler TuRiin, and the central mystery driving the campaign.",
+          "title": "The Sedecium Fire Team",
+          "arc_summary": "A trio of Sedecium agents — Old Man Scrazzy, Lieutenant Foral, and Ozzie — undertake perilous missions across the slip and beyond, first investigating a derelict orbital observatory to uncover a Thessian conspiracy, then raiding a dead god's essence before it's devoured. Across both operations they prove themselves as Sedecium's most capable fire team.",
           "episode_dates": [
-            "2026-4-6"
-          ]
-        },
-        {
-          "number": 2,
-          "title": "One Last Job",
-          "arc_summary": "Pulled from retirement, the fire team boards a Sundom planet-killer to raid divine essence from the freshly-slain Thessian god Tithe before the God Eater Harrow finishes consuming it. The one-shot heist shifts tone to a high-stakes extraction mission, proving the team's elite capability as the first and only fire team to succeed.",
-          "episode_dates": [
+            "2026-4-6",
             "2026-4-27"
           ]
         }
@@ -181,7 +173,22 @@
           ]
         }
       ]
+    },
+    {
+      "show": "urth",
+      "name": "Urth",
+      "is_main": false,
+      "seasons": [
+        {
+          "number": 1,
+          "title": "Season 1",
+          "arc_summary": "When a goblin intern at Bisney & Dixar Animated Studios connects a new arcane intelligence to the studio's databases, the AI overloads and casts a spell that engulfs Los Diablos in a blackout and creates a 'movie' on the island of Afro-China. Three Disney villains — Hades, Fulton (Gaston's legally distinct cousin), and Runway Brian (a forgotten Disney short mouse) — are chosen by a mandrill statue of Zeus to recover an enchanted mirror stolen by Maui, now hidden in an Elephant Graveyard of Wonders. After surviving a wildebeest stampede, solving the Cave of Wonders' riddle, defeating the hybrid genie Jaskar (Jafar-Scar fusion), and wishing themselves past a whole skipped sequence to the final soundstage, the trio battles the Legally Distinct Nostalgia Hydra — a five-headed amalgamation of iconic Disney characters that undergoes a terrifying live-action reboot mid-fight. They slay it, seize the mirror, and dive through it into the real world.",
+          "episode_dates": [
+            "2026-9-3"
+          ]
+        }
+      ]
     }
   ],
-  "inputs_hash": "77dbef2ad97875d1046da8710ba443aa0c98b289b964321b0df1962087b93662"
+  "inputs_hash": "b2067316ed1784e24a286548731b12224f9f23b9bc063ac8fa521eb725667a6c"
 }
