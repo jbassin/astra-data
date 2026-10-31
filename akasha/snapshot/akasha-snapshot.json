@@ -2514,6 +2514,13 @@
       "target": "Divinity/Higher Kind"
     },
     {
+      "alias": "rare gold metal",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Divinity/Thessians",
+      "target": "Phenomena/Holy Gold"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Calaria/Verdant Expanse",
@@ -5398,27 +5405,6 @@
       "target": "Infinite Horizon"
     },
     {
-      "alias": null,
-      "heading": null,
-      "resolved": "Geography/Færrin",
-      "source": "Geography/Earth",
-      "target": "Færrin"
-    },
-    {
-      "alias": "Los Diablos",
-      "heading": null,
-      "resolved": "Geography/Los Diablos",
-      "source": "Geography/Earth",
-      "target": "Geography/Los Diablos"
-    },
-    {
-      "alias": "Bisney and Dixar",
-      "heading": null,
-      "resolved": "Org/Bisney and Dixar/index",
-      "source": "Geography/Earth",
-      "target": "Org/Bisney and Dixar/index"
-    },
-    {
       "alias": "arcane intelligence",
       "heading": null,
       "resolved": "Org/Bisney and Dixar/Arcane Intelligence",
@@ -5785,9 +5771,9 @@
     {
       "alias": "Earth",
       "heading": null,
-      "resolved": "Geography/Earth",
+      "resolved": "Geography/Urth",
       "source": "Geography/Los Diablos",
-      "target": "Geography/Earth"
+      "target": "Geography/Urth"
     },
     {
       "alias": "Bisney and Dixar",
@@ -6035,6 +6021,13 @@
       "target": "Org/Iridescent Church/index"
     },
     {
+      "alias": null,
+      "heading": null,
+      "resolved": "Geography/Færrin",
+      "source": "Geography/Urth",
+      "target": "Færrin"
+    },
+    {
       "alias": "Crystal Sphere",
       "heading": null,
       "resolved": "Phenomena/Crystal Sphere",
@@ -6047,6 +6040,20 @@
       "resolved": "Geography/Astra",
       "source": "Geography/Urth",
       "target": "Geography/Astra"
+    },
+    {
+      "alias": "Los Diablos",
+      "heading": null,
+      "resolved": "Geography/Los Diablos",
+      "source": "Geography/Urth",
+      "target": "Geography/Los Diablos"
+    },
+    {
+      "alias": "Bisney and Dixar",
+      "heading": null,
+      "resolved": "Org/Bisney and Dixar/index",
+      "source": "Geography/Urth",
+      "target": "Org/Bisney and Dixar/index"
     },
     {
       "alias": null,
@@ -7171,9 +7178,9 @@
     {
       "alias": "Earth",
       "heading": null,
-      "resolved": "Geography/Earth",
+      "resolved": "Geography/Urth",
       "source": "Org/Bisney and Dixar/index",
-      "target": "Geography/Earth"
+      "target": "Geography/Urth"
     },
     {
       "alias": "arcane intelligence",
@@ -10387,6 +10394,13 @@
       "resolved": "Divinity/Ashen Pact/Regent",
       "source": "Org/Sedecium",
       "target": "Divinity/Ashen Pact/Regent"
+    },
+    {
+      "alias": "rare gold metal",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Org/Sedecium",
+      "target": "Phenomena/Holy Gold"
     },
     {
       "alias": "Belvedere",
@@ -15333,9 +15347,9 @@
     {
       "alias": "starmetal",
       "heading": null,
-      "resolved": "Phenomena/Starmetal",
+      "resolved": "Phenomena/Sky Metal",
       "source": "Phenomena/Althane/Cold Iron",
-      "target": "Phenomena/Starmetal"
+      "target": "Phenomena/Sky Metal"
     },
     {
       "alias": "lycan",
@@ -15550,9 +15564,9 @@
     {
       "alias": "starmetal",
       "heading": null,
-      "resolved": "Phenomena/Starmetal",
+      "resolved": "Phenomena/Sky Metal",
       "source": "Phenomena/Althane/Æternalis",
-      "target": "Phenomena/Starmetal"
+      "target": "Phenomena/Sky Metal"
     },
     {
       "alias": "Occident",
@@ -16005,9 +16019,9 @@
     {
       "alias": "starmetal",
       "heading": null,
-      "resolved": "Phenomena/Starmetal",
+      "resolved": "Phenomena/Sky Metal",
       "source": "Phenomena/Holy Gold",
-      "target": "Phenomena/Starmetal"
+      "target": "Phenomena/Sky Metal"
     },
     {
       "alias": "Astra",
@@ -16017,11 +16031,39 @@
       "target": "Geography/Astra"
     },
     {
+      "alias": "The End",
+      "heading": null,
+      "resolved": "Phenomena/The End",
+      "source": "Phenomena/Holy Gold",
+      "target": "Phenomena/The End"
+    },
+    {
+      "alias": "Menhir",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Menhir",
+      "source": "Phenomena/Holy Gold",
+      "target": "Divinity/The Narrative/Menhir"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Phenomena/Holy Gold",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Holy Gold",
+      "target": "Divinity/Thessians"
+    },
+    {
       "alias": "starmetal",
       "heading": null,
-      "resolved": "Phenomena/Starmetal",
+      "resolved": "Phenomena/Sky Metal",
       "source": "Phenomena/Infernium",
-      "target": "Phenomena/Starmetal"
+      "target": "Phenomena/Sky Metal"
     },
     {
       "alias": "Astra",
@@ -16724,10 +16766,17 @@
       "target": "Geography/Star 221,325"
     },
     {
+      "alias": "Astra",
+      "heading": null,
+      "resolved": "Geography/Astra",
+      "source": "Phenomena/Sky Metal",
+      "target": "Geography/Astra"
+    },
+    {
       "alias": "mana",
       "heading": null,
       "resolved": "Phenomena/Manifestation",
-      "source": "Phenomena/Starmetal",
+      "source": "Phenomena/Sky Metal",
       "target": "Phenomena/Manifestation"
     },
     {
@@ -16736,6 +16785,13 @@
       "resolved": "Divinity/The Narrative/Menhir",
       "source": "Phenomena/The End",
       "target": "Divinity/The Narrative/Menhir"
+    },
+    {
+      "alias": "gold spikes",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Phenomena/The End",
+      "target": "Phenomena/Holy Gold"
     },
     {
       "alias": "Anzu",
@@ -19866,8 +19922,7 @@
       "frontmatter": {
         "aliases": [],
         "campaigns": [
-          "through-a-song-darkly",
-          "deep-eyes"
+          "through-a-song-darkly"
         ],
         "extra": {
           "date": "2026-08-17T00:00:00-04:00"
@@ -20155,6 +20210,11 @@
           "alias": "higher kinds",
           "heading": null,
           "target": "Divinity/Higher Kind"
+        },
+        {
+          "alias": "rare gold metal",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -24423,39 +24483,6 @@
     {
       "crossrefs": [
         {
-          "alias": null,
-          "heading": null,
-          "target": "Færrin"
-        },
-        {
-          "alias": "Los Diablos",
-          "heading": null,
-          "target": "Geography/Los Diablos"
-        },
-        {
-          "alias": "Bisney and Dixar",
-          "heading": null,
-          "target": "Org/Bisney and Dixar/index"
-        }
-      ],
-      "date": "2026-09-03T00:00:00-04:00",
-      "frontmatter": {
-        "aliases": [],
-        "campaigns": [
-          "through-a-song-darkly"
-        ],
-        "extra": {
-          "date": "2026-09-03T00:00:00-04:00"
-        },
-        "img": null,
-        "tags": [],
-        "title": null
-      },
-      "path": "Geography/Earth"
-    },
-    {
-      "crossrefs": [
-        {
           "alias": "arcane intelligence",
           "heading": null,
           "target": "Org/Bisney and Dixar/Arcane Intelligence"
@@ -24948,7 +24975,7 @@
         {
           "alias": "Earth",
           "heading": null,
-          "target": "Geography/Earth"
+          "target": "Geography/Urth"
         },
         {
           "alias": "Bisney and Dixar",
@@ -25319,6 +25346,11 @@
     {
       "crossrefs": [
         {
+          "alias": null,
+          "heading": null,
+          "target": "Færrin"
+        },
+        {
           "alias": "Crystal Sphere",
           "heading": null,
           "target": "Phenomena/Crystal Sphere"
@@ -25327,20 +25359,31 @@
           "alias": "Astra",
           "heading": null,
           "target": "Geography/Astra"
+        },
+        {
+          "alias": "Los Diablos",
+          "heading": null,
+          "target": "Geography/Los Diablos"
+        },
+        {
+          "alias": "Bisney and Dixar",
+          "heading": null,
+          "target": "Org/Bisney and Dixar/index"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2026-09-03T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
-        "campaigns": [],
+        "aliases": [
+          "Earth"
+        ],
+        "campaigns": [
+          "through-a-song-darkly"
+        ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2026-09-03T00:00:00-04:00"
         },
         "img": null,
-        "tags": [
-          "planet",
-          "setting"
-        ],
+        "tags": [],
         "title": null
       },
       "path": "Geography/Urth"
@@ -27123,7 +27166,7 @@
         {
           "alias": "Earth",
           "heading": null,
-          "target": "Geography/Earth"
+          "target": "Geography/Urth"
         },
         {
           "alias": "arcane intelligence",
@@ -31163,6 +31206,11 @@
           "alias": "Regent",
           "heading": null,
           "target": "Divinity/Ashen Pact/Regent"
+        },
+        {
+          "alias": "rare gold metal",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -37492,7 +37540,7 @@
         {
           "alias": "starmetal",
           "heading": null,
-          "target": "Phenomena/Starmetal"
+          "target": "Phenomena/Sky Metal"
         },
         {
           "alias": "lycan",
@@ -37948,7 +37996,7 @@
         {
           "alias": "starmetal",
           "heading": null,
-          "target": "Phenomena/Starmetal"
+          "target": "Phenomena/Sky Metal"
         },
         {
           "alias": "Occident",
@@ -38503,18 +38551,40 @@
         {
           "alias": "starmetal",
           "heading": null,
-          "target": "Phenomena/Starmetal"
+          "target": "Phenomena/Sky Metal"
         },
         {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/Astra"
+        },
+        {
+          "alias": "The End",
+          "heading": null,
+          "target": "Phenomena/The End"
+        },
+        {
+          "alias": "Menhir",
+          "heading": null,
+          "target": "Divinity/The Narrative/Menhir"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
         }
       ],
       "date": "2024-08-20T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
-        "campaigns": [],
+        "campaigns": [
+          "through-a-song-darkly"
+        ],
         "extra": {
           "date": "2024-08-20T00:00:00-04:00"
         },
@@ -38531,7 +38601,7 @@
         {
           "alias": "starmetal",
           "heading": null,
-          "target": "Phenomena/Starmetal"
+          "target": "Phenomena/Sky Metal"
         },
         {
           "alias": "Astra",
@@ -39314,11 +39384,23 @@
           "alias": "Joker World at Star 221,325",
           "heading": null,
           "target": "Geography/Star 221,325"
+        },
+        {
+          "alias": "Astra",
+          "heading": null,
+          "target": "Geography/Astra"
+        },
+        {
+          "alias": "mana",
+          "heading": null,
+          "target": "Phenomena/Manifestation"
         }
       ],
       "date": "2025-06-16T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "Starmetal"
+        ],
         "campaigns": [
           "a-hunt-of-metal-and-vine"
         ],
@@ -39330,29 +39412,6 @@
         "title": null
       },
       "path": "Phenomena/Sky Metal"
-    },
-    {
-      "crossrefs": [
-        {
-          "alias": "mana",
-          "heading": null,
-          "target": "Phenomena/Manifestation"
-        }
-      ],
-      "date": "2024-08-20T00:00:00-04:00",
-      "frontmatter": {
-        "aliases": [],
-        "campaigns": [],
-        "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
-        },
-        "img": null,
-        "tags": [
-          "starmetal"
-        ],
-        "title": null
-      },
-      "path": "Phenomena/Starmetal"
     },
     {
       "crossrefs": [],
@@ -39375,6 +39434,11 @@
           "alias": "Menhir",
           "heading": null,
           "target": "Divinity/The Narrative/Menhir"
+        },
+        {
+          "alias": "gold spikes",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
         },
         {
           "alias": "Anzu",

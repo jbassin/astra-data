@@ -629,9 +629,6 @@ entity "Dura Oil-Drinker" kind="person" page="Org/Iconoclasm/People/Dura Oil-Dri
 entity "Eagle Eye" kind="org" page="Org/Althane/Eagle Eye" {
     source "akasha"
 }
-entity "Earth" kind="place" page="Geography/Earth" {
-    source "akasha"
-}
 entity "Eerie" kind="org" page="Org/Iconoclasm/Eerie" {
     alias "the Ear that Hears the Truth"
     alias "Ear that Hears the Truth"
@@ -2116,6 +2113,7 @@ entity "skein" {
     source "defs"
 }
 entity "Sky Metal" kind="phenomenon" page="Phenomena/Sky Metal" {
+    alias "Starmetal"
     source "akasha"
 }
 entity "Slumbering Paradise" kind="org" page="Org/Althane/Slumbering Paradise" {
@@ -2160,9 +2158,6 @@ entity "Star 221,325" kind="place" page="Geography/Star 221,325" {
     source "akasha"
 }
 entity "Starfont" kind="phenomenon" page="Phenomena/Althane/Starfont" {
-    source "akasha"
-}
-entity "Starmetal" kind="phenomenon" page="Phenomena/Starmetal" {
     source "akasha"
 }
 entity "starward" {
@@ -2501,6 +2496,7 @@ entity "Undercroft" kind="place" page="Geography/Istria/Iomenei/Undercroft" {
     source "akasha"
 }
 entity "Urth" kind="place" page="Geography/Urth" {
+    alias "Earth"
     source "akasha"
 }
 entity "Ushas" kind="place" page="Geography/Ushas" {
