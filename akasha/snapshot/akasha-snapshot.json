@@ -3074,6 +3074,20 @@
       "target": "Divinity/Immix"
     },
     {
+      "alias": "Henrik",
+      "heading": null,
+      "resolved": "People/Althane/Henrik",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "People/Althane/Henrik"
+    },
+    {
+      "alias": "wasting fever",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Wasting Fever",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "Phenomena/Althane/Wasting Fever"
+    },
+    {
       "alias": "Renge",
       "heading": null,
       "resolved": "Divinity/The Narrative/Renge",
@@ -3354,6 +3368,27 @@
       "target": "Geography/Althane/Athrea/index"
     },
     {
+      "alias": "Council of Althane",
+      "heading": null,
+      "resolved": "Org/Althane/Council of Althane",
+      "source": "Geography/Althane/Athrea/Thyropae/index",
+      "target": "Org/Althane/Council of Althane"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/Athrea/Thyropae/index",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/Athrea/Thyropae/index",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "Sunnok's",
       "heading": null,
       "resolved": "Geography/Althane/Realms/Sunnok",
@@ -3452,6 +3487,34 @@
       "target": "Org/Althane/The Elders"
     },
     {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Kryperkyst",
+      "heading": null,
+      "resolved": "Geography/Althane/Brejvasing/Kryperkyst",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "Geography/Althane/Brejvasing/Kryperkyst"
+    },
+    {
+      "alias": "X-Dive",
+      "heading": null,
+      "resolved": "Org/Althane/X-Dive",
+      "source": "Geography/Althane/Brejvasing/index",
+      "target": "Org/Althane/X-Dive"
+    },
+    {
       "alias": "El-Rasar",
       "heading": null,
       "resolved": "Geography/Althane/El-Rasar/index",
@@ -3534,41 +3597,6 @@
       "resolved": "People/Althane/Ezekiel Grimm",
       "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera",
       "target": "People/Althane/Ezekiel Grimm"
-    },
-    {
-      "alias": "Gulch",
-      "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
-      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
-    },
-    {
-      "alias": "Marzo",
-      "heading": null,
-      "resolved": "People/Althane/Marzo",
-      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
-      "target": "People/Althane/Marzo"
-    },
-    {
-      "alias": "the Nexus",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Nexus",
-      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
-      "target": "Geography/Althane/Realms/Nexus"
-    },
-    {
-      "alias": "Thessian",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
-      "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "the Thirteenth Realm",
-      "heading": null,
-      "resolved": "Geography/Althane/The Thirteenth Realm",
-      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
-      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Haven",
@@ -3709,6 +3737,41 @@
       "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/Hadal Tap",
       "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/index",
       "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/Hadal Tap"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "target": "People/Althane/Marzo"
+    },
+    {
+      "alias": "the Nexus",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Nexus",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "target": "Geography/Althane/Realms/Nexus"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
       "alias": "Lunae Badlands",
@@ -4306,6 +4369,34 @@
       "target": "Org/Althane/The Triptych"
     },
     {
+      "alias": "No Man's Land",
+      "heading": null,
+      "resolved": "Geography/Althane/No Man's Land",
+      "source": "Geography/Althane/Shimmering Isles",
+      "target": "Geography/Althane/No Man's Land"
+    },
+    {
+      "alias": "the Occident",
+      "heading": null,
+      "resolved": "Geography/Althane/The Occident",
+      "source": "Geography/Althane/Shimmering Isles",
+      "target": "Geography/Althane/The Occident"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/Shimmering Isles",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Council of Althane",
+      "heading": null,
+      "resolved": "Org/Althane/Council of Althane",
+      "source": "Geography/Althane/Shimmering Isles",
+      "target": "Org/Althane/Council of Althane"
+    },
+    {
       "alias": "RC3",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/RC3",
@@ -4703,6 +4794,27 @@
       "resolved": "Geography/Althane/The Hollow/index",
       "source": "Geography/Althane/index",
       "target": "Geography/Althane/The Hollow/index"
+    },
+    {
+      "alias": "the Astra",
+      "heading": null,
+      "resolved": "Geography/index",
+      "source": "Geography/Althane/index",
+      "target": "Geography/index"
+    },
+    {
+      "alias": "The Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Geography/Althane/index",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Geography/Althane/index",
+      "target": "Divinity/Unknown Entities/Nox"
     },
     {
       "alias": "Astra",
@@ -8149,6 +8261,90 @@
       "target": "Bestiary/Realmtouched"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Thyropae",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/Thyropae/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Athrea/Thyropae/index"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Illyara",
+      "heading": null,
+      "resolved": "Geography/Althane/Illyara/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Illyara/index"
+    },
+    {
+      "alias": "Salores",
+      "heading": null,
+      "resolved": "Geography/Althane/Salores/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Salores/index"
+    },
+    {
+      "alias": "El-Rasar",
+      "heading": null,
+      "resolved": "Geography/Althane/El-Rasar/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/El-Rasar/index"
+    },
+    {
+      "alias": "Shimmering Isles",
+      "heading": null,
+      "resolved": "Geography/Althane/Shimmering Isles",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Shimmering Isles"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "Org/Althane/Council of Althane",
+      "target": "People/Althane/Marzo"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Brejvasing",
+      "heading": null,
+      "resolved": "Geography/Althane/Brejvasing/index",
+      "source": "Org/Althane/Council of Althane",
+      "target": "Geography/Althane/Brejvasing/index"
+    },
+    {
       "alias": "realms",
       "heading": null,
       "resolved": "Geography/Althane/Realms/index",
@@ -8618,6 +8814,20 @@
       "target": "Geography/Althane/The Occident"
     },
     {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Org/Althane/The Network",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Oxus",
+      "heading": null,
+      "resolved": "People/Althane/Oxus",
+      "source": "Org/Althane/The Network",
+      "target": "People/Althane/Oxus"
+    },
+    {
       "alias": "Salores",
       "heading": null,
       "resolved": "Geography/Althane/Salores/index",
@@ -8637,6 +8847,41 @@
       "resolved": "Phenomena/Althane/Cycle",
       "source": "Org/Althane/The Trust",
       "target": "Phenomena/Althane/Cycle"
+    },
+    {
+      "alias": "the Crystalpoint Lattice",
+      "heading": null,
+      "resolved": "People/Althane/The Crystalpoint Lattice",
+      "source": "Org/Althane/The Trust",
+      "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
+      "alias": "Illyara",
+      "heading": null,
+      "resolved": "Geography/Althane/Illyara/index",
+      "source": "Org/Althane/The Trust",
+      "target": "Geography/Althane/Illyara/index"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Org/Althane/The Trust",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Oxus",
+      "heading": null,
+      "resolved": "People/Althane/Oxus",
+      "source": "Org/Althane/The Trust",
+      "target": "People/Althane/Oxus"
+    },
+    {
+      "alias": "X-Dive",
+      "heading": null,
+      "resolved": "Org/Althane/X-Dive",
+      "source": "Org/Althane/The Trust",
+      "target": "Org/Althane/X-Dive"
     },
     {
       "alias": "Creed of Ichor and Essence",
@@ -8924,6 +9169,62 @@
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "Org/Althane/Twin Lights",
       "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Org/Althane/X-Dive",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Org/Althane/X-Dive",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Trust",
+      "heading": null,
+      "resolved": "Org/Althane/The Trust",
+      "source": "Org/Althane/X-Dive",
+      "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "Org/Althane/X-Dive",
+      "target": "Org/Althane/The First House"
+    },
+    {
+      "alias": "Illyara",
+      "heading": null,
+      "resolved": "Geography/Althane/Illyara/index",
+      "source": "Org/Althane/X-Dive",
+      "target": "Geography/Althane/Illyara/index"
+    },
+    {
+      "alias": "Dawn engine",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Dawn Engine",
+      "source": "Org/Althane/X-Dive",
+      "target": "Phenomena/Althane/Dawn Engine"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Org/Althane/X-Dive",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "New Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "source": "Org/Althane/X-Dive",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
     },
     {
       "alias": "Aumana Wastes",
@@ -15149,6 +15450,48 @@
       "target": "Geography/Syrin (Locality)"
     },
     {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Dawn engine",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Dawn Engine",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Phenomena/Althane/Dawn Engine"
+    },
+    {
+      "alias": "New Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "People/Althane/Dawnmonger",
+      "target": "People/Althane/Marzo"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -15184,11 +15527,11 @@
       "target": "Phenomena/Althane/Godpiercer"
     },
     {
-      "alias": "Fat Cock City",
+      "alias": "New Haven",
       "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
       "source": "People/Althane/Divex",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
     },
     {
       "alias": "Tech",
@@ -15210,6 +15553,62 @@
       "resolved": "Geography/Syrin (Locality)/index",
       "source": "People/Althane/Divex",
       "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Divex",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "Trust",
+      "heading": null,
+      "resolved": "Org/Althane/The Trust",
+      "source": "People/Althane/Divex",
+      "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Oxus",
+      "heading": null,
+      "resolved": "People/Althane/Oxus",
+      "source": "People/Althane/Divex",
+      "target": "People/Althane/Oxus"
+    },
+    {
+      "alias": "Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "People/Althane/Divex",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Network",
+      "heading": null,
+      "resolved": "Org/Althane/The Network",
+      "source": "People/Althane/Divex",
+      "target": "Org/Althane/The Network"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "People/Althane/Divex",
+      "target": "Phenomena/The Slip"
+    },
+    {
+      "alias": "Illyara",
+      "heading": null,
+      "resolved": "Geography/Althane/Illyara/index",
+      "source": "People/Althane/Divex",
+      "target": "Geography/Althane/Illyara/index"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/Divex",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "First House",
@@ -15842,6 +16241,20 @@
       "target": "Org/Althane/The Weft"
     },
     {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Lev",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "People/Althane/Lev",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
       "alias": "Trust",
       "heading": null,
       "resolved": "Org/Althane/The Trust",
@@ -15893,9 +16306,16 @@
     {
       "alias": "Fat Cock City",
       "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City",
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
       "source": "People/Althane/Marzo",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/Marzo",
+      "target": "Divinity/Thessians"
     },
     {
       "alias": "the Thirteenth Realm",
@@ -16029,6 +16449,34 @@
       "resolved": "People/Althane/The Broker",
       "source": "People/Althane/Oxus",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Crystalpoint Lattice",
+      "heading": null,
+      "resolved": "People/Althane/The Crystalpoint Lattice",
+      "source": "People/Althane/Oxus",
+      "target": "People/Althane/The Crystalpoint Lattice"
+    },
+    {
+      "alias": "Trust",
+      "heading": null,
+      "resolved": "Org/Althane/The Trust",
+      "source": "People/Althane/Oxus",
+      "target": "Org/Althane/The Trust"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/Oxus",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Network",
+      "heading": null,
+      "resolved": "Org/Althane/The Network",
+      "source": "People/Althane/Oxus",
+      "target": "Org/Althane/The Network"
     },
     {
       "alias": "Oresk",
@@ -19158,6 +19606,69 @@
       "resolved": "Geography/Althane/Realms/Ilkyne",
       "source": "Phenomena/Althane/Cycle",
       "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Gulch",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/index",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Brejvasen",
+      "heading": null,
+      "resolved": "Geography/Althane/Brejvasing/index",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Geography/Althane/Brejvasing/index"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Marzo",
+      "heading": null,
+      "resolved": "People/Althane/Marzo",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "People/Althane/Marzo"
+    },
+    {
+      "alias": "X-Dive",
+      "heading": null,
+      "resolved": "Org/Althane/X-Dive",
+      "source": "Phenomena/Althane/Dawn Engine",
+      "target": "Org/Althane/X-Dive"
     },
     {
       "alias": "Althane",
@@ -25177,16 +25688,26 @@
           "alias": "Lighthouse",
           "heading": null,
           "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Henrik",
+          "heading": null,
+          "target": "People/Althane/Henrik"
+        },
+        {
+          "alias": "wasting fever",
+          "heading": null,
+          "target": "Phenomena/Althane/Wasting Fever"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -25550,16 +26071,31 @@
           "alias": "Athrea",
           "heading": null,
           "target": "Geography/Althane/Athrea/index"
+        },
+        {
+          "alias": "Council of Althane",
+          "heading": null,
+          "target": "Org/Althane/Council of Althane"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -25758,16 +26294,36 @@
           "alias": "Elders",
           "heading": null,
           "target": "Org/Althane/The Elders"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Kryperkyst",
+          "heading": null,
+          "target": "Geography/Althane/Brejvasing/Kryperkyst"
+        },
+        {
+          "alias": "X-Dive",
+          "heading": null,
+          "target": "Org/Althane/X-Dive"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -25976,51 +26532,6 @@
         "title": null
       },
       "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/Della Caldera"
-    },
-    {
-      "crossrefs": [
-        {
-          "alias": "Gulch",
-          "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
-        },
-        {
-          "alias": "Marzo",
-          "heading": null,
-          "target": "People/Althane/Marzo"
-        },
-        {
-          "alias": "the Nexus",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Nexus"
-        },
-        {
-          "alias": "Thessian",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "the Thirteenth Realm",
-          "heading": null,
-          "target": "Geography/Althane/The Thirteenth Realm"
-        }
-      ],
-      "date": "2025-04-07T00:00:00-04:00",
-      "frontmatter": {
-        "aliases": [],
-        "campaigns": [
-          "deep-eyes"
-        ],
-        "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
-        },
-        "img": null,
-        "tags": [
-          "city"
-        ],
-        "title": null
-      },
-      "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
     },
     {
       "crossrefs": [],
@@ -26320,6 +26831,53 @@
         "title": null
       },
       "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/La Peiza/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
+        },
+        {
+          "alias": "the Nexus",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Nexus"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        }
+      ],
+      "date": "2025-05-12T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [
+          "Fat Cock City"
+        ],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-12T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "city"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
     },
     {
       "crossrefs": [
@@ -27397,6 +27955,46 @@
     {
       "crossrefs": [
         {
+          "alias": "No Man's Land",
+          "heading": null,
+          "target": "Geography/Althane/No Man's Land"
+        },
+        {
+          "alias": "the Occident",
+          "heading": null,
+          "target": "Geography/Althane/The Occident"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Council of Althane",
+          "heading": null,
+          "target": "Org/Althane/Council of Althane"
+        }
+      ],
+      "date": "2025-05-12T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-12T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "region"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/Shimmering Isles"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
@@ -27822,16 +28420,31 @@
           "alias": "the Hollow",
           "heading": null,
           "target": "Geography/Althane/The Hollow/index"
+        },
+        {
+          "alias": "the Astra",
+          "heading": null,
+          "target": "Geography/index"
+        },
+        {
+          "alias": "The Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
         }
       ],
-      "date": "2025-05-05T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-05-05T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32074,6 +32687,86 @@
     {
       "crossrefs": [
         {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Thyropae",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/Thyropae/index"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Illyara",
+          "heading": null,
+          "target": "Geography/Althane/Illyara/index"
+        },
+        {
+          "alias": "Salores",
+          "heading": null,
+          "target": "Geography/Althane/Salores/index"
+        },
+        {
+          "alias": "El-Rasar",
+          "heading": null,
+          "target": "Geography/Althane/El-Rasar/index"
+        },
+        {
+          "alias": "Shimmering Isles",
+          "heading": null,
+          "target": "Geography/Althane/Shimmering Isles"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
+        },
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Brejvasing",
+          "heading": null,
+          "target": "Geography/Althane/Brejvasing/index"
+        }
+      ],
+      "date": "2025-05-12T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-12T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "political"
+        ],
+        "title": null
+      },
+      "path": "Org/Althane/Council of Althane"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "realms",
           "heading": null,
           "target": "Geography/Althane/Realms/index"
@@ -32577,14 +33270,14 @@
           "target": "Bestiary/Realmtouched"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32804,16 +33497,26 @@
           "alias": "Occident",
           "heading": null,
           "target": "Geography/Althane/The Occident"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Oxus",
+          "heading": null,
+          "target": "People/Althane/Oxus"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -32859,16 +33562,41 @@
           "alias": "cycles",
           "heading": null,
           "target": "Phenomena/Althane/Cycle"
+        },
+        {
+          "alias": "the Crystalpoint Lattice",
+          "heading": null,
+          "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
+          "alias": "Illyara",
+          "heading": null,
+          "target": "Geography/Althane/Illyara/index"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Oxus",
+          "heading": null,
+          "target": "People/Althane/Oxus"
+        },
+        {
+          "alias": "X-Dive",
+          "heading": null,
+          "target": "Org/Althane/X-Dive"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -33086,14 +33814,14 @@
           "target": "Geography/Althane/Athrea/Thyropae/index"
         }
       ],
-      "date": "2025-05-05T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-05-05T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -33162,6 +33890,66 @@
         "title": null
       },
       "path": "Org/Althane/Twin Lights"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Trust",
+          "heading": null,
+          "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
+        },
+        {
+          "alias": "Illyara",
+          "heading": null,
+          "target": "Geography/Althane/Illyara/index"
+        },
+        {
+          "alias": "Dawn engine",
+          "heading": null,
+          "target": "Phenomena/Althane/Dawn Engine"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "New Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+        }
+      ],
+      "date": "2025-05-12T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-12T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "mercantile"
+        ],
+        "title": null
+      },
+      "path": "Org/Althane/X-Dive"
     },
     {
       "crossrefs": [
@@ -41059,16 +41847,46 @@
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Dawn engine",
+          "heading": null,
+          "target": "Phenomena/Althane/Dawn Engine"
+        },
+        {
+          "alias": "New Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
         }
       ],
-      "date": "2025-02-18T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-18T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41104,9 +41922,9 @@
           "target": "Phenomena/Althane/Godpiercer"
         },
         {
-          "alias": "Fat Cock City",
+          "alias": "New Haven",
           "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
         },
         {
           "alias": "Tech",
@@ -41122,16 +41940,56 @@
           "alias": "Syrin",
           "heading": null,
           "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "Trust",
+          "heading": null,
+          "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "Oxus",
+          "heading": null,
+          "target": "People/Althane/Oxus"
+        },
+        {
+          "alias": "Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Network",
+          "heading": null,
+          "target": "Org/Althane/The Network"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
+        },
+        {
+          "alias": "Illyara",
+          "heading": null,
+          "target": "Geography/Althane/Illyara/index"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41467,14 +42325,14 @@
           "target": "Geography/Syrin (Locality)"
         }
       ],
-      "date": "2025-05-05T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-05-05T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -41938,16 +42796,26 @@
           "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -42017,7 +42885,12 @@
         {
           "alias": "Fat Cock City",
           "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/Fat Cock City"
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
         },
         {
           "alias": "the Thirteenth Realm",
@@ -42025,14 +42898,14 @@
           "target": "Geography/Althane/The Thirteenth Realm"
         }
       ],
-      "date": "2025-04-07T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-04-07T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -42210,16 +43083,36 @@
           "alias": "The Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Crystalpoint Lattice",
+          "heading": null,
+          "target": "People/Althane/The Crystalpoint Lattice"
+        },
+        {
+          "alias": "Trust",
+          "heading": null,
+          "target": "Org/Althane/The Trust"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Network",
+          "heading": null,
+          "target": "Org/Althane/The Network"
         }
       ],
-      "date": "2025-02-03T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-02-03T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -46130,6 +47023,71 @@
     {
       "crossrefs": [
         {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Gulch",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/index"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Brejvasen",
+          "heading": null,
+          "target": "Geography/Althane/Brejvasing/index"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Marzo",
+          "heading": null,
+          "target": "People/Althane/Marzo"
+        },
+        {
+          "alias": "X-Dive",
+          "heading": null,
+          "target": "Org/Althane/X-Dive"
+        }
+      ],
+      "date": "2025-05-12T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-05-12T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "artifact"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Dawn Engine"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Althane",
           "heading": null,
           "target": "Geography/Althane/index"
@@ -46920,14 +47878,14 @@
           "target": "Org/Althane/The First House"
         }
       ],
-      "date": "2025-03-24T00:00:00-04:00",
+      "date": "2025-05-12T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2025-03-24T00:00:00-04:00"
+          "date": "2025-05-12T00:00:00-04:00"
         },
         "img": null,
         "tags": [
