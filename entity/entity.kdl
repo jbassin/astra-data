@@ -1062,6 +1062,9 @@ entity "Helmyster" {
 entity "Henrik" kind="person" being="tanner" {
     source "being"
 }
+entity "Hepatian" kind="phenomenon" page="Phenomena/Althane/Hepatian" {
+    source "akasha"
+}
 entity "Herald" kind="deity" page="Divinity/Ashen Pact/Herald" {
     alias "True Kin"
     alias "true kin"
@@ -1628,6 +1631,9 @@ entity "nosh on" {
     source "defs"
 }
 entity "Nox" kind="deity" page="Divinity/Unknown Entities/Nox" {
+    source "akasha"
+}
+entity "Noxfell" kind="place" page="Geography/Althane/Athrea/Noxfell" {
     source "akasha"
 }
 entity "Obie and Parmann" {

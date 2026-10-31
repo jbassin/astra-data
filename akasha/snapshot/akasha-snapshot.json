@@ -2734,6 +2734,41 @@
       "alias": "Thyropae",
       "heading": null,
       "resolved": "Geography/Althane/Athrea/Thyropae/index",
+      "source": "Geography/Althane/Athrea/Noxfell",
+      "target": "Geography/Althane/Athrea/Thyropae/index"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Geography/Althane/Athrea/Noxfell",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Athrea",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/index",
+      "source": "Geography/Althane/Athrea/Noxfell",
+      "target": "Geography/Althane/Athrea/index"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Geography/Althane/Athrea/Noxfell",
+      "target": "Geography/Althane/Oresk/index"
+    },
+    {
+      "alias": "the Hollow",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/index",
+      "source": "Geography/Althane/Athrea/Noxfell",
+      "target": "Geography/Althane/The Hollow/index"
+    },
+    {
+      "alias": "Thyropae",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/Thyropae/index",
       "source": "Geography/Althane/Athrea/Thyropae/Tremere's",
       "target": "Geography/Althane/Athrea/Thyropae/index"
     },
@@ -3583,6 +3618,13 @@
       "resolved": "Bestiary/Elementals",
       "source": "Geography/Althane/The Hollow/Lava Ruin",
       "target": "Bestiary/Elementals"
+    },
+    {
+      "alias": "Hepatian",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Hepatian",
+      "source": "Geography/Althane/The Hollow/Lava Ruin",
+      "target": "Phenomena/Althane/Hepatian"
     },
     {
       "alias": "Lacuna's",
@@ -7335,6 +7377,27 @@
       "resolved": "People/Althane/Dawnmonger",
       "source": "Org/Althane/The Weft",
       "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Org/Althane/The Weft",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "Schism",
+      "heading": null,
+      "resolved": "People/Althane/Schism",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/Schism"
+    },
+    {
+      "alias": "SeRaan",
+      "heading": null,
+      "resolved": "People/Althane/SeRaan",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/SeRaan"
     },
     {
       "alias": "Sanguis Noxa",
@@ -13336,6 +13399,13 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
+      "alias": "Noxfell",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/Noxfell",
+      "source": "People/Althane/Damien",
+      "target": "Geography/Althane/Athrea/Noxfell"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -13929,6 +13999,20 @@
       "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
       "source": "People/Althane/Schism",
       "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "People/Althane/Schism",
+      "target": "Geography/Althane/The Hollow/Lava Ruin"
+    },
+    {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Schism",
+      "target": "People/Althane/Lev"
     },
     {
       "alias": "Kaathe",
@@ -16491,6 +16575,20 @@
       "resolved": "Phenomena/Althane/Gunpowder",
       "source": "Phenomena/Althane/Guns",
       "target": "Phenomena/Althane/Gunpowder"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin",
+      "source": "Phenomena/Althane/Hepatian",
+      "target": "Geography/Althane/The Hollow/Lava Ruin"
+    },
+    {
+      "alias": "Oresk",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/index",
+      "source": "Phenomena/Althane/Hepatian",
+      "target": "Geography/Althane/Oresk/index"
     },
     {
       "alias": "Athrea",
@@ -21690,6 +21788,51 @@
           "target": "Geography/Althane/Athrea/Thyropae/index"
         },
         {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Athrea",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/index"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "the Hollow",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/index"
+        }
+      ],
+      "date": "2024-11-11T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-11-11T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "settlement"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/Athrea/Noxfell"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "Thyropae",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/Thyropae/index"
+        },
+        {
           "alias": "Athrea",
           "heading": null,
           "target": "Geography/Althane/Athrea/index"
@@ -23438,16 +23581,21 @@
           "alias": "Igni Sprites",
           "heading": "Igni Sprite",
           "target": "Bestiary/Elementals"
+        },
+        {
+          "alias": "Hepatian",
+          "heading": null,
+          "target": "Phenomena/Althane/Hepatian"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-11-11T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-11-11T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -28348,16 +28496,31 @@
           "alias": "Dawnmonger",
           "heading": null,
           "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "Schism",
+          "heading": null,
+          "target": "People/Althane/Schism"
+        },
+        {
+          "alias": "SeRaan",
+          "heading": null,
+          "target": "People/Althane/SeRaan"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-11-11T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-11-11T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -35991,16 +36154,21 @@
           "alias": "Oreskian",
           "heading": null,
           "target": "Geography/Althane/Oresk/index"
+        },
+        {
+          "alias": "Noxfell",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/Noxfell"
         }
       ],
-      "date": "2024-11-04T00:00:00-04:00",
+      "date": "2024-11-11T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-11-04T00:00:00-04:00"
+          "date": "2024-11-11T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -36854,16 +37022,26 @@
           "alias": "Sundom",
           "heading": null,
           "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin"
+        },
+        {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
         }
       ],
-      "date": "2024-10-28T00:00:00-04:00",
+      "date": "2024-11-11T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-10-28T00:00:00-04:00"
+          "date": "2024-11-11T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40105,6 +40283,36 @@
         "title": null
       },
       "path": "Phenomena/Althane/Guns"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin"
+        },
+        {
+          "alias": "Oresk",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/index"
+        }
+      ],
+      "date": "2024-11-11T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2024-11-11T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "material"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Hepatian"
     },
     {
       "crossrefs": [
