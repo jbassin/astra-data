@@ -1,0 +1,60 @@
+{
+  "date": "2025-2-10",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "MediaCon, Machine Gun Arms, and a Confrontation with Immix",
+    "synopsis": "The party arrives at MediaCon, an Omnivox-sponsored convention in the super-city of Terminus on a foreign sphere. They enter the cosplay competition—half the party as themselves, Lev disguised as the folk hero Tarv of the Rising Moon—and uncover a lead tying Omnivox's orbital headquarters (the Golden Spire) to the Feep's trail. After winning first and second place, they confront the talk show host Immix during a Q&A panel, and follow him backstage.",
+    "key_beats": [
+      "The party arrives at MediaCon in Terminus and bribes their way in with real wine (a rare luxury in this sphere) after failing to find anyone who recognizes them.",
+      "Lev researches the popular cosplay character Tarv of the Rising Moon, learning the original anti-corporate stories were sanitized after Omnivox acquired the IP. Dawn charms a comic dealer and acquires a rare original Tarv comic, which reveals Tarv's origin: a construction accident at Omnivox HQ, denied insurance, prototype arms from a disgraced ripper—with a key panel showing an Omnivox exec obscured by a food smudge.",
+      "The party signs up for the cosplay contest: Henrik, Dawn, and Divex as the Weft from 'The Lighthouse with an aspect of Immix,' and Lev as Tarv. Dawn and Lev craft actual functioning machine gun arms for the costume using the orb and raw materials.",
+      "At the Omnivox panel, Dawn and Lev try asking about the Lighthouse show—it doesn't exist in any media catalog. The show is untraceable on this sphere's networks.",
+      "The cosplay competition takes place: the Weft performs with real magic effects (Frigid Flurry, produce flame, teleports) earning second place; Lev as Tarv fires real machine guns through a Wall of Ice, winning first place and a trip to the Golden Spire (Omnivox's orbital HQ/casino).",
+      "The party corners the twin judges Anaïs and Anouk, who helped them win. Divex's Truesight reveals Anouk's chrome implants are illusory. The twins (450 and 480 HP, not from this sphere) deflect all questions and leave.",
+      "The Broker teleports in and confirms the comic book lead narrows the Feep's trail to the Golden Spire. The party pools money—selling wine, the comic, and Broker's stashes—to purchase rebreathers, cerebral processors, hacking software, and integrated spanners for the orbital infiltration.",
+      "A cyber crew of eight cosplayers confronts the party accusing them of rigging the contest; Divex uses Disturbing Knowledge to confuse all eight, and convention security nets them.",
+      "At the talk show panel, the party repeatedly confronts Immix about his role as detached observer, his love of tragic endings, and his irrelevance on this sphere. Immix replies 'it's better than being dead' and warns them about 'decisions to avoid dying,' then walks off stage.",
+      "The party follows Immix backstage, ignoring the facilitator's protests."
+    ],
+    "characters_present": [
+      "Lev/Livmir",
+      "Henrik/Dawn",
+      "Divex",
+      "The Broker/Tech",
+      "Immix",
+      "Braith Vanderbilt",
+      "Anaïs",
+      "Anouk",
+      "Krognek",
+      "Rex Fathom",
+      "Schism"
+    ],
+    "locations": [
+      "Terminus",
+      "MediaCon",
+      "Central Pavilion",
+      "Summit Expo Hall",
+      "The Golden Spire (Station 7, mentioned)"
+    ],
+    "factions": [
+      "Omnivox",
+      "Celestia Bioforge",
+      "Omnivox Neurometrics",
+      "The Weft",
+      "Cybro Troop / Cyber Crew"
+    ],
+    "items": [
+      "Original Tarv comic (2nd edition, contraband)",
+      "Machine gun arms (functional, 7d10 piercing, 120 ft range, 100 rounds)",
+      "693 Azul wine",
+      "Cerebral processors",
+      "Rebreathers",
+      "Integrated spanners",
+      "Hacking software (Reboot Optics, Remote Takeover, Detonate Grenade, Bait)",
+      "Third Eye tattoo (traded from Lev to Henrik)",
+      "Cat Eyes (traded from Henrik to Lev)",
+      "Scroll of Raise Dead (10th level, purchased ×2)"
+    ],
+    "cliffhanger": "The party pulls back the curtain and follows Immix backstage after his ominous parting words at the talk show panel."
+  }
+}

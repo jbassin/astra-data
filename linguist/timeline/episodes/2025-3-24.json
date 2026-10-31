@@ -1,0 +1,59 @@
+{
+  "date": "2025-3-24",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Origin of Vesper Feep",
+    "synopsis": "After slaying Immix, the party absorbs his dispersed divine energy, granting Henrik the Boon of the Divine Amphora and all four members the Mythic Striking Rune. They free the Broker from his lighthouse prison by siphoning off just enough divinity, then strike a bargain with the Watchers — trading a Luck Blade wish and a promise of future vengeance for a vision revealing the Feep's true name and origin: Vesper Feep, a street orphan from Syrin who clawed his way to power through theft and murder. The party then Gated to Oresk to cure plague-stricken vampires using Henrik's new boon, and traveled to Sedecium to grow backup clones before their final assault on the Feep.",
+    "key_beats": [
+      "Immix's divine energy disperses on death; a d4 roll sends it into Henrik, who receives the Boon of the Divine Amphora (can take divine energy from willing sources and give it regardless of willingness) after a religion check of 35.",
+      "Josh explains divine energy mechanics: it disperses on death, cannot be created or destroyed, and the Feep needs mortal energy — which is why he manipulates the sphere into converting divine energy for him.",
+      "The party visits the Broker (Tech) in his lighthouse prison. Henrik takes a small drop of divine energy from Tech and distributes it among all four members, lowering Tech below the threshold so he can see the exit. All four gain the Mythic Striking Rune (five weapon damage dice, and hero-point rerolls may take whichever die).",
+      "The party negotiates with the two Watchers (Mi and Us), offering the Luck Blade (containing a wish) plus a binding promise to hunt down anyone who wrongs the Watchers in the future. The Watchers accept; the blade vanishes and colored chains bind the party to the deal.",
+      "The Watchers' vision reveals the Feep's life story: a hungry orphan child in a Syrin alley with a crude red-lens eye implant; a teenage gang leader who pickpockets a wealthy man; a young office worker who steals a colleague's pitch idea; a man who murders his boss by pushing him off a terrace; a showrunner who sabotages a tour bus carrying the Red Race band off a bridge; a corporate director at Omnivox who massacres his own board; and finally an old man who steals the Echo Fragment from one Caron Sill. His name is revealed: Director Vesper Feep.",
+      "The party learns the Feep ascended, saw the lighthouse, attempted to seize it, and was immediately trapped — the same karma that snared the gods before him.",
+      "Tech escorts the party to Sedecium. The party plans to use Gate (a 10th-level spell) to bypass Oresk's teleport barriers and visits Roychek at the Sarengrad safe house.",
+      "Roychek reports that the First House is reeling from the party's destruction of its leadership; interim leader Divna Hanak holds temporary power. The city mourns Kharkov with a month-long celebration of life.",
+      "Henrik uses the Divine Amphora boon at the Oresk clinic, pulling trace Nox divinity from ~20 infected patients and passing it to Lev. The patients are cured — the first successful treatment in three years.",
+      "The party returns to Sedecium and performs Clone rituals for all four members. After some failed attempts (including a critical occultism failure on Lev's first clone), all four clones succeed and will mature in three months (2d4 = 3), providing a respawn safety net before the Feep fight."
+    ],
+    "characters_present": [
+      "Lev",
+      "Henrik",
+      "Dyvex",
+      "Don",
+      "Tech (the Broker)",
+      "The Watchers (Mi and Us)",
+      "Roychek",
+      "Vesper Feep (in vision)",
+      "Caron Sill (in vision)",
+      "Divna Hanak (mentioned)"
+    ],
+    "locations": [
+      "The Incomplete Prison (Immix's chamber, the Lighthouse)",
+      "Tech's prison (floating spaceship, the Lighthouse)",
+      "The Watchers' chamber / the Feep's birthplace (the Lighthouse)",
+      "Syrin / Terminus (in vision)",
+      "Sedecium",
+      "Sarengrad safe house (Oresk)",
+      "First House clinic (Oresk)"
+    ],
+    "factions": [
+      "The Lighthouse",
+      "The Watchers",
+      "Omnivox / Feep Industries (the Feep)",
+      "The First House (vampires)",
+      "The Golden Sparrows",
+      "WEFT (referenced)"
+    ],
+    "items": [
+      "Boon of the Divine Amphora (Henrik's new divine ability)",
+      "Mythic Striking Rune (granted to all four party members)",
+      "Luck Blade with wish (traded to the Watchers)",
+      "Kharkov's locket (given to Roychek)",
+      "Gate scroll (used to bypass Oresk barriers)",
+      "Clone ritual vessels (four clones growing in Sedecium)",
+      "Twig from the Golden Sparrows (for needle charging, mentioned for next session)"
+    ],
+    "cliffhanger": "The party has clones growing, the Feep's true name (Vesper Feep), and a plan: open a lighthouse door, surprise-announce his name to render him corporeal, snap the Golden Sparrow twig to charge the needle, have Tech swoop in to needle him, then the four of them fight — all set for next session's final boss encounter."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2025-2-3",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Divinity Leech & The Citadel Between Spheres",
+    "synopsis": "The party finishes off Kharkov in a blistering combat round, but the Deep steals his corpse through a portal before they can fully destroy it. After looting the vault and escaping via teleporter, the Broker upgrades them from contractors to partners and whisks them to Elysium — Sedecium's floating citadel in the Astra — where a massive lore dump reshapes their understanding of the cosmos. They level up, shop for magic, and then teleport to the cyberpunk planet Syrin, arriving in the grimy city of Terminus where they discover they're characters on a TV show called \"the Weft.\"",
+    "key_beats": [
+      "Kharkov, stripped of divine power by the Divinity Leech, flails uselessly against the party — Henrik's shield and Lev's demoralize render him ineffective",
+      "Dawn crits a Technomantic Punch (two 18s with disadvantage), splitting the timeline to deliver a Big Fish finisher that kills Kharkov",
+      "As the party debates what to do with the corpse, a portal to the Deep on Ilkain opens; eight fungal tendrils grab Kharkov's body. Henrik and Lev kill two tendrils and Divex disintegrates the lower half, but protective magic preserves the rest and the Deep pulls it through the closing portal",
+      "Via Schism, the party reports to the Broker, who says the Deep taking Kharkov's body is not a planetary-scale concern. They loot the vault for precious metal ingots and Lev stores Kharkov's blood in a vial",
+      "Lev impersonates Kharkov over the compound's intercom (deception 55), broadcasting a fake death message ordering evacuation, then the party escapes through the transgalactic teleporter to Oxus's office in Illyara",
+      "The Broker extracts an actual glowing orange leech from the Divinity Leech gun, squeezes its essence into his chest wound to heal, and returns the gun to Divex. He reveals the gun's magic signature relates to Damien Hart",
+      "The Broker formally invites the party to be partners, not contractors, then teleports them to Elysium — Sedecium's 16-castle citadel floating untethered in the Astra between spheres. They receive colored stone badges and are sickened/doomed from being ripped from their native weave",
+      "Massive lore dump: the Broker's old party (himself, the wizard Zugg, an old man good at murder, and a cow who ascended to godhood) killed Thessians Mephistopheles, Demon, and Monotony using golden needles; the Harrow is a Thessian that hunts other Thessians; the Weft are five beings who are a fundamental force of the wick; the Broker wants the echo fragment for narrative leverage against the Weft",
+      "The party levels up to 18th level and shops Elysium's armory — spells at 1/8 cost, items at 20% discount, no apex items. Dawn crits a crafting check (63) to forge Lev an Orichalcum sword",
+      "The Broker teleports them to Terminus on Syrin — a planet of 16 billion people where cybernetic 'chrome' augmentation is universal. They arrive in a filthy motel in the Foghole district; the Broker leaves to meet a contact named Mr. Blue Eyes and tells them to investigate the Feep's former identity",
+      "Disguised with cybernetic-looking augmentations, the party explores Terminus streets and is recognized by two fans as cosplayers of 'the Weft' — a TV show based on their adventures. They learn of a cosplay competition at Media Con in downtown Terminus and head that way"
+    ],
+    "characters_present": [
+      "Lev",
+      "Dawn",
+      "Henrik",
+      "Divex",
+      "Kharkov",
+      "The Broker/Tech",
+      "Oxus",
+      "Zugg (mentioned)",
+      "Mr. Blue Eyes (mentioned)"
+    ],
+    "locations": [
+      "RC3 (Kharkov's compound)",
+      "Oxus's office, Illyara, Althane",
+      "Elysium (Sedecium citadel, the Astra)",
+      "Keymaster T3C room, Elysium",
+      "Terminus, Syrin",
+      "Foghole district, Terminus",
+      "Shut Up and Sleep motel, Terminus"
+    ],
+    "factions": [
+      "Sedecium",
+      "The First House",
+      "The Deep (Ilkain)",
+      "The Weft",
+      "The Thessians"
+    ],
+    "items": [
+      "Divinity Leech (gun containing a living leech)",
+      "Kharkov's blood (vial)",
+      "Sedecium badges (orange, red, blue, purple)",
+      "Orichalcum sword (Dawn-forged)",
+      "Precious metal ingots (Inubrix x2, Jezzet, Sicatite, Orichalcum, Sovereign Steel, Adamantine x5)",
+      "Slip Seer's body (dragon heart)",
+      "Spanner (tablet device)",
+      "Vorpal rune (purchased)"
+    ],
+    "cliffhanger": "The party arrives in downtown Terminus heading to a cosplay competition at Media Con, having just learned they're the stars of a TV show called 'the Weft' — while still searching for the identity of whoever became the Feep on this cyberpunk planet of 16 billion."
+  }
+}

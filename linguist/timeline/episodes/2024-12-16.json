@@ -1,0 +1,57 @@
+{
+  "date": "2024-12-16",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Pierogies, Poisoned Hearts, and a Meeting with the Sparrow Saint",
+    "synopsis": "The Weft arrives in Sarengrad after a grueling two-day flight through the Oreskian tundra, seeking to infiltrate a First House research complex and recover the portal gun. They reconnect with the Golden Sparrows through an old contact, Roychek, who reveals the wasting fever has killed hundreds and provides intel on the facility's location and employees. Lev acquires the beating heart of a dead First House operative — a blood relative — that could spoof the facility's spirit-print scanner, and the party secures a miraculous audience with the deified Sparrow leader Masha, who offers cryptic warnings and a priceless artifact of invulnerability.",
+    "key_beats": [
+      "The party confirms Lev's connection to Nox is a granted boon, not vampirism — implying Nox is conscious enough to bestow power. They begin two days of continuous travel via the orb toward Sarengrad, crafting a Silent Bell and planning to infiltrate a First House research complex.",
+      "Divex recalls the facility's security: ID badge check with guard, spirit-print scan, a Liar's Downfall waterfall that dispels magic, an elevator, and color-coded clearance levels (red through ultraviolet). They plan to kidnap a low-level employee for credentials.",
+      "Arriving at Sarengrad's outskirts, Henrik leads them to a Sparrow safe house. A young elven Sparrow courier guides Henrik (with the others hidden in the orb) through a crack in the city wall, bypassing the checkpoint into Sarengrad proper.",
+      "Roychek, a decrepit old gnome and high-ranking Sparrow, meets them and shows them the Bifurcated Man's dossier — containing illustrations and intelligence on the party, the Sparrows, the Broker's network, and their allies. He leads them to a mobile clinic where ~40 wasting fever patients receive palliative care; ~800 have died in the past year.",
+      "Henrik reveals the wasting fever is actually an immature form of vampirism, potentially spread through food and water by the First House. He examines patients' souls with the surgery device, seeing progressive decay. Roychek provides the First House facility's location on a map and a list of three low-level employees' home addresses.",
+      "Lev prays at a defunct Church of Nox and consults spirits, learning the pierogies are clean but that a higher Nightkin exists within the First House in Sarengrad. A mysterious visitor leaves a bag containing a still-beating heart in a glass cylinder — usable as a living spirit-print.",
+      "Divex reads the heart psychometrically and sees the victim's death. Lev consults spirits again and identifies the heart as belonging to Xanthin Oreskalka — a blood relative of Lev's — who held blue clearance. The party devises a plan to use copper-alloy wire to channel the heart's spirit print to Lev's hand, spoofing the scanner.",
+      "Masha, the deified apharite dwarf leader of the Golden Sparrows, arrives at the safe house. She confirms the Playwrights transformed her but she broke contact due to too many strings. She pledges to help rebuild Oresk if the cycle breaks, and warns that Kharkov will flee to the bottom floor if cornered, where a hidden passage exists.",
+      "With a diplomacy check of 58, Masha gifts Henrik a matchstick-sized artifact: snapping it grants one round of total invulnerability (immune to all effects except artifact-level/deific power). She departs.",
+      "The party discusses endgame strategy: finding Xanthin's body and ID badge via pinpoint, using the Playwright's favor to move the portal gun to an accessible floor, and broader plans involving the Broker, learning the Thiep's name, and potentially spreading rumors about the Formless via the Bifurcated Man's broadcast network."
+    ],
+    "characters_present": [
+      "Lev",
+      "Henrik",
+      "Divex",
+      "Dawn",
+      "Roychek",
+      "Masha",
+      "the elven Sparrow courier boy"
+    ],
+    "locations": [
+      "Oreskian tundra",
+      "Sarengrad (outskirts and slums)",
+      "Sparrow safe houses (southern Sarengrad)",
+      "Mobile Sparrow clinic",
+      "Defunct Church of Nox",
+      "First House research complex (discussed/planned, not entered)"
+    ],
+    "factions": [
+      "The Weft (player party)",
+      "Golden Sparrows",
+      "First House",
+      "The Broker's network",
+      "The Playwrights / 13th Realm",
+      "The Bifurcated Man"
+    ],
+    "items": [
+      "Silent Bell (newly crafted)",
+      "Beating heart of Xanthin Oreskalka in glass cylinder",
+      "Copper alloy foil/wire (600 meters)",
+      "Soul surgery device (3 charges, Trip-power required)",
+      "Masha's matchstick of invulnerability",
+      "Oreskian pierogies (doomed-condition-reducing food)",
+      "Bifurcated Man's dossier",
+      "Map of First House facility location",
+      "List of three First House employee addresses"
+    ],
+    "cliffhanger": "The party is poised to locate Xanthin Oreskalka's body and ID badge, then infiltrate the First House research complex in Sarengrad to recover the portal gun — with a spirit-print spoofing plan, a one-round invulnerability artifact, and a Playwright favor to move the gun to an accessible floor."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2025-3-31",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Pin to the Weave: Vesper Feep Must Die",
+    "synopsis": "After six weeks completing the clone ritual at Sedecium, the party decides to hunt Vesper Feep — the echo-fragment media mogul beneath the planet — before turning to the Deep. Tech teleports them to the precipice and stabs the needle into the Feep's miasma, coalescing him into mortal form. A brutal combat erupts with the Feep, his Threadcutter-puppeted band, and a newly-arrived abomination called Rowan, with the party trading heavy blows, counterspells, and reflected magic before the session cuts off mid-fight.",
+    "key_beats": [
+      "The party finishes the six-week clone ritual in Tech's office at Sedecium — four caskets now hold growing clones, two hold burnt refuse from failed experiments. Lev sells sky metal ingots to purchase six Scrolls of Cataclysm and scrolls of Raise Dead; Divex learns new 10th-level spells including Cataclysm, Nullify, Time Stop, and Remake.",
+      "The party debates targeting Vesper Feep versus the Deep, settling on Feep first — reasoning that if they kill the Deep, the Feep could absorb its power. They plan to use the needle to pin the Feep to the local weave, stripping his divine protection.",
+      "The party swaps needles with Tech, leaves his needle in his desk at Sedecium as a failsafe, and Lev carves the names of the Feep's known victims (Caron Sill, the old man, the bus victim) onto his sword.",
+      "Extensive pre-combat buffing: Heroes' Feast (20 temp HP, +2 saves vs disease/fear/poison), Death Ward on all living party members, Bless, Zealous Conviction, Haste, and various auras and regen effects applied over four hours of preparation.",
+      "Tech teleports the party to the dark precipice beneath the planet. He stabs the needle into the densest part of the Feep's miasma; a flash of red light coalesces the Feep from diffuse presence into a mortal — but still echo-empowered — man. Tech is blasted off the platform by the release of energy.",
+      "Combat begins. The Feep summons three Threadcutter-puppeted band members and casts 'Move Worlds' — four crashing planets dealing 83 damage to those who fail. Lev's Cataclysm obliterates the drummer outright. Henrik uses a Ban Muon Swapping Stone to teleport adjacent to the Feep.",
+      "Dawn blinds the Feep with Reboot Optics (exploiting the native-Syrin save-failure rule) and hits him with a detonate grenade, inflicting persistent sonic damage, deafness, and clumsy 2. Divex counterspells the Feep's Wails of the Damned. Lev's Ring of Spellturning reflects another spell back at the Feep, though he saves.",
+      "The Feep uses his 'Blameless' reaction repeatedly to redirect attacks toward Henrik and Lev, and lands devastating crits — a spatial pincer for 90+ damage on Lev, warp spine attacks, and a Dimensional Flurry striking multiple party members. Dawn systematically kills all three band members across successive turns.",
+      "The Feep becomes bloodied, triggering a lair action: reality shards explode from the red portal, requiring reflex saves. Divex fails and suffers persistent bleed (8d6). The Feep casts Massacre (10th-level), which Divex counteracts using a Nullify spell slot. The Feep then casts a divine strike spell, also countersacted by Divex.",
+      "A bluish-green portal coalesces and Rowan — a diminutive human with a gem in his throat — emerges, immediately transforms into an abomination form, and attacks Dawn. Dawn's Mirror Image absorbs the worst of the bite. Divex uses Invoke True Name to make the Feep flat-footed, casts True Target for party advantage, and fires an 8th-level Disintegrate — but the Feep critically succeeds on the fortitude save, taking no damage. The session pauses mid-combat."
+    ],
+    "characters_present": [
+      "Levmir (Lev)",
+      "Divex",
+      "Dawn",
+      "Henrik",
+      "Tech",
+      "Vesper Feep",
+      "Rowan",
+      "Threadcutter band members (3)"
+    ],
+    "locations": [
+      "Sedecium (Tech's office)",
+      "The Precipice (dark abyss beneath the planet, near the core, where the Feep resides)"
+    ],
+    "factions": [
+      "The Party",
+      "Sedecium",
+      "Feep Industries",
+      "The Deep (referenced)"
+    ],
+    "items": [
+      "The Needle (pins echo fragments to the local weave)",
+      "Scrolls of Cataclysm (x6)",
+      "Scrolls of Raise Dead",
+      "Ring of Spellturning",
+      "Ban Muon Swapping Stone",
+      "Threadcutter Runes (on band members)",
+      "Sky Metal Ingots (sold by Lev)",
+      "Potion of Cold Retaliation",
+      "Clones in caskets at Sedecium"
+    ],
+    "cliffhanger": "Combat with Vesper Feep and the newly-emerged abomination Rowan is still raging. Divex's Disintegrate was saved against, the Feep remains bloodied but fighting, Rowan has just entered the fray attacking Dawn, and the party has burned significant resources — mythic points, hero points, and high-level spell slots. The fight resumes next session."
+  }
+}

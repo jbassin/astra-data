@@ -1,0 +1,58 @@
+{
+  "date": "2025-1-22",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Into the Vault: Murder, Adamantine Bones, and the Worst Heist Ever Planned",
+    "synopsis": "The party continues their assault on the Oreskian facility, killing Victor Rampart and his Elder Wyrmwraith in a grueling battle marked by stacked fear, multiple Disintegrates, and a disintegrating arm. After looting Rampart's adamantine skeleton and retrieving Hallie and Tenno from stasis vats, the party debates at length before deciding to teleport directly into the facility's most secure room — the Vault — to take a long rest, arriving blind and locked in with no idea where their target or their enemies are.",
+    "key_beats": [
+      "Combat resumes against Victor Rampart and the Elder Wyrmwraith. Lev begins stacking Frightened on Rampart using the Fear of God feat, eventually reaching Frightened 4 — a global cap that massively lowers Rampart's AC and saves.",
+      "Divex's arcana recall reveals the dragon is not summoned but native to a world they were swapped into; Dispel Magic won't work. Divex casts Frigid Flurry but Rampart is immune to both cold and slashing. Rampart's damage immunities rotate between elemental, mental, and physical/spirit categories.",
+      "The Wyrmwraith breathes spirit damage (Sacred Flame-like) and casts Divine Wrath; Dawn and Lev avoid damage via Juggernaut, Henrik is sickened. Dawn uses precognition to analyze two timelines, cuts Rampart's cord from the spool (stunning him), and heals himself.",
+      "Rampart crits Dawn for 105 bludgeoning damage with an adamantine weapon, breaking Dawn's armor. Dawn's mirror images absorb subsequent attacks. Lev maintains Frightened 4 each round and lands crits via Keen rune.",
+      "Divex casts Disintegrate (untyped damage, bypassing immunities) — a crit against Rampart's reflex — disintegrating Rampart's left arm. Rampart's internal heat engine vents, dealing fire damage to nearby PCs. Rampart becomes Bloodied, triggering an arena change that closes the void hole in the floor and rotates his immunity set.",
+      "Lev lands the killing blow on Rampart; Dawn punches the Wyrmwraith's head off. The floating spool continues sending threads but is eventually destroyed by accumulated slashing damage from Henrik's Yamaraj's Grandeur.",
+      "Post-combat: Rampart's body is autopsied — his entire skeleton is adamantine (Ship of Theseus style, like Wolverine). His heart is a magic engine similar to the party's own heart implants, still radiating immense heat. They harvest 3 adamantine ingots' worth of bone.",
+      "Hallie and Tenno are retrieved from stasis vats using orbs. They reveal the vats were plotting coordinates: origin here, output near 'the core.' They can operate a one-way teleporter to virtually any location.",
+      "The party debates resting vs. pressing on, weighing the risk that Kharkov may move the god-killing gun (target artifact) or be empowered by the Deep. They explore Beacon Maintenance — a storage room full of the same magic thread spools — and settle on an audacious plan.",
+      "Final plan: teleport into the Vault itself (the most secure room in the facility) to long rest. Dawn is cast with 8th-level Disappearance and rolls a 53 crit stealth. Everyone but Dawn enters Hallie and Tenno's orb; they bring Rampart's hot corpse as a container for his heart. They step through the teleporter into the unknown Vault — session ends."
+    ],
+    "characters_present": [
+      "Lev (Jorge)",
+      "Henrik (Tanner)",
+      "Divex (Mike)",
+      "Dawn (Noah)",
+      "Victor Rampart",
+      "Elder Wyrmwraith",
+      "Hallie",
+      "Tenno",
+      "The Broker",
+      "Kharkov (mentioned)",
+      "Natalia (mentioned)"
+    ],
+    "locations": [
+      "Oreskian Facility — Violet Level (combat arena with vats and floating spool)",
+      "Beacon Maintenance / Storage Room",
+      "Ultraviolet Compound — The Vault (destination, not yet seen)",
+      "Syrin / Serengrad (mentioned as possible escape destination)"
+    ],
+    "factions": [
+      "First House (Oreskian leadership — Rampart, Kharkov, Natalia)",
+      "The Deep (entity breaching the facility)",
+      "The Narrative (Renge's faction, mentioned)",
+      "Hallie and Tenno (captive AI entities, now allied)"
+    ],
+    "items": [
+      "Victor Rampart's adamantine skeleton (harvested, ~3 ingots)",
+      "Victor Rampart's heart (magic engine, extremely hot, melts through concrete)",
+      "Ultraviolet-level ID card (First House access)",
+      "Orbs containing Hallie and Tenno",
+      "The teleporter (one-way, programmable)",
+      "Disintegrate spell (key damage source, cast 3 times)",
+      "God-killing gun / artifact (target, location in Vault unknown)",
+      "Spools of magic consciousness thread",
+      "Lev's Keen rune sword",
+      "Dawn's Silver Anvil (Torag's)"
+    ],
+    "cliffhanger": "The party teleports into the Vault — the most secure room in the Oreskian facility — with Dawn invisible and Disappeared (53 crit stealth), everyone else stuffed into Hallie and Tenno's orb, carrying Rampart's still-burning corpse. They have no idea what's inside the Vault, where Kharkov is, or whether the god-killing gun is still there. The session ends as they step through the teleporter into the unknown."
+  }
+}

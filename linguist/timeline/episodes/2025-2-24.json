@@ -1,0 +1,70 @@
+{
+  "date": "2025-2-24",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Shards in the Void — Infiltrating the Gilded Spire",
+    "synopsis": "The party ascends to the Gilded Spire — Omnivox's orbital casino-resort headquarters — aboard a Comet Air starship, only to have the vessel torn apart by a shard of solidified space (reminiscent of Mantius's ascension). Tech vanishes in the wreckage. Surviving the vacuum, the party pilots Sauron's orb to the Spire, sneaks past security, and battles shattered humanoid constructs in the Rett (dream dimension) on the Garden floor — discovering that the Spire itself is connected to the spatial anomalies by cords in the dream.",
+    "key_beats": [
+      "Planetside prep: Lev searches for vampires/werewolves (finds only cybernetic-animal gangs); Dawn works with Tech to identify Omnivox's trademarked/banned words — Althane and Sundom. Party stashes gear in Divex's imaginary lockbox and moves Hali & Tenno into Sauron's orb to hide them for the flight.",
+      "The starship launches. Mid-ascent, the captain announces turbulence, then the ship is torn in half by a stationary shard of solidified space — the same phenomenon as Mantius's ascension point. The captain is killed; Tech disappears. The party is ejected into vacuum, taking force damage and fort saves against decompression.",
+      "Emergency saucer-drones from the wreck form protective bubbles around the party. A shuttle from the Spire retrieves the captain's corpse but ignores the survivors. The party uses Sauron's orb to investigate the shard, then begins the hours-long piloting ascent to the Spire.",
+      "Looking into the Rett near the shard, the party sees shattered dream-space with debris and cords running from the Spire down to metal fragments — connecting the station to the spatial anomaly. Divex's Locate spell finds no trace of Tech within 500 feet.",
+      "Lev disguises the orb as rock debris to approach the dock, triggering an automated weapons lock. Dawn evades the beam. The party then hides the orb in the crevices of a passing passenger ship and slips through the barrier into the Spire's docking bay.",
+      "In the golden lobby, Lev charms an office worker and bluffs a security guard with a 64 Deception roll, getting the party scanned through to the executive elevator without IDs. They ride to floor 109 and slip into a stairwell, abandoning their 'colleagues.'",
+      "The stairwell dead-ends at floor 113 (the Garden), blocking access to executive floors 114–125. Floor 126 is conspicuously absent from the elevator directory; 127 is the penthouse. Henrik's life sense detects someone on the other side of the locked garden door.",
+      "Dawn attempts to 'manifest camera sense' to scout through the Rett without entering it. He touches something sharp in the dream that becomes aware of the party. Peering into the Rett, the party sees shattered humanoid figures — segmented, displaced like broken glass — staring back at them.",
+      "The party enters the Rett to fight: a Wriggling Man, two Bythos (time-manipulating constructs), and two Astro Demons. Lev counters the Wriggling Man's Time Stop with his armor's anti-magic rune. Divex is temporarily removed from the time stream by a Bythos temporal strike. The party systematically destroys all enemies through coordinated debuffs, Henrik's Shield of the Unified Legion, and burst damage.",
+      "Post-battle examination: the Wriggling Man's corpse is 'Splintered' — axiomatic, will reanimate in ~24 hours, has centuries-old primitive cybernetic prosthetics. In the real world, the Rett-creatures correspond to constructs still standing in the Garden. Tech remains missing.",
+      "Divex returns from temporal displacement to find all enemies dead. The party stands victorious in the Garden, facing the locked route to the executive floors above — with floor 126 (missing from the directory) as their likely destination.",
+      "Session ends with out-of-character reflection on past campaign failures, the upcoming Færrin campaign, and whether the party will ever go prone."
+    ],
+    "characters_present": [
+      "Lev",
+      "Henrik",
+      "Divex",
+      "Dawn",
+      "Tech (missing)",
+      "Sauron",
+      "Hali",
+      "Tenno",
+      "Starship Captain (deceased)",
+      "Wriggling Man",
+      "Bythos 1",
+      "Bythos 2",
+      "Astro Demon 1",
+      "Astro Demon 2",
+      "Charmed Office Worker",
+      "Security Guard"
+    ],
+    "locations": [
+      "Syrin (planet surface)",
+      "Comet Air Starship",
+      "Vacuum of Space",
+      "The Gilded Spire (orbital station)",
+      "Spire Docking Bay",
+      "Spire Lobby (Floor 2)",
+      "Office Floor (Floor 109)",
+      "Stairwell (Floors 3–113)",
+      "The Garden (Floor 113)",
+      "The Rett (Dream Dimension)"
+    ],
+    "factions": [
+      "Omnivox",
+      "The Party",
+      "Comet Air"
+    ],
+    "items": [
+      "Sauron's Orb",
+      "Imaginary Lockbox (Divex)",
+      "Shield of the Unified Legion (Henrik)",
+      "Nox Armor with Anti-Magic Rune (Lev)",
+      "Badge of Cosmeturgy (Lev)",
+      "Warp Glass Spikes (Henrik)",
+      "Greater Flaming Greater Astral Quick Strike Greater Fearsome Orichalcum Bastard Sword (Lev)",
+      "Locate Spell (Divex)",
+      "X-Ray Goggles (unprepared)",
+      "Gate Scroll (10th level, unused)"
+    ],
+    "cliffhanger": "The party stands in the Garden on floor 113, having cleared the Rett-creatures but with hostile constructs still active in the real world. Tech is still missing. The stairwell to the executive floors (114–125) is blocked, and floor 126 — absent from the directory — beckons from above as the likely location of Omnivox's deepest secrets and perhaps Tech himself."
+  }
+}

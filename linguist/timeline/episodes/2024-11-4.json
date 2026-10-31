@@ -1,0 +1,53 @@
+{
+  "date": "2024-11-4",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Grandfather of Lies and the Lava Ruin of Shatterpoint",
+    "synopsis": "The party traverses the Hollow beneath Oresk's western mountains, planning to seek out Sparrow contacts near the prison outpost and obtain Nox blood from the Umberville Holt mines. Their path is blocked by an anticyclic ruin submerged in a lava flow, where Lev adopts an elaborate \"old man Bjergsen\" disguise to befriend a trapped mercenary named Damien — who is monitoring the facility via spyglass cameras and loudspeakers. The party fights off Igni Sprites while shutting down the lava flow, then loots the ruin and pushes toward the facility's core where Damien was captured by workers in black suits.",
+    "key_beats": [
+      "The party travels underground through the Hollow, crossing into the Nexus of Decay; they discuss plans to find Sparrows near the Cernier Prison Outpost and obtain Nox blood from the Umberville Holt mines for Henrik's plague and Lev's cabal ambitions",
+      "They reach an anticyclic ruin — the only passage through — embedded in a miles-wide lava flow, with architecture reminiscent of the Heidel Tap beneath La Paisa",
+      "Entering the ruin, they find three red-hazmat-suited exosuit workers doing maintenance and a rotating spyglass camera; they back out to plan their approach",
+      "Lev disguises himself as a confused old man named 'Bjergsen' and makes contact with a voice over the loudspeaker — Damien, a Shatterpoint mercenary trapped somewhere deeper in the facility, who believes Lev wandered in by accident",
+      "Using an actuating baton and a spyglass looted from a skeleton's pockets (alongside a black disc aeon stone), Lev follows Damien's guidance to open sealed doors by manipulating brass valves connected to steam pipes",
+      "Divex casts Invisibility Sphere to hide the party while Lev maintains the old man ruse; the party proceeds toward Damien's location through a lava-flooded chamber",
+      "As Lev activates pillars to shut off the lava flow, Igni Sprites erupt from the lava and attack; the full party joins combat while Dawn, Divex, and Henrik play along as 'Bjergsen's ancestors' summoned to fight",
+      "The party defeats the Igni Sprites and completes all pillar/valve activations, draining the lava and clearing the path; Damien cheers them on over the loudspeaker",
+      "In a side room they loot major red pitch bombs, a major cryo mister, and a suppression range device from another corpse; Divex identifies all items and the black disc aeon stone (which deals void damage — harmless to Lev's vampire immunity)",
+      "They pass through another steam-valve door using the suppression crossbow device and reach the threshold of the 'core' chamber, where Damien warns of workers in black suits who captured him"
+    ],
+    "characters_present": [
+      "Lev (Jorge)",
+      "Henrik (Tanner)",
+      "Dawn/Don (Noah)",
+      "Divex (Mike)",
+      "Damien (NPC - Shatterpoint mercenary)",
+      "Red-hazmat exosuit workers (NPCs)",
+      "Skeleton 'Johnny' (NPC)"
+    ],
+    "locations": [
+      "The Hollow (underground tunnel system)",
+      "Nexus of Decay (Oresk border)",
+      "Anticyclic ruin in the lava flow",
+      "Umberville Holt / Cernier Prison Outpost peninsula (discussed)",
+      "Heidel Tap (referenced)"
+    ],
+    "factions": [
+      "Oreskalka Cabal",
+      "The Sparrows",
+      "Shatterpoint (mercenary company)",
+      "Oreskian government"
+    ],
+    "items": [
+      "Actuating baton",
+      "Black disc aeon stone (void/negative damage, 10 positive resistance)",
+      "Major red pitch bombs (x2)",
+      "Major cryo mister",
+      "Suppression range device (crossbow-like, disrupts magic energy flow)",
+      "Fortune coins (x2, Lev)",
+      "Lev's blood armor",
+      "Lev's greater crown of the fire eater"
+    ],
+    "cliffhanger": "The party stands at the threshold of the facility's 'core' — the power center where workers in black suits captured Damien — with a ballista-like structure and a glowing rock visible inside the chamber. Damien warns them to watch out and says they may need to unlock another door at the far end to reach him."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2024-11-11",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Heart of the Facility",
+    "synopsis": "The party continues exploring the bronze steampunk ruin embedded in an underground lava river, seeking to rescue Damien, a trapped human mercenary communicating through facility cameras. They discover a divine-like power source, debate trust and morality with two sentient orbs, and begin repairing the facility's piping system to open a locked door — each repair raising both the lava level and the stakes as Damien warns that further restoration will attract hostile entities.",
+    "key_beats": [
+      "Josh distributes stat blocks for the Aegisfur crossbow and black Aeon Stone disc picked up previously; the party reviews their extensive inventory of resistance-granting items and Aeon Stones.",
+      "The party enters a large lava-bridge room with red hazmat-suited worker drones doing repairs. Perception checks reveal the drones are non-reactive biological constructs maintaining the facility's piping.",
+      "Divex identifies the facility's central power source via occultism (roll of 40) — it has a divine-like energy signature similar to Halia, Tenno's Orb, Savik, and Beast, but on a much smaller scale. Schism offers to analyze it as a potential catalyst for creating hearts/beacons.",
+      "A debate unfolds about whether to leave Schism with the artifact. Saran (another sentient orb) comments critically on the Sundom's morality — genocide and repeated life-death cycles — while acknowledging the Brokers as a net good. Lev pushes to keep Schism involved rather than leaving him behind, earning Schism's favoritism.",
+      "Henrik uses the eyeglass to identify the locked door's mechanism: a glass tube on the doorframe must be filled with bluish-purplish liquid by repairing four broken pipe subsystems. Don uses the Aegisfur crossbow to clear volatile magical energy blockages in the pipes.",
+      "Each pipe repair fills the tube further, activates dormant machinery (conveyor belts, grappling armatures cracking cooled lava rocks), and raises the lava level incrementally. Greenish-yellow sparks transfer from cracked rocks to the spinning heart artifact.",
+      "The party harvests approximately 600 meters of Hepatian metal — a copper-gold-silver alloy with extremely high magical conductivity — from the worker drones. Divex uses Detect Metal to identify its properties and potential for magic-transmitting wiring.",
+      "Schism is placed onto the spinning heart artifact to analyze it in depth, rotating with it like an unbalanced load in a dryer.",
+      "After three of four pipe repairs, Damien urgently warns that further power restoration will attract the hostile black-suited entities that captured him. He opens the gate and raises the bridge as an escape route, urging the party to flee and return with help.",
+      "Lev uses Recall Knowledge (roll of 40) on the worker drones: they are biological constructs similar to the Morning Light Endless Chasm fungal hive mind, with programmed if-then behavior, regenerative musculature, and room for a piloting intelligence. He exploits vulnerability, learning their highest resistance is 14 damage resistance to all damage except force, spirit, vitality, and ghost touch.",
+      "The party decides to press forward and rescue Damien rather than retreat, despite the imminent threat of hostile entities and rising lava. Tanner (Henrik's player) departs due to a family emergency, and the session ends before the confrontation begins."
+    ],
+    "characters_present": [
+      "Lev (Thaumaturge, Jorge)",
+      "Divex (Wizard/Archmage, Mike)",
+      "Henrik (Fighter, Tanner)",
+      "Don (Bjergsen ancestor spirit, Noah)",
+      "Damien (trapped human mercenary NPC, from Noxfell)",
+      "Schism (sentient floating orb)",
+      "Saran/Sauron (sentient floating orb)",
+      "Bjergsen ancestor spirits (summoned predecessors)",
+      "Red hazmat-suited worker drones (biological constructs)"
+    ],
+    "locations": [
+      "Bronze steampunk ruin facility embedded in an underground lava river",
+      "Lava-bridge room with power source/heart artifact and locked door mechanism"
+    ],
+    "factions": [
+      "The Sundom (discussed morally)",
+      "The Brokers (discussed)",
+      "Athrean territory (Noxfell, Damien's hometown)",
+      "Thyrapae (governing authority over Noxfell)"
+    ],
+    "items": [
+      "Aegisfur crossbow (disruption weapon, no reload time in anticyclic framework areas)",
+      "Black Aeon Stone disc (positive/vitality resistance)",
+      "The eyeglass (highlights interactable objects in correct order)",
+      "The baton (switches mechanisms on/off)",
+      "Hepatian metal foil (~600 meters, copper-gold-silver alloy, high magical conductivity)",
+      "Central power source / heart artifact (divine-like energy, spinning, potential catalyst)",
+      "Charms of resistance (tattoos, multiple)",
+      "Three Aeon Stones orbiting Lev's head",
+      "Popat (15k value, mentioned for sale)"
+    ],
+    "cliffhanger": "The party has chosen to press forward to rescue Damien despite his warning that restoring full power will attract hostile black-suited entities. The lava is rising with each repair, the heart artifact spins faster with Schism aboard it, and only one more pipe repair is needed to open the door — but doing so will trigger the encounter."
+  }
+}

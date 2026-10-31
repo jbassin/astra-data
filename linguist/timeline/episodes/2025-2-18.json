@@ -1,0 +1,54 @@
+{
+  "date": "2025-2-18",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Dive Bar Brawl and Chrome Dreams",
+    "synopsis": "After being ejected from MediaCon for bullying Immix off-stage, the party retreats to a dive bar to wait for the Broker to arrange their cybernetic implant procedures. A philosophical debate erupts over whether to restore the Sundom population's original memories (which Lev supports) or preserve the current cycle's inhabitants (which the others argue for). Their conversation is interrupted by an Omnivox-controlled patron who demands exorbitant copyright fines, triggering a bar-wide brawl against compelled cyborgs. After surviving Chain Lightning, Wall of Force, and Cloud Kill, the party is extracted by the Broker and undergoes full cybernetic implant surgery, becoming connected denizens of Syrin's red network.",
+    "key_beats": [
+      "Party spots a lighthouse door symbol backstage at MediaCon but decides against pursuing Immix into the lighthouse, opting to taunt a wall instead before being escorted out by security.",
+      "The group finds a seedy establishment literally called 'Dive Bar' and settles into a booth to wait for the Broker.",
+      "A heated philosophical debate unfolds: Lev argues for restoring original Sundom memories to all of Althane's inhabitants (effectively ending the current cycle), while Don, Divex, and Henrik argue this constitutes murder of the planet's current population and that they should instead work to improve Althane from within.",
+      "An Omnivox-controlled patron sits down and demands 18,000 credits per infraction for 212 uses of copyrighted 'forbidden words,' revealing the entire bar's patrons are under a compelled condition.",
+      "Combat erupts: Divex's Disturbing Knowledge fails to affect the emotion-immune compelled patrons, and Lev's scary blindfold only manages to frighten Divex himself.",
+      "The hijacked patrons unleash devastating spells including Chain Lightning, Cloud Kill, and Wall of Force; Henrik is trapped inside the force dome with two enemies.",
+      "Lev uses Implement Assault to strike multiple foes at once, then uses a Ring of Spell Turning to reflect a Chain Lightning spell back at its caster, killing him.",
+      "Henrik fights non-lethally, knocking out two patrons inside the force dome; Dawn kills one patron with a punch and Divex dispels the compelled effect on one survivor who flees.",
+      "The Broker teleports in, modifies the unconscious patrons' memories, destroys the bartender robot with his firearm, and extracts the party.",
+      "The party undergoes cybernetic implant surgery at a ripperdoc theater — the Broker performs the procedures himself via a glove-controlled robotic armature, installing neural implants, rebreathers, subdermal spanners, and three hacks, fully connecting them to Syrin's red network (RET)."
+    ],
+    "characters_present": [
+      "Lev (Levmir)",
+      "Divex",
+      "Dawn (Don)",
+      "Henrik",
+      "The Broker (Tech)",
+      "Immix (fled, not fought)",
+      "Hijacked Bar Patrons",
+      "Bartender Robot"
+    ],
+    "locations": [
+      "MediaCon Convention Center (backstage)",
+      "Dive Bar (Syrin)",
+      "Ripperdoc Surgery Theater"
+    ],
+    "factions": [
+      "Omnivox Corporation",
+      "Sundom",
+      "Sedecium"
+    ],
+    "items": [
+      "Neural Implant (Omnivox-compatible, jailbroken)",
+      "Subdermal Spanner",
+      "Rebreather (artificial lungs)",
+      "Three Hacks (data chips)",
+      "Ring of Spell Turning",
+      "Rod of Cancellation",
+      "Warp Glass Weapon",
+      "Greater Shock Rune",
+      "Dread Blindfold",
+      "Final Blade (mentioned)",
+      "Anti-Magic Armor Rune"
+    ],
+    "cliffhanger": "The Broker looks at the newly-cybernetic party and asks, 'Okay, what do we do now?'"
+  }
+}

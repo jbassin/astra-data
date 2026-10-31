@@ -1,0 +1,63 @@
+{
+  "date": "2024-11-20",
+  "show": "hildebrandt-heist",
+  "summary": {
+    "title": "Die Hard at Hildebrandt Tower: Bright Souls Eve",
+    "synopsis": "A Die Hard–style holiday one-shot set in Calaria's capital, Halnia. Hildebrandt Corporation employees Atsuki, Mika Buzzle, Vint, and Chris Gangle attend a Bright Souls Eve party at headquarters, only for a terrorist named Naren Rodder to seize the building. After clearing the ballroom of captors and discovering Director of Strategy Vitor Frey is a traitor, the team climbs to the vault floor and engages Naren—who is blessed by the Heir of the Plague—in a desperate fight that ends with the Plague Codex launched out a blown-out wall into the unknown.",
+    "key_beats": [
+      "The party (Atsuki, Mika, Vint) arrives at Hildebrandt Tower for the Bright Souls Eve party, passing a security checkpoint run by a half-elf guard named Powell, who issues sending stones and warns that items were recently moved to the vault.",
+      "In the foyer the group notices suspicious caterers and a gaudily dressed C-suite executive, Vitor Frey, Director of Strategy, who invites them upstairs to the real party.",
+      "As the group rides the paternoster elevator to the 20th floor, a lockdown klaxon sounds and Naren Rodder announces over the loudspeaker that he has taken control of the building, demanding everyone stay put for one hour.",
+      "Adamantine shutters seal the hallways; Frey is seen running toward the caterers before being cut off. Vint fails to blast open the locks, so the party climbs into the HVAC ventilation system to bypass the shutters.",
+      "They crawl through vents to the ballroom, spot captors holding employees hostage with sharpshooters on the terrace, and launch a coordinated ambush—Vint's silenced sniper crits a sharpshooter while Atsuki charges screaming and butchers a captor with his glaive.",
+      "The ballroom captors are wiped out; Chris Gangle (head of remote viewing, an illusionist) reveals himself among the hostages and joins the party.",
+      "The group climbs vents to the top-floor vault, finding it open with a dragon's hoard of gold inside, a hole blown in the outer wall, Frey alive and conspiring, and Naren glowing with the deep red raiment of the Heir of the Plague, holding a book—the Plague Codex.",
+      "Combat erupts: Naren brands Atsuki as 'impenitent' (a permanent curse), blinds him with Umbral Veil, and critically hits repeatedly; Chris Gangle is downed by thieves and revived by Vint's healing bullet.",
+      "Vint shoots Frey's parachute backpack (damaging it), then shoots the Plague Codex out of Frey's hand—launching the book out the hole in the wall into the void.",
+      "Vint critically hits Naren with a glue bullet, bringing him to death's door; a revived Chris Gangle unleashes Psyche-amplified Animated Assault, killing Naren and the remaining thieves. Frey is also killed. The Plague Codex is loose somewhere in the world."
+    ],
+    "characters_present": [
+      "Atsuki",
+      "Mika Buzzle",
+      "Vint",
+      "Chris Gangle",
+      "Vitor Frey",
+      "Naren Rodder",
+      "Powell",
+      "Captor Bladefighters",
+      "Captor Sharpshooters",
+      "Thief 1",
+      "Thief 2",
+      "Hildebrandt (mentioned, silver dragon)"
+    ],
+    "locations": [
+      "Hildebrandt Tower (headquarters)",
+      "Halnia (capital of Calaria)",
+      "Tower foyer/entrance",
+      "Paternoster elevator",
+      "20th-floor hallway",
+      "HVAC ventilation shafts",
+      "Ballroom/concourse",
+      "Top-floor vault"
+    ],
+    "factions": [
+      "Hildebrandt Corporation",
+      "Naren Rodder's captors/thieves",
+      "The Heir of the Plague",
+      "The Iridescent Host (mentioned)"
+    ],
+    "items": [
+      "Sending stones",
+      "Plague Codex",
+      "Arquebus with golden silencer",
+      "Eroding bullets",
+      "Healing/life bullets",
+      "Glue bullets",
+      "Big rock bullets",
+      "Parachute backpack (destroyed)",
+      "Astral Cold Iron Glaive",
+      "Lifter's belt"
+    ],
+    "cliffhanger": "The Plague Codex has been shot out of the blown-open vault wall and is now loose somewhere in the world—its fate and who might find it unknown—though Naren Rodder and Vitor Frey are both dead and the building is secured."
+  }
+}

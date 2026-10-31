@@ -1,0 +1,59 @@
+{
+  "date": "2024-12-2",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Forge of Haron Sil: A Needle to Kill a God",
+    "synopsis": "The Weft restores power to a mysterious underground facility and discovers a nascent divine heart — a forge of unknown origin created by someone named Haron Sil. After a chaotic battle with incorporeal hazmat-suited creatures, Henrik discovers that Damien is actually hooked into the facility's control system and mercy-kills him. The party awakens the heart with Savick's Blood, then must plead their case before all five members of the Narrative to earn permission to forge a godpiercer needle from Holy Gold.",
+    "key_beats": [
+      "The party lets Schism investigate the glowing core, discovering it's a 'baby heart' — a divine forge of unknown third-faction origin (not Sanctum or Thessian) that can create items from divine energy, potentially including Holy Gold.",
+      "After debating whether to wake the heart, the party fully charges the facility's power, triggering an arcane intelligence that announces godlike judgment. Six black-suited worker creatures and numerous smaller assistants emerge from the vents.",
+      "Combat begins against the creatures, who are incorporeal. The party learns the mechanics: killing assistants drops divine energy orbs, touching two orbs makes workers corporeal (a 'DPS phase'), but hitting the wrong worker during this phase causes damaging explosions.",
+      "Henrik opens Damien's door and discovers Damien is actually stuffed inside a hazmat suit, wired into the facility's pipes as a living control system. After a botched attempt, Henrik rips Damien free, killing him — which collapses all the workers and causes the facility's autonomous intelligence to resume control, draining the rising lava.",
+      "Divex and Lev use resonance crystals from the Solarium to collect ambient divine energy, producing three vials of Starsong Nectar.",
+      "The party pours four vials of Savick's Blood onto the heart, awakening it as a conscious entity that identifies itself as 'Damien.' Dawn presents Holy Gold and requests a godpiercer needle, but Damien says it needs permission from its 'owners.'",
+      "The party is transported to an endless white space where they meet all five members of the Narrative: Aut (the author), Renge (Lady of Fortune, tall hollow-eyed figure), P'ter (a living house of nested rooms), Menier (shifting stone pillars), and Insuperlex (a bisected humanoid showing cross-section organs).",
+      "The party argues for permission to forge the needle. Renge proposes restricting its use to within their story only. Aut counter-proposes giving a fragment to the Broker to create a new antagonist, but is voted down 2-2 with Aut outvoted.",
+      "Damien forges the godpiercer needle — a one-foot golden cone that renders divine beings mortal (vulnerability 25 to all damage, loses divine abilities). Dawn claims it.",
+      "Damien has 18 charges remaining and can create more items up to level 18. The party levels up to level 18. Discussion turns to Lev wanting a cool sword, the Broker's true motivations for wanting Formless, and Dawn privately telling Schism the needle is meant for the Broker, not Formless."
+    ],
+    "characters_present": [
+      "Divex",
+      "Lev",
+      "Henrik",
+      "Dawn",
+      "Schism",
+      "Saran (Mir)",
+      "Damien (the heart)",
+      "Aut",
+      "Renge",
+      "P'ter",
+      "Menier",
+      "Insuperlex",
+      "The Broker (mentioned)"
+    ],
+    "locations": [
+      "Underground ruins facility",
+      "The forge room (heart chamber)",
+      "Damien's control room",
+      "The Narrative's white space"
+    ],
+    "factions": [
+      "The Weft",
+      "The Narrative",
+      "Haron Sil's facility (unknown third faction)",
+      "The Broker's organization"
+    ],
+    "items": [
+      "Godpiercer needle",
+      "Three vials of Starsong Nectar",
+      "Holy Gold (consumed in forging)",
+      "Savick's Blood (four vials, consumed to awaken heart)",
+      "Aegis Sever",
+      "Diagnostician's eyeglass",
+      "Operator's baton",
+      "Resonance crystals (from the Solarium)",
+      "Tactician's Helm"
+    ],
+    "cliffhanger": "Dawn secretly tells Schism the godpiercer needle isn't for Formless — it's for the Broker, who still wants the Formless shard. The party stands at the forge with 18 charges remaining and major decisions ahead, while the Broker's true motivations remain unknown."
+  }
+}

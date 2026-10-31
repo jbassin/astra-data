@@ -1,0 +1,64 @@
+{
+  "date": "2024-10-28",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Heist of Kuiperkeist & A Conversation With Yudan",
+    "synopsis": "The party executes a daring heist inside the Leviathan, blowing a hole in the top of the seat of elders to steal a cave orb — revealed to be Yudan, a powerful Kaith secretly piloting Brvasing's bio-organic Leviathan control system. After kidnapping him, they craft a signal-jamming garment over three days in the Hollow, then enter Yudan's cognitive library to interrogate him. Yudan proves a surprisingly cooperative captive: he outlines a plan to defeat the Feep by triggering the 13th Realm's apocalyptic defense mechanism via ascension, and the party forges an uneasy alliance before releasing him and crossing into Oresk's bleak Udisil's Nexus.",
+    "key_beats": [
+      "The party holds an informal audience with the elders at Kuiperkeist; Zora (aphorite dwarf, head of the seat) and a hydrin elder reveal Turk was supposed to send outside experts for invasive research screening, but Lev uses his Ring of Lies and Charming Liar feat (deception roll of 55) to gracefully extricate the group while actually improving the elders' attitude.",
+      "Lev spends a disguised day spreading construction rumors across Kuiperkeist — fake posters, a duped police officer — to pre-cover the sound of the upcoming explosive breach.",
+      "Dawnmonger and Divex cast Disappearance (8th-level) and fly to the top of the dome; they detonate loadstone bombs, blowing a hole in the exterior and revealing a horrifying sight: a giant bio-engineered face with tentacles and an exposed brain, which is the Leviathan's biological control system, wrapped around Yudan's cave orb.",
+      "Divex uses Collective Transposition to teleport the orb (as a creature) directly into his hand and immediately drops it into his invisible shadow; the party escapes undetected, regroups with Lev and Henrik at the bikes, and speeds toward their Cobalt exit.",
+      "Yudan awakens in Divex's shadow, furious and demanding release; he has already sent a distress signal. Lev talks him into a temporary pause, the party shoves him into the signal-jamming chest wrapped in Henrik's cloak, and flees the Leviathan through a cave toward the Hollow.",
+      "Dawnmonger spends the three-day underground journey crafting a containment garment — essentially a Faraday-cage shirt and hat — that blocks Yudan's long-range communication while allowing short-range interaction.",
+      "The party uses the Oniriscope/Spanner to enter Yudan's cognitive orb: a hexagonal-prism library with bookshelves on all six surfaces, robot servants serving tea, and Yudan manifesting as a 12-foot-tall four-armed figure with hexagonal plating and three orbiting purple rune-rings where his head should be.",
+      "Yudan reveals key truths: the giant brain is a biological substitute for the Leviathan's damaged control matrix; he secretly controls Brvasing through it; the elders are all dead (degraded personality fragments); and the Heart Manifestation project (which created Schism) was one he opposed.",
+      "Yudan outlines the plan to defeat the Feep: trigger ascension, which activates the 13th Realm's defense (palladium rods devastating population centers), forcing the Feep to spread out and leaving it vulnerable to the party's holy-gold-needle pin; Divex also gets advice on improving the Dawn/Plot Divergence Engine and on parallel-processing spell innovation.",
+      "The party releases Yudan on the promise of mutual non-interference — Yudan won't trigger the cycle's end before the party deals with the Feep — and crosses the mountain border into Oresk, entering Udisil's Nexus where everyone gains Doomed 1; the session ends as they step into the final act."
+    ],
+    "characters_present": [
+      "Lev (Jorge)",
+      "Divex (Mike)",
+      "Dawnmonger (Noah)",
+      "Henrik (Tanner)",
+      "Zora (aphorite dwarf elder)",
+      "Hydrin elder (unnamed)",
+      "Yudan (purple Kaith, kidnapped cave orb)",
+      "Schism (Kaith, traveling with party in a bag)",
+      "SeRaan (Kaith, communicating via telepathy)",
+      "Turk (mentioned only)"
+    ],
+    "locations": [
+      "Kuiperkeist (seat of the elders, inside the Leviathan)",
+      "The Leviathan (exterior dome, lava moats, interior)",
+      "Cobalt (exit area of the Leviathan)",
+      "The Hollow (underground cave system crossing the mountain border)",
+      "Yudan's cognitive orb (hexagonal-prism library)",
+      "Udisil's Nexus (Oresk border region)"
+    ],
+    "factions": [
+      "Alters and Associates (A&A, party's cover company)",
+      "Brvasing (the Leviathan nation)",
+      "The Sundom",
+      "Oresk",
+      "The 13th Realm",
+      "The Golden Sparrows (mentioned)"
+    ],
+    "items": [
+      "Ring of Lies (Lev's ring, +4 to deception)",
+      "Yudan's cave orb (stolen)",
+      "Loadstone bombs (3)",
+      "Oniriscope / Spanner (orb-entry device)",
+      "Signal-jamming chest",
+      "Henrik's cloak (30-foot Dimension Door, temporarily swapped with Lev)",
+      "Portable hole (storing a stolen Leviathan bike)",
+      "The Dawn Engine / Plot Divergence Engine (Divex's device)",
+      "Leviathan bio-organic control brain",
+      "Disappearance (8th-level invisibility spell)",
+      "Collective Transposition (Divex's teleport spell)",
+      "Holy gold needle (mentioned as Feep-killing tool)",
+      "Signal-jamming garment (Dawnmonger's crafted Faraday-cage clothing for Yudan)"
+    ],
+    "cliffhanger": "The party crosses the border into Udisil's Nexus in Oresk — a harsh region where every living thing gains Doomed 1, food rots faster, and the cold is relentless — marking the beginning of the campaign's final act as they head toward Sarengrad to find Kharkov and the Feep."
+  }
+}

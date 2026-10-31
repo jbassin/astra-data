@@ -1,0 +1,58 @@
+{
+  "date": "2024-10-21",
+  "show": "the-midnight-sun",
+  "summary": {
+    "title": "The Midnight Sun: Nuking Raelion in the Bone Fane",
+    "synopsis": "Three Actinium Convox operatives — Banyan, Giancarlo Santucci, and Crindle Vilksnake — are tasked with deploying the \"Midnight Sun\" bomb in a Raelion Fane atop a ley line. They infiltrate the city of Orilon via river and sewer, find the bone-tree heart of the Fane, and in a desperate combat activate the monolith just before its countdown completes — obliterating all of Raelion. The session is set 20 years before the main campaign.",
+    "key_beats": [
+      "Table chatter: Mike's Discord audio issues, Dracula Flow bit, and a failed juggling attempt (socks and a ceramic gnome) earn everyone their hero point.",
+      "Characters introduce themselves: Banyan the orc druid, Giancarlo Santucci the human champion, and Crindle Vilksnake the brooding hooded operative. Josh lays out the Færrin setting — a theocracy where divine blessings manifest as visible golden rings, 1930s–40s tech, and perpetual war with Raelion.",
+      "Bishop Kilgore (dwarf, Second Class) briefs the team: take the Midnight Sun bomb to a Fane in the Raelion city of Orilon, plant a pearl-tipped silver beacon into the Fane's heart to transmit the bomb, then activate it. He gives them disguise potions and says the beacon will teleport them back. Banyan's insight check seeds doubt about whether they'll actually be extracted.",
+      "The team airdrops outside the city at night, then infiltrates via the river: Crindle swims underwater with a rope looped onto a passing passenger boat's anchor, dragging Giancarlo through the riverbed (taking slashing damage). Banyan, wild-shaped as a pheasant, distracts an elderly passenger on deck.",
+      "Entering the sewers, the team navigates toward the city center. They intimidate hostile sewer dwellers and befriend a paranoid, tin-foil-hatted dweller who shares a crude map marking where he found 14 intact human skulls — near the Fane — and warns them about 'agents of Zorbon.'",
+      "Following the map, they find clogged sewage pipes (femurs jammed in a tributary) and a manhole cover. Crindle peeks through into an ornate ossuary Fane: black marble walls, bone-pile ornamentation, green-flamed braziers, and a massive tree made of fused human bones growing from a skull altar — the heart, 'The Bones Have Eyes.'",
+      "Banyan wild-shapes into a unicorn and crashes through the Fane window, but the Foremost immediately calls 'Intruder!' Combat erupts: Banyan shifts into a Triceratops and trades blows with the Foremost (a spellcasting elder), a Priest, and two Deacons.",
+      "Crindle goes invisible, translocates to the bone tree, and stabs the beacon spike into the heart. The beacon vanishes and a massive black monolith appears with a flip-display and arrow-key pad, broadcasting 'Transmat activated.'",
+      "Crindle, doubting extraction, refuses to activate the monolith. The countdown begins. The Foremost nearly kills Banyan (downed, saved by Orcish Ferocity). Giancarlo, clutch, drinks a 3-gold Potion of Emergency Escape, sprints 75 feet to the monolith, and inputs the activation code with the countdown at two.",
+      "The camera pulls out: a pinprick of blue light expands through Orilon and along the ley lines across all of Raelion. A massive purple crater replaces the nation. After-credits: the three operatives are safely transmitted back to HQ, shaking hands with Bishop Kilgore."
+    ],
+    "characters_present": [
+      "Banyan",
+      "Giancarlo Santucci",
+      "Crindle Vilksnake",
+      "Bishop John Kilgore (dwarf handler)",
+      "The Foremost (Fane attendant)",
+      "The Priest (Fane)",
+      "Two Deacons (Fane)",
+      "Paranoid Sewer Dweller (tin foil hat)",
+      "Shifty Sewer Dwellers",
+      "Elderly passenger on the riverboat"
+    ],
+    "locations": [
+      "Actinium Convox headquarters (briefing room)",
+      "Evergreen forest outside Orilon",
+      "River approaching Orilon",
+      "Passenger vessel on the river",
+      "Sewers of Orilon",
+      "Sewer treatment plant area",
+      "The Fane/Ossuary of Orilon (bone-themed, heart: bone tree)"
+    ],
+    "factions": [
+      "Actinium Convox (Calarian weapons development)",
+      "Oculum Convox (ethics gradient)",
+      "Iridescent Host / Iridescent Church (Calaria)",
+      "The Compelled (Raelion's deity)",
+      "Calaria",
+      "Raelion",
+      "Zorbon (referenced conspiracy)"
+    ],
+    "items": [
+      "The Midnight Sun bomb",
+      "Beacon spike (silver, pearl-tipped)",
+      "Silver disguise potions (brown sludge vials, 10 min duration each)",
+      "Potion of Emergency Escape (Giancarlo's clutch 3-gold purchase)",
+      "Crude sewer map (copied from the paranoid dweller's napkin)"
+    ],
+    "cliffhanger": "Raelion is annihilated and the operatives return safely — but the session is set 20 years before the main campaign, leaving the long-term consequences of nuking an entire nation as looming lore for the future."
+  }
+}

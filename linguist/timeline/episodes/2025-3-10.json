@@ -1,0 +1,64 @@
+{
+  "date": "2025-3-10",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "The Immix Ascension: Death of a God-Wannabe",
+    "synopsis": "The party engages Immix in a climactic multi-phase boss fight within an incomplete prison. Immix initially manifests as three separate aspects — the Soul Render, the World Shaper, and the Wordweaver — each with distinct powers. After the party methodically kills two aspects, the third absorbs the remains and ascends atop a massive angelic body, gaining godlike power and six actions per round. Despite the terrifying escalation, the party prevails through sustained focus-fire, heavy healing from Henrik, and a crucial attack-of-opportunity from Lev that interrupts Immix's final Heal — finishing the god for good. The party levels up to 19.",
+    "key_beats": [
+      "Talks with Immix break down and combat begins (initiative rolled last session). The Soul Render opens with Cataclysm, dealing massive multi-element damage to the grouped party; the World Shaper launches a sphere of creation that blinds Divex; the Wordweaver confuses Dawn and stuns Henrik, and inscribes propaganda on Lev (resisted via Warding Sign).",
+      "Dawn lands first blood with a critical Technomancy Ray on the Soul Render while confused, then recovers from confusion at end of turn.",
+      "Lev exploits the World Shaper's vulnerability (weak 10 to spirit damage, which disables its regeneration) and the party begins focusing fire on it. Henrik struggles with attack rolls throughout the early fight.",
+      "Divex sustains Implosion across multiple turns on different Immix aspects, becoming the primary ranged damage dealer. Lev uses Word of Revision to reroll and critically succeed against the Soul Render's Spell Rack curse.",
+      "Dawn uses Momentary Recovery to teleport into the void, heals with Lay on Hands, then repositions to flank. Lev and Henrik continue trading blows with the aspects while Henrik provides critical Battle Medicine healing.",
+      "The World Shaper falls: Dawn casts Temporal Twin on Lev, who lands the killing blow — the World Shaper's body goes incorporeal and its cloak drops to the ground.",
+      "Henrik crits the Wordweaver with a Shield of the Unified Legion charge attack (slow + immobilize on crit specialization), then later impales and kills it with a certain strike, sending it fading out of existence like the World Shaper before it.",
+      "The final Immix aspect screeches, reabsorbs the remnants of the other two, and ascends to godhood atop a massive stone angel body with six giant hands gripping the arena platform — gaining 6 actions per round, holy weapons, and powerful spells.",
+      "The combined Immix attacks with Power Word Stun, Power Word Blind, Sunburst, holy longbow, and holy greatsword. Giant stone hands raise swords that periodically slam the arena, destroying sections of the floor and shrinking the battlefield.",
+      "Dawn and Lev fly up to attack the crown figure; Henrik and Divex attack the central body from below. Henrik repeatedly heals party members with Doctor's Visitation (Battle Medicine) while Divex sustains Implosion and Chaos Theory, and uses Spell Turning to negate a Devour Life.",
+      "Lev's attack of opportunity interrupts Immix's emergency Heal spell; Lev, calling on Tech to guide his blade, strikes Immix down for good. The angelic body collapses and the party dodges the falling corpse.",
+      "Post-fight: the party levels up to 19 and discusses next steps — returning to the Observers to bargain, learning the Feep's name, freeing Tech, killing the Feep and the Deep, and restoring the Lighthouse. Session ends with out-of-character wedding logistics for Tanner."
+    ],
+    "characters_present": [
+      "Henrik",
+      "Dawn",
+      "Lev (Levmir)",
+      "Divex",
+      "Immix (Soul Render aspect)",
+      "Immix (World Shaper aspect)",
+      "Immix (Wordweaver aspect)",
+      "Immix (combined/ascended form)",
+      "Tech (mentioned)",
+      "The Observers (mentioned)",
+      "The Feep (mentioned)",
+      "The Deep (mentioned)",
+      "Nox (mentioned)"
+    ],
+    "locations": [
+      "Incomplete prison / Immix's arena platform"
+    ],
+    "factions": [
+      "The player party",
+      "Immix",
+      "The Observers",
+      "Tech",
+      "The Feep",
+      "The Deep",
+      "Nox"
+    ],
+    "items": [
+      "Badge of Sedecium",
+      "Divinity Leech",
+      "Cold Iron vulnerability",
+      "Sovereign Steel Shield",
+      "Warp Glass Spike",
+      "Shield of the Unified Legion",
+      "Flying rune (armor)",
+      "Winged rune (armor)",
+      "Spheres of Creation/Annihilation",
+      "Hero's Feast (buff)",
+      "Zealous Conviction (buff)",
+      "Regalia"
+    ],
+    "cliffhanger": "Immix is dead and the party has leveled to 19; they plan to return to the Observers to bargain for knowledge and discuss next steps toward freeing Tech, killing the Feep, and restoring the Lighthouse — but the session ends before they act on any of it."
+  }
+}

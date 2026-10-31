@@ -1,0 +1,60 @@
+{
+  "date": "2024-12-23",
+  "show": "deep-eyes",
+  "summary": {
+    "title": "Down the Rabbit Hole: RC3 Floor 3",
+    "synopsis": "The party infiltrates the First House's secret research facility RC3 to retrieve Kharkov's god-killing weapon, only to find it in the grip of a catastrophic \"cognitive breakwater\" event — a Deep incursion that has suspended researchers from yellow cords and set the installation's architecture reshaping itself in real time. Armed with a dead man's red keycard and an increasingly haunted elevator, they descend floor by floor, looting what they can and trying to reach Floor 5 where all surviving personnel are being evacuated.",
+    "key_beats": [
+      "Lev uses Pinpoint to locate the body tied to the beating heart they carry; it points to a dumpster behind a coffeehouse at 1218 Providence Street in a nicer district of Serengrad.",
+      "Lev distracts the coffeehouse staff while Don and Henrik sneak into the alley and find the torso — arms and legs bagged separately — and a red passcard belonging to 'Leonard Fildren,' a name nobody recognizes. The card doesn't match the expected identity of Xander Orozcoca, a blue-clearance Orozcoca Cabal vampire.",
+      "Voychek requisitions and gifts Henrik a burlap sack of six quicksilver shield spikes — supernaturally sharp (d8), gildable with other metals — stolen from a Fourth House encampment. Don later crafts them together with warp glass spikes into a super-spike.",
+      "Back at the safe house, Divex identifies the heart's container as a modified Cranium Preserver — vampire necromantic tech that keeps a heart beating while the body decays. The party confirms the Trickster's/Liar's Downfall only counteracts illusions, meaning they're safe inside the orb.",
+      "Divex uses the Aniriscope on the heart and sees matte black with a flashing red light and faint hairline fractures leaking yellow. An occultism spirit-consultation reveals the 'backdoor into RC3' is Ilkheim — the Deep's city.",
+      "The party spends a full day casting Locate Object searching for a blue keycard near RC3 but fails to get any pings. They resolve to go in with the red card and Lev disguised as Leonard, storming the front door.",
+      "Lev enters RC3, passes through a water-curtain checkpoint, and descends to Floor 1 (Red clearance) — where klaxons blare warnings of cognitive breakwater, threshold manifestation, architectural restructure, and mnemonic breach; all personnel are ordered to Firebreak Gamma on Floor 5. The red card cannot access Floor 5.",
+      "On Floor 1 the party finds Department of Dimensional Correspondence staffed by dead researchers suspended from yellow cords, all mouthing 'adjoining the center of the black sun' — only red cards on the bodies. They then enter the Office of Symbiotic Interactions via a cord-pull that transports them through a lighthouse hotel lobby with four cocktails.",
+      "Don, Lev, and Henrik drink cocktails: Don gains cat-eyes and a perception boost; Lev's skin turns blue granting poison resistance and a death-resurrection; Henrik's body locks immovable-rod-style for a minute. In the Symbiotic Interactions lab they find a yellow keycard on a head researcher, a 'Curious Teardrop' intelligent earring (neurotic, chatty, casts Curse of Lost Time), and a Sitzmittel — a fairy-tale multi-legged mimic-like creature — which they capture in its containment unit.",
+      "Using the yellow keycard, the party ascends to Floor 3 (Yellow clearance), where the signs point to the Department of Recursive Entities and the Office of Mnemonic Preservation. Session ends as they step out onto the third floor."
+    ],
+    "characters_present": [
+      "Lev",
+      "Divex",
+      "Henrik",
+      "Don",
+      "Voychek",
+      "Masha (mentioned)",
+      "Crystal Earring (the Curious Teardrop)",
+      "Leonard Fildren (corpse)",
+      "Xander Orozcoca (mentioned)"
+    ],
+    "locations": [
+      "Serengrad",
+      "1218 Providence Street (coffeehouse and alley)",
+      "Safe house",
+      "RC3 — First House research facility",
+      "RC3 Floor 1 (Red) — Department of Dimensional Correspondence, Office of Symbiotic Interactions, Bureau of Emotional Contagion",
+      "RC3 Floor 3 (Yellow) — Department of Recursive Entities, Office of Mnemonic Preservation",
+      "Lighthouse hotel lobby (within the facility)",
+      "Ilkheim (mentioned)"
+    ],
+    "factions": [
+      "First House",
+      "Orozcoca Cabal",
+      "The Deep",
+      "The Sparrows",
+      "Fourth House (mentioned)"
+    ],
+    "items": [
+      "Preserved heart (modified Cranium Preserver)",
+      "Red keycard (Leonard Fildren's)",
+      "Yellow keycard (looted from head researcher on Floor 1)",
+      "Quicksilver shield spikes x6 (combined with warp glass by Don)",
+      "Curious Teardrop (intelligent earring — casts Curse of Lost Time, Pharos Form, or 7th-level Elemental Form; reflects emotion/mental effects)",
+      "Sitzmittel (captured fairy-tale creature in containment unit)",
+      "Cocktails from the lighthouse lobby (blue: poison resist + resurrection; tiki: perception/cat-eyes; clear: immovable rod effect)",
+      "Aniriscope",
+      "Coffeehouse loyalty card"
+    ],
+    "cliffhanger": "The party steps out of the elevator onto Floor 3 (Yellow clearance) of RC3, with the facility in chaos from a Deep incursion, facing two ominous departments — Recursive Entities and Mnemonic Preservation — and still floors away from their goal on Floor 5."
+  }
+}
