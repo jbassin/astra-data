@@ -514,6 +514,8 @@ entity "Configuration Space" kind="phenomenon" page="Phenomena/Configuration Spa
 entity "Constructs" kind="creature" page="Bestiary/Constructs" {
     alias "Living Incantation"
     alias "Living Incantations"
+    alias "Paper Prophet"
+    alias "Paper Prophets"
     source "akasha"
 }
 entity "Convox" {
@@ -970,6 +972,8 @@ entity "Godly Interplay" kind="deity" page="Divinity/Godly Interplay" {
     source "akasha"
 }
 entity "Godpiercer" kind="phenomenon" page="Phenomena/Althane/Godpiercer" {
+    alias "needle"
+    alias "the needle"
     source "akasha"
 }
 entity "Golden Sparrows" kind="org" page="Org/Althane/Golden Sparrows" {
@@ -1688,11 +1692,16 @@ entity "Officer Smith" kind="person" page="Org/Blackline/People/Officer Smith" {
 entity "Oil of Unlife" kind="phenomenon" page="Phenomena/Oil of Unlife" {
     source "akasha"
 }
+entity "Ontological Anchor" kind="phenomenon" page="Phenomena/Althane/Ontological Anchor" {
+    source "akasha"
+}
 entity "Oozes" kind="creature" page="Bestiary/Oozes" {
     alias "Gray Ooze"
     alias "Ochre Jelly"
     alias "Living Tar"
     alias "Verdant Ooze"
+    alias "Shoggoth"
+    alias "Shoggoths"
     source "akasha"
 }
 entity "Opaline Reserve" kind="org" page="Org/Opaline Reserve" {
@@ -2340,6 +2349,9 @@ entity "Ternion Heavy Industries" kind="org" page="Org/Ternion Heavy Industries/
 entity "Terror of Cagley" kind="creature" page="Bestiary/Terror of Cagley" {
     alias "the Terror"
     alias "Shadow Demon"
+    source "akasha"
+}
+entity "The Archive" kind="place" page="Geography/Althane/The Archive" {
     source "akasha"
 }
 entity "The Compelled" kind="deity" page="Divinity/Outer Gods/The Compelled" {

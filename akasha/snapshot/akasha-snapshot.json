@@ -2689,6 +2689,20 @@
       "target": "Phenomena/Althane/Sanguis Depsics"
     },
     {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Karkov",
+      "heading": null,
+      "resolved": "People/Althane/Karkov",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "People/Althane/Karkov"
+    },
+    {
       "alias": "Grayson",
       "heading": null,
       "resolved": "Org/Amber Call/People/Benjamin Grayson",
@@ -3284,6 +3298,20 @@
       "target": "People/Althane/Karkov"
     },
     {
+      "alias": "ontological anchor",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Ontological Anchor",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Phenomena/Althane/Ontological Anchor"
+    },
+    {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "Oresk",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/index",
@@ -3681,6 +3709,20 @@
       "resolved": "Org/Althane/The Triptych",
       "source": "Geography/Althane/Salores/index",
       "target": "Org/Althane/The Triptych"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Geography/Althane/The Archive",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Geography/Althane/The Archive",
+      "target": "People/Althane/The Broker"
     },
     {
       "alias": "Heart",
@@ -14225,6 +14267,13 @@
       "target": "Geography/Althane/Oresk/RC3"
     },
     {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Karkov",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "the Deep",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/The Deep",
@@ -17347,6 +17396,13 @@
       "target": "Phenomena/Holy Gold"
     },
     {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Phenomena/Althane/Godpiercer",
+      "target": "Org/Althane/The Weft"
+    },
+    {
       "alias": "narrative",
       "heading": null,
       "resolved": "Divinity/The Narrative/index",
@@ -17429,6 +17485,20 @@
       "resolved": "Geography/Althane/Realms/Dahn",
       "source": "Phenomena/Althane/Mycelia",
       "target": "Geography/Althane/Realms/Dahn"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "Phenomena/Althane/Ontological Anchor",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "Phenomena/Althane/Ontological Anchor",
+      "target": "People/Althane/Divex"
     },
     {
       "alias": "Saloren",
@@ -19480,7 +19550,9 @@
       "frontmatter": {
         "aliases": [
           "Living Incantation",
-          "Living Incantations"
+          "Living Incantations",
+          "Paper Prophet",
+          "Paper Prophets"
         ],
         "campaigns": [
           "through-a-song-darkly",
@@ -19848,7 +19920,9 @@
           "Gray Ooze",
           "Ochre Jelly",
           "Living Tar",
-          "Verdant Ooze"
+          "Verdant Ooze",
+          "Shoggoth",
+          "Shoggoths"
         ],
         "campaigns": [],
         "extra": {
@@ -21719,14 +21793,14 @@
           "target": "Divinity/Thessians"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-01-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-01-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -22592,6 +22666,16 @@
           "alias": "Sanguis Depsics",
           "heading": null,
           "target": "Phenomena/Althane/Sanguis Depsics"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Karkov",
+          "heading": null,
+          "target": "People/Althane/Karkov"
         }
       ],
       "date": "2026-01-13T00:00:00-04:00",
@@ -23789,16 +23873,26 @@
           "alias": "Karkov",
           "heading": null,
           "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "ontological anchor",
+          "heading": null,
+          "target": "Phenomena/Althane/Ontological Anchor"
+        },
+        {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         }
       ],
-      "date": "2024-12-23T00:00:00-04:00",
+      "date": "2025-01-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-23T00:00:00-04:00"
+          "date": "2025-01-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -24600,6 +24694,36 @@
         "title": null
       },
       "path": "Geography/Althane/Salores/index"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        }
+      ],
+      "date": "2025-01-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "place"
+        ],
+        "title": null
+      },
+      "path": "Geography/Althane/The Archive"
     },
     {
       "crossrefs": [
@@ -38094,6 +38218,11 @@
           "target": "Geography/Althane/Oresk/RC3"
         },
         {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
@@ -38104,7 +38233,7 @@
           "target": "People/Althane/Masha"
         }
       ],
-      "date": "2024-12-23T00:00:00-04:00",
+      "date": "2025-01-06T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Kharkov"
@@ -38113,7 +38242,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-23T00:00:00-04:00"
+          "date": "2025-01-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -42140,6 +42269,11 @@
           "target": "Phenomena/Holy Gold"
         },
         {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
           "alias": "narrative",
           "heading": null,
           "target": "Divinity/The Narrative/index"
@@ -42150,14 +42284,17 @@
           "target": "People/Althane/Divex"
         }
       ],
-      "date": "2024-12-09T00:00:00-04:00",
+      "date": "2025-01-06T00:00:00-04:00",
       "frontmatter": {
-        "aliases": [],
+        "aliases": [
+          "needle",
+          "the needle"
+        ],
         "campaigns": [
           "deep-eyes"
         ],
         "extra": {
-          "date": "2024-12-09T00:00:00-04:00"
+          "date": "2025-01-06T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -42316,6 +42453,36 @@
         "title": null
       },
       "path": "Phenomena/Althane/Mycelia"
+    },
+    {
+      "crossrefs": [
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        }
+      ],
+      "date": "2025-01-06T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "deep-eyes"
+        ],
+        "extra": {
+          "date": "2025-01-06T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "item"
+        ],
+        "title": null
+      },
+      "path": "Phenomena/Althane/Ontological Anchor"
     },
     {
       "crossrefs": [
