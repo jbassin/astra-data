@@ -3620,13 +3620,6 @@
       "target": "Divinity/Unknown Entities/Dark Bramble"
     },
     {
-      "alias": "Renge",
-      "heading": null,
-      "resolved": "Divinity/The Narrative/Renge",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/The Narrative/Renge"
-    },
-    {
       "alias": "Anaïs Marchal",
       "heading": null,
       "resolved": "Org/Iconoclasm/People/Anaïs Marchal",
@@ -3695,6 +3688,13 @@
       "resolved": "Org/Althane/The Weft",
       "source": "Divinity/Unknown Entities/The Deep",
       "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Renge",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Renge",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/The Narrative/Renge"
     },
     {
       "alias": "Henrik",
@@ -5426,18 +5426,25 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "Crystalpoint Lattice",
       "heading": null,
       "resolved": "People/Althane/The Crystalpoint Lattice",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "People/Althane/The Crystalpoint Lattice"
-    },
-    {
-      "alias": "The Weft",
-      "heading": null,
-      "resolved": "Org/Althane/The Weft",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Org/Althane/The Weft"
     },
     {
       "alias": "Trip the Light Fantastic",
@@ -10333,6 +10340,13 @@
       "target": "Geography/Althane/The Thirteenth Realm"
     },
     {
+      "alias": "Renge",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Renge",
+      "source": "Org/Althane/The Weft",
+      "target": "Divinity/The Narrative/Renge"
+    },
+    {
       "alias": "Ilkyne",
       "heading": null,
       "resolved": "Geography/Althane/Realms/Ilkyne",
@@ -14804,6 +14818,13 @@
       "resolved": "Org/Sedecium",
       "source": "Org/The Fifth Prosperous Empire of the Sundom",
       "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Geography/Inevitable Everdawn/index"
     },
     {
       "alias": "the slip",
@@ -28696,11 +28717,6 @@
           "target": "Divinity/Unknown Entities/Dark Bramble"
         },
         {
-          "alias": "Renge",
-          "heading": null,
-          "target": "Divinity/The Narrative/Renge"
-        },
-        {
           "alias": "Anaïs Marchal",
           "heading": null,
           "target": "Org/Iconoclasm/People/Anaïs Marchal"
@@ -28749,6 +28765,11 @@
           "alias": "The Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Renge",
+          "heading": null,
+          "target": "Divinity/The Narrative/Renge"
         },
         {
           "alias": "Henrik",
@@ -31489,14 +31510,19 @@
           "target": "Divinity/Thessians"
         },
         {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "Crystalpoint Lattice",
           "heading": null,
           "target": "People/Althane/The Crystalpoint Lattice"
-        },
-        {
-          "alias": "The Weft",
-          "heading": null,
-          "target": "Org/Althane/The Weft"
         },
         {
           "alias": "Trip the Light Fantastic",
@@ -37486,6 +37512,11 @@
           "target": "Geography/Althane/The Thirteenth Realm"
         },
         {
+          "alias": "Renge",
+          "heading": null,
+          "target": "Divinity/The Narrative/Renge"
+        },
+        {
           "alias": "Ilkyne",
           "heading": null,
           "target": "Geography/Althane/Realms/Ilkyne"
@@ -43073,6 +43104,11 @@
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
         },
         {
           "alias": "the slip",
