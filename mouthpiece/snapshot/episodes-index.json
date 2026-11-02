@@ -36181,6 +36181,885 @@
           "text": "Do not let him make that sound accidental."
         }
       ]
+    },
+    {
+      "id": "000.through-a-song-darkly.2026-10-29-special-tier-list",
+      "kind": "special",
+      "arcNo": 0,
+      "arcSlug": "through-a-song-darkly",
+      "arcTitle": "Through a Song, Darkly",
+      "episodeNo": 0,
+      "isMain": true,
+      "date": "2026-10-29-special-tier-list",
+      "dateSortKey": 20261029,
+      "title": "It Is Gentle",
+      "episodeTitle": "It Is Gentle",
+      "hosts": {
+        "A": {
+          "name": "Bram",
+          "persona": "warm, boisterous, fluent but imprecise; the storyteller who relives the best moments with relish and happily embellishes. Talks in long, rolling run-on sentences that pile clause on clause; makes big sweeping claims he then has to walk back; reliably gets a name, number, or detail wrong and gets corrected (usually by Maeve); now and then runs clean out of sentence and lands on a shrug like \"you... you had to be there.\" Drives the recap forward and overshoots"
+        },
+        "B": {
+          "name": "Maeve",
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+        },
+        "C": {
+          "name": "Nell",
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
+        }
+      },
+      "synopsis": "A special episode: no session to recap, so it's tier-list time. Two boards, from S tier down to D: the villains of the Astra by how dangerous they are, then every notable NPC by how much the hosts love them, from this campaign and the GM's earlier games.",
+      "durationMs": 0,
+      "hasAudio": false,
+      "hasTranscript": false,
+      "audioVersion": "",
+      "transcript": [
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Right, no session to recap, which means we finally do the important journalism, two whole tier lists, first the villains by how dangerous they are and then every notable NPC by how much we love them, and before anyone asks, Argyle does not get a tier for shooting God with God's own gun."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Menhir. And you cannot make something journalism by putting it on a board."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Are we ranking danger at their worst or danger right now, because some of these people are extremely dead? And is it danger to the party or danger to reality, because Hlarf and Aut are going to break that scale in opposite directions?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What they did, what they could still do, and how much of it was actually them. S through D. Empty board, Bram, put someone up."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Hlarf, S tier, and I will not be taking questions, because at the Crowded Flea he killed the entire party, dumped them in the river, stole their car, and then had the sheer gall to be a competent poet in his private diary, which is frankly the most frightening part."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Three of the party. Anzu went out the window. Also, the competent poetry is doing a lot of work in your case for cosmic menace."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Three, yes, thank you, but three is still the high score on this board, and when they found him again he looked at the people he had murdered and went, didn't I kill you? He had misplaced the memory of them, Maeve."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is exactly why I want him in B, though. He has the best proven body count, but the body count came from being enormous muscle in a room full of were-creatures. Once Aut pointed the party at him, they caught him drunk in an alley and Anzu put a coin through his head. He never got to be a scheme."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "B, near the top. The most consequential pair of fists in the campaign, not one of its great minds. And someone should still find out who he met in Teller's Run."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B, then, but I want it noted that everybody else in B is benefiting from Hlarf not having had a diary full of radar schematics."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which brings us neatly to Tywelwyn Leatherhide, who did have the schematics, the six god doors, the fiery basement, the living cape, the simulacra, the whole beautiful deranged executive package, so he has to be A even if Anzu eventually persuaded him to redecorate the Fane with himself."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wasn't the awful part that his notes had question marks in them? He was making Hallia resonate for something he did not even understand, and Pyre had given him the Heart recipe. That sounds like the same tier as Hlarf, except with a much worse patron."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "B, above Hlarf. His gang caused the wipe, his death delayed the six, and Grayson's journal caught him two-timing a necromancer with the radar dishes. But by the time they reached him under the Gas-n-Go, he was a flame in a burnt-out shell running somebody else's plan."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A man builds one divine train set for an outer god and suddenly he is middle management. Fine, B. A very crowded B."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can we put Crawford Reeves somewhere before the board gets too serious? I love that an assassination attempt began with a clipboard and a charter."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Crawford Reynolds, D, because nothing says mortal peril like being declared a happiness sink by a man whose hair is late for its own body."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Reeves. And C, not D. That ambush came immediately after the party had finally won keystone fourteen honestly. His dance pulled people in, his hair cut, and Concordia clearly wanted the keystone badly enough to send two agents with no identification."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "C works because most of the actual killing blow came from Rapid Connection's gear mark bursting in his brow. The party survived a deeply horrible fight, but he did not walk away with a bigger plan revealed, just that little green stone that is magic and does nothing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The most dangerous object in the campaign, then. Someday it will do one thing and we will all feel foolish."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sbrtlby Jotes has the opposite problem. He may literally come back, and I still cannot make him sound frightening."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "D. Not because a demon rebuilding itself in the demon Joker World is nothing, but because the table looked at the end of that grow-house fight and agreed to skip ahead to him being dead. That is such a clear read on where the threat was. His henchmen were the fight; the dark was the fight; he was the cleanup."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He was four feet of gangly red mucus with a spear that made wounds stay open, and he was racing us for the same keystone, and yet somehow his most enduring legacy is that the twins dropped his own workplace on him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "D with a return ticket. If he ever reforms, he can apply again."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Herald is S. Not the Ashen Pact as an abstract six-god problem, Herald specifically, for what it has already done while barely needing to appear."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, because Pyre at least had the decency to make a big flaming deer about it, whereas Herald spent centuries worming into the Strider's first people until they were wearing people faces, built itself a hospital full of sleeping kin, had another settlement waiting in Neweth, and its song is nice. That is the bit I cannot get past. It is gentle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the party has beaten every piece of it they have reached. They poisoned the true kin and Lifeline, broke its hold on Egan, captured Galzu. So why S instead of A? Is this just the fact that the GM keeps not showing us the body?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Partly. Every victory has been against something Herald grew around itself, not against Herald. Its hold also fought back when they tried to free Egan. A song people do not want to leave is a much better trap than one that merely hurts."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "S, and the horned figure standing on the corpse mountain on Tywelwyn's door can stop pretending it is just a very welcoming choir."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, where does Gerhard fit into that? You both mentioned Iomenei earlier and I do not know him, or Iomenei."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Interred in Iomenei was the short game where our characters were Undercroft workers on another strider. Someone wedged scrap into a leg's lubricant line so it would slowly run dry and seize. The saboteur was Gerhard, an elven fluid master everyone liked."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He had thrown a coworker a surprise birthday party, which is an absolutely disgusting alibi, and then they found the split mandibles, the little closed eyes, and Herald's horn-in-a-circle scratched into his bedpost."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the nice ship-born maintenance specialist nearly crippled a walking city through patient sabotage, and he is still missing? Not missing presumed dead, just nobody found him?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. C for me. One pipe is not Karkov's army, but he got away clean and he proves Herald's reach is not confined to the Providence."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "D felt right when it was plumbing. C feels right when it is religious plumbing with mandibles."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Galzu, though, Galzu I would put in S just for making capture feel like a tactical delay. They got through Tali's Fane, stopped the ritual, put her in shackles, put her in a suspension pod, and her brain still threw four people out into an ocean of biting centipedes and laughed at them on the way out."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I heard that one, and the chuckle was horrible. She could keep casting where sound had been killed, nothing they aimed at her mind seemed to land, and now the pod is feeding her power. But she did lose, she is unconscious, and she might be a victim of the same song as Egan. Is the placement based on what she chose or what she can do?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What she can do before the timer runs out. A, at the top. She was performing a rite over Tali's dead Heart, trying to put a celestial into a mortal, so this is not only Anzu's family tragedy. But S should mean more than being the most urgent clock."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A with a tiny little S drawn on the pod, then, and every week they spend looking at spaceships is another week I become convinced that pod is going to open politely from the inside."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Her father worrying about her head back in Belvedere has aged terribly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The Master of Ceremonies is S, and this one I actually mean, because he built an eight-legged city, sold nineteen factions tickets onto it, announced that cooperation would be boring, instituted a weekly tithe, and then watched Letov Obratz get wrung out like a dishcloth before telling everybody they could deal with the monsters."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is an S tier system of danger, yes, but is he S? Silven says the Harlequins were running the pilgrimage for War, the Master smells like the Harlequin devil, and we do not know whether he is that devil or just sworn to it. Then the Menhir died and the Harlequins were wiped out."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A. He orchestrated more suffering aboard the Strider than anyone, and the featureless scar tissue under the mask stays with you. But he was the steward of something larger, and we have not seen him since. Missing is not dead."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A, with the coat taking up two seats."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Silven Grayson goes in B, which will sound too low until you remember that danger is not the same as suspicion."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "His son is an absolute smiling cathedral of suspicion, Maeve. He bent a Ki-Rin to his will at the gala, Argyle saw him take a kill in the confusion, then he and Manus started doing alchemy on barghest corpses, then he tried to claim the Hand of the Void, and void creatures simply do not come at him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Relative. We do not know that Benjamin is his father. And Silven also asked for the parley, has kept the truce, traded real information at Giacomo's, and says his family refused War's liaison."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "B sounds right because he has never actually hurt the party, but the void immunity makes him the person I least want to leave out of the danger conversation. Do we think that is protection he bought, something the family already had, or something he is not telling them about the truce?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "My guess is a bargain he considers separate from the truce. He only shares when sharing purchases something. That is why B, with no illusions about him staying there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benjamin Grayson, by contrast, is S tier on paper, A tier in the street, and possibly already behind us in this room, because Brooks would not investigate him, Aut cannot predict him, and the party only got out of his manor because Master Grayson did not come home for dinner."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That sounds like A rather than S from everything you have told me. He has enormous reach, but he has never faced them, he is not on the Strider, and almost all of it comes from one journal and one room they robbed."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A. The room matters, though. Whiskers's upper half in a lichdom circle, undead staff, and experiments in replacing a person's motivations while leaving the personality intact. Then the Teller's Run terminal says Grayson money was behind cracking the Firmament."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I maintain that being a hole in the foresight of something that knows nearly everything is the scariest single line on his wiki page, but yes, A, because at present his greatest combat feat is owning a house the party left quickly."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I keep wondering whether the psyche work was research for the Firmament project or the thing War's liaison approached the family about. Base B and that idiot deer do not feel like the whole experiment."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "If we are allowing A tier for an impressive file and no personal appearance, then General Yuri Karkov gets his chair, because in Deep Eyes he took all three Thessian bloods, had an army, beat the Weft, stole their friends, and made being shot by them feel like an administrative inconvenience."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, who was Karkov, and who were the Weft? Deep Eyes was the second campaign on Althane, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. The Weft was that party. Karkov was a blue-skinned First House general, working to draw power from a dead Thessian. He took Hali and Tenno, left the Broker with a wound that would not heal while Karkov lived, and raised the Slipseer and Rampart as wards and lieutenants."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then when they finally stripped his divinity and killed him, the Deep reached through a portal, took the corpse, and brought him back as a fungal organist at the top of the City of Yellow, which is not so much a second act as a hostile workplace reassignment."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So he was genuinely terrifying as a general, needed an extraordinary weapon and a whole campaign's effort to put down, and then the bigger cosmic threat reused his body? A, not S, because the Deep was the real endgame. Why did you both go quiet at the locket?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Because he kept the Slipseer and Rampart's childhood portraits in it. He loved the children he made into soldiers. That does not lower the tier. It just makes the file worse to read."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Aut is A for services rendered and S for everything Anaïs says he rendered before we met him, and I am going to have to pick one of those, aren't I?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "S. He brought Johnny and Benny back, gave them the Hlarf tip, and kept his bargains. He also, according to Anaïs, had a hand in Raelion, Brithwyn, the current prime minister, and the Plaguebearer's slaughter. Now the party has killed his sibling and he is hostile."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The breakup scene is what does it for me. He did not attack them, he burned the marks he had given them and said he was not friends with people who went behind his back. That is someone who thought resurrection had purchased editorial control. And the Voidsong blind spot cuts both ways, because the party can surprise him but he badly wants to close it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He is a featureless white ball with a grin who treated two dead couriers like a story he wanted to keep reading, and somehow the idea of him angry is worse than the idea of him hungry. S. I have talked myself out of the one nice thing he did."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No, keep the nice thing. It is why the betrayal works."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then Esoterica has to close the board in S, because the last castaway reveal changed him from a door with too many arms into the god physically sitting inside the wreck they are exploring. But I need the older-game part plainly: what is a Thessian, and what is Sedecium?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Thessians come from beyond the Firmament and live by draining crystal spheres, killing the worlds inside. As they ascend, their nature narrows toward one subject. Sedecium is the power fighting them, founded on Ushas by Zugg and the other Risk of Ruin characters. The Hesperid castaways work for it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My first campaign's little wizarding start-up grew into an interstellar hegemony with a sixteen-pointed star, which is lovely for us and terrible for everybody who has to fill out its incident reports."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So Gremory was a fourth-generation Thessian who gave himself entirely to magic, Sedecium rammed a ship into him to stop the ascent, it failed, and now he is Esoterica, the beat at the center of six time-smeared copies of that same ship?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sedecium tried to ram him after he ascended, which is why it was already too late."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Before. On the eve of the ascent. That is the whole tragedy, they nearly had the right idea at almost the right time."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Before, yes. Which is worse."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Sedecium's records calling him one of the weaker Thessians does not comfort me when weaker still means a starship collision could not stop him. The longer they stay, the more likely he notices them, and the only known answer is the same holy gold as the sixteen spikes they have left for The End."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "S, then, with the caveat that if they shoot another member of a cosmic family by accident I am turning this podcast around."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Villain board closed. Now wipe it clean. This one is affection, not usefulness, not alignment, and certainly not who could win."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Smiler, S, no deliberation required, a nine-foot centaur folding himself under the ceiling of his own pawn shop with gems in his beard and tail, asking no questions except whether we are buying or selling and occasionally how old the buyer is, by which I mean not asking that one at all."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He fenced Hlarf's loot, found the minivan buyer, helped legalize the Aventine under Arctos's name, keeps their friend's discount, and has never once crossed them? Yes, S. Who is Donnie, though, and what was in the briefcase?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We do not know who Donnie was, and we will get there. Smiler is S because he made crime feel like a dependable local business."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anaïs Marchal, S, and Anouk Marchal, also S, because the twins gave them work, a workshop, a home, radios, rocket hammers, cosmological dread, and someone to rescue from rubble, which covers every major food group."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anaïs S for me, Anouk A. Anaïs is the one who stepped out of that trap under Aut's mark and completely rearranged the party's understanding of the cosmos. He is reserved, difficult, funny when you least expect it, and honest under the Ring of Truth when lying would have been much easier."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He did also threaten to kill them if they sold the twins to Aut, and he said the twins were Renge's before they were the coalition's. That does not make me trust him more, but I can see loving the clarity. Is the thing behind his head where a skull should be part of why you like him, or just deeply upsetting?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Both, and the rocket hammer, and him asking whether they could do something to their nine-year-old while looking directly at the accumulated consequences of their choices. Anaïs makes affection feel slightly dangerous, which is my favorite flavor."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anouk is warmer and she was there from the first jobs through Copperjaw. She builds the things, cannot keep her hands off an unfamiliar firearm, tried Polar Shiv, and blew open Jotes's works beside her brother. But Anaïs has had the harder, stranger scenes. A is not a rebuke."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A for Anouk, S for Anaïs, and I reserve the right to move her the moment she gets a scene as good as the truth ring."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Dame Quay, A. A Pactbroker folded out of greyish-yellow paper, unfolding her face to read a folder, telling Argyle she still classifies him as dangerous and then quietly making sure someone can be on the ground if things go wrong."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "She got them Brooks, chased the Ugathul badges, supplied explosives for Teller's Run, and misappropriated a national relic for Argyle once, which in a healthy workplace would be called a firm boundary and here is called flirting."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A, because I trust her help but I never forget the Scale is attached to it. She feels reliable without feeling safe."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Brooks is B for the fedora alone and C for everything after we asked him to investigate a council member, so I suppose C."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "C, but fondly. A hundred years on the badge, trusted his gut, took four strange couriers on as paid consultants and gave them a lawful route at Tywelwyn. Then he told them exactly why he could not touch Grayson."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the invisible undead in his flat, the blood by the bed, the claw grooves, the trail to the window, but not enough blood to call him dead? That is a huge open thread. It just has not given me new reasons to love him since season two."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Copperjaw feels similar except much more concise. Crude copper jaw, scrapyard, tests a courier's grip, does not care that Benny is nine, hands them the locked briefcase and accidentally starts everything."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B, because he treated the child exactly like every other questionable adult who wandered into Sableclutch Scrap, and there is a purity to that."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "C. Wonderful first scene, one first scene. We still do not know what was in the case."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sharp the Cunning Man is S, and if one scene disqualifies Copperjaw then I am about to contradict myself with complete sincerity."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, no, the distinction is that Copperjaw gave them a job and Sharp gave us a worldview. An ancient blue kobold in a bog hut with a white-stained moustache, checking for fiends in goat's blood while humming a pop song in a minor key, curing ulcers with crushed marble and olive oil breathed on under the new moon."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu could not make the magic make sense, but it worked because Sharp believed it should and the Host blessed him? Then he cleared the whole party of possession when Argyle came back wrong-shaped? S, absolutely. That is the kind of person I would derail an entire trip to visit again."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Rapid Connection is also S for me now, because a building-sized Heart made of gears that loves trains and collects oil or acrylic paintings is already wonderful, and then it rewarded honest diplomacy instead of making the party steal the keystone."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It rebuffed them first, quite properly. They came back with Minister Vane's Kellan Quinn, the painting went down into an aperture in the gears, and the golden box came up. It waived their Prime Meridian fees and its mark is what finished Crawford."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Only outsiders ever allowed in to see it, and all it cost was one painting, several lies to a polar bear about inheritance, and whatever the Pharos hidden underneath that painting turns out to mean."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "S. A very alien intelligence with excellent hobbies."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Chuck, S, and this one hurts, because he told them to call him Butler or Thing, the players named him Chuck, and from then on he was their big brown cat in pinstripes and a cape who arrived in far too much dust every time they crushed a figurine and got less enthusiastic about it every single time."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He walked them through growing Eerie and took them to the library, right? So after the Menhir died, crushing the figurine and getting a desiccated Harlequin corpse instead was not just showing that the servants died, it was killing their specific grumpy butler."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "S. He served the people running the tithe and he mostly gave tours. Neither fact makes the corpse reveal less awful."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You had to be there. Specifically, you had to be there summoning him for something trivial approximately six minutes after promising not to."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Osyluth, A. A great bone dragon-armadillo librarian who protests that he is not a bone devil, lends books on traceable index cards, and will not bend the library-card rule even for people trying to prevent a catastrophe."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He traded the Void Atlas for the ink ribbon they recovered, and now his severed head still answers questions from storage beside Anzu's raven? I love him, but A feels right because at some point he stopped being a person in their lives and became their strangest reference shelf."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "We do not know who took the head off, and I would like it noted that the Harlequins had both the best butler and the best library and used both in service of municipal murder."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is where the Master of Ceremonies lands on an affection board, because I had him in danger A and I think I have him in love D. Obratz is still too vivid."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B for me, unrepentantly, because the theater is immaculate, the horned mask, the blue-and-gold coat, the private little lift of the mask to show a featureless burned face, the favorites nobody wants to be, and underneath all the cruelty he genuinely wanted to know what waited at the end."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "C. I love having him in the story more than I love him, which is perhaps the distinction. He is witty, wary, and curious, and he let a man be wrung dry for the floor show."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "C is a compromise I can live with. I would listen to him talk and then want to leave the room."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Letov Obratz is S."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I'm sorry, the tiefling who got wrung out? You have spent ten minutes rationing S tier and now you are promoting the man we met over one unfinished staircase?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. He took his sick nephew's place. He stood in a Fane that was a grand staircase to nowhere because he had run out of energy to finish the building, talked about his grandfather founding Garrick Textiles, hoped some of that spirit was in him, and politely declined to move in with the people who could have helped."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is such a complete little tragedy. I was going to say A because the party barely knew him, but the unfinished house is not just foreshadowing, it is him. He was trying to be worthy of something and did not have enough left to pretend properly."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "His death established the tithe better than any explanation could. I love him for the person the scene managed to make before it took him away."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "S, then. You have won, and I hate that the winning argument was architecture."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Machine God is S, because Johnny talked an ancient broken Heart awake after they killed Vrax'leth, and in return it gave them telepathy, folded the Undercroft around them like origami, took Lifeline and Tally into its domain, and brought Johnny back from the dead, which is a fairly comprehensive friend-of-the-party package."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A. It also hears everything said over that telepathy, grows every time they feed it another domain, and fully intends to reclaim the surface eventually. I love the grinding voice and the strange history. I do not mistake that for alignment."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A for me too. The alliance has been incredible, but every favor also made it more capable of pursuing whatever it wanted before the party arrived. The GM does not have to make it evil for that to become a problem."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A, and I will simply choose to believe that a god who describes people as bugs wearing faces has our best interests at heart."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Egan is B or A depending on whether we are ranking the man or what happened to him. He wanted two minutes of quiet after years, and the party got the Herald out by putting the Voidsong in. That is such a costly rescue."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B, because I adore the tragic pirate gunslinger and I also sleep better knowing he is in an outer room and not standing over me with the black raiment Herald gave him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "B for now. Argyle burned the hold out, Anzu supplied the replacement, and Egan did not choose either song. His crew is still unaccounted for and nobody at the table has suddenly decided he is safe."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is fair. I am more invested in him than I trust him, which might become relevant later."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yao Addington, B. A bald gnome with that great red beard and absurdly loud armor, willing to put his mace into a corrupted Ki-Rin beside people he barely knew."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And his theory is that the Voidsong is the true Aurelia calling for rescue? Who exactly is Aurelia in this context, the first Aurelia whose armor he carries?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Aurelia the First, the old founding hero, the one whose original adventuring party they found statues of down in the Undercroft, and Yao thinks she is trapped far out on the horizon trying to return and singing for believers to come save her."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the Voidsong might be a rescue call rather than only a cognitohazard, and he offered Anzu a relic of hers while admitting that losing it would cost lives? I really like him. B only because he grunts where Anaïs gets whole scenes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Kadoo Flock, C, and I say that with genuine respect for a man who has looked at more hull filings than anyone else aboard."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Kadou Floch. C, yes. Clicking monocle, amber-stained fingers, no use in a fight and completely clear about what he can build instead. He would not raid settlements, he worked over the atlas with Anzu, and his alloy tests are why they think the Strider stood on that world before."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That last discovery is fascinating and I still keep forgetting which coalition member he is until the monocle arrives. C feels affectionate rather than dismissive."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Lance Vesper is A for the best horrible little thank-you imaginable — you can have my gun if you want, I suppose — followed by oh yes, my father is merely the second most important person in the Scale."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "B. He spent most of his appearances as a sick young man in a uniform four sizes too big, denying that he was a lich. Then Argyle spent hours breaking the hag curse and Lance offered the little he had before producing the family pin."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "B works. The payoff is wholesome, the political door is useful, and I am very glad he gets to grow old looking his actual age. I just do not know him beyond the curse yet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Adal is A for me. A noble father tracks down his runaway son by fax and somehow leads with, I did much the same at your age, instead of dragging him home?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A. He kept the rest of the family from digging, kept the worst of it from Anzu's mother, offered him time and even a new identity, and then had to explain that Galzu had stormed out and vanished with the Singers."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B was my instinct because he is a worried voice on one phone call, but it is a very good phone call, and every subsequent centipede makes it worse in retrospect. A."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Aut on the affection board is A, and I refuse to be shamed for it, because he saved Johnny and Benny, he really, really wanted to know about the Voidsong, he called himself invested in their progress, and he looked like a round blank sticker somebody had drawn the world's least reassuring smile on."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "C as a person, A as a piece of character work. Anaïs's list of catastrophes is not something I can shrug off, and the moment the party chose another sibling he burned their marks and sulked out of the friendship."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "B is the meeting point for me. I love watching him. I do not love him the way I love Smiler, and the difference is that Smiler has never claimed near-total authorship of reality."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "B, then. Our former patron, currently no longer friends, still welcome to phone the podcast."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Tommy Lagerman, S, and before Nell asks, yes, this is the eight-year-old who briefly broke the entire table's ability to think about anything else."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, who was Tommy, and what was Fae and Forest? I do not know that one at all."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A short game where we played Magical Crimes Convox investigators. Tommy was a boy from Wrenford who walked into the Verdant Expanse on a dare. A tree attacked him, and they found him days' travel inside, although he thought he had only been walking an hour."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He could see in the dark, had this faint rainbow raiment, loved their beef jerky, got made a deputy, stuck his head out of a bedroom because he had heard an explosion, and casually informed everyone that back when he went trick-or-treating for the Ghost Festival he used to get a gun every third house."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So something impossible happened to him in the forest, the investigators adopted him professionally, and Jorge kept asking about him outside the game until Josh gave everyone more Tommy?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is exactly the sequence."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "S. I have never seen him and I would currently fight several people on the villain board about his bedtime. What happened to him in the forest?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "We do not know, and that was my question too — welcome to the extremely small but very committed Tommy Lagerman audience."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Hali I only know from Karkov stealing her and the others. Who was she before that, and what is a Kaathe?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Halidex Op-B, usually Hali. A Kaathe with heavy memory loss, carried around as a glowing red glass orb in the real world and appearing as a twelve-foot construct with one red eye in her dream. The Deep Eyes party stole her orb back from bandits."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And when they rescued her from Karkov's vats she greeted them with oh joy, meatbags come to rescue us, which is exactly how you thank people who have crossed a military complex for you, and then she helped them get around and teleported them into the vault."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "She sounds wonderful. Affection B only because I am hearing the greatest hits secondhand, not because the greatest hits are lacking."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "B for me as well. She was curt, self-interested, useful, and completely unembarrassed about all three."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Last one I do not know: Feathers. Was The First Spark the game about the Velvet Mark henchmen?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Their crew needed a car made unrecognizable. Feathers was the three-and-a-half-foot kenku with a red bandana and a metal leg who ran the unmarked paint shop."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He had a little joystick driving arms with spray-paint cans on them, and in about twenty minutes he repainted, replated, and tinted the whole car while haggling as though they had personally insulted his ancestors by offering sixty."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "B. One scene, but a completely legible person with a great gadget and a justified grievance about his invoice. Also, after everything else tonight, it is nice to meet somebody whose worst confirmed act is charging too much for criminal bodywork."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Before anyone reads the boards, I want a last-minute swap. Egan goes up to A. Not because I trust him — because I cannot stop thinking about him asking for quiet and getting a different song. That is the placement."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Seconded, and if anyone had told me the new arrival would be the one emotionally revising the list at closing time I would have believed them immediately."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A for what he makes us feel, not for his reliability. Hali stays B. Boards locked."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Final villain board: S, Herald, Aut, and Esoterica; A, Galzu, the Master of Ceremonies, Benjamin Grayson, and Karkov; B, Silven Grayson, Tywelwyn Leatherhide, and Hlarf; C, Gerhard and Crawford Reeves; D, Sbrtlby Jotes, until he reconstitutes and makes us all eat our words."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Final affection board: S, Anaïs Marchal, Smiler, Sharp the Cunning Man, Rapid Connection, Chuck, Letov Obratz, and Tommy Lagerman; A, Anouk Marchal, Dame Quay, Osyluth, the Machine God, Adal, and Egan Arithmites; B, Aut, Lance Vesper, Yao Addington, Halidex Op-B, and Feathers; C, Ellis Brooks, Copperjaw, the Master of Ceremonies, and Kadou Floch; D, nobody."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I have one more question and it is not a tier change: what was in Copperjaw's briefcase?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Ah, well, the beautiful thing is that after all this time we still do not know, but a nine-foot horse man with jewels in his beard would probably sell it back to us at a friend's discount, and you... you had to be there."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You were there."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fine. Different question. Could Tommy go and see Sharp?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We'll get there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is not a no."
+        }
+      ]
     }
   ]
 }
