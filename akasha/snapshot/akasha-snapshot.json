@@ -1303,7 +1303,14 @@
       "target": "Geography/Althane/index"
     },
     {
-      "alias": "The Weft",
+      "alias": "Echo Fragment",
+      "heading": null,
+      "resolved": "Phenomena/Echo Fragment",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Phenomena/Echo Fragment"
+    },
+    {
+      "alias": "the Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
       "source": "Divinity/Althane/The Stranger",
@@ -1331,32 +1338,11 @@
       "target": "Org/Omnivox/index"
     },
     {
-      "alias": "Echo Fragment",
-      "heading": null,
-      "resolved": "Phenomena/Echo Fragment",
-      "source": "Divinity/Althane/The Stranger",
-      "target": "Phenomena/Echo Fragment"
-    },
-    {
       "alias": "Karen Sill",
       "heading": null,
       "resolved": "People/Althane/Karen Sill",
       "source": "Divinity/Althane/The Stranger",
       "target": "People/Althane/Karen Sill"
-    },
-    {
-      "alias": "godpiercer",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Godpiercer",
-      "source": "Divinity/Althane/The Stranger",
-      "target": "Phenomena/Althane/Godpiercer"
-    },
-    {
-      "alias": "T3C",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "Divinity/Althane/The Stranger",
-      "target": "People/Althane/The Broker"
     },
     {
       "alias": "the Broker",
@@ -1373,13 +1359,6 @@
       "target": "Geography/Syrin (Locality)/Gilded Spire/index"
     },
     {
-      "alias": "Luce",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Uriel",
-      "source": "Divinity/Althane/The Stranger",
-      "target": "Divinity/Unknown Entities/Uriel"
-    },
-    {
       "alias": "Rowan",
       "heading": null,
       "resolved": "People/Althane/Rowan",
@@ -1394,11 +1373,25 @@
       "target": "Divinity/Immix"
     },
     {
-      "alias": "Echo Fragment",
+      "alias": "Luce",
       "heading": null,
-      "resolved": "Phenomena/Echo Fragment",
+      "resolved": "Divinity/Unknown Entities/Uriel",
       "source": "Divinity/Althane/The Stranger",
-      "target": "Phenomena/Echo Fragment"
+      "target": "Divinity/Unknown Entities/Uriel"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "T3C",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Divinity/Althane/The Stranger",
+      "target": "People/Althane/The Broker"
     },
     {
       "alias": "Gas-n-Go",
@@ -3018,20 +3011,6 @@
       "target": "Phenomena/Firmament"
     },
     {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Divinity/Thessians",
-      "target": "Org/Sedecium"
-    },
-    {
-      "alias": "Gremory",
-      "heading": null,
-      "resolved": "Divinity/Ashen Pact/Esoterica",
-      "source": "Divinity/Thessians",
-      "target": "Divinity/Ashen Pact/Esoterica"
-    },
-    {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
@@ -3039,11 +3018,11 @@
       "target": "Geography/index"
     },
     {
-      "alias": "City of Yellow",
+      "alias": "Formless",
       "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "resolved": "Divinity/Formless",
       "source": "Divinity/Thessians",
-      "target": "Geography/Althane/Realms/Ilkyne"
+      "target": "Divinity/Formless"
     },
     {
       "alias": "Deep",
@@ -3079,6 +3058,55 @@
       "resolved": "Org/Sedecium",
       "source": "Divinity/Thessians",
       "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "higher kinds",
+      "heading": null,
+      "resolved": "Divinity/Higher Kind",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Higher Kind"
+    },
+    {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Divinity/Thessians",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
+      "alias": "holy gold",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Divinity/Thessians",
+      "target": "Phenomena/Holy Gold"
+    },
+    {
+      "alias": "T3C",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Divinity/Thessians",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "Mephistopheles",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Mephistopheles",
+      "source": "Divinity/Thessians",
+      "target": "Divinity/Unknown Entities/Mephistopheles"
+    },
+    {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Divinity/Thessians",
+      "target": "Geography/Ushas/index"
     },
     {
       "alias": "Pyre",
@@ -3123,20 +3151,6 @@
       "target": "Divinity/Ashen Pact/Regent"
     },
     {
-      "alias": "higher kinds",
-      "heading": null,
-      "resolved": "Divinity/Higher Kind",
-      "source": "Divinity/Thessians",
-      "target": "Divinity/Higher Kind"
-    },
-    {
-      "alias": "rare gold metal",
-      "heading": null,
-      "resolved": "Phenomena/Holy Gold",
-      "source": "Divinity/Thessians",
-      "target": "Phenomena/Holy Gold"
-    },
-    {
       "alias": "Harrow",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/Harrow",
@@ -3151,60 +3165,11 @@
       "target": "Divinity/Unknown Entities/Tithe"
     },
     {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Divinity/Thessians",
-      "target": "Org/Sedecium"
-    },
-    {
-      "alias": "holy gold",
-      "heading": null,
-      "resolved": "Phenomena/Holy Gold",
-      "source": "Divinity/Thessians",
-      "target": "Phenomena/Holy Gold"
-    },
-    {
-      "alias": "T3C",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "Divinity/Thessians",
-      "target": "People/Althane/The Broker"
-    },
-    {
-      "alias": "Mephistopheles",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Mephistopheles",
-      "source": "Divinity/Thessians",
-      "target": "Divinity/Unknown Entities/Mephistopheles"
-    },
-    {
-      "alias": "Ushas",
-      "heading": null,
-      "resolved": "Geography/Ushas/index",
-      "source": "Divinity/Thessians",
-      "target": "Geography/Ushas/index"
-    },
-    {
       "alias": "Ashen Pact",
       "heading": null,
       "resolved": "Divinity/Ashen Pact/index",
       "source": "Divinity/Thessians",
       "target": "Divinity/Ashen Pact/index"
-    },
-    {
-      "alias": "Formless",
-      "heading": null,
-      "resolved": "Divinity/Formless",
-      "source": "Divinity/Thessians",
-      "target": "Divinity/Formless"
-    },
-    {
-      "alias": "Ushas",
-      "heading": null,
-      "resolved": "Geography/Ushas/index",
-      "source": "Divinity/Thessians",
-      "target": "Geography/Ushas/index"
     },
     {
       "alias": "Leitmotif",
@@ -3543,6 +3508,13 @@
       "target": "Geography/Ushas/Undermountain"
     },
     {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/Nox",
+      "target": "Divinity/Thessians"
+    },
+    {
       "alias": "Umbervale Hold",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/Umbervale Hold",
@@ -3562,13 +3534,6 @@
       "resolved": "Phenomena/Althane/Sanguis Noxa",
       "source": "Divinity/Unknown Entities/Nox",
       "target": "Phenomena/Althane/Sanguis Noxa"
-    },
-    {
-      "alias": "Thessian",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "Divinity/Unknown Entities/Nox",
-      "target": "Divinity/Thessians"
     },
     {
       "alias": "the one called Leitmotif",
@@ -3620,6 +3585,41 @@
       "target": "Phenomena/Althane/Wasting Fever"
     },
     {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Formless",
+      "heading": null,
+      "resolved": "Divinity/Formless",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Formless"
+    },
+    {
+      "alias": "the Thirteenth Realm",
+      "heading": null,
+      "resolved": "Geography/Althane/The Thirteenth Realm",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Geography/Althane/The Thirteenth Realm"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Dark Bramble",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Dark Bramble",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Divinity/Unknown Entities/Dark Bramble"
+    },
+    {
       "alias": "Renge",
       "heading": null,
       "resolved": "Divinity/The Narrative/Renge",
@@ -3655,6 +3655,13 @@
       "target": "Phenomena/Althane/Sanguis Depsics"
     },
     {
+      "alias": "Ilkyne",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "Divinity/Unknown Entities/The Deep",
+      "target": "Geography/Althane/Realms/Ilkyne"
+    },
+    {
       "alias": "RC3",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/RC3",
@@ -3683,27 +3690,6 @@
       "target": "Geography/Althane/The Hollow/Vyre, the Inverted City"
     },
     {
-      "alias": "Ilkyne",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Geography/Althane/Realms/Ilkyne"
-    },
-    {
-      "alias": "the Thirteenth Realm",
-      "heading": null,
-      "resolved": "Geography/Althane/The Thirteenth Realm",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Geography/Althane/The Thirteenth Realm"
-    },
-    {
-      "alias": "Thessians",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/Thessians"
-    },
-    {
       "alias": "The Weft",
       "heading": null,
       "resolved": "Org/Althane/The Weft",
@@ -3723,41 +3709,6 @@
       "resolved": "Bestiary/Realmtouched",
       "source": "Divinity/Unknown Entities/The Deep",
       "target": "Bestiary/Realmtouched"
-    },
-    {
-      "alias": "Ilkyne",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Geography/Althane/Realms/Ilkyne"
-    },
-    {
-      "alias": "Thessian",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "Formless",
-      "heading": null,
-      "resolved": "Divinity/Formless",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/Formless"
-    },
-    {
-      "alias": "Nox",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Nox",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/Unknown Entities/Nox"
-    },
-    {
-      "alias": "Dark Bramble",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Dark Bramble",
-      "source": "Divinity/Unknown Entities/The Deep",
-      "target": "Divinity/Unknown Entities/Dark Bramble"
     },
     {
       "alias": "Grayson",
@@ -4593,41 +4544,6 @@
       "target": "People/Althane/Karkov"
     },
     {
-      "alias": "ontological anchor",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Ontological Anchor",
-      "source": "Geography/Althane/Oresk/RC3",
-      "target": "Phenomena/Althane/Ontological Anchor"
-    },
-    {
-      "alias": "Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "Geography/Althane/Oresk/RC3",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Karkov",
-      "heading": null,
-      "resolved": "People/Althane/Karkov",
-      "source": "Geography/Althane/Oresk/RC3",
-      "target": "People/Althane/Karkov"
-    },
-    {
-      "alias": "Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "Geography/Althane/Oresk/RC3",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Karkov",
-      "heading": null,
-      "resolved": "People/Althane/Karkov",
-      "source": "Geography/Althane/Oresk/RC3",
-      "target": "People/Althane/Karkov"
-    },
-    {
       "alias": "Natalia",
       "heading": null,
       "resolved": "People/Althane/Natalia",
@@ -4640,6 +4556,20 @@
       "resolved": "People/Althane/Rampart",
       "source": "Geography/Althane/Oresk/RC3",
       "target": "People/Althane/Rampart"
+    },
+    {
+      "alias": "ontological anchor",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Ontological Anchor",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Phenomena/Althane/Ontological Anchor"
+    },
+    {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "Geography/Althane/Oresk/RC3",
+      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "the Slipseer",
@@ -5391,6 +5321,27 @@
       "target": "Geography/Althane/Athrea/index"
     },
     {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Lighthouse",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "realms",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/index",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Geography/Althane/Realms/index"
+    },
+    {
+      "alias": "cycle",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Cycle",
+      "source": "Geography/Althane/The Thirteenth Realm",
+      "target": "Phenomena/Althane/Cycle"
+    },
+    {
       "alias": "Althane",
       "heading": null,
       "resolved": "Geography/Althane/index",
@@ -5405,13 +5356,6 @@
       "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
-      "alias": "realms",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/index",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Geography/Althane/Realms/index"
-    },
-    {
       "alias": "The Church of the Thirteenth Realm",
       "heading": null,
       "resolved": "Org/Althane/Church of the Thirteenth Realm",
@@ -5424,20 +5368,6 @@
       "resolved": "Bestiary/Kaathe",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "Bestiary/Kaathe"
-    },
-    {
-      "alias": "cycle",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Cycle",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Phenomena/Althane/Cycle"
-    },
-    {
-      "alias": "the Lighthouse",
-      "heading": null,
-      "resolved": "Phenomena/Althane/The Lighthouse",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Phenomena/Althane/The Lighthouse"
     },
     {
       "alias": "Thessian",
@@ -5496,25 +5426,11 @@
       "target": "Divinity/Thessians"
     },
     {
-      "alias": "Ilkyne",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Geography/Althane/Realms/Ilkyne"
-    },
-    {
       "alias": "Crystalpoint Lattice",
       "heading": null,
       "resolved": "People/Althane/The Crystalpoint Lattice",
       "source": "Geography/Althane/The Thirteenth Realm",
       "target": "People/Althane/The Crystalpoint Lattice"
-    },
-    {
-      "alias": "the Lighthouse",
-      "heading": null,
-      "resolved": "Phenomena/Althane/The Lighthouse",
-      "source": "Geography/Althane/The Thirteenth Realm",
-      "target": "Phenomena/Althane/The Lighthouse"
     },
     {
       "alias": "The Weft",
@@ -8982,76 +8898,6 @@
       "target": "Geography/index"
     },
     {
-      "alias": "Pale",
-      "heading": null,
-      "resolved": "Phenomena/The Pale",
-      "source": "Geography/Ushas/index",
-      "target": "Phenomena/The Pale"
-    },
-    {
-      "alias": "Dorcan",
-      "heading": null,
-      "resolved": "People/Dorcan",
-      "source": "Geography/Ushas/index",
-      "target": "People/Dorcan"
-    },
-    {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Geography/Ushas/index",
-      "target": "Org/Sedecium"
-    },
-    {
-      "alias": "New Volcantum",
-      "heading": null,
-      "resolved": "Geography/Ushas/New Volcantum",
-      "source": "Geography/Ushas/index",
-      "target": "Geography/Ushas/New Volcantum"
-    },
-    {
-      "alias": "Far Realms",
-      "heading": null,
-      "resolved": "Geography/Ushas/Far Realms",
-      "source": "Geography/Ushas/index",
-      "target": "Geography/Ushas/Far Realms"
-    },
-    {
-      "alias": "Infinite Horizon",
-      "heading": null,
-      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
-      "source": "Geography/Ushas/index",
-      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
-    },
-    {
-      "alias": "Fifth Sundom",
-      "heading": null,
-      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
-      "source": "Geography/Ushas/index",
-      "target": "Org/The Fifth Prosperous Empire of the Sundom"
-    },
-    {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Geography/Ushas/index",
-      "target": "Org/Sedecium"
-    },
-    {
-      "alias": "Kaathe",
-      "heading": null,
-      "resolved": "Bestiary/Kaathe",
-      "source": "Geography/Ushas/index",
-      "target": "Bestiary/Kaathe"
-    },
-    {
-      "alias": "SeRaan",
-      "heading": null,
-      "resolved": "People/Althane/SeRaan",
-      "source": "Geography/Ushas/index",
-      "target": "People/Althane/SeRaan"
-    },
-    {
       "alias": "Leitmotif",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/Harrow",
@@ -9071,13 +8917,6 @@
       "resolved": "Divinity/Higher Kind",
       "source": "Geography/Ushas/index",
       "target": "Divinity/Higher Kind"
-    },
-    {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Geography/Ushas/index",
-      "target": "Org/Sedecium"
     },
     {
       "alias": "Dorcan",
@@ -9162,6 +9001,41 @@
       "resolved": "Geography/Ushas/Far Realms",
       "source": "Geography/Ushas/index",
       "target": "Geography/Ushas/Far Realms"
+    },
+    {
+      "alias": "Infinite Horizon",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "source": "Geography/Ushas/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+    },
+    {
+      "alias": "Fifth Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Geography/Ushas/index",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Geography/Ushas/index",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "SeRaan",
+      "heading": null,
+      "resolved": "People/Althane/SeRaan",
+      "source": "Geography/Ushas/index",
+      "target": "People/Althane/SeRaan"
+    },
+    {
+      "alias": "New Volcantum",
+      "heading": null,
+      "resolved": "Geography/Ushas/New Volcantum",
+      "source": "Geography/Ushas/index",
+      "target": "Geography/Ushas/New Volcantum"
     },
     {
       "alias": "localities",
@@ -10291,13 +10165,6 @@
       "target": "Geography/Althane/index"
     },
     {
-      "alias": "The Guild",
-      "heading": null,
-      "resolved": "Org/Althane/The Guild",
-      "source": "Org/Althane/The Weft",
-      "target": "Org/Althane/The Guild"
-    },
-    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -10354,6 +10221,20 @@
       "target": "People/Althane/SeRaan"
     },
     {
+      "alias": "Thyropae",
+      "heading": null,
+      "resolved": "Geography/Althane/Athrea/Thyropae/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Althane/Athrea/Thyropae/index"
+    },
+    {
+      "alias": "The Guild",
+      "heading": null,
+      "resolved": "Org/Althane/The Guild",
+      "source": "Org/Althane/The Weft",
+      "target": "Org/Althane/The Guild"
+    },
+    {
       "alias": "the lava ruin",
       "heading": null,
       "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
@@ -10368,32 +10249,11 @@
       "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
     },
     {
-      "alias": "Althane",
-      "heading": null,
-      "resolved": "Geography/Althane/index",
-      "source": "Org/Althane/The Weft",
-      "target": "Geography/Althane/index"
-    },
-    {
       "alias": "godpiercer",
       "heading": null,
       "resolved": "Phenomena/Althane/Godpiercer",
       "source": "Org/Althane/The Weft",
       "target": "Phenomena/Althane/Godpiercer"
-    },
-    {
-      "alias": "Syrin",
-      "heading": null,
-      "resolved": "Geography/Syrin (Locality)/index",
-      "source": "Org/Althane/The Weft",
-      "target": "Geography/Syrin (Locality)"
-    },
-    {
-      "alias": "the Lighthouse",
-      "heading": null,
-      "resolved": "Divinity/Immix",
-      "source": "Org/Althane/The Weft",
-      "target": "Divinity/Immix"
     },
     {
       "alias": "Crystal Earring",
@@ -10410,25 +10270,32 @@
       "target": "Bestiary/Mimics"
     },
     {
-      "alias": "Hali",
-      "heading": null,
-      "resolved": "People/Althane/Halidex Op-B",
-      "source": "Org/Althane/The Weft",
-      "target": "People/Althane/Halidex Op-B"
-    },
-    {
-      "alias": "Tenno",
-      "heading": null,
-      "resolved": "People/Althane/Tennobrin Er-K",
-      "source": "Org/Althane/The Weft",
-      "target": "People/Althane/Tennobrin Er-K"
-    },
-    {
       "alias": "RC3",
       "heading": null,
       "resolved": "Geography/Althane/Oresk/RC3",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "Org/Althane/The Weft",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "the Broker",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Org/Althane/The Weft",
+      "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Org/Althane/The Weft",
+      "target": "Divinity/Immix"
     },
     {
       "alias": "Karkov",
@@ -10452,34 +10319,6 @@
       "target": "Geography/Althane/Oresk/index"
     },
     {
-      "alias": "the Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "Org/Althane/The Weft",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Syrin",
-      "heading": null,
-      "resolved": "Geography/Syrin (Locality)/index",
-      "source": "Org/Althane/The Weft",
-      "target": "Geography/Syrin (Locality)"
-    },
-    {
-      "alias": "the Broker",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "Org/Althane/The Weft",
-      "target": "People/Althane/The Broker"
-    },
-    {
-      "alias": "Immix",
-      "heading": null,
-      "resolved": "Divinity/Immix",
-      "source": "Org/Althane/The Weft",
-      "target": "Divinity/Immix"
-    },
-    {
       "alias": "Observers",
       "heading": null,
       "resolved": "Divinity/Althane/The Observers",
@@ -10487,25 +10326,11 @@
       "target": "Divinity/Althane/The Observers"
     },
     {
-      "alias": "the Stranger",
-      "heading": null,
-      "resolved": "Divinity/Althane/The Stranger",
-      "source": "Org/Althane/The Weft",
-      "target": "Divinity/Althane/The Stranger"
-    },
-    {
       "alias": "the Thirteenth Realm",
       "heading": null,
       "resolved": "Geography/Althane/The Thirteenth Realm",
       "source": "Org/Althane/The Weft",
       "target": "Geography/Althane/The Thirteenth Realm"
-    },
-    {
-      "alias": "the Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "Org/Althane/The Weft",
-      "target": "Divinity/Unknown Entities/The Deep"
     },
     {
       "alias": "Ilkyne",
@@ -10520,13 +10345,6 @@
       "resolved": "Phenomena/Althane/The Lighthouse",
       "source": "Org/Althane/The Weft",
       "target": "Phenomena/Althane/The Lighthouse"
-    },
-    {
-      "alias": "Thyropae",
-      "heading": null,
-      "resolved": "Geography/Althane/Athrea/Thyropae/index",
-      "source": "Org/Althane/The Weft",
-      "target": "Geography/Althane/Athrea/Thyropae/index"
     },
     {
       "alias": "Sanguis Noxa",
@@ -12076,6 +11894,20 @@
       "target": "Org/The Harlequins/Providence"
     },
     {
+      "alias": "Ragged Roost",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Ragged Roost",
+      "source": "Org/Hildebrandt Corporation/index",
+      "target": "Geography/Færrin/Calaria/Ragged Roost"
+    },
+    {
+      "alias": "keystone",
+      "heading": null,
+      "resolved": "Phenomena/Keystone",
+      "source": "Org/Hildebrandt Corporation/index",
+      "target": "Phenomena/Keystone"
+    },
+    {
       "alias": "Ternion",
       "heading": null,
       "resolved": "Org/Ternion Heavy Industries/index",
@@ -12102,27 +11934,6 @@
       "resolved": "Geography/Færrin/Calaria/Hallia/index",
       "source": "Org/Hildebrandt Corporation/index",
       "target": "Geography/Færrin/Calaria/Hallia/index"
-    },
-    {
-      "alias": "Providence",
-      "heading": null,
-      "resolved": "Org/The Harlequins/Providence/index",
-      "source": "Org/Hildebrandt Corporation/index",
-      "target": "Org/The Harlequins/Providence"
-    },
-    {
-      "alias": "Ragged Roost",
-      "heading": null,
-      "resolved": "Geography/Færrin/Calaria/Ragged Roost",
-      "source": "Org/Hildebrandt Corporation/index",
-      "target": "Geography/Færrin/Calaria/Ragged Roost"
-    },
-    {
-      "alias": "keystone",
-      "heading": null,
-      "resolved": "Phenomena/Keystone",
-      "source": "Org/Hildebrandt Corporation/index",
-      "target": "Phenomena/Keystone"
     },
     {
       "alias": "Istria",
@@ -14505,6 +14316,27 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "Ushas",
+      "heading": null,
+      "resolved": "Geography/Ushas/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/Ushas/index"
+    },
+    {
+      "alias": "Færrin",
+      "heading": null,
+      "resolved": "Geography/Færrin/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/Færrin/index"
+    },
+    {
+      "alias": "Astra",
+      "heading": null,
+      "resolved": "Geography/index",
+      "source": "Org/Sedecium",
+      "target": "Geography/index"
+    },
+    {
       "alias": "Hesperid",
       "heading": null,
       "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
@@ -14519,18 +14351,109 @@
       "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
     },
     {
-      "alias": "Ushas",
+      "alias": "Far Realms of Ushas",
       "heading": null,
-      "resolved": "Geography/Ushas/index",
+      "resolved": "Geography/Ushas/Far Realms",
       "source": "Org/Sedecium",
-      "target": "Geography/Ushas/index"
+      "target": "Geography/Ushas/Far Realms"
     },
     {
-      "alias": "Færrin",
+      "alias": "Far Realms",
       "heading": null,
-      "resolved": "Geography/Færrin/index",
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
       "source": "Org/Sedecium",
-      "target": "Geography/Færrin/index"
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+    },
+    {
+      "alias": "Fifth Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Org/Sedecium",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "Kaathe",
+      "heading": null,
+      "resolved": "Bestiary/Kaathe",
+      "source": "Org/Sedecium",
+      "target": "Bestiary/Kaathe"
+    },
+    {
+      "alias": "SeRaan",
+      "heading": null,
+      "resolved": "People/Althane/SeRaan",
+      "source": "Org/Sedecium",
+      "target": "People/Althane/SeRaan"
+    },
+    {
+      "alias": "Mephistopheles",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Mephistopheles",
+      "source": "Org/Sedecium",
+      "target": "Divinity/Unknown Entities/Mephistopheles"
+    },
+    {
+      "alias": "Archive",
+      "heading": null,
+      "resolved": "Geography/Althane/The Archive",
+      "source": "Org/Sedecium",
+      "target": "Geography/Althane/The Archive"
+    },
+    {
+      "alias": "Dorcan",
+      "heading": null,
+      "resolved": "People/Dorcan",
+      "source": "Org/Sedecium",
+      "target": "People/Dorcan"
+    },
+    {
+      "alias": "Zugg",
+      "heading": null,
+      "resolved": "People/Zugg",
+      "source": "Org/Sedecium",
+      "target": "People/Zugg"
+    },
+    {
+      "alias": "Rotok",
+      "heading": null,
+      "resolved": "People/Rotok",
+      "source": "Org/Sedecium",
+      "target": "People/Rotok"
+    },
+    {
+      "alias": "the Pale",
+      "heading": null,
+      "resolved": "Phenomena/The Pale",
+      "source": "Org/Sedecium",
+      "target": "Phenomena/The Pale"
+    },
+    {
+      "alias": "New Volcantum",
+      "heading": null,
+      "resolved": "Geography/Ushas/New Volcantum",
+      "source": "Org/Sedecium",
+      "target": "Geography/Ushas/New Volcantum"
+    },
+    {
+      "alias": "Elysium",
+      "heading": null,
+      "resolved": "Geography/Elysium",
+      "source": "Org/Sedecium",
+      "target": "Geography/Elysium"
+    },
+    {
+      "alias": "Sundom",
+      "heading": null,
+      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
+      "source": "Org/Sedecium",
+      "target": "Org/The Fifth Prosperous Empire of the Sundom"
+    },
+    {
+      "alias": "T3C",
+      "heading": null,
+      "resolved": "People/Althane/The Broker",
+      "source": "Org/Sedecium",
+      "target": "People/Althane/The Broker"
     },
     {
       "alias": "Gremory",
@@ -14587,125 +14510,6 @@
       "resolved": "Phenomena/Holy Gold",
       "source": "Org/Sedecium",
       "target": "Phenomena/Holy Gold"
-    },
-    {
-      "alias": "Elysium",
-      "heading": null,
-      "resolved": "Geography/Elysium",
-      "source": "Org/Sedecium",
-      "target": "Geography/Elysium"
-    },
-    {
-      "alias": "Far Realms of Ushas",
-      "heading": null,
-      "resolved": "Geography/Ushas/Far Realms",
-      "source": "Org/Sedecium",
-      "target": "Geography/Ushas/Far Realms"
-    },
-    {
-      "alias": "Far Realms",
-      "heading": null,
-      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
-      "source": "Org/Sedecium",
-      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
-    },
-    {
-      "alias": "Fifth Sundom",
-      "heading": null,
-      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
-      "source": "Org/Sedecium",
-      "target": "Org/The Fifth Prosperous Empire of the Sundom"
-    },
-    {
-      "alias": "Kaathe",
-      "heading": null,
-      "resolved": "Bestiary/Kaathe",
-      "source": "Org/Sedecium",
-      "target": "Bestiary/Kaathe"
-    },
-    {
-      "alias": "SeRaan",
-      "heading": null,
-      "resolved": "People/Althane/SeRaan",
-      "source": "Org/Sedecium",
-      "target": "People/Althane/SeRaan"
-    },
-    {
-      "alias": "Mephistopheles",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Mephistopheles",
-      "source": "Org/Sedecium",
-      "target": "Divinity/Unknown Entities/Mephistopheles"
-    },
-    {
-      "alias": "Archive",
-      "heading": null,
-      "resolved": "Geography/Althane/The Archive",
-      "source": "Org/Sedecium",
-      "target": "Geography/Althane/The Archive"
-    },
-    {
-      "alias": "Astra",
-      "heading": null,
-      "resolved": "Geography/index",
-      "source": "Org/Sedecium",
-      "target": "Geography/index"
-    },
-    {
-      "alias": "Thessians",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "Org/Sedecium",
-      "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "Dorcan",
-      "heading": null,
-      "resolved": "People/Dorcan",
-      "source": "Org/Sedecium",
-      "target": "People/Dorcan"
-    },
-    {
-      "alias": "Zugg",
-      "heading": null,
-      "resolved": "People/Zugg",
-      "source": "Org/Sedecium",
-      "target": "People/Zugg"
-    },
-    {
-      "alias": "Rotok",
-      "heading": null,
-      "resolved": "People/Rotok",
-      "source": "Org/Sedecium",
-      "target": "People/Rotok"
-    },
-    {
-      "alias": "T3C",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "Org/Sedecium",
-      "target": "People/Althane/The Broker"
-    },
-    {
-      "alias": "the Pale",
-      "heading": null,
-      "resolved": "Phenomena/The Pale",
-      "source": "Org/Sedecium",
-      "target": "Phenomena/The Pale"
-    },
-    {
-      "alias": "New Volcantum",
-      "heading": null,
-      "resolved": "Geography/Ushas/New Volcantum",
-      "source": "Org/Sedecium",
-      "target": "Geography/Ushas/New Volcantum"
-    },
-    {
-      "alias": "Sundom",
-      "heading": null,
-      "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
-      "source": "Org/Sedecium",
-      "target": "Org/The Fifth Prosperous Empire of the Sundom"
     },
     {
       "alias": "Belvedere",
@@ -14974,13 +14778,6 @@
       "target": "Divinity/Immix"
     },
     {
-      "alias": "the slip",
-      "heading": null,
-      "resolved": "Phenomena/The Slip",
-      "source": "Org/The Fifth Prosperous Empire of the Sundom",
-      "target": "Phenomena/The Slip"
-    },
-    {
       "alias": "Far Realms of Ushas",
       "heading": null,
       "resolved": "Geography/Ushas/Far Realms",
@@ -15007,6 +14804,13 @@
       "resolved": "Org/Sedecium",
       "source": "Org/The Fifth Prosperous Empire of the Sundom",
       "target": "Org/Sedecium"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "Org/The Fifth Prosperous Empire of the Sundom",
+      "target": "Phenomena/The Slip"
     },
     {
       "alias": "Providence",
@@ -15513,28 +15317,14 @@
       "target": "Phenomena/Pilgrimage"
     },
     {
+      "alias": "Hesperid 3",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+    },
+    {
       "alias": "the Master of Ceremonies",
-      "heading": null,
-      "resolved": "Org/The Harlequins/People/The Master of Ceremonies",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Org/The Harlequins/People/The Master of Ceremonies"
-    },
-    {
-      "alias": "Giacomo's",
-      "heading": null,
-      "resolved": "Org/The Harlequins/Providence/Giacomo's",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Org/The Harlequins/Providence/Giacomo's"
-    },
-    {
-      "alias": "orts",
-      "heading": null,
-      "resolved": "Bestiary/Fiends",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Bestiary/Fiends"
-    },
-    {
-      "alias": "the Master",
       "heading": null,
       "resolved": "Org/The Harlequins/People/The Master of Ceremonies",
       "source": "Org/The Harlequins/Providence/index",
@@ -15553,6 +15343,27 @@
       "resolved": "Phenomena/Keystone",
       "source": "Org/The Harlequins/Providence/index",
       "target": "Phenomena/Keystone"
+    },
+    {
+      "alias": "Giacomo's",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/Giacomo's",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Org/The Harlequins/Providence/Giacomo's"
+    },
+    {
+      "alias": "orts",
+      "heading": null,
+      "resolved": "Bestiary/Fiends",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Bestiary/Fiends"
+    },
+    {
+      "alias": "Amber Call",
+      "heading": null,
+      "resolved": "Org/Amber Call/index",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Org/Amber Call/index"
     },
     {
       "alias": "Harlequins",
@@ -15665,27 +15476,6 @@
       "resolved": "Bestiary/Mongrel Folk",
       "source": "Org/The Harlequins/Providence/index",
       "target": "Bestiary/Mongrel Folk"
-    },
-    {
-      "alias": "Hesperid 3",
-      "heading": null,
-      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
-    },
-    {
-      "alias": "Giacomo's",
-      "heading": null,
-      "resolved": "Org/The Harlequins/Providence/Giacomo's",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Org/The Harlequins/Providence/Giacomo's"
-    },
-    {
-      "alias": "Amber Call",
-      "heading": null,
-      "resolved": "Org/Amber Call/index",
-      "source": "Org/The Harlequins/Providence/index",
-      "target": "Org/Amber Call/index"
     },
     {
       "alias": "Providence",
@@ -17158,48 +16948,6 @@
       "target": "Org/Althane/The Weft"
     },
     {
-      "alias": "clockwork rejuvenator",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Clockwork Rejuvenator",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Phenomena/Althane/Clockwork Rejuvenator"
-    },
-    {
-      "alias": "the lava ruin",
-      "heading": null,
-      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
-    },
-    {
-      "alias": "Syrin",
-      "heading": null,
-      "resolved": "Geography/Syrin (Locality)/index",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Geography/Syrin (Locality)"
-    },
-    {
-      "alias": "Thessian",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "Dawn engine",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Dawn Engine",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Phenomena/Althane/Dawn Engine"
-    },
-    {
-      "alias": "New Haven",
-      "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
-      "source": "People/Althane/Dawnmonger",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
-    },
-    {
       "alias": "the Deep",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/The Deep",
@@ -17235,6 +16983,48 @@
       "target": "People/Althane/Rowan"
     },
     {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Dawn engine",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Dawn Engine",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Phenomena/Althane/Dawn Engine"
+    },
+    {
+      "alias": "New Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+    },
+    {
+      "alias": "clockwork rejuvenator",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Clockwork Rejuvenator",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Phenomena/Althane/Clockwork Rejuvenator"
+    },
+    {
+      "alias": "the lava ruin",
+      "heading": null,
+      "resolved": "Geography/Althane/The Hollow/Lava Ruin/index",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Dawnmonger",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
       "alias": "Lev",
       "heading": null,
       "resolved": "People/Althane/Lev",
@@ -17261,41 +17051,6 @@
       "resolved": "Org/Althane/The Weft",
       "source": "People/Althane/Divex",
       "target": "Org/Althane/The Weft"
-    },
-    {
-      "alias": "godpiercer",
-      "heading": null,
-      "resolved": "Phenomena/Althane/Godpiercer",
-      "source": "People/Althane/Divex",
-      "target": "Phenomena/Althane/Godpiercer"
-    },
-    {
-      "alias": "New Haven",
-      "heading": null,
-      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
-      "source": "People/Althane/Divex",
-      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
-    },
-    {
-      "alias": "T3C",
-      "heading": null,
-      "resolved": "People/Althane/The Broker",
-      "source": "People/Althane/Divex",
-      "target": "People/Althane/The Broker"
-    },
-    {
-      "alias": "Rowan",
-      "heading": null,
-      "resolved": "People/Althane/Rowan",
-      "source": "People/Althane/Divex",
-      "target": "People/Althane/Rowan"
-    },
-    {
-      "alias": "Syrin",
-      "heading": null,
-      "resolved": "Geography/Syrin (Locality)/index",
-      "source": "People/Althane/Divex",
-      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "the Deep",
@@ -17352,6 +17107,34 @@
       "resolved": "Divinity/Thessians",
       "source": "People/Althane/Divex",
       "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "godpiercer",
+      "heading": null,
+      "resolved": "Phenomena/Althane/Godpiercer",
+      "source": "People/Althane/Divex",
+      "target": "Phenomena/Althane/Godpiercer"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Divex",
+      "target": "Geography/Syrin (Locality)"
+    },
+    {
+      "alias": "New Haven",
+      "heading": null,
+      "resolved": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven",
+      "source": "People/Althane/Divex",
+      "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+    },
+    {
+      "alias": "Rowan",
+      "heading": null,
+      "resolved": "People/Althane/Rowan",
+      "source": "People/Althane/Divex",
+      "target": "People/Althane/Rowan"
     },
     {
       "alias": "First House",
@@ -17613,6 +17396,41 @@
       "target": "Org/Althane/Golden Sparrows"
     },
     {
+      "alias": "Lev",
+      "heading": null,
+      "resolved": "People/Althane/Lev",
+      "source": "People/Althane/Henrik",
+      "target": "People/Althane/Lev"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/Henrik",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "People/Althane/Henrik",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Henrik",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "the Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Henrik",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "Wojciech",
       "heading": null,
       "resolved": "People/Althane/Wojciech",
@@ -17646,41 +17464,6 @@
       "resolved": "Phenomena/Althane/Divine Amphora",
       "source": "People/Althane/Henrik",
       "target": "Phenomena/Althane/Divine Amphora"
-    },
-    {
-      "alias": "the Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "People/Althane/Henrik",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Lev",
-      "heading": null,
-      "resolved": "People/Althane/Lev",
-      "source": "People/Althane/Henrik",
-      "target": "People/Althane/Lev"
-    },
-    {
-      "alias": "Divex",
-      "heading": null,
-      "resolved": "People/Althane/Divex",
-      "source": "People/Althane/Henrik",
-      "target": "People/Althane/Divex"
-    },
-    {
-      "alias": "Dawnmonger",
-      "heading": null,
-      "resolved": "People/Althane/Dawnmonger",
-      "source": "People/Althane/Henrik",
-      "target": "People/Althane/Dawnmonger"
-    },
-    {
-      "alias": "the Weft",
-      "heading": null,
-      "resolved": "Org/Althane/The Weft",
-      "source": "People/Althane/Henrik",
-      "target": "Org/Althane/The Weft"
     },
     {
       "alias": "Syrin",
@@ -17816,6 +17599,27 @@
       "target": "Divinity/Thessians"
     },
     {
+      "alias": "The Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/Karkov",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "RC3",
+      "heading": null,
+      "resolved": "Geography/Althane/Oresk/RC3",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Oresk/RC3"
+    },
+    {
+      "alias": "Deep",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/The Deep",
+      "source": "People/Althane/Karkov",
+      "target": "Divinity/Unknown Entities/The Deep"
+    },
+    {
       "alias": "the Slipseer",
       "heading": null,
       "resolved": "People/Althane/The Slipseer",
@@ -17830,67 +17634,11 @@
       "target": "People/Althane/Rampart"
     },
     {
-      "alias": "RC3",
-      "heading": null,
-      "resolved": "Geography/Althane/Oresk/RC3",
-      "source": "People/Althane/Karkov",
-      "target": "Geography/Althane/Oresk/RC3"
-    },
-    {
       "alias": "Natalia",
       "heading": null,
       "resolved": "People/Althane/Natalia",
       "source": "People/Althane/Karkov",
       "target": "People/Althane/Natalia"
-    },
-    {
-      "alias": "Deep",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "People/Althane/Karkov",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Nox",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Nox",
-      "source": "People/Althane/Karkov",
-      "target": "Divinity/Unknown Entities/Nox"
-    },
-    {
-      "alias": "the Weft",
-      "heading": null,
-      "resolved": "Org/Althane/The Weft",
-      "source": "People/Althane/Karkov",
-      "target": "Org/Althane/The Weft"
-    },
-    {
-      "alias": "gun",
-      "heading": null,
-      "resolved": "Phenomena/Althane/The Gun",
-      "source": "People/Althane/Karkov",
-      "target": "Phenomena/Althane/The Gun"
-    },
-    {
-      "alias": "Dawnmonger",
-      "heading": null,
-      "resolved": "People/Althane/Dawnmonger",
-      "source": "People/Althane/Karkov",
-      "target": "People/Althane/Dawnmonger"
-    },
-    {
-      "alias": "Divex",
-      "heading": null,
-      "resolved": "People/Althane/Divex",
-      "source": "People/Althane/Karkov",
-      "target": "People/Althane/Divex"
-    },
-    {
-      "alias": "City of Yellow",
-      "heading": null,
-      "resolved": "Geography/Althane/Realms/Ilkyne",
-      "source": "People/Althane/Karkov",
-      "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
       "alias": "Grimm",
@@ -17926,6 +17674,41 @@
       "resolved": "People/Althane/The Broker",
       "source": "People/Althane/Karkov",
       "target": "People/Althane/The Broker"
+    },
+    {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "People/Althane/Karkov",
+      "target": "Phenomena/Althane/The Gun"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "People/Althane/Karkov",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Dawnmonger",
+      "heading": null,
+      "resolved": "People/Althane/Dawnmonger",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Dawnmonger"
+    },
+    {
+      "alias": "Divex",
+      "heading": null,
+      "resolved": "People/Althane/Divex",
+      "source": "People/Althane/Karkov",
+      "target": "People/Althane/Divex"
+    },
+    {
+      "alias": "City of Yellow",
+      "heading": null,
+      "resolved": "Geography/Althane/Realms/Ilkyne",
+      "source": "People/Althane/Karkov",
+      "target": "Geography/Althane/Realms/Ilkyne"
     },
     {
       "alias": "Ifrit",
@@ -18026,48 +17809,6 @@
       "target": "Geography/Althane/Oresk/Umbervale Hold"
     },
     {
-      "alias": "Golden Sparrow",
-      "heading": null,
-      "resolved": "Org/Althane/Golden Sparrows",
-      "source": "People/Althane/Lev",
-      "target": "Org/Althane/Golden Sparrows"
-    },
-    {
-      "alias": "Nox",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/Nox",
-      "source": "People/Althane/Lev",
-      "target": "Divinity/Unknown Entities/Nox"
-    },
-    {
-      "alias": "the creature from below",
-      "heading": null,
-      "resolved": "Divinity/Unknown Entities/The Deep",
-      "source": "People/Althane/Lev",
-      "target": "Divinity/Unknown Entities/The Deep"
-    },
-    {
-      "alias": "Lighthouse",
-      "heading": null,
-      "resolved": "Divinity/Immix",
-      "source": "People/Althane/Lev",
-      "target": "Divinity/Immix"
-    },
-    {
-      "alias": "Syrin",
-      "heading": null,
-      "resolved": "Geography/Syrin (Locality)/index",
-      "source": "People/Althane/Lev",
-      "target": "Geography/Syrin (Locality)"
-    },
-    {
-      "alias": "Xanthin Oreskalka",
-      "heading": null,
-      "resolved": "People/Althane/Xanthin Oreskalka",
-      "source": "People/Althane/Lev",
-      "target": "People/Althane/Xanthin Oreskalka"
-    },
-    {
       "alias": "Henrik",
       "heading": null,
       "resolved": "People/Althane/Henrik",
@@ -18110,11 +17851,39 @@
       "target": "Phenomena/Althane/The Lighthouse"
     },
     {
-      "alias": "the Weft",
+      "alias": "Xanthin Oreskalka",
       "heading": null,
-      "resolved": "Org/Althane/The Weft",
+      "resolved": "People/Althane/Xanthin Oreskalka",
       "source": "People/Althane/Lev",
-      "target": "Org/Althane/The Weft"
+      "target": "People/Althane/Xanthin Oreskalka"
+    },
+    {
+      "alias": "Golden Sparrow",
+      "heading": null,
+      "resolved": "Org/Althane/Golden Sparrows",
+      "source": "People/Althane/Lev",
+      "target": "Org/Althane/Golden Sparrows"
+    },
+    {
+      "alias": "Nox",
+      "heading": null,
+      "resolved": "Divinity/Unknown Entities/Nox",
+      "source": "People/Althane/Lev",
+      "target": "Divinity/Unknown Entities/Nox"
+    },
+    {
+      "alias": "Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "People/Althane/Lev",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "Syrin",
+      "heading": null,
+      "resolved": "Geography/Syrin (Locality)/index",
+      "source": "People/Althane/Lev",
+      "target": "Geography/Syrin (Locality)"
     },
     {
       "alias": "Marzo",
@@ -18684,27 +18453,6 @@
       "target": "Org/Althane/The Network"
     },
     {
-      "alias": "Terexanthes",
-      "heading": null,
-      "resolved": "People/Althane/Terexanthes",
-      "source": "People/Althane/The Broker",
-      "target": "People/Althane/Terexanthes"
-    },
-    {
-      "alias": "Illyara",
-      "heading": null,
-      "resolved": "Geography/Althane/Illyara/index",
-      "source": "People/Althane/The Broker",
-      "target": "Geography/Althane/Illyara/index"
-    },
-    {
-      "alias": "Oxas",
-      "heading": null,
-      "resolved": "People/Althane/Oxas",
-      "source": "People/Althane/The Broker",
-      "target": "People/Althane/Oxas"
-    },
-    {
       "alias": "Sedecium",
       "heading": null,
       "resolved": "Org/Sedecium",
@@ -18712,11 +18460,11 @@
       "target": "Org/Sedecium"
     },
     {
-      "alias": "Ushas",
+      "alias": "Echo Fragment",
       "heading": null,
-      "resolved": "Geography/Ushas/index",
+      "resolved": "Phenomena/Echo Fragment",
       "source": "People/Althane/The Broker",
-      "target": "Geography/Ushas/index"
+      "target": "Phenomena/Echo Fragment"
     },
     {
       "alias": "weave",
@@ -18726,39 +18474,11 @@
       "target": "Phenomena/Weave"
     },
     {
-      "alias": "Elysium",
+      "alias": "Terexanthes",
       "heading": null,
-      "resolved": "Geography/Elysium",
+      "resolved": "People/Althane/Terexanthes",
       "source": "People/Althane/The Broker",
-      "target": "Geography/Elysium"
-    },
-    {
-      "alias": "Thessian",
-      "heading": null,
-      "resolved": "Divinity/Thessians",
-      "source": "People/Althane/The Broker",
-      "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "the Weft",
-      "heading": null,
-      "resolved": "Org/Althane/The Weft",
-      "source": "People/Althane/The Broker",
-      "target": "Org/Althane/The Weft"
-    },
-    {
-      "alias": "gun",
-      "heading": null,
-      "resolved": "Phenomena/Althane/The Gun",
-      "source": "People/Althane/The Broker",
-      "target": "Phenomena/Althane/The Gun"
-    },
-    {
-      "alias": "First House",
-      "heading": null,
-      "resolved": "Org/Althane/The First House",
-      "source": "People/Althane/The Broker",
-      "target": "Org/Althane/The First House"
+      "target": "People/Althane/Terexanthes"
     },
     {
       "alias": "Divex",
@@ -18775,18 +18495,18 @@
       "target": "People/Althane/Rowan"
     },
     {
-      "alias": "Echo Fragment",
+      "alias": "Illyara",
       "heading": null,
-      "resolved": "Phenomena/Echo Fragment",
+      "resolved": "Geography/Althane/Illyara/index",
       "source": "People/Althane/The Broker",
-      "target": "Phenomena/Echo Fragment"
+      "target": "Geography/Althane/Illyara/index"
     },
     {
-      "alias": "the Narrative",
+      "alias": "Oxas",
       "heading": null,
-      "resolved": "Divinity/The Narrative/index",
+      "resolved": "People/Althane/Oxas",
       "source": "People/Althane/The Broker",
-      "target": "Divinity/The Narrative/index"
+      "target": "People/Althane/Oxas"
     },
     {
       "alias": "Terminus",
@@ -18794,34 +18514,6 @@
       "resolved": "Geography/Syrin (Locality)/Terminus",
       "source": "People/Althane/The Broker",
       "target": "Geography/Syrin (Locality)/Terminus"
-    },
-    {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "People/Althane/The Broker",
-      "target": "Org/Sedecium"
-    },
-    {
-      "alias": "false hydra",
-      "heading": null,
-      "resolved": "Bestiary/False Hydra",
-      "source": "People/Althane/The Broker",
-      "target": "Bestiary/False Hydra"
-    },
-    {
-      "alias": "Inevitable Everdawn",
-      "heading": null,
-      "resolved": "Geography/Inevitable Everdawn/index",
-      "source": "People/Althane/The Broker",
-      "target": "Geography/Inevitable Everdawn/index"
-    },
-    {
-      "alias": "the slip",
-      "heading": null,
-      "resolved": "Phenomena/The Slip",
-      "source": "People/Althane/The Broker",
-      "target": "Phenomena/The Slip"
     },
     {
       "alias": "Ushas",
@@ -18859,32 +18551,25 @@
       "target": "People/Rotok"
     },
     {
-      "alias": "Sedecium",
+      "alias": "Elysium",
       "heading": null,
-      "resolved": "Org/Sedecium",
+      "resolved": "Geography/Elysium",
       "source": "People/Althane/The Broker",
-      "target": "Org/Sedecium"
+      "target": "Geography/Elysium"
     },
     {
-      "alias": "the Feep",
+      "alias": "Thessian",
       "heading": null,
-      "resolved": "Divinity/Althane/The Stranger",
+      "resolved": "Divinity/Thessians",
       "source": "People/Althane/The Broker",
-      "target": "Divinity/Althane/The Stranger"
+      "target": "Divinity/Thessians"
     },
     {
-      "alias": "Echo Fragment",
+      "alias": "the Narrative",
       "heading": null,
-      "resolved": "Phenomena/Echo Fragment",
+      "resolved": "Divinity/The Narrative/index",
       "source": "People/Althane/The Broker",
-      "target": "Phenomena/Echo Fragment"
-    },
-    {
-      "alias": "Oxas",
-      "heading": null,
-      "resolved": "People/Althane/Oxas",
-      "source": "People/Althane/The Broker",
-      "target": "People/Althane/Oxas"
+      "target": "Divinity/The Narrative/index"
     },
     {
       "alias": "Karkov",
@@ -18892,6 +18577,27 @@
       "resolved": "People/Althane/Karkov",
       "source": "People/Althane/The Broker",
       "target": "People/Althane/Karkov"
+    },
+    {
+      "alias": "the Weft",
+      "heading": null,
+      "resolved": "Org/Althane/The Weft",
+      "source": "People/Althane/The Broker",
+      "target": "Org/Althane/The Weft"
+    },
+    {
+      "alias": "gun",
+      "heading": null,
+      "resolved": "Phenomena/Althane/The Gun",
+      "source": "People/Althane/The Broker",
+      "target": "Phenomena/Althane/The Gun"
+    },
+    {
+      "alias": "First House",
+      "heading": null,
+      "resolved": "Org/Althane/The First House",
+      "source": "People/Althane/The Broker",
+      "target": "Org/Althane/The First House"
     },
     {
       "alias": "Big Fish",
@@ -18913,6 +18619,34 @@
       "resolved": "People/Althane/YuDaan",
       "source": "People/Althane/The Broker",
       "target": "People/Althane/YuDaan"
+    },
+    {
+      "alias": "the Feep",
+      "heading": null,
+      "resolved": "Divinity/Althane/The Stranger",
+      "source": "People/Althane/The Broker",
+      "target": "Divinity/Althane/The Stranger"
+    },
+    {
+      "alias": "false hydra",
+      "heading": null,
+      "resolved": "Bestiary/False Hydra",
+      "source": "People/Althane/The Broker",
+      "target": "Bestiary/False Hydra"
+    },
+    {
+      "alias": "Inevitable Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/index",
+      "source": "People/Althane/The Broker",
+      "target": "Geography/Inevitable Everdawn/index"
+    },
+    {
+      "alias": "the slip",
+      "heading": null,
+      "resolved": "Phenomena/The Slip",
+      "source": "People/Althane/The Broker",
+      "target": "Phenomena/The Slip"
     },
     {
       "alias": "Illyara",
@@ -21939,13 +21673,6 @@
       "target": "Bestiary/Werecreature"
     },
     {
-      "alias": "the Trust",
-      "heading": null,
-      "resolved": "Org/Althane/The Trust",
-      "source": "Phenomena/Althane/Cycle",
-      "target": "Org/Althane/The Trust"
-    },
-    {
       "alias": "Sundom",
       "heading": null,
       "resolved": "Org/The Fifth Prosperous Empire of the Sundom",
@@ -21958,20 +21685,6 @@
       "resolved": "Divinity/Thessians",
       "source": "Phenomena/Althane/Cycle",
       "target": "Divinity/Thessians"
-    },
-    {
-      "alias": "the Thirteenth Realm",
-      "heading": null,
-      "resolved": "Geography/Althane/The Thirteenth Realm",
-      "source": "Phenomena/Althane/Cycle",
-      "target": "Geography/Althane/The Thirteenth Realm"
-    },
-    {
-      "alias": "the Lighthouse",
-      "heading": null,
-      "resolved": "Divinity/Immix",
-      "source": "Phenomena/Althane/Cycle",
-      "target": "Divinity/Immix"
     },
     {
       "alias": "The Thirteenth Realm",
@@ -22000,6 +21713,20 @@
       "resolved": "Phenomena/Althane/The Lighthouse",
       "source": "Phenomena/Althane/Cycle",
       "target": "Phenomena/Althane/The Lighthouse"
+    },
+    {
+      "alias": "the Lighthouse",
+      "heading": null,
+      "resolved": "Divinity/Immix",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Divinity/Immix"
+    },
+    {
+      "alias": "the Trust",
+      "heading": null,
+      "resolved": "Org/Althane/The Trust",
+      "source": "Phenomena/Althane/Cycle",
+      "target": "Org/Althane/The Trust"
     },
     {
       "alias": "Thessian",
@@ -23339,20 +23066,6 @@
       "target": "Geography/index"
     },
     {
-      "alias": "The End",
-      "heading": null,
-      "resolved": "Phenomena/The End",
-      "source": "Phenomena/Holy Gold",
-      "target": "Phenomena/The End"
-    },
-    {
-      "alias": "Menhir",
-      "heading": null,
-      "resolved": "Divinity/The Narrative/Menhir",
-      "source": "Phenomena/Holy Gold",
-      "target": "Divinity/The Narrative/Menhir"
-    },
-    {
       "alias": "Sedecium",
       "heading": null,
       "resolved": "Org/Sedecium",
@@ -23388,18 +23101,25 @@
       "target": "Geography/Ushas/Undermountain"
     },
     {
-      "alias": "Sedecium",
-      "heading": null,
-      "resolved": "Org/Sedecium",
-      "source": "Phenomena/Holy Gold",
-      "target": "Org/Sedecium"
-    },
-    {
       "alias": "Mephistopheles",
       "heading": null,
       "resolved": "Divinity/Unknown Entities/Mephistopheles",
       "source": "Phenomena/Holy Gold",
       "target": "Divinity/Unknown Entities/Mephistopheles"
+    },
+    {
+      "alias": "The End",
+      "heading": null,
+      "resolved": "Phenomena/The End",
+      "source": "Phenomena/Holy Gold",
+      "target": "Phenomena/The End"
+    },
+    {
+      "alias": "Menhir",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Menhir",
+      "source": "Phenomena/Holy Gold",
+      "target": "Divinity/The Narrative/Menhir"
     },
     {
       "alias": "Metals",
@@ -26500,7 +26220,12 @@
           "target": "Geography/Althane/index"
         },
         {
-          "alias": "The Weft",
+          "alias": "Echo Fragment",
+          "heading": null,
+          "target": "Phenomena/Echo Fragment"
+        },
+        {
+          "alias": "the Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
         },
@@ -26520,24 +26245,9 @@
           "target": "Org/Omnivox/index"
         },
         {
-          "alias": "Echo Fragment",
-          "heading": null,
-          "target": "Phenomena/Echo Fragment"
-        },
-        {
           "alias": "Karen Sill",
           "heading": null,
           "target": "People/Althane/Karen Sill"
-        },
-        {
-          "alias": "godpiercer",
-          "heading": null,
-          "target": "Phenomena/Althane/Godpiercer"
-        },
-        {
-          "alias": "T3C",
-          "heading": null,
-          "target": "People/Althane/The Broker"
         },
         {
           "alias": "the Broker",
@@ -26550,11 +26260,6 @@
           "target": "Geography/Syrin (Locality)/Gilded Spire/index"
         },
         {
-          "alias": "Luce",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Uriel"
-        },
-        {
           "alias": "Rowan",
           "heading": null,
           "target": "People/Althane/Rowan"
@@ -26565,9 +26270,19 @@
           "target": "Divinity/Immix"
         },
         {
-          "alias": "Echo Fragment",
+          "alias": "Luce",
           "heading": null,
-          "target": "Phenomena/Echo Fragment"
+          "target": "Divinity/Unknown Entities/Uriel"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "T3C",
+          "heading": null,
+          "target": "People/Althane/The Broker"
         }
       ],
       "date": "2025-04-07T00:00:00-04:00",
@@ -28410,24 +28125,14 @@
           "target": "Phenomena/Firmament"
         },
         {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
-          "alias": "Gremory",
-          "heading": null,
-          "target": "Divinity/Ashen Pact/Esoterica"
-        },
-        {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
         },
         {
-          "alias": "City of Yellow",
+          "alias": "Formless",
           "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
+          "target": "Divinity/Formless"
         },
         {
           "alias": "Deep",
@@ -28453,6 +28158,41 @@
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "higher kinds",
+          "heading": null,
+          "target": "Divinity/Higher Kind"
+        },
+        {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
+          "alias": "holy gold",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "T3C",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "Mephistopheles",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Mephistopheles"
+        },
+        {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
         },
         {
           "alias": "Pyre",
@@ -28485,16 +28225,6 @@
           "target": "Divinity/Ashen Pact/Regent"
         },
         {
-          "alias": "higher kinds",
-          "heading": null,
-          "target": "Divinity/Higher Kind"
-        },
-        {
-          "alias": "rare gold metal",
-          "heading": null,
-          "target": "Phenomena/Holy Gold"
-        },
-        {
           "alias": "Harrow",
           "heading": null,
           "target": "Divinity/Unknown Entities/Harrow"
@@ -28505,44 +28235,9 @@
           "target": "Divinity/Unknown Entities/Tithe"
         },
         {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
-          "alias": "holy gold",
-          "heading": null,
-          "target": "Phenomena/Holy Gold"
-        },
-        {
-          "alias": "T3C",
-          "heading": null,
-          "target": "People/Althane/The Broker"
-        },
-        {
-          "alias": "Mephistopheles",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Mephistopheles"
-        },
-        {
-          "alias": "Ushas",
-          "heading": null,
-          "target": "Geography/Ushas/index"
-        },
-        {
           "alias": "Ashen Pact",
           "heading": null,
           "target": "Divinity/Ashen Pact/index"
-        },
-        {
-          "alias": "Formless",
-          "heading": null,
-          "target": "Divinity/Formless"
-        },
-        {
-          "alias": "Ushas",
-          "heading": null,
-          "target": "Geography/Ushas/index"
         },
         {
           "alias": "Leitmotif",
@@ -28903,6 +28598,11 @@
     {
       "crossrefs": [
         {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
           "alias": "Umbervale Hold",
           "heading": null,
           "target": "Geography/Althane/Oresk/Umbervale Hold"
@@ -28916,11 +28616,6 @@
           "alias": "vampirism",
           "heading": null,
           "target": "Phenomena/Althane/Sanguis Noxa"
-        },
-        {
-          "alias": "Thessian",
-          "heading": null,
-          "target": "Divinity/Thessians"
         },
         {
           "alias": "the one called Leitmotif",
@@ -28976,6 +28671,31 @@
     {
       "crossrefs": [
         {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Formless",
+          "heading": null,
+          "target": "Divinity/Formless"
+        },
+        {
+          "alias": "the Thirteenth Realm",
+          "heading": null,
+          "target": "Geography/Althane/The Thirteenth Realm"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Dark Bramble",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Dark Bramble"
+        },
+        {
           "alias": "Renge",
           "heading": null,
           "target": "Divinity/The Narrative/Renge"
@@ -29001,6 +28721,11 @@
           "target": "Phenomena/Althane/Sanguis Depsics"
         },
         {
+          "alias": "Ilkyne",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
+        },
+        {
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
@@ -29021,21 +28746,6 @@
           "target": "Geography/Althane/The Hollow/Vyre, the Inverted City"
         },
         {
-          "alias": "Ilkyne",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
-        },
-        {
-          "alias": "the Thirteenth Realm",
-          "heading": null,
-          "target": "Geography/Althane/The Thirteenth Realm"
-        },
-        {
-          "alias": "Thessians",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
           "alias": "The Weft",
           "heading": null,
           "target": "Org/Althane/The Weft"
@@ -29049,31 +28759,6 @@
           "alias": "duskwalker",
           "heading": "Duskwalker",
           "target": "Bestiary/Realmtouched"
-        },
-        {
-          "alias": "Ilkyne",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
-        },
-        {
-          "alias": "Thessian",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "Formless",
-          "heading": null,
-          "target": "Divinity/Formless"
-        },
-        {
-          "alias": "Nox",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Nox"
-        },
-        {
-          "alias": "Dark Bramble",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Dark Bramble"
         }
       ],
       "date": "2026-01-13T00:00:00-04:00",
@@ -30505,31 +30190,6 @@
           "target": "People/Althane/Karkov"
         },
         {
-          "alias": "ontological anchor",
-          "heading": null,
-          "target": "Phenomena/Althane/Ontological Anchor"
-        },
-        {
-          "alias": "Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Karkov",
-          "heading": null,
-          "target": "People/Althane/Karkov"
-        },
-        {
-          "alias": "Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Karkov",
-          "heading": null,
-          "target": "People/Althane/Karkov"
-        },
-        {
           "alias": "Natalia",
           "heading": null,
           "target": "People/Althane/Natalia"
@@ -30538,6 +30198,16 @@
           "alias": "Rampart",
           "heading": null,
           "target": "People/Althane/Rampart"
+        },
+        {
+          "alias": "ontological anchor",
+          "heading": null,
+          "target": "Phenomena/Althane/Ontological Anchor"
+        },
+        {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
         },
         {
           "alias": "the Slipseer",
@@ -31744,6 +31414,21 @@
     {
       "crossrefs": [
         {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "realms",
+          "heading": null,
+          "target": "Geography/Althane/Realms/index"
+        },
+        {
+          "alias": "cycle",
+          "heading": null,
+          "target": "Phenomena/Althane/Cycle"
+        },
+        {
           "alias": "Althane",
           "heading": null,
           "target": "Geography/Althane/index"
@@ -31754,11 +31439,6 @@
           "target": "Geography/Althane/Realms/Ilkyne"
         },
         {
-          "alias": "realms",
-          "heading": null,
-          "target": "Geography/Althane/Realms/index"
-        },
-        {
           "alias": "The Church of the Thirteenth Realm",
           "heading": null,
           "target": "Org/Althane/Church of the Thirteenth Realm"
@@ -31767,16 +31447,6 @@
           "alias": "Kaathe",
           "heading": null,
           "target": "Bestiary/Kaathe"
-        },
-        {
-          "alias": "cycle",
-          "heading": null,
-          "target": "Phenomena/Althane/Cycle"
-        },
-        {
-          "alias": "the Lighthouse",
-          "heading": null,
-          "target": "Phenomena/Althane/The Lighthouse"
         },
         {
           "alias": "Thessian",
@@ -31819,19 +31489,9 @@
           "target": "Divinity/Thessians"
         },
         {
-          "alias": "Ilkyne",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
-        },
-        {
           "alias": "Crystalpoint Lattice",
           "heading": null,
           "target": "People/Althane/The Crystalpoint Lattice"
-        },
-        {
-          "alias": "the Lighthouse",
-          "heading": null,
-          "target": "Phenomena/Althane/The Lighthouse"
         },
         {
           "alias": "The Weft",
@@ -36027,56 +35687,6 @@
           "target": "Geography/index"
         },
         {
-          "alias": "Pale",
-          "heading": null,
-          "target": "Phenomena/The Pale"
-        },
-        {
-          "alias": "Dorcan",
-          "heading": null,
-          "target": "People/Dorcan"
-        },
-        {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
-          "alias": "New Volcantum",
-          "heading": null,
-          "target": "Geography/Ushas/New Volcantum"
-        },
-        {
-          "alias": "Far Realms",
-          "heading": null,
-          "target": "Geography/Ushas/Far Realms"
-        },
-        {
-          "alias": "Infinite Horizon",
-          "heading": null,
-          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
-        },
-        {
-          "alias": "Fifth Sundom",
-          "heading": null,
-          "target": "Org/The Fifth Prosperous Empire of the Sundom"
-        },
-        {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
-          "alias": "Kaathe",
-          "heading": null,
-          "target": "Bestiary/Kaathe"
-        },
-        {
-          "alias": "SeRaan",
-          "heading": null,
-          "target": "People/Althane/SeRaan"
-        },
-        {
           "alias": "Leitmotif",
           "heading": null,
           "target": "Divinity/Unknown Entities/Harrow"
@@ -36090,11 +35700,6 @@
           "alias": "Higher Kind",
           "heading": null,
           "target": "Divinity/Higher Kind"
-        },
-        {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
         },
         {
           "alias": "Dorcan",
@@ -36155,6 +35760,31 @@
           "alias": "Far Realms",
           "heading": null,
           "target": "Geography/Ushas/Far Realms"
+        },
+        {
+          "alias": "Infinite Horizon",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+        },
+        {
+          "alias": "Fifth Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "SeRaan",
+          "heading": null,
+          "target": "People/Althane/SeRaan"
+        },
+        {
+          "alias": "New Volcantum",
+          "heading": null,
+          "target": "Geography/Ushas/New Volcantum"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -37736,11 +37366,6 @@
           "target": "Geography/Althane/index"
         },
         {
-          "alias": "The Guild",
-          "heading": null,
-          "target": "Org/Althane/The Guild"
-        },
-        {
           "alias": "Lev",
           "heading": null,
           "target": "People/Althane/Lev"
@@ -37781,6 +37406,16 @@
           "target": "People/Althane/SeRaan"
         },
         {
+          "alias": "Thyropae",
+          "heading": null,
+          "target": "Geography/Althane/Athrea/Thyropae/index"
+        },
+        {
+          "alias": "The Guild",
+          "heading": null,
+          "target": "Org/Althane/The Guild"
+        },
+        {
           "alias": "the lava ruin",
           "heading": null,
           "target": "Geography/Althane/The Hollow/Lava Ruin/index"
@@ -37791,24 +37426,9 @@
           "target": "Geography/Althane/The Hollow/Lava Ruin/Damien"
         },
         {
-          "alias": "Althane",
-          "heading": null,
-          "target": "Geography/Althane/index"
-        },
-        {
           "alias": "godpiercer",
           "heading": null,
           "target": "Phenomena/Althane/Godpiercer"
-        },
-        {
-          "alias": "Syrin",
-          "heading": null,
-          "target": "Geography/Syrin (Locality)"
-        },
-        {
-          "alias": "the Lighthouse",
-          "heading": null,
-          "target": "Divinity/Immix"
         },
         {
           "alias": "Crystal Earring",
@@ -37821,19 +37441,24 @@
           "target": "Bestiary/Mimics"
         },
         {
-          "alias": "Hali",
-          "heading": null,
-          "target": "People/Althane/Halidex Op-B"
-        },
-        {
-          "alias": "Tenno",
-          "heading": null,
-          "target": "People/Althane/Tennobrin Er-K"
-        },
-        {
           "alias": "RC3",
           "heading": null,
           "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "the Broker",
+          "heading": null,
+          "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
         },
         {
           "alias": "Karkov",
@@ -37851,44 +37476,14 @@
           "target": "Geography/Althane/Oresk/index"
         },
         {
-          "alias": "the Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Syrin",
-          "heading": null,
-          "target": "Geography/Syrin (Locality)"
-        },
-        {
-          "alias": "the Broker",
-          "heading": null,
-          "target": "People/Althane/The Broker"
-        },
-        {
-          "alias": "Immix",
-          "heading": null,
-          "target": "Divinity/Immix"
-        },
-        {
           "alias": "Observers",
           "heading": null,
           "target": "Divinity/Althane/The Observers"
         },
         {
-          "alias": "the Stranger",
-          "heading": null,
-          "target": "Divinity/Althane/The Stranger"
-        },
-        {
           "alias": "the Thirteenth Realm",
           "heading": null,
           "target": "Geography/Althane/The Thirteenth Realm"
-        },
-        {
-          "alias": "the Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
         },
         {
           "alias": "Ilkyne",
@@ -37899,11 +37494,6 @@
           "alias": "the Lighthouse",
           "heading": null,
           "target": "Phenomena/Althane/The Lighthouse"
-        },
-        {
-          "alias": "Thyropae",
-          "heading": null,
-          "target": "Geography/Althane/Athrea/Thyropae/index"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
@@ -39919,6 +39509,16 @@
           "target": "Org/The Harlequins/Providence"
         },
         {
+          "alias": "Ragged Roost",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Ragged Roost"
+        },
+        {
+          "alias": "keystone",
+          "heading": null,
+          "target": "Phenomena/Keystone"
+        },
+        {
           "alias": "Ternion",
           "heading": null,
           "target": "Org/Ternion Heavy Industries/index"
@@ -39937,21 +39537,6 @@
           "alias": "Hallia",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/index"
-        },
-        {
-          "alias": "Providence",
-          "heading": null,
-          "target": "Org/The Harlequins/Providence"
-        },
-        {
-          "alias": "Ragged Roost",
-          "heading": null,
-          "target": "Geography/Færrin/Calaria/Ragged Roost"
-        },
-        {
-          "alias": "keystone",
-          "heading": null,
-          "target": "Phenomena/Keystone"
         }
       ],
       "date": "2026-07-13T00:00:00-04:00",
@@ -42972,6 +42557,21 @@
           "target": "Divinity/Thessians"
         },
         {
+          "alias": "Ushas",
+          "heading": null,
+          "target": "Geography/Ushas/index"
+        },
+        {
+          "alias": "Færrin",
+          "heading": null,
+          "target": "Geography/Færrin/index"
+        },
+        {
+          "alias": "Astra",
+          "heading": null,
+          "target": "Geography/index"
+        },
+        {
           "alias": "Hesperid",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
@@ -42982,14 +42582,79 @@
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
         },
         {
-          "alias": "Ushas",
+          "alias": "Far Realms of Ushas",
           "heading": null,
-          "target": "Geography/Ushas/index"
+          "target": "Geography/Ushas/Far Realms"
         },
         {
-          "alias": "Færrin",
+          "alias": "Far Realms",
           "heading": null,
-          "target": "Geography/Færrin/index"
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+        },
+        {
+          "alias": "Fifth Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "Kaathe",
+          "heading": null,
+          "target": "Bestiary/Kaathe"
+        },
+        {
+          "alias": "SeRaan",
+          "heading": null,
+          "target": "People/Althane/SeRaan"
+        },
+        {
+          "alias": "Mephistopheles",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Mephistopheles"
+        },
+        {
+          "alias": "Archive",
+          "heading": null,
+          "target": "Geography/Althane/The Archive"
+        },
+        {
+          "alias": "Dorcan",
+          "heading": null,
+          "target": "People/Dorcan"
+        },
+        {
+          "alias": "Zugg",
+          "heading": null,
+          "target": "People/Zugg"
+        },
+        {
+          "alias": "Rotok",
+          "heading": null,
+          "target": "People/Rotok"
+        },
+        {
+          "alias": "the Pale",
+          "heading": null,
+          "target": "Phenomena/The Pale"
+        },
+        {
+          "alias": "New Volcantum",
+          "heading": null,
+          "target": "Geography/Ushas/New Volcantum"
+        },
+        {
+          "alias": "Elysium",
+          "heading": null,
+          "target": "Geography/Elysium"
+        },
+        {
+          "alias": "Sundom",
+          "heading": null,
+          "target": "Org/The Fifth Prosperous Empire of the Sundom"
+        },
+        {
+          "alias": "T3C",
+          "heading": null,
+          "target": "People/Althane/The Broker"
         },
         {
           "alias": "Gremory",
@@ -43030,91 +42695,6 @@
           "alias": "rare gold metal",
           "heading": null,
           "target": "Phenomena/Holy Gold"
-        },
-        {
-          "alias": "Elysium",
-          "heading": null,
-          "target": "Geography/Elysium"
-        },
-        {
-          "alias": "Far Realms of Ushas",
-          "heading": null,
-          "target": "Geography/Ushas/Far Realms"
-        },
-        {
-          "alias": "Far Realms",
-          "heading": null,
-          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
-        },
-        {
-          "alias": "Fifth Sundom",
-          "heading": null,
-          "target": "Org/The Fifth Prosperous Empire of the Sundom"
-        },
-        {
-          "alias": "Kaathe",
-          "heading": null,
-          "target": "Bestiary/Kaathe"
-        },
-        {
-          "alias": "SeRaan",
-          "heading": null,
-          "target": "People/Althane/SeRaan"
-        },
-        {
-          "alias": "Mephistopheles",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Mephistopheles"
-        },
-        {
-          "alias": "Archive",
-          "heading": null,
-          "target": "Geography/Althane/The Archive"
-        },
-        {
-          "alias": "Astra",
-          "heading": null,
-          "target": "Geography/index"
-        },
-        {
-          "alias": "Thessians",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "Dorcan",
-          "heading": null,
-          "target": "People/Dorcan"
-        },
-        {
-          "alias": "Zugg",
-          "heading": null,
-          "target": "People/Zugg"
-        },
-        {
-          "alias": "Rotok",
-          "heading": null,
-          "target": "People/Rotok"
-        },
-        {
-          "alias": "T3C",
-          "heading": null,
-          "target": "People/Althane/The Broker"
-        },
-        {
-          "alias": "the Pale",
-          "heading": null,
-          "target": "Phenomena/The Pale"
-        },
-        {
-          "alias": "New Volcantum",
-          "heading": null,
-          "target": "Geography/Ushas/New Volcantum"
-        },
-        {
-          "alias": "Sundom",
-          "heading": null,
-          "target": "Org/The Fifth Prosperous Empire of the Sundom"
         }
       ],
       "date": "2026-10-29T00:00:00-04:00",
@@ -43475,11 +43055,6 @@
           "target": "Divinity/Immix"
         },
         {
-          "alias": "the slip",
-          "heading": null,
-          "target": "Phenomena/The Slip"
-        },
-        {
           "alias": "Far Realms of Ushas",
           "heading": null,
           "target": "Geography/Ushas/Far Realms"
@@ -43498,6 +43073,11 @@
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
         }
       ],
       "date": "2026-04-06T00:00:00-04:00",
@@ -44084,22 +43664,12 @@
           "target": "Phenomena/Pilgrimage"
         },
         {
+          "alias": "Hesperid 3",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+        },
+        {
           "alias": "the Master of Ceremonies",
-          "heading": null,
-          "target": "Org/The Harlequins/People/The Master of Ceremonies"
-        },
-        {
-          "alias": "Giacomo's",
-          "heading": null,
-          "target": "Org/The Harlequins/Providence/Giacomo's"
-        },
-        {
-          "alias": "orts",
-          "heading": null,
-          "target": "Bestiary/Fiends"
-        },
-        {
-          "alias": "the Master",
           "heading": null,
           "target": "Org/The Harlequins/People/The Master of Ceremonies"
         },
@@ -44112,6 +43682,21 @@
           "alias": "keystone",
           "heading": null,
           "target": "Phenomena/Keystone"
+        },
+        {
+          "alias": "Giacomo's",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence/Giacomo's"
+        },
+        {
+          "alias": "orts",
+          "heading": null,
+          "target": "Bestiary/Fiends"
+        },
+        {
+          "alias": "Amber Call",
+          "heading": null,
+          "target": "Org/Amber Call/index"
         },
         {
           "alias": "Harlequins",
@@ -44192,21 +43777,6 @@
           "alias": "mongrel folk",
           "heading": null,
           "target": "Bestiary/Mongrel Folk"
-        },
-        {
-          "alias": "Hesperid 3",
-          "heading": null,
-          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
-        },
-        {
-          "alias": "Giacomo's",
-          "heading": null,
-          "target": "Org/The Harlequins/Providence/Giacomo's"
-        },
-        {
-          "alias": "Amber Call",
-          "heading": null,
-          "target": "Org/Amber Call/index"
         }
       ],
       "date": "2026-10-12T00:00:00-04:00",
@@ -46256,36 +45826,6 @@
           "target": "Org/Althane/The Weft"
         },
         {
-          "alias": "clockwork rejuvenator",
-          "heading": null,
-          "target": "Phenomena/Althane/Clockwork Rejuvenator"
-        },
-        {
-          "alias": "the lava ruin",
-          "heading": null,
-          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
-        },
-        {
-          "alias": "Syrin",
-          "heading": null,
-          "target": "Geography/Syrin (Locality)"
-        },
-        {
-          "alias": "Thessian",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "Dawn engine",
-          "heading": null,
-          "target": "Phenomena/Althane/Dawn Engine"
-        },
-        {
-          "alias": "New Haven",
-          "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
-        },
-        {
           "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
@@ -46309,6 +45849,36 @@
           "alias": "Rowan",
           "heading": null,
           "target": "People/Althane/Rowan"
+        },
+        {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Dawn engine",
+          "heading": null,
+          "target": "Phenomena/Althane/Dawn Engine"
+        },
+        {
+          "alias": "New Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+        },
+        {
+          "alias": "clockwork rejuvenator",
+          "heading": null,
+          "target": "Phenomena/Althane/Clockwork Rejuvenator"
+        },
+        {
+          "alias": "the lava ruin",
+          "heading": null,
+          "target": "Geography/Althane/The Hollow/Lava Ruin/index"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
@@ -46349,31 +45919,6 @@
           "target": "Org/Althane/The Weft"
         },
         {
-          "alias": "godpiercer",
-          "heading": null,
-          "target": "Phenomena/Althane/Godpiercer"
-        },
-        {
-          "alias": "New Haven",
-          "heading": null,
-          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
-        },
-        {
-          "alias": "T3C",
-          "heading": null,
-          "target": "People/Althane/The Broker"
-        },
-        {
-          "alias": "Rowan",
-          "heading": null,
-          "target": "People/Althane/Rowan"
-        },
-        {
-          "alias": "Syrin",
-          "heading": null,
-          "target": "Geography/Syrin (Locality)"
-        },
-        {
           "alias": "the Deep",
           "heading": null,
           "target": "Divinity/Unknown Entities/The Deep"
@@ -46412,6 +45957,26 @@
           "alias": "Thessian",
           "heading": null,
           "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "godpiercer",
+          "heading": null,
+          "target": "Phenomena/Althane/Godpiercer"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
+        },
+        {
+          "alias": "New Haven",
+          "heading": null,
+          "target": "Geography/Althane/Lunae Badlands/Hidden Gulch/New Haven"
+        },
+        {
+          "alias": "Rowan",
+          "heading": null,
+          "target": "People/Althane/Rowan"
         }
       ],
       "date": "2025-05-12T00:00:00-04:00",
@@ -46757,6 +46322,31 @@
           "target": "Org/Althane/Golden Sparrows"
         },
         {
+          "alias": "Lev",
+          "heading": null,
+          "target": "People/Althane/Lev"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "the Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "Wojciech",
           "heading": null,
           "target": "People/Althane/Wojciech"
@@ -46780,31 +46370,6 @@
           "alias": "Divine Amphora",
           "heading": null,
           "target": "Phenomena/Althane/Divine Amphora"
-        },
-        {
-          "alias": "the Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Lev",
-          "heading": null,
-          "target": "People/Althane/Lev"
-        },
-        {
-          "alias": "Divex",
-          "heading": null,
-          "target": "People/Althane/Divex"
-        },
-        {
-          "alias": "Dawnmonger",
-          "heading": null,
-          "target": "People/Althane/Dawnmonger"
-        },
-        {
-          "alias": "the Weft",
-          "heading": null,
-          "target": "Org/Althane/The Weft"
         },
         {
           "alias": "Syrin",
@@ -47005,6 +46570,21 @@
           "target": "Divinity/Thessians"
         },
         {
+          "alias": "The Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "RC3",
+          "heading": null,
+          "target": "Geography/Althane/Oresk/RC3"
+        },
+        {
+          "alias": "Deep",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/The Deep"
+        },
+        {
           "alias": "the Slipseer",
           "heading": null,
           "target": "People/Althane/The Slipseer"
@@ -47015,49 +46595,9 @@
           "target": "People/Althane/Rampart"
         },
         {
-          "alias": "RC3",
-          "heading": null,
-          "target": "Geography/Althane/Oresk/RC3"
-        },
-        {
           "alias": "Natalia",
           "heading": null,
           "target": "People/Althane/Natalia"
-        },
-        {
-          "alias": "Deep",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Nox",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Nox"
-        },
-        {
-          "alias": "the Weft",
-          "heading": null,
-          "target": "Org/Althane/The Weft"
-        },
-        {
-          "alias": "gun",
-          "heading": null,
-          "target": "Phenomena/Althane/The Gun"
-        },
-        {
-          "alias": "Dawnmonger",
-          "heading": null,
-          "target": "People/Althane/Dawnmonger"
-        },
-        {
-          "alias": "Divex",
-          "heading": null,
-          "target": "People/Althane/Divex"
-        },
-        {
-          "alias": "City of Yellow",
-          "heading": null,
-          "target": "Geography/Althane/Realms/Ilkyne"
         },
         {
           "alias": "Grimm",
@@ -47083,6 +46623,31 @@
           "alias": "the Broker",
           "heading": null,
           "target": "People/Althane/The Broker"
+        },
+        {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Dawnmonger",
+          "heading": null,
+          "target": "People/Althane/Dawnmonger"
+        },
+        {
+          "alias": "Divex",
+          "heading": null,
+          "target": "People/Althane/Divex"
+        },
+        {
+          "alias": "City of Yellow",
+          "heading": null,
+          "target": "Geography/Althane/Realms/Ilkyne"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -47258,36 +46823,6 @@
           "target": "Geography/Althane/Oresk/Umbervale Hold"
         },
         {
-          "alias": "Golden Sparrow",
-          "heading": null,
-          "target": "Org/Althane/Golden Sparrows"
-        },
-        {
-          "alias": "Nox",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/Nox"
-        },
-        {
-          "alias": "the creature from below",
-          "heading": null,
-          "target": "Divinity/Unknown Entities/The Deep"
-        },
-        {
-          "alias": "Lighthouse",
-          "heading": null,
-          "target": "Divinity/Immix"
-        },
-        {
-          "alias": "Syrin",
-          "heading": null,
-          "target": "Geography/Syrin (Locality)"
-        },
-        {
-          "alias": "Xanthin Oreskalka",
-          "heading": null,
-          "target": "People/Althane/Xanthin Oreskalka"
-        },
-        {
           "alias": "Henrik",
           "heading": null,
           "target": "People/Althane/Henrik"
@@ -47318,9 +46853,29 @@
           "target": "Phenomena/Althane/The Lighthouse"
         },
         {
-          "alias": "the Weft",
+          "alias": "Xanthin Oreskalka",
           "heading": null,
-          "target": "Org/Althane/The Weft"
+          "target": "People/Althane/Xanthin Oreskalka"
+        },
+        {
+          "alias": "Golden Sparrow",
+          "heading": null,
+          "target": "Org/Althane/Golden Sparrows"
+        },
+        {
+          "alias": "Nox",
+          "heading": null,
+          "target": "Divinity/Unknown Entities/Nox"
+        },
+        {
+          "alias": "Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "Syrin",
+          "heading": null,
+          "target": "Geography/Syrin (Locality)"
         },
         {
           "alias": "Marzo",
@@ -48028,29 +47583,14 @@
           "target": "Org/Althane/The Network"
         },
         {
-          "alias": "Terexanthes",
-          "heading": null,
-          "target": "People/Althane/Terexanthes"
-        },
-        {
-          "alias": "Illyara",
-          "heading": null,
-          "target": "Geography/Althane/Illyara/index"
-        },
-        {
-          "alias": "Oxas",
-          "heading": null,
-          "target": "People/Althane/Oxas"
-        },
-        {
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
         },
         {
-          "alias": "Ushas",
+          "alias": "Echo Fragment",
           "heading": null,
-          "target": "Geography/Ushas/index"
+          "target": "Phenomena/Echo Fragment"
         },
         {
           "alias": "weave",
@@ -48058,29 +47598,9 @@
           "target": "Phenomena/Weave"
         },
         {
-          "alias": "Elysium",
+          "alias": "Terexanthes",
           "heading": null,
-          "target": "Geography/Elysium"
-        },
-        {
-          "alias": "Thessian",
-          "heading": null,
-          "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "the Weft",
-          "heading": null,
-          "target": "Org/Althane/The Weft"
-        },
-        {
-          "alias": "gun",
-          "heading": null,
-          "target": "Phenomena/Althane/The Gun"
-        },
-        {
-          "alias": "First House",
-          "heading": null,
-          "target": "Org/Althane/The First House"
+          "target": "People/Althane/Terexanthes"
         },
         {
           "alias": "Divex",
@@ -48093,39 +47613,19 @@
           "target": "People/Althane/Rowan"
         },
         {
-          "alias": "Echo Fragment",
+          "alias": "Illyara",
           "heading": null,
-          "target": "Phenomena/Echo Fragment"
+          "target": "Geography/Althane/Illyara/index"
         },
         {
-          "alias": "the Narrative",
+          "alias": "Oxas",
           "heading": null,
-          "target": "Divinity/The Narrative/index"
+          "target": "People/Althane/Oxas"
         },
         {
           "alias": "Terminus",
           "heading": null,
           "target": "Geography/Syrin (Locality)/Terminus"
-        },
-        {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
-          "alias": "false hydra",
-          "heading": null,
-          "target": "Bestiary/False Hydra"
-        },
-        {
-          "alias": "Inevitable Everdawn",
-          "heading": null,
-          "target": "Geography/Inevitable Everdawn/index"
-        },
-        {
-          "alias": "the slip",
-          "heading": null,
-          "target": "Phenomena/The Slip"
         },
         {
           "alias": "Ushas",
@@ -48153,29 +47653,39 @@
           "target": "People/Rotok"
         },
         {
-          "alias": "Sedecium",
+          "alias": "Elysium",
           "heading": null,
-          "target": "Org/Sedecium"
+          "target": "Geography/Elysium"
         },
         {
-          "alias": "the Feep",
+          "alias": "Thessian",
           "heading": null,
-          "target": "Divinity/Althane/The Stranger"
+          "target": "Divinity/Thessians"
         },
         {
-          "alias": "Echo Fragment",
+          "alias": "the Narrative",
           "heading": null,
-          "target": "Phenomena/Echo Fragment"
-        },
-        {
-          "alias": "Oxas",
-          "heading": null,
-          "target": "People/Althane/Oxas"
+          "target": "Divinity/The Narrative/index"
         },
         {
           "alias": "Karkov",
           "heading": null,
           "target": "People/Althane/Karkov"
+        },
+        {
+          "alias": "the Weft",
+          "heading": null,
+          "target": "Org/Althane/The Weft"
+        },
+        {
+          "alias": "gun",
+          "heading": null,
+          "target": "Phenomena/Althane/The Gun"
+        },
+        {
+          "alias": "First House",
+          "heading": null,
+          "target": "Org/Althane/The First House"
         },
         {
           "alias": "Big Fish",
@@ -48191,6 +47701,26 @@
           "alias": "YuDaan",
           "heading": null,
           "target": "People/Althane/YuDaan"
+        },
+        {
+          "alias": "the Feep",
+          "heading": null,
+          "target": "Divinity/Althane/The Stranger"
+        },
+        {
+          "alias": "false hydra",
+          "heading": null,
+          "target": "Bestiary/False Hydra"
+        },
+        {
+          "alias": "Inevitable Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/index"
+        },
+        {
+          "alias": "the slip",
+          "heading": null,
+          "target": "Phenomena/The Slip"
         }
       ],
       "date": "2026-04-06T00:00:00-04:00",
@@ -52029,11 +51559,6 @@
     {
       "crossrefs": [
         {
-          "alias": "the Trust",
-          "heading": null,
-          "target": "Org/Althane/The Trust"
-        },
-        {
           "alias": "Sundom",
           "heading": null,
           "target": "Org/The Fifth Prosperous Empire of the Sundom"
@@ -52042,16 +51567,6 @@
           "alias": "Thessian",
           "heading": null,
           "target": "Divinity/Thessians"
-        },
-        {
-          "alias": "the Thirteenth Realm",
-          "heading": null,
-          "target": "Geography/Althane/The Thirteenth Realm"
-        },
-        {
-          "alias": "the Lighthouse",
-          "heading": null,
-          "target": "Divinity/Immix"
         },
         {
           "alias": "The Thirteenth Realm",
@@ -52072,6 +51587,16 @@
           "alias": "the Lighthouse",
           "heading": null,
           "target": "Phenomena/Althane/The Lighthouse"
+        },
+        {
+          "alias": "the Lighthouse",
+          "heading": null,
+          "target": "Divinity/Immix"
+        },
+        {
+          "alias": "the Trust",
+          "heading": null,
+          "target": "Org/Althane/The Trust"
         }
       ],
       "date": "2025-05-05T00:00:00-04:00",
@@ -53820,16 +53345,6 @@
           "target": "Geography/index"
         },
         {
-          "alias": "The End",
-          "heading": null,
-          "target": "Phenomena/The End"
-        },
-        {
-          "alias": "Menhir",
-          "heading": null,
-          "target": "Divinity/The Narrative/Menhir"
-        },
-        {
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
@@ -53855,14 +53370,19 @@
           "target": "Geography/Ushas/Undermountain"
         },
         {
-          "alias": "Sedecium",
-          "heading": null,
-          "target": "Org/Sedecium"
-        },
-        {
           "alias": "Mephistopheles",
           "heading": null,
           "target": "Divinity/Unknown Entities/Mephistopheles"
+        },
+        {
+          "alias": "The End",
+          "heading": null,
+          "target": "Phenomena/The End"
+        },
+        {
+          "alias": "Menhir",
+          "heading": null,
+          "target": "Divinity/The Narrative/Menhir"
         },
         {
           "alias": "Metals",
