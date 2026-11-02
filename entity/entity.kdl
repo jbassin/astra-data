@@ -430,6 +430,9 @@ entity "Calarians" {
     alias "Galarians"
     source "defs"
 }
+entity "Calarium" kind="place" page="Geography/Færrin/Calarium" {
+    source "akasha"
+}
 entity "Candescent Legion" kind="org" page="Org/Candescent Legion" {
     source "akasha"
 }
@@ -1291,6 +1294,7 @@ entity "Illyara" kind="place" page="Geography/Althane/Illyara/index" {
 }
 entity "Immix" kind="deity" page="Divinity/Immix" {
     alias "[IE]mix"
+    alias "Imex"
     source "akasha"
     source "defs"
 }
@@ -1417,6 +1421,10 @@ entity "Kalamis" kind="phenomenon" page="Phenomena/Althane/Kalamis" {
 entity "Kanon" kind="place" page="Geography/Althane/Realms/Kanon" {
     source "akasha"
 }
+entity "Karkov" {
+    alias "Kharkov"
+    source "defs"
+}
 entity "Keep Marea" kind="place" page="Geography/Althane/Salores/Toleros/Keep Marea" {
     source "akasha"
 }
@@ -1510,6 +1518,10 @@ entity "Letov Obratz" kind="person" page="Org/Garrick Textiles/People/Letov Obra
 }
 entity "Lev" kind="person" being="jorge" {
     source "being"
+}
+entity "Lev'Myr" {
+    alias "Levmir"
+    source "defs"
 }
 entity "Ley Line" kind="phenomenon" page="Phenomena/Ley Line" {
     source "akasha"
@@ -1866,6 +1878,10 @@ entity "our door" {
     alias "Ardor"
     source "defs"
 }
+entity "Oxas" {
+    alias "Oxus"
+    source "defs"
+}
 entity "Ozzie" kind="person" being="tanner" {
     alias "Ozzy"
     source "defs"
@@ -2108,6 +2124,11 @@ entity "Renge" kind="deity" page="Divinity/The Narrative/Renge" {
 }
 entity "Resonance Crystal" kind="phenomenon" page="Phenomena/Althane/Resonance Crystal" {
     source "akasha"
+}
+entity "Ret" {
+    alias "Rett"
+    alias "Rhett"
+    source "defs"
 }
 entity "Reverend" kind="person" being="noah" {
     source "being"
@@ -2409,6 +2430,8 @@ entity "Submechanitor" {
 }
 entity "Sundom" {
     alias "Sundump"
+    alias "Sondheim"
+    alias "Santham"
     alias "Sun Doom"
     alias "Sundum"
     alias "Sendum"
@@ -2482,6 +2505,9 @@ entity "Ternion Heavy Industries" kind="org" page="Org/Ternion Heavy Industries/
 entity "Terror of Cagley" kind="creature" page="Bestiary/Terror of Cagley" {
     alias "the Terror"
     alias "Shadow Demon"
+    source "akasha"
+}
+entity "The Accord" kind="org" page="Org/The Accord" {
     source "akasha"
 }
 entity "The Archive" kind="place" page="Geography/Althane/The Archive" {
@@ -2680,7 +2706,9 @@ entity "Tithe" kind="deity" page="Divinity/Unknown Entities/Tithe" {
     source "defs"
 }
 entity "Toleros" kind="place" page="Geography/Althane/Salores/Toleros/index" {
+    alias "Poleros"
     source "akasha"
+    source "defs"
 }
 entity "Tormeré" kind="place" page="Geography/Færrin/Tormeré/index" {
     alias "Tormere"

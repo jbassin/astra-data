@@ -1884,6 +1884,13 @@
       "target": "Geography/Færrin/Calaria/Ragged Roost"
     },
     {
+      "alias": "the Accord",
+      "heading": null,
+      "resolved": "Org/The Accord",
+      "source": "Divinity/Divine Raiment",
+      "target": "Org/The Accord"
+    },
+    {
       "alias": "Shackled Prince's",
       "heading": null,
       "resolved": "Divinity/Fiends/Sigzil Haight",
@@ -7533,6 +7540,34 @@
       "target": "Geography/Færrin/Infinite Horizon/index"
     },
     {
+      "alias": "Tormeré",
+      "heading": null,
+      "resolved": "Geography/Færrin/Tormeré/index",
+      "source": "Geography/Færrin/Calarium",
+      "target": "Geography/Færrin/Tormeré/index"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Geography/Færrin/Calarium",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "Brithwyn",
+      "heading": null,
+      "resolved": "Geography/Færrin/Brithwyn/index",
+      "source": "Geography/Færrin/Calarium",
+      "target": "Geography/Færrin/Brithwyn/index"
+    },
+    {
+      "alias": "the Accord",
+      "heading": null,
+      "resolved": "Org/The Accord",
+      "source": "Geography/Færrin/Calarium",
+      "target": "Org/The Accord"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Divinity/Outer Gods/The Compelled",
@@ -7692,6 +7727,13 @@
       "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
       "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
       "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+    },
+    {
+      "alias": "The Accord",
+      "heading": null,
+      "resolved": "Org/The Accord",
+      "source": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "target": "Org/The Accord"
     },
     {
       "alias": "Teller's Run",
@@ -14827,6 +14869,69 @@
       "target": "Org/Hildebrandt Corporation/index"
     },
     {
+      "alias": "Aurelia",
+      "heading": null,
+      "resolved": "Divinity/Hierophant",
+      "source": "Org/The Accord",
+      "target": "Divinity/Hierophant"
+    },
+    {
+      "alias": "Færrin",
+      "heading": null,
+      "resolved": "Geography/Færrin/index",
+      "source": "Org/The Accord",
+      "target": "Geography/Færrin/index"
+    },
+    {
+      "alias": "Far Realms",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/index",
+      "source": "Org/The Accord",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+    },
+    {
+      "alias": "Calarium",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calarium",
+      "source": "Org/The Accord",
+      "target": "Geography/Færrin/Calarium"
+    },
+    {
+      "alias": "Calaria",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/index",
+      "source": "Org/The Accord",
+      "target": "Geography/Færrin/Calaria/index"
+    },
+    {
+      "alias": "raiments",
+      "heading": null,
+      "resolved": "Divinity/Divine Raiment",
+      "source": "Org/The Accord",
+      "target": "Divinity/Divine Raiment"
+    },
+    {
+      "alias": "Hallia",
+      "heading": null,
+      "resolved": "Geography/Færrin/Calaria/Hallia/index",
+      "source": "Org/The Accord",
+      "target": "Geography/Færrin/Calaria/Hallia/index"
+    },
+    {
+      "alias": "Providence",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/index",
+      "source": "Org/The Accord",
+      "target": "Org/The Harlequins/Providence/index"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "Org/The Accord",
+      "target": "Phenomena/Firmament"
+    },
+    {
       "alias": "Astra",
       "heading": null,
       "resolved": "Geography/index",
@@ -15464,6 +15569,13 @@
       "target": "Bestiary/Mongrel Folk"
     },
     {
+      "alias": "the Accord",
+      "heading": null,
+      "resolved": "Org/The Accord",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Org/The Accord"
+    },
+    {
       "alias": "Heart",
       "heading": null,
       "resolved": "Phenomena/Hearts",
@@ -15504,6 +15616,13 @@
       "resolved": "Org/Belvedere/index",
       "source": "Org/The Harlequins/Providence/index",
       "target": "Org/Belvedere/index"
+    },
+    {
+      "alias": "the Accord",
+      "heading": null,
+      "resolved": "Org/The Accord",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Org/The Accord"
     },
     {
       "alias": "Machine God",
@@ -26964,6 +27083,11 @@
           "alias": "Ragged Roost",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Ragged Roost"
+        },
+        {
+          "alias": "the Accord",
+          "heading": null,
+          "target": "Org/The Accord"
         }
       ],
       "date": "2026-06-05T16:40:21-04:00",
@@ -34088,6 +34212,44 @@
     {
       "crossrefs": [
         {
+          "alias": "Tormeré",
+          "heading": null,
+          "target": "Geography/Færrin/Tormeré/index"
+        },
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "Brithwyn",
+          "heading": null,
+          "target": "Geography/Færrin/Brithwyn/index"
+        },
+        {
+          "alias": "the Accord",
+          "heading": null,
+          "target": "Org/The Accord"
+        }
+      ],
+      "date": "2026-11-01T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "through-a-song-darkly"
+        ],
+        "extra": {
+          "date": "2026-11-01T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [],
+        "title": null
+      },
+      "path": "Geography/Færrin/Calarium"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": null,
           "heading": null,
           "target": "The Compelled"
@@ -34255,6 +34417,11 @@
           "alias": "Hesperid",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+        },
+        {
+          "alias": "The Accord",
+          "heading": null,
+          "target": "Org/The Accord"
         }
       ],
       "date": "2026-10-30T00:00:00-04:00",
@@ -43207,6 +43374,77 @@
     {
       "crossrefs": [
         {
+          "alias": "Aurelia",
+          "heading": null,
+          "target": "Divinity/Hierophant"
+        },
+        {
+          "alias": "Færrin",
+          "heading": null,
+          "target": "Geography/Færrin/index"
+        },
+        {
+          "alias": "Far Realms",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/index"
+        },
+        {
+          "alias": "Calarium",
+          "heading": null,
+          "target": "Geography/Færrin/Calarium"
+        },
+        {
+          "alias": "Calaria",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/index"
+        },
+        {
+          "alias": "raiments",
+          "heading": null,
+          "target": "Divinity/Divine Raiment"
+        },
+        {
+          "alias": "Hallia",
+          "heading": null,
+          "target": "Geography/Færrin/Calaria/Hallia/index"
+        },
+        {
+          "alias": "Providence",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence/index"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
+        }
+      ],
+      "date": "2026-11-01T00:00:00-04:00",
+      "frontmatter": {
+        "aliases": [],
+        "campaigns": [
+          "through-a-song-darkly"
+        ],
+        "extra": {
+          "date": "2026-11-01T00:00:00-04:00"
+        },
+        "img": null,
+        "tags": [
+          "Martial",
+          "Host",
+          "Judge",
+          "Heir",
+          "Watcher",
+          "Pulse",
+          "Compelled"
+        ],
+        "title": null
+      },
+      "path": "Org/The Accord"
+    },
+    {
+      "crossrefs": [
+        {
           "alias": "Astra",
           "heading": null,
           "target": "Geography/index"
@@ -43886,6 +44124,11 @@
           "target": "Bestiary/Mongrel Folk"
         },
         {
+          "alias": "the Accord",
+          "heading": null,
+          "target": "Org/The Accord"
+        },
+        {
           "alias": "Heart",
           "heading": null,
           "target": "Phenomena/Hearts"
@@ -43914,6 +44157,11 @@
           "alias": "Belvedere",
           "heading": null,
           "target": "Org/Belvedere/index"
+        },
+        {
+          "alias": "the Accord",
+          "heading": null,
+          "target": "Org/The Accord"
         },
         {
           "alias": "Machine God",
