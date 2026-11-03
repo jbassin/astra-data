@@ -1033,6 +1033,9 @@ entity "Gloaming Codex" kind="phenomenon" page="Phenomena/Gloaming Codex" {
     alias "Gloaming"
     source "akasha"
 }
+entity "Godblood" kind="phenomenon" page="Phenomena/Godblood" {
+    source "akasha"
+}
 entity "Godhome" kind="place" page="Geography/Færrin/Alternate Planes/Godhome" {
     alias "god\\s*home"
     source "akasha"
