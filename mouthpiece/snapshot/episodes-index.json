@@ -39357,10 +39357,10 @@
         }
       },
       "synopsis": "A special episode: the theory roundtable is back. The hosts answer for their last predictions, dig into the Astra's deepest mysteries with everything that has happened since, and lock in three new predictions each.",
-      "durationMs": 0,
-      "hasAudio": false,
-      "hasTranscript": false,
-      "audioVersion": "",
+      "durationMs": 3927353,
+      "hasAudio": true,
+      "hasTranscript": true,
+      "audioVersion": "3bed565-6aeab44c",
       "transcript": [
         {
           "speaker": "A",
