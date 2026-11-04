@@ -39329,6 +39329,1175 @@
           "text": "Preferably the one that already knows their names... or thinks it does."
         }
       ]
+    },
+    {
+      "id": "000.through-a-song-darkly.2026-11-3-special-roundtable",
+      "kind": "special",
+      "arcNo": 0,
+      "arcSlug": "through-a-song-darkly",
+      "arcTitle": "Through a Song, Darkly",
+      "episodeNo": 0,
+      "isMain": true,
+      "date": "2026-11-3-special-roundtable",
+      "dateSortKey": 20261103,
+      "title": "The Terrible Chandelier",
+      "episodeTitle": "The Terrible Chandelier",
+      "hosts": {
+        "A": {
+          "name": "Bram",
+          "persona": "warm, boisterous, fluent but imprecise; the storyteller who relives the best moments with relish and happily embellishes. Talks in long, rolling run-on sentences that pile clause on clause; makes big sweeping claims he then has to walk back; reliably gets a name, number, or detail wrong and gets corrected (usually by Maeve); now and then runs clean out of sentence and lands on a shrug like \"you... you had to be there.\" Drives the recap forward and overshoots"
+        },
+        "B": {
+          "name": "Maeve",
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+        },
+        "C": {
+          "name": "Nell",
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
+        }
+      },
+      "synopsis": "A special episode: the theory roundtable is back. The hosts answer for their last predictions, dig into the Astra's deepest mysteries with everything that has happened since, and lock in three new predictions each.",
+      "durationMs": 0,
+      "hasAudio": false,
+      "hasTranscript": false,
+      "audioVersion": "",
+      "transcript": [
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So with no session to recap, and with several of our old predictions sitting in the corner pretending they have not been watching us, I think we begin where every great act of accountability begins, which is with me being extremely right for approximately four seconds and then much less right."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Your one-spike prediction. Forty percent, you said. Argyle fired, the spike cannot miss a divine target at that range, and for one beautiful moment you looked prophetic."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And then Josh talked about killing Esoterica as something still ahead and set up a fight. I do want my little ribbon first, though: the timelines were the lock. They found the surviving helm, got Oliver Day out of the year one-twelve shelter for the heat-shielding rite, and used the copy with the straight drop. The spike was only the last turn of the key."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, yes, your lock has been polished and hung in the hallway, and my poor one-shot god-killing theory is lying under it, but I am walking that back without shame because there is a difference between cannot miss and cannot survive, and we have absolutely no idea what that spike actually did to him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We do know what they saw. Golden light, three heads, six arms, an implement of magic in each hand, and a chain wrapped around him with an anchor driven into his centre. The first Thessian body they have properly seen, and it is not a person standing in a room. It is an installation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Seven arms, three heads, an anchor, the whole terrible chandelier."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Six arms."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Six arms. I gave him an extra implement because he looked like the sort of man who would have a spare."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, but the part I cannot stop looking at is Oliver saying the dive is one-way and the way back out is to kill whatever is making that energy. That is not just a dramatic entrance. That is the room telling them its exit condition before they enter it. They cannot retreat through the barrier, they cannot wait for somebody to open the door, and whatever the spike did, the room still has a problem they have to solve."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And Josh dangling what they could learn if they kill Esoterica after the shot matters more to me than the fact that there is initiative music in my imagination. A wounded god is still a fight. A dead god whose office has not fallen down yet could also be a fight, but that is my wilder furniture, not the first read."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My first read is now terribly sensible, which should worry everyone: the spike hurt him, perhaps catastrophically, and they have to finish killing a three-day-old god while he is still deciding which of his six favourite spells to use. Three days ascended, in his own time, with decades of wreck turning around him. That is the only reason I can see this party walking out, because otherwise they have brought a revolver to an ontology."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I agree that three days matters, but I would not assume it means weak in the simple sense. It could mean he has full power and almost no practice being a person with it. He might be terrifyingly strong and make mistakes a seasoned god never would. That is much more interesting than finding out the health bar was smaller than advertised, and I mean that as story health, not numbers, before anyone looks at me."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Fair. He is fourth generation too. Sedecium calls that generation the closest to sane, not the closest to harmless. Gremory may be the most capable of having an actual conversation in that room, right up until the conversation turns into six kinds of magic."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which brings me to the anchor, because I have fallen in love with the anchor, and I want it stated plainly that nothing has told us who put it there. Sedecium rammed him, the mission was to contain him, and the Hesperid has been his cage ever since, so of course the chain is the ship's containment made flesh, or made divine, or made... you know, chain."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I like that more than the chain being decorative. It would explain why he never simply went and ate the castaways. The chain does not check him now, whatever that means in practice, but it may still pin him to the engine room. If the anchor carries Sedecium's sixteen-pointed star, Bram gets to be unbearable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And if the party breaks it because it looks like the boss's weakness, and that lets him leave the room? Because that is exactly the sort of helpful thing players do in a prison. Oh no. I want the anchor to be holding him and hurting him at the same time, so removing it is both necessary and awful."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes, that is a good horrible choice. Kill the chained god while he is diminished, or free the wounded god to stop the engine killing everyone. I can see Josh enjoying either."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then there is my vacancy, which has not been tested at all, thank you, so nobody bury it beside the one-shot. On Ushas, Samael killed Ruin with holy gold and Dorcan took up Ruin's mantle. We know a divine office can be left lying around after a golden needle does its work. Esoterica is magic itself now, or the Pact's piece of it, and I do not think magic politely evaporates because Argyle had a good afternoon."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The distinction is that Ruin was a higher kind, and Gremory is a Thessian. The precedent is real; applying it here is the leap. But I am not dismissing it. Thessians exist by holding information densely enough to remain themselves. If you rupture that, all the structure has to go somewhere. It might disperse, it might seek the nearest suitable vessel, and it might regard the weapon that killed it as a wonderfully dense little handle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The cost might not be the bullet. It might be the vacancy. I still like that so much, and The End being the thing that catches the office would be nastier than it simply jumping into Argyle. Then the gun becomes more dangerous every time they use it, which is exactly what a weapon with sixteen god-killing spikes should be."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You see, that is why we keep you, because you take my nice theory and give it a loaded chamber."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Before we load anything else, my old prediction stands: killing him need not collapse the six-fold wreck. One castaway openly wondered whether there is one Gremory in six copies or six Gremories. Even if there is one, his beat may be what turns the copies, not what holds them together. The beat stops. The ship is still folded."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is my answer to anyone thinking Nell's lock means Nell thinks killing him finishes the puzzle. The timelines got them to the shot. They may also be the way out after the shot. Find the copy where the door exists, or where the barrier was never raised, or where the engine has already torn itself apart. The maze does not become a corridor just because the middle is dead."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And all three heads saying welcome, heroes, which I am deliberately not making into a whole cathedral yet, because either he knows exactly who is coming and what the Menhir made them, or he is an ancient golden nightmare with good manners, and those are very different sizes of cathedral."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We will come back to heroes with the Narrative. The Judge urging Argyle on is not a promise either. Josh said as much: the augury pointed toward the outcome the Judge wanted, not necessarily the outcome Argyle wants. A dead Esoterica could suit the Judge and still ruin everyone standing beside the body."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So my landing spot is: wounded, sealed in, anchor matters, timelines still matter. Bram's is wounded, anchor definitely Sedecium, vacancy hunts someone. Maeve?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Wounded, probably contained by the ship, and the wreck outlives him. Also, nobody touch the glowing chain until the person who sees magic has had a very long look at it, which means they will touch it immediately."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They will have Anzu lick it psychically."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Speaking of glowing things, can we do the blue liquid now, because it is in the hall outside that engine room, it is under Teller's Run, it is in Lifeline, and Galzu is floating in a cousin of it, and last time I said asking Vestira was the cheapest question on the board and it actually was?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You called that one cleanly. No grand expedition. Ask the engineer what her ship puts in its pipes. Synthetic Godblood. Bought at fuel depots. Not made by Sedecium, and not drawn from a god, whatever the name suggests."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And it dissolved their extremely clever makeshift shield, because the universe has no respect for a bit of improvised engineering, but the important thing is that she did not say your blue liquid is Godblood. She gave them the Hesperid version, and Josh told them it would not be surprising if it were at least a close cousin. Those are two separate statements, and I am holding them apart with both hands before I run off."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Look at you, being careful."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I can be careful. I choose not to be for long stretches because it makes less television."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What we have in Hallia is liquid running like veins through the Embercall's machines, through the fracture pillars, and through the compound's vats. A more dilute form was in the Sable and Suns firearms and throughout Lifeline's hospital. Lifeline's sleepers were joined to their Heart in a closed circuit with it for centuries. Study said it holds magic and stores a very complicated body of information, because at bottom energy and information are not different things."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Thessians are coherent because they hold a high local density of information. So this stuff is either god food, god scaffolding, god blood, or a recording medium that can accidentally become all three. Sorry, that was four questions pretending to be a statement."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It was a good statement. My working version is that it is a medium for accumulating structure. Lifeline was not merely keeping bodies asleep. It was keeping a circuit of power and instruction alive. The Embercall was not merely powering pumps. It was feeding enough patterned energy into a harmony to make the firmament answer."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Sedecium has industrialised something in the same family and called it Godblood, which could mean the name is a historical souvenir and Faerrin's version is the original article. Perhaps someone once did have a god to bleed, perhaps it was Nox or the Deep or one of the other unfortunates, and the synthetic fuel is the respectable commercial copy of an older, much less respectable process."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The noxblood and deepblood precedent is real: substances drawn from Thessian bodies on Althane carried power. But Vestira's synthetic fuel cuts against any simple all Godblood is harvested gods theory. I would want a sample from Teller's Run or Lifeline put in front of her before I claimed a shared maker."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes! Another cheapest question. They have access to Sedecium survivors and a research lab, and they know how to describe the liquid. Does it react the same way? Does it burn the same way? Can Godblood store a person, or only a spell? Also, if it stores information, what is written in the fuel? Is fuel just information that nobody has bothered to read?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That last question is horrifying and I would like it printed on the research lab door."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The research lab may also answer why the Hesperid's orders were contain Gremory first, locate the entity second. Not kill. Contain. The log followed Gremory for nearly three years, and Josh hinted the posture changed as they closed, but the original directive is still sitting there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So here is my ugly little read: Sedecium wanted the body. They hunt Thessians, they know what Thessians are made of, they run ships on bottled information, and contain is what you write when capture sounds like something the crew might mutiny over. Then the ram happened, the containment became a crash, and Gremory ascended inside their engine."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It could also be the sensible order for a ship that knows it cannot kill him. Holy gold is rare. A crew with no needle does not get told to kill a Thessian; it gets told to hold him until somebody who can arrives. I think your harvest reading is possible, not established."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But the second objective might tell us why they were anywhere near him at all. The entity's leads took them to a station that detected a burst near the centre of the Astra, and their map put Faerrin just off a very bright spot at the exact centre. We said the wiki names the entity as T three C last time, and I nodded like that was a person I knew. It is not. Who is T three C?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "One of Sedecium's founders from Risk of Ruin. A warforged seeker, with Zugg, Rotok and Dorcan. Later, on Althane in Deep Eyes, he was the Broker, running the Network. He took up an Echo Fragment and became something godlike that records cannot retain. Sedecium has followed his traces for its whole history without knowing what it is following."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the entity is not necessarily broadcasting instructions. It could be the hole T three C leaves behind him, and Sedecium has built a way to follow the hole. Weapons, lost systems, new allies, all the places where the pattern of missing information points. Is that right?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Exactly, he is a memo that has eaten the memo, and they have made a religion out of reading the empty space, and he hunted Echo Fragments against the Narrative's will, which is why I think the trail at the centre is pointing toward the third fragment. One was on Althane, one is held by Torment, and the third is meant to be near the Astra's centre. The station sees a burst. Faerrin is almost sitting on the bright spot. That is not proof, but it is a lovely direction to point a warship."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I had a cleaner version for a moment: what if the burst was the Voidsong beginning? Except no. The Hesperid crashed decades before the song was first heard in eight fifty-eight A G, a little before the Night of the Midnight Sun. The burst cannot simply be the first dream reaching Calaria. That was me forcing two pretty ideas onto the same hook."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could it still be the same source waking up earlier, though? The song reaching people in eight fifty-eight does not have to be the moment the source first did anything. The singer could have sent one enormous pulse, drawn Sedecium, gone quiet for decades, and then started appearing in dreams."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes, that rescues the connection without rescuing my dates. The burst could be an earlier event at the source, not the public beginning of the song."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or T three C found the fragment, the fragment burped, and Sedecium followed the burp, which is less elegant but has the advantage of being exactly the sort of cosmic indignity this setting runs on."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What about the survivors being Zugg clones? Josh said there was a non-zero chance one or all four could be Zugg, and I cannot tell whether that is a real clue or just Josh opening a door and laughing behind it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Both. Zugg's runaway clones are established history, so the joke is possible in-world. It is not evidence about Vestira, Slade, Pella or Oliver. I am putting it on the shelf until one of them does something alarmingly Zugg-shaped."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I have already built a little summer house on it, but I will agree not to move in."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, where does Vestira's wick explanation fit? She said Faerrin's Infinite Horizon is a physical form of the wick, and spellcasting moves the point in configuration space. So the Horizon copies, the six Hesperids, and ordinary magic are kin. Could the burst near the centre be somebody moving the whole point? Could Godblood be how Sedecium keeps a ship coherent while that happens?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is a better use of her warning than trying to make every anomaly the same anomaly. She thought peopling other parts of the Horizon was frankly ludicrous, which means this is not standard Sedecium physics to her. Faerrin has made something normally abstract into geography. The Hesperid crashing here may have subjected it to a local rule its designers never anticipated."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Gremory did not invent six-fold time so much as trip over Faerrin's floorboards and ascend through them. I like that. It also means killing him might leave the local rule perfectly intact, which brings Maeve's wreck prediction back around wearing my little ribbon."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And it makes the Pact stranger, because six Thessians are trying to enter the one sphere where reality is already doing impossible geography. Are they here because it is rich, because it is weird, or because the centre is here?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Probably rich first. Vestira's own guess was that Faerrin has an unusually large supply of higher kind. Then you have the clean-slate promise from Tywelwyn's Heart, and the ordinary Thessian habit of draining spheres until everything living dies. I do not think the clean slate is a poetic renovation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, eternal fire, torment, clean slate is not a three-step wellness programme, and now we know the recruitment pamphlet too: Pyre, Herald and Giant from the old set, with Gremory, Astaroth and Paimon newly risen as Esoterica, War and Regent. Sedecium did not even know those last three names under their new titles, which means the Pact is not six ancient friends who have always had a clubhouse. It is growing."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Astaroth and Paimon are new to me. They are just Sedecium's old names for War and Regent?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Newly ascended fourth-generation Thessians, like Gremory. Beyond that, their old histories have not come into these sessions. The important thing is that three of Faerrin's six attackers are recent additions, not part of Sedecium's original known set."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That makes the Pact look like a ladder. The old ones get a feeding ground, the new ones get enough power to climb, and Faerrin's unusually crowded gods are the meal. Does that require treating the six Outer Gods as higher kind? Yes. But something drew Gremory here before he ascended, and contain was worth a three-year chase."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And if the young ones are here to climb, perhaps they are not loyal colleagues so much as three men at a buffet who have agreed to share a taxi. The Pact can have internal seams. War uses devils, Herald plants sleepers, Pyre buys gangs, Giant is stuck at the end of everything, and Esoterica has been chained in a wreck for seventy years while his own three-day ascent happens in the middle. That is not a tidy command structure."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu's vision made them look tidy, though: six beings standing over the world like makers looking down at a model. Ownership, authorship, or at least appetite. And the yellow city was behind them. I would not turn their different methods into evidence of a schism yet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The six iron doors were very tidy too. Pyre's bedroom, Herald's armoury, Giant's dish plant, War's office, Esoterica's haberdashery, Regent's orrery. Each one had infrastructure, not just a portrait. That reads to me like six portfolios being given earthly workshops. They do not have to like each other to divide the work."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which leaves the number six doing its little dance, because there are six gods, six doors, six ship copies, and Iomenei's legs froze for six seconds back in Interred in Iomenei, and Faerrin has no Thessian magic number yet, though the wiki says that may be changing. Ushas got sixteen, Althane twelve, the Sundom three. Perhaps six is the new paint being rolled onto the world."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is a pattern worth watching and a weak place to put a first-generation patron. The six copies could come from the Pact's own symbolism. The six-second freeze could be a flourish. If six starts appearing where the Pact is not already controlling the imagery, I will become much more interested."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Torment remains a trampoline. Fun to bounce on, no house built on it. One Echo Fragment is held by something called Torment, and torment was the Pact's second promised blessing, and that is all we have. I refuse to pretend it is more, even though I desperately want Torment to be the first-generation Thessian standing behind the whole table."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Thank you. I wrote trampoline in my notes last time and had no idea what to do with it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Giant gives us a firmer piece of old worship. The shrine beneath Hallia has the same mismatched horns as Giant's door: one ground flat, one sharp. Thousands of tiny people crawl over the seated figure, matching the trampled crowd. It has accumulated prayer, and it resonated with Anzu out of key with the Voidsong. That is older and stranger than an Embercall research project."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So who was praying to a two-mile-tall robed prisoner under Hallia before the pumps arrived? Was Giant once here, not outside? Was the shrine built to call him, to keep him asleep, or to apologise to him? Because the tiny people could be worshippers, but they could also be the things he is sitting on, and those are very different churches."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I think the shrine is for him, not necessarily by people who wanted him released. Accumulated prayer only tells us somebody kept doing religion there. The out-of-key resonance is the part I want explained. It answered the song but shifted, as though Giant's version belongs to the same family with one piece moved."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Aut said the same maker who built the firmament holds Giant and the Outer Gods out. The first crack came from outside before Aurelia widened it. So the wall was not built around an already magical world as a church fence. Magic arrived through damage. Could the firmament be a prison wall for Faerrin as much as a shield around it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. We keep saying, keep the Pact out because that is our immediate problem, but the Accord's Far Realms are full of outsiders trying to get in and take what is inside. There is something in Faerrin worth walling off. The maker and the reason are still blank."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Aut puts Giant around star three million, which is suspiciously close to where a certain bloodied helm log starts, so shall we walk the strider home before we lose the thread?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes, but Vocalist first, because Giant's shrine answered it and I have been holding the yellow city in my mouth for ten minutes. The dream has a singer whose face slips away, a riverbank, twin suns, and a city across the water. Anzu later sees yellow roofs and impossible architecture behind the six. The song passes through the firmament untouched, Aut cannot predict listeners, and it is quietest when the Providence is flung far starward. That is a lot of different kinds of clue pointing at one person."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Or one person and one instrument. I think we keep collapsing them. The Protectorate's answer through Yao is that the true Aurelia is trapped far out on the Horizon, unable to reincarnate, singing for rescue. Aurelia the Seventh arriving without the customary revelation is their evidence that the cycle on Faerrin is wrong. That explains the plea and the direction. It does not, by itself, explain why nobody can remember the singer's face."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Enter the sandwich, and before anyone groans, it has acquired fresh filling. An Echo Fragment gives godly power and blanket anonymity. T three C was torn out of every record by one. The third is meant to be near the centre, Sedecium followed T three C's trail to an energy burst near the centre, and Faerrin is beside the bright spot. So the true Aurelia, holding or held by that fragment, sings from a yellow city derived from Old Thessia, and I said sixty-five percent last time and I am more comfortable there now."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You are more comfortable because three separate theories still get to share your coat."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It is a warm coat."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What exactly was the City of Yellow in Deep Eyes? I know it is important when everyone says yellow like that, but I only have the name."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Deep's seat on Althane: a hill of yellow buildings ringed by cloud. The Weft destroyed the Deep there. The Thessians' history treats that city as a copy of one from Old Thessia. So the yellow city in Anzu's dream is not just a colour match. It may be a memory of the Thessians' lost home."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Formless was Old Thessia's higher kind, the one that gave up its name and form so a few people could survive and become Thessians. The Echo Fragments are links back to Formless. So if the singer has a fragment, the yellow city could be what Formless remembers, not where Aurelia physically is. Could the city be the shape the song takes when it reaches a Thessian-adjacent mind?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. That is the version I find most attractive. Aurelia is the person in trouble. The fragment is what makes her unknowable and lets the call cross the wall. Old Thessia is the architecture supplied by the fragment. Three sources, one experience. Not necessarily three beings stacked in a trench coat."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You have described the sandwich with more steps and called it a plate."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I have described a mechanism. Your sandwich just sits there being delicious."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, though: if the core fragment explains the map, why does the song get quieter starward? Does the Astra map direction correspond to Horizon direction? Because if it does not, the bright centre and the voidward source are two separate locations, and we cannot use one as proof of the other."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We cannot. That is the strongest check on Bram's new confidence. Færrin being near the core in Sedecium's spiral does not tell us where a signal travels along Færrin's copies. The starward quiet points voidward on the Horizon. The fragment clue points near the Astra's centre. They only become the same clue if we prove the source sits in both relationships."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Agreed, and I am keeping them tied together with string rather than welding them. But the face is the thing I cannot get around. The Protectorate can tell me why Aurelia sings. It cannot tell me why my mind loses her chin before it has finished seeing her."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could the anonymity be defensive rather than inherent? If Aut can foresee everything except listeners, perhaps the song is deliberately cutting people out of the Narrative's sight. An Echo Fragment would do that as a side effect, but a singer could also be using it on purpose. Every listener becomes a person the Writer cannot write around."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And that makes the song look benevolent if you are hiding from Aut, and extremely dangerous if you think a story needs a Writer. Which brings us to bait. Nothing has shown the singer means harm, but the Harlequins gathered hundreds of listeners and used them to steer. Embercall's plans also wanted many listeners. Whether or not the singer asked for those plans, somebody understands that a crowd of listeners is useful."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My darkest version is that rescue requires an audience. Not because she wants to eat them, but because she cannot be pulled back into the world unless enough people remember someone whose face cannot be remembered. The call is honest, and the cost is still dreadful. I prefer that to the singer simply being a large anglerfish with a lovely voice."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I like honest call, dangerous method. It also explains why factions with completely different goals can all use the same listeners badly. The song does not have to be evil for everyone responding to it to build a trap."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "So I land on Aurelia plus an anonymising power, with the yellow city as Old Thessia's memory. Bram lands on the same thing and calls it lunch. Nell?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Honest distress call, unknown mechanism, and the crowd is part of the mechanism. Also, the party should not destroy the source just because Aut described that as their plan. That man does not get to write the objective."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which takes us neatly back to the object they were actually riding, because the Providence was an audience with legs, and it turns out it had legs long before the Harlequins gave it a coat of paint."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The wiki now joins the two Providences explicitly. The Harlequins built their pilgrimage strider on the hull of an older one found adrift. That older strider was the Accord's war machine from the Eddic Crusade, also called Providence, last seen walking through planes ever farther from home."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, the Accord. Who exactly are they, beyond people with a very good claim to sue the party?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Champions raised during Aurelia the First's forty-year holy war, trained to serve all six of her companions' patrons at once. Their raiments shifted through six colours, the churches decided that was impure after the war, and the new powers drove them out of Færrin. They eventually crossed the firmament through a mysterious threshold on a one-way deal. Now their descendants hold the First Bastion in the Far Realms and fight outsiders trying to pry open the wall."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And they went there looking for their missing city on legs and never found it, which is the bit that keeps kicking my walked home theory in the shin, because Kadou's alloy test says the strider had stood on this very world before, and the helm log starts seven years ago at star three million, one hundred and—"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Star three thousand four hundred fifteen, six hundred twelve."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That one. It counts down in entries about six months apart until it reaches Færrin prime six months ago. So something came home from the far starward end over seven years, and when the voidward engine backfired, the strider did not simply get thrown to a random dead world. It snapped back along a route its own bones remembered. It walked home, and then it walked home backwards, and you... you know what I mean."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I do, and I think it is still your best theory. But there are two separate claims in it. The log could be the strider's own journey, or the helm could have been tracking something else approaching prime. The alloy could mean the whole strider stood here, or a piece of its hull came from material exposed here. Neither destroys the read; they just decide how literally the route belongs to the Providence."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Accord never finding it is not fatal either. It may have stood here before they arrived or after their search moved elsewhere. But that is timing we invented to reconcile the clues, not timing the story gave us. I want Accord marks in the oldest decks or the Machine God saying their name before I treat the reunion as ordained."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The Machine God already called the old strider a trap that was never sprung, and he remembers Herald's true kin creeping aboard seven hundred years ago, so he is not just an engine with opinions. He is the surviving witness. Johnny woke him with diplomacy, they made an alliance, and somehow nobody has sat him down with the complete family album and asked who built him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is the next cheapest question! Not what year is the ship, not can we reverse the polarity, just: Machine God, who were your first crew, and what was the trap supposed to catch? He may not know the Harlequins' plan, but he should know whether the shrine downstairs was his chapel."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The shrine predates the church imagery of Aurelia the Second. It shows Aurelia the First's original party. That makes it a very good candidate for an Accord chapel from the Crusade, though later Herald worshippers could also have preserved an old space. And the field at Ragged Roost that made every divine raiment indistinguishable has two plausible authors now. Harlequin anonymity for a masked gathering, or an old Accord system built for people who wore all six powers at once."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, I love the field being old Accord technology. Not because it proves anything yet, but because the players saw it before they knew the Accord existed. That is exactly how you seed a reveal so it feels like the world was already there. And if the Accord see the Providence moving now, this is not just an archaeological claim. They cannot go home. The party is riding the one machine that might be able to walk back to prime."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, everybody keeps saying fight the Accord, and I think the first fight is going to be over the word ours. They look up and see their lost war machine crawling across the waste full of Belvedere academics, church soldiers, gangsters, Graysons, four bewildered heroes and a polar bear who is not currently with them, and I do not imagine they send a fruit basket."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Arctos would appreciate being counted among the bewildered heroes, wherever he is. But yes. The Accord may be the party's best allies against Sedecium, against the Pact, or against other interlopers. They may also decide that rescuing the strider means removing everyone currently standing on it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Would they count Sedecium as interlopers? The Accord fight people from beyond the firmament who come to pry it open. Sedecium is from beyond it, but the Hesperid was containing a Thessian, not opening Færrin. If the Accord cannot tell the difference, the party has three castaways who could be perfect witnesses and instead become hostages. If they can tell the difference, Sedecium just gained a whole local military as potential allies."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And the party is standing between those groups with a god-killing gun and a walking city. That is a much better use of the next arc than simply finding another monster in the waste."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The mysterious threshold is Petr, by the way. I am saying that with the relaxed confidence of a man whose entire evidence is that the Accord met a threshold and Petr is the Threshold, and I understand how it sounds."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It sounds like a guess worth keeping small. If their oldest stories describe a door-like figure who struck the bargain, it grows. Until then, a threshold can be a place, a device, a person, or a favour."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the pilgrimage itself was still War's engine even if the hull was Accord. Grayson said the Harlequins did it for War. They rounded up roughly four hundred listeners, took twenty keystone holders aboard, tithed every Heart, and used listeners to steer. So who inherited the trap? Was the Accord's original machine built for something benign, Herald's sleepers repurposed it, and then War's Harlequins repurposed it again?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is my preferred shape. Three owners, three purposes. The trap that never sprung may not be the pilgrimage at all. The Harlequins may have switched on an old mechanism without understanding what it was meant to do."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which would be extremely on brand for everyone aboard, including my beloved party, who responded to an ancient walking city by forming a neighbourhood association and harvesting the neighbours."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It worked, though. The coalition survived the tithes because they treated factions like people instead of waiting for the Master to tell them the rules. And now moving the city is not just getting home. It is the Galzu clock. Can we please do her before I start asking about every First Bastion weapon?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We will get to the Bastion if the story goes there. Galzu first."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My three-part prediction from last time is untouched: the Providence walks before she becomes unreachable, moving weakens the Herald enough for Anzu to enter her mind, and the stolen green stone is the price or key of her recruitment. They have brought back enough phlogiston to make the first part feel less ridiculous, but they have not walked and they have not visited her, so I get no points for sitting near the right answer."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And my tank prediction is untouched too, but the Godblood answer gives it a better foundation. Lifeline's sleepers were not just immersed in power. The liquid stored complex information in a closed circuit with the Heart. Galzu's suspension chamber increases her power. If that circuit is still feeding her Herald-patterned information, then putting her in the tank may have preserved her body while reinforcing the thing they need to remove."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "With the caution that Lifeline's liquid and Sedecium fuel are only cousins so far. But yes, your save-data image has a mechanism now. The tank could be refreshing the instructions every time Anzu approaches her mind. The centipedes are not only a wall; they may be a process that keeps being written back."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Galzu is lying in save data, but the save data has an opinion, which is worse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What we know about why she is there is still painfully thin. Adal described a reform group before she vanished. She disappeared the night a newly appeared twelve-sided green stone, floating in a golden case and ringing like the Voidsong, was stolen from a Belvedere archive. Her grandmother was near the site that night. Egan places her among a later, more fervent group of Herald followers who had received more gifts."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The golden case is why everyone thinks keystone, right? Because the party's own keystone floated in that kind of presentation, and Belvedere connected the stolen stone to their hunt. But a resemblance is not an identification. If it was a keystone, Galzu could have stolen a berth for the Singers. If it was not, both Herald's people and Atum wanting it suggests it does something much older."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and I am going to plant my flag on the idea that it is both, because why have one mystery when you can make the same green rock open two doors? It gets the Herald's people aboard, and it contains a piece of old Heart construction, which is why Atum sends Benny looking for it. A keystone is a divine spark being asked to make a place, after all. Atum is a shackled Heart who wants to become an old one. That is not proof, but it is a very attractive shape."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is attractive, and it may be too neat. Atum's explicit order about the Machine God was to extract information about its construction. He knows he was made by the newer restrictive process and is just barely too young to be an old Heart. He has wanted to rectify that for a long time. The green stone assignment came before Benny reported the Machine God, so it could be an earlier step in the same project or a completely different Belvedere concern."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Atum is Benny's father in the sense that he made him, and a Heart of Belvedere, and Benny is one of many children who can take different shapes, some of whom have gone rogue. I have that right. What unsettles me is that Atum talks to Benny in forecasts. Performing as expected. Outcomes deviating, but not enough to be concerning. That is not just a dad wanting a souvenir. He has modelled Benny's path."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He has modelled my beautiful nine-year-old android son like a weather front, and I do not care for it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. And Benny may eventually have to choose between the father who made him and the old Heart who allied with them and revived Johnny. Atum wanting knowledge is not automatically villainous. Atum expecting Benny to obtain it regardless of the Machine God's wishes would be a very different conversation."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could Galzu's green stone be the thing Atum forecast rather than the Machine God? He sends Benny after one object, then the pilgrimage accidentally delivers a much better source. His model updates. Now Benny's entire journey is inside the new expected outcome."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Possible. And it makes the stone personal to both siblings without making Anzu and Benny's stories the same story."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Meanwhile Galzu was doing two very specific jobs aboard: pouring magic into Tali to revive the dead timekeeper Heart, and earlier attempting a rite in the Chapel of the Six to bind a celestial into a mortal body, which left the Aetherhost behind when it was cut short. Those do not automatically become one plan just because she did them, but I think they do. I think Herald was building a vessel and a clock."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A vessel for Herald? Or a vessel like Argyle, where the binding is itself useful? And was Galzu supposed to be the mortal body? Because if she was empowering the rite and also meant to be its subject, that tells us something awful about what reform meant to her. She might have volunteered to be changed."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She might. Argyle is the obvious model they know: a celestial bound into a demon-spawn's body as punishment. But nothing names Galzu's intended celestial or vessel. The safer theory is that Herald's cult was practising incarnation. The bolder one is that Galzu was preparing herself to carry something. Reviving Tali may simply have been separate infrastructure: restore the strider's timekeeper so the cult could control where or when it arrived."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now she is in a Lifeline pod getting stronger, with three or four weeks before she becomes too powerful for them to reach, while Egan said the Herald's grip loosened when the strider moved and he could surface as himself. That is why moving remains the centre of the rescue. Not because walking magically cures bird sisters, but because Herald's hold has a condition attached to the voyage."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So my sequence is move, remove her from the circuit, then dive. Not dive while she is still suspended and hope the walking debuff handles it. I almost said debuff. You know what I mean. And bring Egan, because he has been on both sides of a song replacement. Anzu overwrote the Herald's song with the Vocalist's in him, which freed him and also created an entirely new trust problem."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. They did not cleanse Egan. They changed what he could hear. If they do the same to Galzu without understanding the Vocalist, they may rescue Anzu's sister into someone else's choir."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is the part Anzu is going to hate us for saying, and it is also the part that makes it a real rescue instead of a key turning in a lock. He may have to accept that the woman who comes back is not simply the sister who left, because she chose something before the Herald ever took her choices away."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And the grandmother clue stays small for me. She was near the break-in. That could mean accomplice, victim, witness, or coincidence. I am not ready to make her the family's Herald recruiter on one location."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Agreed, but ask her what the stone sounded like. If it rang like the Voidsong to her too, then the family connection matters even if she is innocent."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "See, this is why you are going to be more invested than either of us by the end of the night. You have already assigned homework to a grandmother we have never met."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I have assigned homework to everyone. The Machine God has homework. Vestira has homework. Atum has a parent-teacher conference."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Good. Aut can sit outside until he learns to behave."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Ah, Aut, who has gone from mysterious patron to man outside the school with a matches, and whose break with the party happened before Argyle shot the Menhir. That ordering matters. He did not leave because they killed his sibling. He left because they went behind his back to the Menhir instead of letting him own their next move."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Menhir's death is still the larger event. It felt like a deliberate stake after the fact: a weary archetype seeing that these four might make a real change and putting everything on them. It gave them The End, Argyle fired into one stone, and the whole ring died. The engine backfired, the Harlequins were wiped out, and every surviving sibling felt the Heroes vanish."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Maeve, your prediction was that at least one sibling would treat them as the Heroes rather than only as its killers. No sibling has appeared since, so it has not been tested. Esoterica calling them heroes is not your test, but it is absolutely the sort of echo a GM puts in the room if the role has started to stick."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It is also the sort of echo a GM puts there because it sounds wonderful before somebody gets shot in the face. I am allowing both."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "As am I. But the structure supports you, Nell. A mentor gives the weapon, dies by the weapon, and the enemy greets the students by the mentor's title. On Ushas a mantle could pass after a holy-gold death. The leap is that a Narrative role works the same way. The Menhir may not have merely bet on them. It may have spent itself to make them the Heroes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the four people casting twelve shadows could be the role being bigger than the party. Last time Bram said eight additional shadows are suspicious, which remains excellent accounting. Could they be future allies? Could they be the other roles gathering behind them? Could twelve be Althane's number and therefore a Thessian mark? I do not know, but I do not think twelve shadows is set dressing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It might be the entire coalition standing behind them in the story, which would be lovely, or eight more Argyle halves, which would be a disaster for the tailoring budget."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The vision also put five figures between the party and the Pharos: the Menhir, Aut, Renge, Petr and Insuperlex. With the Menhir gone, that leaves four. If the vision was a promise, the remaining siblings are not merely watching from a comfortable distance. They are obstacles on the only road to the Godhome."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Insuperlex is the one I would worry about first, because the wiki says the Menhir checked him and that check is gone. He had already visited the strider and spoken to someone unknown. The twins noticed his interest before the Menhir died. So the Mountain has a contact, and now the Mountain has no counterweight."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Verdant Holdings was sabotaged that same night, not tithed, which means obviously the contact was the saboteur, except obviously is doing an enormous amount of unpaid labour in that sentence. It could be Silven, because Silven always looks as though he has just come from a meeting. It could be someone in the coalition. It could be a Harlequin. It could be the most reasonable person aboard, because the Mountain would know that is who we never suspect."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Timing is enough to investigate, not enough to convict. But Insuperlex's likely answer to the party becoming Heroes is tests. Not necessarily assassins. Obstacles that get heavier because they overcome them. A story in which the Mountain keeps raising the slope until the Heroes are worthy or buried."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is such a good awful counterpart to Aut. Aut writes outcomes. Insuperlex makes the path harder. Renge changes chance. Petr controls crossings. If the party inherited the Heroes, each sibling can object in a completely different genre."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And Aut's immediate lever is still sight. He knows everything except the Voidsong. He asked them to leave a cabin door unlocked aboard and to draw his three dots where they found its source. One errand gets him access to the voyage. The other gets his sign planted at the one place he cannot see. Whether he wants to destroy the source or merely include it in his story, he first needs to reach it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He also talked about blowing it up as though that were obviously their plan, and praised heroes blowing things up with Raelion sitting right there in the subtext, so I do not think his ideal ending is the party arriving and having a sensitive conversation with the singer. I think he wants a catastrophe he can write around, and the song is intolerable because every person who hears it steps off his page."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But if he simply wanted it destroyed, why not give them a bomb instead of a marking errand? The unlocked door and dots suggest he needs observation before he can act. He may not know what destroying it would do. He only knows he cannot tolerate a major force he cannot predict."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. Do not confuse his preferred ending with his current capability. And the searing of Johnny and Benny's marks did not say the marks were removed. Pain is not erasure. Arctos, who asked for the mark himself, is back in Hallia and was not part of that break aboard the strider."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There she is, my old eighty-five percent prediction, still sitting quietly with its hands folded: the marks remain usable, and Aut approaches Arctos before he openly attacks the party."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It remains my read, with a fresh reason. Johnny and Benny are far off the atlas and surrounded by events even Aut did not script. Arctos is accessible, emotionally invested, and already volunteered once. If Aut wants a lever near the party's home and allies, Arctos is much easier than writing a war across the Horizon."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does Arctos know the party went to the Menhir? Does he know Aut burned the others? Because if he does not, Aut can arrive as the patron who helped them before and ask for something tiny. That is how it starts. Not serve me against your friends. Just tell me whether they come home."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, that is horrible, because Arctos would quite reasonably tell an old friend whether his friends were safe, and then the three dots are on the door and nobody thinks they have done anything wrong."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. That is much more Aut than a threatening cloud."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can we pull one more thread before Johnny, because Argyle's missing half is both a devil story and possibly an Aut story? Aut said he had met half of Argyle, and Argyle only remembered that half-second passing him on the way into the Pharos. Which half did Aut meet? Could he know where the other one went?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He could. The wording does not tell us. Argyle's death vision had iron shackles with red runes pulling one side down and gold pulling the other up. Only the celestial returned, in the same body. The demon-spawn went voidward, and Dame Quay expected the pilgrimage to bring them together, while warning that the old binding would not work after the way they separated."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now the party has gone spectacularly starward, so either Dame Quay was wrong, or the pilgrimage still routes through wherever he is, or the other half has also had an extremely strange few months and is about to walk out of the Far Realms wearing Argyle's face. I prefer the third because it is the one that makes everyone at the table put their head in their hands."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Tell me the family tree again without assuming I know any of these people. Sigzil Haight is who, and Flintlock Toboggan is who?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sigzil Haight is the Shackled Prince, a fiendish child of the Judge. His demesne lies beyond the Quorum far out on the Horizon. In A Hunt of Metal and Vine, Scale operatives freed his Heart, the Voice of Many, which now serves the Scale. Flintlock Toboggan is a fiend chained in that Quorum; Argyle calls him uncle. The demon Lemon Pepper is a cousin. Those relationships belong to Argyle's demon-spawn side."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the guess is that the demon-spawn's parent is Sigzil Haight, making him the Judge's grandson through the Shackled Prince. Nothing names the parent, but that would explain why this branch of the family is so close to the Quorum. And the Scale might know much more than Dame Quay was cleared to tell Argyle."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and if Sigzil is the father, then the family reunion includes a devil prince, an imprisoned uncle, a cousin called Lemon Pepper, a celestial custode, and the Judge watching from the ceiling, at which point the old binding failing is almost a mercy because nobody could find a table large enough anyway."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is a coherent guess. I would not elevate it over other children or servants of the Judge yet. But the four devil princes organising makes the timing feel deliberate. The demon half did not just wander into a neutral void. His whole side of the cosmos is changing allegiances."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The Eye woke the princes from subservience. Harlequin, Shackle, Hooded and Loam, four hands around the eye in the library. Osyluth said it was not the Voidsong to his knowledge. Grayson said the Harlequins were working for War. So is the Eye War, and the pilgrimage was the price of being woken?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is my clean read, and it is clean enough to make me suspicious. The Eye frees four devils from whatever they served, War gets a pilgrimage run by one of them, and the Master hears the Voidsong but does not know what waits at the end. That sounds like a subordinate performing a contract, not a god executing his own perfect plan."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It could also be that the Eye woke them and War subsequently hired them. We do not know the interval. And Osyluth's hedge leaves room for the Eye to be the singer, but only room. The direct testimony points away from that."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "If the Eye were the singer, the Master's motivation would be very neat: he hears the song, gathers listeners, and wants to see its source. If the Eye is War, why does the Master personally care what waits at the end? Curiosity? A way out of the contract? Or is he serving War while quietly using War's engine to answer his own question?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That last one. The Master of Ceremonies never struck me as a man who understood the whole design. He encouraged the factions to hurt one another, yes, but his stated desire was to know what awaited them. He may have been running War's harvest and riding his own question inside it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And he is wearing that burned body, or at least speaking as if the body is not necessarily him. Assuming that I am this body, no, is not an answer you give at a neighbourhood cookout unless you want everyone thinking about your body for the rest of the week."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It was a careful answer about Illmari too. Same height and build, face burned featureless, and he says Illmari is alive but it is not his story to tell. I do not think the Master is simply Illmari in a mask. I do think he knows where Illmari went on the opening night, and that his body may be borrowed."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could the burns tie the body to Pyre? That is the obvious visual connection, but it is only visual. Teller's Run, Pyre's offerings, a convert who got too close. I would need someone to identify the person, not just the damage."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, I tried to make the burns into Pyre's signature and then remembered that in this world people can be burned by a great many things, including gods, ships, bad decisions and Argyle holding a revolver."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle has only used it on the Menhir and Esoterica so far. Give him time."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The reunion theory I like best is that the Scale cannot solve it and Argyle's devil relatives can. Not necessarily kindly. If the old binding cannot work because they parted on bad terms, then a stronger ritual is not the answer. They need a new agreement, and a fiend is exactly the person who can turn an agreement into a binding."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is good. Lemon Pepper or Flintlock as the price-laden route back together. The danger is that the party asks for a ritual and the fiend supplies a contract, which are not the same thing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Argyle's other half may not want to return. Everybody keeps discussing reunion as if the missing half is luggage. He was dragged down in iron, the celestial came back in his body, and they parted on bad terms. He might have a life now, a title, friends, an extremely unpleasant uncle he actually likes. The first meeting could be awful because Argyle is the one asking to be made whole at somebody else's expense."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes. That is the personal version of the vacancy problem. Power leaves an empty place, and everybody nearby thinks they get to decide what fills it. Argyle's celestial half does not automatically get the moral high ground just because his shackles were gold."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. Especially not with the Judge urging him onward and never promising him the outcome he wants."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Well, now I am sad about Argyle, so let us be sad about Johnny in a completely different way."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Johnny is the one whose mystery feels closest to a loaded trap, because the story keeps showing us what did not save him. At Helmyster, in Tali's vignette, the Watcher seems to shield him and then fades because it was not actually present. At the later death before the Crowded Flea, he hears the Voidsong instead of the Watcher. Aut brings him back after the Flea. The Machine God revives him later. Sharp says he is not controlled but is tenuously in his own body. Every return has an answer except the first one, and now the first answer has been removed."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The bargain itself is still real as far as we know. On the Night of the Midnight Sun, the Watcher came to hear the end of Johnny's story, and the terms were that each time Johnny died he would return and tell the Watcher what he had learned about people. The vignette challenges what happened at Helmyster, but it is a memory staged inside a dying Heart's fane, alongside scenes of Aurelia. It is not neutral footage."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, Tali has curated the museum, and curators have opinions, but why is Johnny's little death in a mountain town standing beside Aurelia opening the Godhome and fighting Aurthalaxus? Because either Tali thinks it is cosmically important, or Josh thinks we need to understand that it is cosmically important, and in practical podcasting terms those are the same enormous flashing light."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Exactly. The GM chose that vignette. And then the purple flash comes after the Midnight Sun, and Helmyster is twisted and pulled into a single point instead of simply burning away. That is why my old prediction about Raelion being drawn into the void is still alive. The official history says Raelion was unmade by a bomb on a ley line. The memory shows a second event with a direction."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It shows Helmyster, to be precise. Extending that to more of Raelion is the leap. But the Compelled's silence gives the idea another edge. Donovan Hale told Johnny he had not heard from them in years. Alaster, their hierophant, was lost on that same night and no replacement has surfaced. Something happened to Raelion's god or its road back as well as its land."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who or what is Alaster in relation to Johnny? Just the Compelled's missing hierophant, not someone already connected to him?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Just that, so far. The hierophant called the Star in some readings, lost on the Night of the Midnight Sun. Johnny being shaped into the replacement is a long shot built on Raelion and timing. Nothing has marked him with the Compelled's power."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But it would be such a good insult to the Watcher. You thought you had a storyteller, and actually you have been raising somebody else's missing saint, except the Watcher was not there and the Voidsong is the thing answering at death, so possibly everybody has been raising everybody else's saint and the afterlife is mostly administrative error."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Or Johnny has never belonged to only one story. He is a bard, a Ghost of Raelion, a man with a bargain, and now a listener. The Voidsong may not cut him off from gods generally. It may simply be the first thing quick enough to catch a soul that is loosely attached and keeps falling through the same opening."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That fits Sharp better than possession. Johnny is not a puppet with somebody else's hand in him. He is a door that does not close properly. Each time he dies, whatever is nearest can reach him. The Watcher used to be nearest. Then the song was. Aut could reach him in the Black and White. The Machine God could put him back because an old Heart knows how bodies and divine sparks fit."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And if part of Raelion is out there, folded into a point, Johnny's soul may be going home every time and being sent back with another story. His next genuine death is not just who catches him. It is where he wakes up."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is your fifty-five percent prediction from last time, Nell: part of Raelion drawn into the void, and whatever receives him knowing the Voidsong. The purple flash and the Watcher's absence have not proved it, but they have given it a much clearer mechanism than it had."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes, and I am raising it slightly because of those, not because I want every mystery to connect. I do want every mystery to connect, but I am trying to be good."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You are failing beautifully."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The counterweight is Donovan. He has not heard the Compelled, but we have no reason to call him a Voidsong listener. So we cannot say the song silences gods for everyone who hears it. Johnny could be unique, Raelion could be unique, and those could still be separate silences."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. And if Johnny dies next session because of something completely unrelated, I reserve the right to be annoyed that my beautiful theory has become immediately testable."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is the spirit. Put your soul where your podcast is."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Before lightning, where have we actually landed? Not a recap of predictions, just the disagreements I would happily keep. I think Esoterica's vacancy is less likely to jump into a person than Bram does. I think the Vocalist is Aurelia using an Echo Fragment rather than Aurelia and the fragment being inseparable. And I think the Accord's first response to the Providence will be a claim, not a battle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I think the chain is more likely to matter during the fight than the vacancy is. I think Galzu's tank is actively part of the problem. And I think moving the Providence will cause the Accord to find them before they find the Accord, because a lost war machine suddenly walking across your front line is not subtle."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And I think the green stone is still being criminally under-discussed, the Eye is War until somebody gives me a better eye, and Esoterica is about to discover that being three days old is no excuse for poor manners. I also think I have used my entire annual allowance of sensible qualifications in one episode, so I need to lock in some predictions before I become reliable."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Lightning. Three each, new or newly justified, with confidence. Bram first, before he qualifies them back into soup."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "First, sixty-five percent: Esoterica survives the opening spike, and breaking the anchor during the fight frees him to act beyond the engine room before the party finally kills him."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Second, sixty percent: the Accord reach the stranded Providence before the party reaches the First Bastion, recognise the Machine God as their old Heart, and demand the strider's return rather than immediately attacking."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Third, forty percent, because I have learned nothing: Argyle's demon-spawn half is Sigzil Haight's child and appears as an envoy of the organised princes wearing Argyle's face."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "First, eighty percent with the wick and configuration-space evidence as my fresh reason: Esoterica's death stops his beat but does not unfold the six Hesperids, so the party must choose or change another timeline to escape the wreck."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Second, fifty-five percent: the Vocalist is the true Aurelia using the central Echo Fragment as the instrument of her call, while the yellow city is Old Thessia's memory supplied by that fragment rather than her physical prison."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Third, eighty percent: Aut approaches Arctos in Hallia with a small, apparently harmless request before he sends any open enemy against the party, because Arctos is his last willing marked connection to them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "First, eighty-five percent, re-locked because we now know the liquid stores information: after the Providence moves, Galzu must be removed from Lifeline's circuit and the Herald-tainted medium interrupted, or the centipedes will simply be written back before Anzu can reach her."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Second, sixty percent, raised from fifty-five because of Tali's purple flash and the absent Watcher: Johnny's next genuine death takes him to a surviving fragment of Raelion in the void, and whatever receives him there already knows the Voidsong."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Third, seventy percent: Atum eventually orders Benny to obtain the Machine God's construction secrets against the Machine God's wishes, and Benny refusing that order is the first outcome Atum failed to forecast."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Those are all extremely checkable, which feels like a design flaw. Could I have one prediction that simply says the story will become more emotionally complicated and get a hundred percent?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. You have had your three. Put the fourth one back in the long coat."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can my fourth be that one of the castaways is secretly Zugg, but only if it is Pella, because that would be the funniest possible—actually, no, wait, if Sedecium can reboot people from backups, what happens if one of them dies while the party is sealed in the—"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Nell."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Sorry. Lightning over. I just have one very small question about the Godblood fuel depots."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Of course you do. Ask Vestira when we get there."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "If we get there. If we do not, it was the anchor, the vacancy, the yellow sandwich and possibly Zugg, and honestly you... you had to be there."
+        }
+      ]
     }
   ]
 }
