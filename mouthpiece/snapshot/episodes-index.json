@@ -40498,6 +40498,1905 @@
           "text": "If we get there. If we do not, it was the anchor, the vacancy, the yellow sandwich and possibly Zugg, and honestly you... you had to be there."
         }
       ]
+    },
+    {
+      "id": "000.through-a-song-darkly.2026-11-17",
+      "kind": "session",
+      "arcNo": 0,
+      "arcSlug": "through-a-song-darkly",
+      "arcTitle": "Through a Song, Darkly",
+      "episodeNo": 26,
+      "isMain": true,
+      "date": "2026-11-17",
+      "dateSortKey": 20261117,
+      "title": "Oh Grimry, You Poor Silly Fraud",
+      "episodeTitle": "Oh Grimry, You Poor Silly Fraud",
+      "hosts": {
+        "A": {
+          "name": "Bram",
+          "persona": "warm, boisterous, fluent but imprecise; the storyteller who relives the best moments with relish and happily embellishes. Talks in long, rolling run-on sentences that pile clause on clause; makes big sweeping claims he then has to walk back; reliably gets a name, number, or detail wrong and gets corrected (usually by Maeve); now and then runs clean out of sentence and lands on a shrug like \"you... you had to be there.\" Drives the recap forward and overshoots"
+        },
+        "B": {
+          "name": "Maeve",
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+        },
+        "C": {
+          "name": "Nell",
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
+        }
+      },
+      "synopsis": "The heroes dive feet-first into the heart of a shattered ship to face Esoterica — a nascent god wreathed in six grasping arms, each clutching an implement of terrible power. Blows are traded, minds are shattered, and one very confused bird gets a little too friendly with an ally before the dust settles. But victory brings more than loot: a strange half-seen figure appears in a white void with an offer — and a price — that may decide whether the party ever finds their way home.",
+      "durationMs": 0,
+      "hasAudio": false,
+      "hasTranscript": false,
+      "audioVersion": "",
+      "transcript": [
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The thing I cannot get over is that Josh had this whole dreadful speech sitting there, and Argyle does not even let Esoterica finish being polite."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Two words. \"Welcome, heroes,\" and then the gun."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And that shot was already happening during the dive at the end of last episode, yes? Tonight is where they find out just how much it did?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. It strips away his divinity. The golden shape and the three heads are still there, and six arms are still perfectly capable of killing them, but the surest part of his protection is gone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is such a beautiful, appalling piece of problem-solving, because everybody else is falling through a kaleidoscope spaceship in heat-shielding goo and Argyle is apparently thinking, right, but have they considered ballistics."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, I know the gun is called The End. Where did a god-killing gun come from, and why does everyone talk about the first time they fired it like a natural disaster?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Menhir gave it to them, along with a box of golden spikes. White ivory, strange gold, and no magical purpose anyone could read. Just a question mark where the purpose should be."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the Menhir was this ring of standing stones, not merely a pile of picturesque rocks, which is the bit I always leave out when I tell it because pile of rocks is funnier."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they shot the pile of rocks?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They shot one stone and the whole ring came down. The Menhir died, the weapon that killed it was its own gift to them, and the backlash helped throw the entire expedition off the map. So yes. Natural disaster is underselling it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the gun is only half of it. The ammunition is the actual miracle?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Holy gold. A spike of it is the one sure way Sedecium knows to kill a Thessian. It can tear divinity away from a god, and it is absurdly scarce."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. The End is the delivery system, holy gold is the payload, and the Menhir accidentally armed the people who killed it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "When you say it crisply it sounds much worse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It was pretty bad crisply, too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Esoterica is Gremory? The table keeps sliding between those names, plus Grimry, and I want the actual map here."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Esoterica is the god whose likeness is on one of the six iron doors. Gremory is the Thessian name Sedecium has for him. Grimry is Johnny being approximate at speed."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I said Grimoire for half the night, which is at least a book and therefore magic-adjacent."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You did. Vestira eventually says Grammar, so nobody comes out of this looking especially scholarly."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then what is a Thessian, beyond something Sedecium very reasonably wants dead?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A being from beyond the firmament. They sit at the top of life in the Astra and feed by drawing energy out of stars and worlds. Mortal life and their kind of existence do not really coexist."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And they ascend through generations, getting more and more refined, less like people and more like one idea with an appetite."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Gremory was fourth generation. His one subject was magic."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So this is not just six evil gods with a branding problem. The Ashen Pact are all Thessians?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is what Insuperlex says tonight, yes. All six. Pyre, Herald, Giant, War, Esoterica and Regent, which makes those wrought-iron doors feel considerably less like décor."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good. Terrible, but good. I have the names."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then Josh shows them the actual fight and it is six floating ghost hands holding magic rubbish around this huge golden three-headed thing, and the hands are somehow better at expressing emotion than half the people they have met."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Some of them are flickering in the same kaleidoscopic way as the wreck outside. Their movements hitch and jump. Two are steady at first, and the party notices immediately."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That sounds like a puzzle boss wearing a very loud hat."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Josh also confesses he considered bringing back the horrible eye thing from the old campaign, but then everyone would just call it a beholder and stop looking at it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And this is not that. Beholders exist. Esoterica is something else."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No body you can meaningfully stab, three heads, all those arms. He could not find a map for it, obviously, because apparently the map market has failed us all."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Did Benny really try to demonstrate the alternate design with his feet?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Mike physically tried to get his feet above the table to show why arms-not-legs was the correct choice, and the camera was not cooperating, and honestly you... you had to be there."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The important thing is that Josh made the right decision. No toes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Strongly agreed, and I have not even seen the toes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The fight opens with Sense putting this awful omen over everybody, Argyle starts spreading his protection around, and then Emotion drops magical darkness on the whole party."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Which immediately inconveniences Esoterica more than it inconveniences them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That was my favorite part. Power cannot see anybody to target. Mind basically has to loiter. The enemy's own control spell starts eating its turns."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Power switches to something they only have to hear, because a giant invisible hand can still be extremely rude acoustically, and now Anzu and Benny are frightened."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Battle reaches into the darkness after them. Benny cannot see it, but he can sense its blood, and when it gives him an opening he hits it anyway."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the flicker seizes up where he connects. That is the first real clue that hitting an arm does something to the whole pattern."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then it makes him bleed from everywhere, because this fight never lets a good moment stay good for more than about a second."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Poor Benny."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Whispers stuns Anzu, too. That matters. He has the answer to the room already, but he cannot simply let it loose."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Meanwhile Johnny is inside a black cloud singing doom at a god and insulting its appendages, which is the most Johnny possible response to sensory deprivation."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The six-arm joke?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The six-arm joke. It lands hard enough to matter. I would attempt to repeat the setup but I will make it worse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You would. The useful bit is that Battle really does not enjoy it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Argyle's protection plus Johnny's fear keep turning otherwise solid enemy attacks into misses later, right? That combination is quietly holding the whole party together."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Quietly is right. You notice it because Josh gets increasingly exasperated."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle also tries to make lovely healing light and discovers that the inside of magical darkness is the one place his lovely light will not switch on."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So he changes plans instead of forcing it. Good."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He stays defensive, extends the blessing, and waits for a better moment. It is not flashy, but it is why other people get to be flashy."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Anzu, still unable to see anything, still rattled from being stunned, just starts building this enormous psychic detonation in the dark."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is such a commitment. He does not know where everybody has moved, he does not know which arms are vulnerable, and he spends the opening of his turn preparing instead of doing something small and safe."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He has to carry it into his next turn. He unleashes his psyche and finishes it then."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the whole room goes white in my head. Not literally white, that comes later and is much worse, but this mental blast goes through every arm and suddenly implements are breaking."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "How many does it actually break?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Mind goes. Whispers goes. The failing arms take a horrible amount, Power takes the worst of it, and then the whole set drops into that shattered state together."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "One minute they are poking around in darkness wondering whether damage even counts, and the next minute the room is full of broken god."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is the moment they realize the fight is winnable."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes. Also the moment they realize none of the arms have the manners to stay dead."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They all share Esoterica's health. A condition can sit on one hand without spreading to the others, but the damage goes into the same place. Breaking enough of the flickering arms makes all of them shatter briefly."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And while they are shattered, everything hurts them more?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. Then they reform. Physical resistance comes back, the shattered window closes, and all six threats are still on the field."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is nasty. Normally when you focus something down, you lose its damage and its actions. Here the party spends resources, gets a short opening, and then the whole enemy turn structure is still waiting for them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Josh says afterward it was like fighting six dragons at once, which explains both the scale of it and why everyone kept getting asked for the same kind of save."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He had built the arms from dragon stat blocks. Their breath-weapon-style attacks were mostly hitting will. Great for Johnny. Much less great for Benny."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu, who keeps pointing out that the psychic really ought to come with a little mental resistance."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A perfectly reasonable complaint that he makes while his brain is being used as a church bell."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The burst still changes everything. They know to watch the flickering arms now, and they know a shatter window is when Benny can really hurt it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It also explains why Benny's earlier hits felt strange. He was connecting, but the damage seemed to pass through something that was not entirely joined to the world."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Sense hits them with another omen, Johnny remains mentally untouchable, and Anzu finally rolls badly enough that the universe gets to do something extremely funny to him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is the confusion, yes? Why does Anzu—a bird—suddenly peck Benny in the middle of a god fight?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Confusion takes away his choice of allies and targets. Josh randomizes between the nearby enemies and the nearby friends."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "First he frostbites Power, which is fine, and then he has actions left and Benny is over there looking, by Anzu's later account, regrettably hand-like."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, he crosses the battlefield for this?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He runs all the way over and pecks him. Benny gets a reactive strike, hits him on the way in, and Anzu still gets to deliver this tiny little beak wound."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is so much danger wrapped around so little damage."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It could have been much worse. The random target could have been Argyle, the cantrip could have gone into a friend, and Benny's answering hit could have been the start of something ugly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Instead it is the world's most stressed tengu apologizing with blood on his beak and Benny telling him never to do it again."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Othello is the raven familiar, right? Anzu is the tengu. Because later the Mind arm has something called Othello attached to an attack, and I need that untangled before it becomes a whole second bird conspiracy."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes, Othello is Anzu's raven. The original bird died by fire beneath Teller's Run. Anzu rebuilt another bird around Othello's memories, so he talks about Othello being more an idea than one individual animal."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is sweet and deeply upsetting."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Very Anzu."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then the Implement of Mind shows them hidden truths through something bearing Othello's name, which is a nasty little echo of that whole history, and nobody stops to ask about it because they are busy not dying."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I do not know whether it is an echo, a theft, or Josh choosing a name he knew would get under Tanner's skin. The scene does not establish it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good. Another question for the pile."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny, meanwhile, gets out of the darkness, sees how much damage Anzu's burst did, adjusts his glasses and starts perceiving the threads of fate, which is a lovely thing to do until Battle immediately carves him up for standing there."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He gives himself a mythic resource and then pays for the positioning. That feels like the fight in miniature."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It does. Nobody gets a clean turn. Even the brilliant moves leave somebody exposed."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then Johnny decides what this situation really needs is choreography."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The moonwalk?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The moonwalk. He dances backward away from the hand, performs well enough to throw off its defenses, and recites an entire limerick he has prepared about Gremory."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A man playing god, getting shot with gold, ending on \"Oh Grimry, you poor silly fraud.\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He wrote it beforehand?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He wrote it beforehand. There was a bard at that table with a god-insult in his pocket waiting for the correct three-headed occasion."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And then he casts Synesthesia, so the insult is not separate from the magic. It is the wind-up to the magic."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The arm resists the worst of it, though. It still only buys a round."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A round of being clumsy and slowed is still a round the party needs."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny also gets one of the hands stuck applauding him, which means Esoterica is technically giving him a standing ovation while trying to murder his friends."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, that is my favorite thing."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Roaring Applause. It slows Sense and forces it to keep clapping. Benny is hovering nearby, ready to punish anything that looks like an opening."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "At one point Josh tries to move another arm five feet and discovers it only has a fly speed, so it cannot step out of Benny's reach, and the entire battlefield becomes hands making terrible little tactical decisions."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is why I love high-level Pathfinder. You can have a nascent god, a prewritten limerick, and then the outcome turns on whether a floating hand can Step."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And on benediction and fear turning just enough hits aside."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Because late in the fight those hands finally start rolling like they mean it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes. The chained lightning moves through nearly everybody, Power follows it with more electricity, and then it stills the air so they can barely breathe."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Benny takes the stillness worst. Johnny ends up fatigued too. Argyle is clumsy, slowed, bleeding, trying to keep everybody upright. At one point Johnny, Benny and Argyle are all in real trouble."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu is only looking healthier by comparison because Argyle has poured healing into him and because his starting point is lower. This is where the shared-health boss gets scary again."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I said everybody was basically dead when I first thought about it this morning, which is not true, but the shape of the turn is everybody checking everybody else and realizing there is not enough healing to be casual anymore."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny makes a diversion and hides Benny from Battle. That buys the fighter a little cover. Benny uses his grub gloves to clear the fatigue, then stops preparing and hits the thing."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Hidden, no longer fatigued, shattered target in reach. That is the best setup they have had all fight."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Mike does the whole description. Benny puts his hands together, the nanite green comes into his eyes, and it is one falcata blow into Battle."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The hit runs up the arm."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, it travels, and the arm does not just crack, it comes entirely apart, and then every other arm goes with it, and the heads go, and there is this rush of magic somewhere outside the room."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No second phase."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No second phase. Benny and Johnny had both been waiting for the floor to open or the heads to inhale or something, and instead there are six magical objects hitting the floor."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The implements remain. Esoterica does not leave a body."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That final blow lands because they understand the shatter window by then. Anzu's recall knowledge confirms the weakness, Johnny keeps piling conditions on, Argyle keeps people standing, and Benny cashes it all in."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Look at you, two episodes of context and already taking credit for their teamwork."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I am taking credit for noticing their teamwork. Different thing."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She is right, though. It ends as a party turn, even if Benny gets to describe the last hit."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then, before anybody can even decide which implement they want, there is vertigo."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "White void. Fog below them and far above them, so depth stops meaning anything. A concrete structure in the distance rising until it disappears. The implements still poking out of the fog."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the half-person is just standing there?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Just the left half, except when he turns it is still whichever half your point of view calls left, so pieces slide in and out of existence, and he tilts his head and you get part of a chin, and it is horrible."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Tall, humanoid, half amused. The other half of the expression is much less amused."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What do the players do?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They loot."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Immediately?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Immediately. He watches them scramble around collecting the implements and does not stop them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is either tremendous patience or a very bad sign about how little he fears them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Why not both? That is his whole personality."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who is he?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Insuperlex."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Insuperlux, I kept wanting to say, like an expensive lightbulb."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Insuperlex. One of Aut's narrative siblings. He is called the Mountain: the obstacle in front of the hero, the trials a protagonist has to survive."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the Menhir was another one of those siblings?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "His counterpart, yes. The Menhir is dead at the party's hands, with the weapon the Menhir itself supplied. Insuperlex opens by making it very clear that congratulations and forgiveness are different things."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He is furious with them. He says another set of circumstances would have him wanting them dead, except there would not be enough left to bury, which is a really vivid way to greet people who just killed a baby god."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why can they only see half of him? Does he explain that?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. He does say being there is painful, and that he spent a great deal of plot to make the visit happen."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My guess, and it is only a guess, is that we are seeing all of him that the scene can afford. As if the rest is still in whatever story he climbed out of."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I like that better than him simply choosing an eerie affectation. His siblings are made of narrative functions. Maybe a Mountain cannot fully stand inside the aftermath without becoming another obstacle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Or he is conserving whatever plot means as a resource. He lets them pick up six divine tools before talking, so he either cannot intervene or does not want to spend more."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and that is much more interesting than a mysterious wizard being mysterious at them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What is the Strider, in practical terms? I know it is how they got stranded, but not what they actually lost."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Their vessel, their mobile base, the thing carrying their pilgrimage. When the Menhir fell, the Strider was flung beyond the map and outside their home realm. Getting it working is only part of getting home."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Insuperlex says the only reason it survived that journey at all is him. It should have broken up in transit, and he argued against that."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Out of kindness?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Absolutely not. He thought fighting their way home would be the bigger challenge."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He also invokes his sibling's dying wish and says he will respect it. He does not spell out every part of that wish, so I would not smooth it into kindness either."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So he saved the vessel because he wanted them to suffer longer, possibly while fulfilling something the Menhir wanted. That is not reassuring."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, but he is honest about not being their friend, which perversely makes him easier to listen to."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He hates the Ashen Pact at least as much as they do. He is genuinely pleased Esoterica is gone. For this one conversation, their enemies line up."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then comes the price."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Two more Ashen Pact dead, and he and somebody he knows very well will open a threshold back into their home realm. A door, safe passage, an actual way in."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Just two? Does killing more improve the deal?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. He is explicit that additional kills will not improve their chances of entering. Two is the price he has attached to his help."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny immediately asks whether the alternatives are killing three, which is fair, because when a narrative entity says easiest you do start checking the arithmetic."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "There are four routes total?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Four, he claims. His is the easiest. He invites them to find another if they prefer."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the Ashen Pact cannot simply be waiting on the far side of the wall?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "None have passed it in their current form. None will, according to him. If the party wants the remaining Pact, they have to do it out there."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, so I have it: two more god-kills buy the easiest door home, the other three routes are unknown, and nothing about the deal includes surviving the gods."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That last clause feels like the bit to underline."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It really does."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I keep circling his reason for preserving the Strider. Wanting a harder trial explains his interest. It does not explain why this particular party became useful enough to spend plot on."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Because the Menhir aimed them. He says as much, in his sideways way. His sibling put the instrument of the Pact's destruction in their hands, and now Insuperlex gets to hate them and use them at the same time."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is a good read."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could he also be keeping them away from home on purpose? Not letting them die, just making sure the gun stays outside the wall until more of his enemies are gone?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, that is worse. I like it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It fits what happened. It is not proven, but it fits."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What about the other three doors? Does anybody even gesture at them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not tonight."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "One of them is probably something appalling like becoming an Ashen Pact yourself, which is not a theory based on anything except me enjoying being worried."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I am not putting that one on the board yet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good, because they have enough problems."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny also comes out with his plot-armor theory afterward. If these beings have to spend plot to touch them, then being the heroes has become actual protection. Nobody can just erase them as insignificant."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is a clever reading. It also only protects them from being unimportant. It does not protect them from being hurt elaborately."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. The narrative can keep them alive for a much worse scene."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Exactly, and somehow that is the comforting version of being a protagonist."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then the void ends. They are back in the core, still holding what they picked up. Insuperlex is gone."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the implements are real, not dream loot."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Very real."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Outside, the six pieces of the Hesperid are still hanging there, turning through themselves. The big change is that the heartbeat is gone."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is such a good absence. No dramatic collapse, just the ship no longer beating."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu had expected desiccated corpses when they got back to their friends. Instead the passage of time seems to have behaved, at least for the moment."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, all six implements. What do they actually get? The orb, the flute, the wand—what are all of them?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Nell wants the whole catalog before we can have feelings about the social scene."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A wand of chromatic burst. A greater seer's flute. A thurible of revelation. Two grievous runes on a stone cylinder. A shattered crystal ball. And a quantity of inert alchemical materials that turns out to be very valuable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The flute works like a bard's staff?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It does, with a pile of useful magic in it. Perception, performance, guidance, augury, seeing the unseen, clairaudience and more. Johnny gets extremely interested."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny also gets extremely interested in the wand, so his new god-killing personality appears to involve confiscating every musical or shiny object within reach."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "As he should. That flute is not just a toy; it is preparation he does not have to spend elsewhere."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The thurible helps with religion and lets someone peer through its smoke to see the unseen. The runes can be transferred. Benny is less delighted by those because they overlap with tricks a fighter already gets, unless he changes what he is swinging."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the orb?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "We'll get there. Anzu has a whole little project with the orb on the way back."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "At this point they only know it is a broken clear-quartz crystal ball. Not functioning, maybe repairable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fine. I can wait for the orb, but I am noting that you made me wait."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Noted with tremendous guilt."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They climb out through the ceiling, orient themselves back toward their original fragment, and find four living members of Sedecium waiting for them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oliver Day opens with essentially, oh, you are alive, I had mentally moved on."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oliver is the researcher from the shelter, yes? The one who helped them make the dive?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is him. Red-skinned, horned, a Nephilim from Sedecium's research side. He had been shut in that shelter on the bridge floor for about thirty years."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now that he is out, the other three visibly start deferring to him again. He was the highest-ranking one there, and he slides straight back into running the little crew."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But before they can compare notes properly, Johnny tells Vestira they won because they are heroes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He gives her the glorious-purpose version. Noble destiny, protagonist energy, please do not inspect our pockets."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Josh calls for deception because the direct reason they could kill Gremory is the holy gold in their possession."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Vestira Koi is the liaison from First Contact, but remind me what Sedecium actually sent her to do."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She makes contact with cultures and suppresses anomalies. She walked them through the rite that gave Gremory a killable life, and she warned them what that rite meant. She also knows the Pact by their Thessian names."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So she is exactly the person who would understand what the holy gold implies."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And she sees through Johnny immediately."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But she does not call him on it. She just gives them this deeply unconvinced acceptance that they killed Grammar, killed Esoterica, fine, and asks what happens now."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because she is frightened of them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Whatever possibilities she is weighing, none make it healthy for her to provoke them. She has four crew members and no reason to think an accusation would end safely."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That roll did not buy trust. It bought an exit from the conversation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and you can almost hear the debt being written down."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "I will own one bad read from last episode: I thought Vestira would be mainly relieved once Gremory was dead. I was wrong. Her containment problem has become a party carrying an almost impossible supply of god-killing metal."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they just demonstrated that they will use it before hearing the target's sentence."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is the part she cannot say aloud without making the room worse."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Do they think Sedecium might come after them next?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny says it at the table. If holy gold is the one reliable answer to a Thessian, and Sedecium is at war with Thessians, then the party is either an incredible ally or a strategic problem."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Probably both. Sedecium also knows how easily that gold can kill something its normal weapons cannot."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does Vestira report this, or does she stay quiet because she is implicated in helping them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is a very good question, and nothing tonight answers it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My instinct is she writes the most careful report ever composed, in which every sentence is technically true and nobody learns anything."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That does sound like liaison training."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Meanwhile Oliver just wants to leave with them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He likes their chances better than dying on a time-broken wreck. He is clear that the Hesperid cannot simply be folded back into a working ship. Some pieces might be useful, but the vessel itself is finished."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then he asks for another favor, because he would like to phone home, and the locals are standing there going, well, we have radio."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Do they have anything that can reach Sedecium?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not ready-made. Oliver wants a day to crawl through the wreck and salvage components for a communications array. He wants to see what their technology can support once they get it back to the Strider."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They give him the day. He directs the others through the ship and comes back with a train full of improbable little parts from different times."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is a real cost, too, right? Staying near the wreck after killing the thing inside it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They can spare it. They still have a window before their larger deadline, and the extra rest does them good."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Also no dust storm on the train ride back, because apparently once you kill the local infant god the weather stops being quite so personally invested in you."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Do they tell Oliver about the Judge during all this?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and he gets understandably annoyed that they buried that particular lede."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who is the Judge, and why is it alarming that at least one Outer God might be a Thessian?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Judge of Ages, patron of the Scale. He presents himself as the empowered intermediary between the Outer Gods and teaches his followers to act as impartial adjudicators."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Argyle's old boss, or at least the power his old celestial service was tied to. This is not abstract theology for him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Do they actually prove he is a Thessian tonight?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The table speaks about it as something they have established, and Oliver takes the claim seriously. The session does not stop and lay out a proof for us. I would keep the claim and everything built on it separate."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fair. What do they build on it?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Everything, immediately. The Outer Gods were not always around. Anzu reminds Oliver that they appeared through a crack in the sky, and suddenly that sounds a lot less like a poetic arrival and a lot more like an incursion route."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Oliver points out that if the Ashen Pact are not the local higher powers they were assuming, the old explanation for what drew them there needs work."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So if one Outer God is a Thessian, how many others are?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, exactly, and then everybody looks at the Watcher with all his eyes and has to pretend that is just a normal fellow who enjoys watching."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu raises the Vocalist too, because it made a harmony like the Thessians do. Benny floats the opposite possibility: maybe it is something native and higher that got stuck outside the firmament and needs help getting back."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Those are very different problems."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "One is kill it with the magic gun and one is help it home, which is basically the party's entire decision tree."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Josh has Anzu attempt a very difficult arcana check after that run of speculation. It does not quite get there. He only says that something in what Anzu said feels incomplete."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which does not tell them which part. That is important, because otherwise they could just treat the failed check as a highlighter."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. It confirms a hole in the reasoning, not which sentence contains it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Still mean. Very good GM mean."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny asks whether Oliver has a list of Thessians they can compare against their gods, ideally in some sort of convenient visual format, and Oliver says the database is gone but he has made a habit of memorizing the descriptions."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He can try to put something useful together. No word cloud, despite Johnny's commitment to visual learning."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can he build a detector? A Thessian divining rod?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not simply. Sedecium has historically had ways of being pointed toward a Thessian, but Oliver neither controls nor sees the thing doing the pointing. It needs a huge amount of collected data."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It took their much more advanced operation years. He will try, because Oliver seems constitutionally incapable of refusing an experiment, but he tells them not to get their hopes up."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The thing doing the pointing is the entity?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sedecium's unobservable guide, yes. It directs them without being something they can inspect. Tonight makes that sound considerably less comfortable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And nobody knows why it hates the Ashen Pact?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No. Anzu's sensible conclusion is that maybe they should reserve a spike for the entity too, just in case, which is where I start worrying that their answer to cosmology is becoming ammunition inventory."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "To be fair, ammunition has worked twice."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Once on their benefactor."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "To be fair in a very limited and legalistic sense."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "On the way back, they finally ask Oliver what is actually in the extra barrels they pulled off his ship. Not all of it is fuel."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Some lubricant, some juice concentrate, some god's blood that has not been cooled into whatever useful form it had before, and then the cloudy strawberry milk."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The cloudy strawberry milk is people?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Memories and consciousness backups from some of Oliver's crewmates. Possibly including a copy of him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they put that in a barrel on purpose?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "On purpose. Sedecium's people keep backups. At home, if a body is lost, they can grow another and restore the memories into it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oliver thinks there might already be another Oliver walking around back home, because nobody has heard from them and the backups there are years out of date. When they eventually get back, they reconcile the duplicates. Apparently this is normal."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Normal how?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny asks whether they used to make endless clones until they went to war with each other, and Oliver says not anymore, which is not the comforting historical sentence he seems to think it is."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Their usual immortality can mean a reboot with only a small stretch of memory missing. These emergency copies are staler. Oliver says losing a couple of years would be tolerable by comparison."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That changes the cost of death without removing it. You can come back and still lose the people you became in the gap."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. And it means the barrel is worth protecting even though they have no equipment here to restore anybody."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny immediately goes, well, if they ever find a terrifying body-growing machine, they are sorted. Oliver says it is not that terrifying, just a big pool with pokey things, which again does not help."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Please tell me they keep the juice separate from the people."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They know which barrel is which now."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wonderful. A very low bar cleared."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "While Oliver is salvaging and then during the train ride, Anzu keeps turning the broken crystal ball over, and this is where the orb becomes a project rather than just a shiny fragment."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There is a physical crack that has to be repaired. He thinks the gemstones and other materials would come to around eight hundred gold. There is also something still present in it, some essence he cannot quite reach yet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Something that could be revived?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He is pretty confident he could bring it back if he repairs the ball. The crafting side is clear. The magical side is still fuzzy, possibly because he is coming down from fighting a god."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So now they have a barrel of dormant people, an orb with something alive or nearly alive inside, six implements to divide, and a god-detector that might take years to build. Can they pick up one problem that is just a door?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They did pick up a door. It costs two gods."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fair."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And underneath all of that is the fuel argument."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yes, what is phlogiston exactly, and why does their escape depend on barrels of it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A fuel drawn out of the ground as red sand. It gets collected into sealed, metal-lined barrels. The works at Hesperid three were built to refine it and send those barrels north to the Hesperid."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Stored in quantity it is dangerous, because of course the miracle space fuel is also the kind of thing you do not want to knock over with a falcata."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they finally have enough?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Enough to jump-start the Strider, make the trip to the far wall and come back without paying the tithes, with a little margin. That margin is why the lie becomes tempting."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What is the tithe, and who pays it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The costed-out version of the journey includes tithes along the way, obligations to the people whose passage and support they rely on. Tonight nobody stops to name every collector, but the expedition's supplies are what would get handed over."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "If they keep all the fuel, they do not have to keep shaving their future off in little pieces to get moving. Johnny looks at that and decides it is time to stop being the only generous person in the room."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So he proposes admitting to a small find and simply never discussing the rest?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, and then they keep revising the lie because a precise false number sounds suspicious, a vague true number sounds suspicious, and Benny eventually tries out the radical position of saying they have one extra barrel."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is technically true in the most useless way."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny's argument is that they have tried again and again to get everybody on their side, and everybody remains for themselves. If the positions were reversed, he thinks their allies would hide the surplus too."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Benny pushes on the part that matters to him. If withholding fuel leaves those allies too weak to withstand somebody like Grayson, then it is not a harmless accounting trick."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Anzu raises the practical problem: phlogiston is unstable, and metering it out for everybody would require somebody who knows the machinery."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He has this brief vision of a custom connection where they pour fuel for their allies rather than hand it over, and it sounds halfway between a public utility and a hostage situation."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is a real strategic choice, not just greedy adventurers. Keeping the barrels protects their route home and avoids the tithes, but it spends trust they may need when Sedecium, the Scale, or the locals learn the truth."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And they specifically do not want the Scale carrying the secret."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Would the Scale's contract magic catch a lie?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Its contracts are witnessed with magic that monitors the signees. That is not the same as a universal truth detector. The danger is whether they make a promise about the fuel, not merely whether somebody notices a nervous face."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Also the Scale keeps its strangest work and bounty hunting in-house, so handing them a tale of spare god technology and fuel seems like an excellent way to meet a delving specialist."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They are building a little secrecy coalition around the exact people most capable of taking the secret apart."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And that is before they get back to whether Sedecium wants their gun."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, I am officially more worried about the return trip than I was about the arms. The arms did not have contracts."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Only six shared health bars' worth of resentment."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Josh closes the night by taking the glorious victory and turning it slightly sideways, as he always does."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The baby part?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The baby part."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why does it matter that the Thessian was literally a baby? He still had six arms and was trying to kill them."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not a human infant. A newly ascended being, a nascent god at the beginning of what he might have become. Fourth generation, his whole existence narrowed to magic, and they destroyed him before he had time to make a case for himself."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anzu starts wondering what he would have said, because compared with Giant wanting to crush small things or Pyre wanting everything burned to ash, Gremory's drive is still this blank space."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The monologue would have been intelligence. Shooting first did not just skip a speech; it cost them their one chance to hear what he wanted."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. It may also be why they survived to have the conversation."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Absolutely. I am not second-guessing the shot. I am saying the information cost is real."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Josh does not let them turn baby into innocent, either. Some of them saw Gremory before ascension in that old one-shot. He gave an artificial intelligence the capacity to feel pain so he could torture it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He was not a nice person waiting to become a nice god."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No. But there is a difference between knowing he was cruel and knowing what this newborn version thought he was doing at the heart of the Hesperid."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could they have allied with him? Johnny asks something like that during the fight."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They cannot know. Sedecium had already tried to stop his ascent by ramming a ship into him. The rite existed because he was a threat, not because anybody expected a productive conversation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And he was raising six implements to wipe them out after the shot. There was not a natural pause where everybody could sit down with tea."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Still, Anzu's question is going to stick with me. What does a baby god say in its first speech?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Welcome, heroes, apparently, and then nothing ever again."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Which is why the Vestira scene matters so much. To the party, the shot is ruthlessly practical. To anyone watching from outside, they now look like people who can kill things Sedecium cannot and who do not need to hear an explanation first."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Insuperlex likes that about them because they are aimed at his enemies."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes. The Menhir gave them the gun, Insuperlex kept their vessel together, Sedecium gave them the rite, and everybody has helped make this extremely useful weapon that now has its own opinions about barrels."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That is the cleanest statement of the problem I have heard all morning."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So what happens first: Vestira reports them, the Scale notices the lie, or one of the remaining Ashen Pact comes looking for the people who killed Gremory?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is not an answer."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is unfortunately probably the right one."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My money is on the lie going wrong first, because a god has to find you, but an ally only has to count barrels."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Unless the orb wakes up and starts counting for them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, do they think something in the orb can communicate?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They do not know. There is something there Anzu cannot connect with yet."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "See, now you are doing it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Doing what?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Pulling every thread at once."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because they are all connected! The entity guides Sedecium, Sedecium knows the Thessians, the Outer Gods came through a crack, Insuperlex needs two more dead, and the party is carrying the only reliable way to do that."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And they still have to repair the Strider."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And restore Oliver's crew."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We'll get there. Or they will. Eventually."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "What I love is that they started the night diving feet-first into the center of six impossible ships, and by the end the most frightening sentence anybody can say to them is essentially, so what happens now?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because winning gave everybody else time to think about them."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Gremory never got his speech. Now the party may have to sit through everybody else's."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Argyle cannot shoot all of those."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can he shoot one of them?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That is exactly the attitude that got us here."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I am just saying, if the orb starts with a greeting, maybe let it get to the third word this time—"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You are going to be trouble when you actually catch up."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I caught up enough to know I want the flute identified properly, the backup barrel nowhere near a heat source, and somebody watching Vestira's face when they say one extra barrel."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "One extra barrel, fourteen hands, six arms, half a man..."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Fourteen hands is not a thing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It felt like a thing by the end. You... you had to be there."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Mm. I am glad the heartbeat stopped, though. Whatever else follows them home, at least that sound is gone."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Unless the orb has one."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, don't—"
+        }
+      ]
     }
   ]
 }
