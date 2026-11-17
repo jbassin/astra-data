@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-17",
+  "show": "through-a-song-darkly",
+  "summary": {
+    "title": "Six Arms to Hold You: The Fall of Esoterica",
+    "synopsis": "The party dives feet-first into Esoterica's kaleidoscopic lair and fights a grueling battle against six spectral dragon-arm implements sharing a single health bar. After shattering the arms and destroying the nascent god, they're pulled into a white void where Insuperlex—a half-visible Thessian sibling of Esoterica—congratulates them and offers passage home in exchange for two more Ashen Pact kills. They loot the six magical implements, reunite with the surviving Sedecium researchers, and level up.",
+    "key_beats": [
+      "Initiative is rolled; Argyle uses Perception for initiative after having shot Esoterica in the face at the end of last session. The six implements—Sense, Emotion, Power, Battle, Whispers, and Mind—begin their assault with Ill Omen (Will save) and Thunderhead.",
+      "The Implement of Emotion shrouds the entire battlefield in rank-4 magical darkness, blinding both the party and most of the implements, forcing melee attackers to make DC5 flat checks.",
+      "Anzu unleashes a two-action Psychic Outburst; the Implement of Mind critically fails and shatters, the Implement of Whispers shatters on a regular failure, and the remaining arms take heavy mental damage.",
+      "Conditions pile up across the party: Benny bleeds, Anzu is paralyzed then confused (attacking Benny with a cantrip and a peck), Argyle is made clumsy, and multiple party members become fatigued from the Implement of Power's stifling stillness.",
+      "Anzu recovers knowledge via Recall Knowledge (crit on Occultism), learning the shatter mechanic: hitting three arms shatters all of them, inflicting weak 10 to all damage for one round; the arms are also currently immune to confused, decapitation, doomed, paralyzed, and sleep, and weak to all damage while shattered.",
+      "Johnny keeps up Dirge of Doom and Bon Mots (targeting the Implement of Battle and Sense), casts Synesthesia, uses spell dance (Roaring Applause on the Implement of Sense), and fires Needle Darts with Sovereign Steel, layering debuffs.",
+      "Benny delivers the killing blow with Grub Gloves Lesser (healing 54 from fatigue) and a massive falcata strike on the Implement of Battle; all arms shatter and explode into dust, Esoterica is destroyed.",
+      "The party is pulled into a white void and meets Insuperlex—a Thessian whose body is only ever half-visible depending on his orientation. He reveals he influenced events so the party's Strider survived transit, and offers a deal: kill two more Ashen Pact and he'll open a door home to Faron. He notes there are only four routes into Faron, and this is the easiest.",
+      "The party returns to the ship, collects six magical implements (a broken crystal orb, two grievous runes on stone, a Thurible of Revelation, a Wand of Chromatic Burst, a greater Sears flute, and 1750gp of alchemical reagents), and tallies 14 barrels of phlogiston—only 13 needed for the full journey, with one to spare they decide to keep secret.",
+      "Oliver Day reasserts himself as leader of the surviving Sedecium researchers and asks for 24 hours to salvage parts for a communications array; the party agrees and learns one barrel contains consciousness backups of Sedecium crew. Argyle examines the broken crystal orb (needs ~800gp in materials to repair). The party levels up; Tanner's character becomes a Runesmith."
+    ],
+    "characters_present": [
+      "Argyle (Jorge)",
+      "Anzu (Tanner)",
+      "Johnny (Noah)",
+      "Benny (Mike)",
+      "Othello",
+      "Esoterica/Grimory",
+      "Insuperlex",
+      "Researcher Oliver Day",
+      "Vestira"
+    ],
+    "locations": [
+      "Esoterica's power core / assembly area (time-splintered ship)",
+      "The white void (Insuperlex's meeting space)",
+      "The Strider (returning to Hesperid 3)"
+    ],
+    "factions": [
+      "Ashen Pact (Thessians)",
+      "Sedecium",
+      "The party (heroes / Thessian murderers)"
+    ],
+    "items": [
+      "Broken crystal ball of clear quartz (needs ~800gp materials to repair)",
+      "Two grievous runes on stone cylinder",
+      "Thurible of Revelation (moderate)",
+      "Wand of Chromatic Burst",
+      "Greater Sears flute",
+      "1750gp in alchemical reagents",
+      "14 barrels of phlogiston",
+      "Sovereign Steel",
+      "God-killing gun"
+    ],
+    "cliffhanger": "The party has leveled up and plans to return to Hesperid 3 with their Sedecium allies in tow, but must kill two more Ashen Pact Thessians to secure passage home to Faron—and at least one of their own gods may be a Thessian too."
+  }
+}
