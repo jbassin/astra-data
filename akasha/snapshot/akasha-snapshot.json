@@ -1415,6 +1415,34 @@
       "target": "Org/Sedecium"
     },
     {
+      "alias": "Everdawn",
+      "heading": null,
+      "resolved": "Geography/Inevitable Everdawn/Everdawn",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "Geography/Inevitable Everdawn/Everdawn"
+    },
+    {
+      "alias": "Argyle",
+      "heading": null,
+      "resolved": "People/Argyle",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "People/Argyle"
+    },
+    {
+      "alias": "holy gold",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "Phenomena/Holy Gold"
+    },
+    {
+      "alias": "The End",
+      "heading": null,
+      "resolved": "Phenomena/The End",
+      "source": "Divinity/Ashen Pact/Esoterica",
+      "target": "Phenomena/The End"
+    },
+    {
       "alias": "Gas-n-Go",
       "heading": null,
       "resolved": "Geography/Færrin/Calaria/Hallia/Widdershins/Gas-n-Go",
@@ -1700,6 +1728,27 @@
       "resolved": "Org/Roundhat Gang/People/Tywelwyn Leatherhide",
       "source": "Divinity/Ashen Pact/index",
       "target": "Org/Roundhat Gang/People/Tywelwyn Leatherhide"
+    },
+    {
+      "alias": "Esoterica",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "holy gold",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Phenomena/Holy Gold"
+    },
+    {
+      "alias": "Hesperid",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
+      "source": "Divinity/Ashen Pact/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
     },
     {
       "alias": "Heart",
@@ -2792,6 +2841,34 @@
       "resolved": "Divinity/The Narrative/Renge",
       "source": "Divinity/The Narrative/Insuperlex",
       "target": "Divinity/The Narrative/Renge"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Divinity/The Narrative/Insuperlex",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": null,
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Aut",
+      "source": "Divinity/The Narrative/Insuperlex",
+      "target": "Aut"
+    },
+    {
+      "alias": "Ashen Pact",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/index",
+      "source": "Divinity/The Narrative/Insuperlex",
+      "target": "Divinity/Ashen Pact/index"
+    },
+    {
+      "alias": "Færrin",
+      "heading": null,
+      "resolved": "Geography/Færrin/index",
+      "source": "Divinity/The Narrative/Insuperlex",
+      "target": "Geography/Færrin/index"
     },
     {
       "alias": null,
@@ -7573,6 +7650,13 @@
       "resolved": "Divinity/Ashen Pact/Esoterica",
       "source": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
       "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "holy gold",
+      "heading": null,
+      "resolved": "Phenomena/Holy Gold",
+      "source": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
+      "target": "Phenomena/Holy Gold"
     },
     {
       "alias": "Calaria",
@@ -15366,6 +15450,13 @@
       "target": "Phenomena/Pilgrimage"
     },
     {
+      "alias": "phlogiston",
+      "heading": null,
+      "resolved": "Phenomena/Phlogiston",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Phenomena/Phlogiston"
+    },
+    {
       "alias": "Hesperid 3",
       "heading": null,
       "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
@@ -20819,6 +20910,13 @@
       "target": "Divinity/Ashen Pact/Esoterica"
     },
     {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "People/Oliver Day",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "Anzu",
       "heading": null,
       "resolved": "People/Anzu",
@@ -21629,6 +21727,13 @@
       "resolved": "Phenomena/Holy Gold",
       "source": "People/Vestira Koi",
       "target": "Phenomena/Holy Gold"
+    },
+    {
+      "alias": "Oliver Day",
+      "heading": null,
+      "resolved": "People/Oliver Day",
+      "source": "People/Vestira Koi",
+      "target": "People/Oliver Day"
     },
     {
       "alias": "Hildebrandt Corporation",
@@ -22961,6 +23066,13 @@
       "target": "Geography/Færrin/Calaria/Hallia/Teller's Run/index"
     },
     {
+      "alias": "Insuperlex",
+      "heading": null,
+      "resolved": "Divinity/The Narrative/Insuperlex",
+      "source": "Phenomena/Firmament",
+      "target": "Divinity/The Narrative/Insuperlex"
+    },
+    {
       "alias": "Anthony's",
       "heading": null,
       "resolved": "People/Anthony",
@@ -23239,6 +23351,20 @@
       "resolved": "Divinity/The Narrative/Menhir",
       "source": "Phenomena/Holy Gold",
       "target": "Divinity/The Narrative/Menhir"
+    },
+    {
+      "alias": "Thessian",
+      "heading": null,
+      "resolved": "Divinity/Thessians",
+      "source": "Phenomena/Holy Gold",
+      "target": "Divinity/Thessians"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Phenomena/Holy Gold",
+      "target": "Divinity/Ashen Pact/Esoterica"
     },
     {
       "alias": "Metals",
@@ -24065,6 +24191,20 @@
       "resolved": "People/Anzu",
       "source": "Phenomena/The End",
       "target": "People/Anzu"
+    },
+    {
+      "alias": "Gremory",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Esoterica",
+      "source": "Phenomena/The End",
+      "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Hesperid",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
+      "source": "Phenomena/The End",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
     },
     {
       "alias": "Sedecium",
@@ -26441,16 +26581,36 @@
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Everdawn",
+          "heading": null,
+          "target": "Geography/Inevitable Everdawn/Everdawn"
+        },
+        {
+          "alias": "Argyle",
+          "heading": null,
+          "target": "People/Argyle"
+        },
+        {
+          "alias": "holy gold",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "The End",
+          "heading": null,
+          "target": "Phenomena/The End"
         }
       ],
-      "date": "2026-11-03T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-03T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -26760,6 +26920,21 @@
           "target": "Org/Roundhat Gang/People/Tywelwyn Leatherhide"
         },
         {
+          "alias": "Esoterica",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "holy gold",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "Hesperid",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+        },
+        {
           "alias": "Heart",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/Widdershins/An Iron Gauntlet in a Glass Glove"
@@ -26855,14 +27030,14 @@
           "target": "Divinity/Thessians"
         }
       ],
-      "date": "2026-10-29T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-10-29T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -27963,9 +28138,29 @@
           "alias": "Renge",
           "heading": null,
           "target": "Divinity/The Narrative/Renge"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": null,
+          "heading": null,
+          "target": "Aut"
+        },
+        {
+          "alias": "Ashen Pact",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/index"
+        },
+        {
+          "alias": "Færrin",
+          "heading": null,
+          "target": "Geography/Færrin/index"
         }
       ],
-      "date": "2026-08-17T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Insuperlex",
@@ -27977,7 +28172,7 @@
           "deep-eyes"
         ],
         "extra": {
-          "date": "2026-08-17T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -34128,6 +34323,11 @@
           "target": "Divinity/Ashen Pact/Esoterica"
         },
         {
+          "alias": "holy gold",
+          "heading": null,
+          "target": "Phenomena/Holy Gold"
+        },
+        {
           "alias": "Calaria",
           "heading": null,
           "target": "Geography/Færrin/Calaria/index"
@@ -34158,7 +34358,7 @@
           "target": "Geography/Althane/index"
         }
       ],
-      "date": "2026-11-03T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "HQ"
@@ -34167,7 +34367,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-03T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -42846,7 +43046,7 @@
           "target": "Phenomena/Holy Gold"
         }
       ],
-      "date": "2026-11-03T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
@@ -42856,7 +43056,7 @@
           "risk-of-ruin"
         ],
         "extra": {
-          "date": "2026-11-03T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -43818,6 +44018,11 @@
           "target": "Phenomena/Pilgrimage"
         },
         {
+          "alias": "phlogiston",
+          "heading": null,
+          "target": "Phenomena/Phlogiston"
+        },
+        {
           "alias": "Hesperid 3",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
@@ -43933,14 +44138,14 @@
           "target": "Bestiary/Mongrel Folk"
         }
       ],
-      "date": "2026-10-12T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-10-12T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -50494,16 +50699,21 @@
           "alias": "Gremory",
           "heading": null,
           "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
         }
       ],
-      "date": "2026-11-03T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-03T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -51527,9 +51737,14 @@
           "alias": "holy gold",
           "heading": null,
           "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "Oliver Day",
+          "heading": null,
+          "target": "People/Oliver Day"
         }
       ],
-      "date": "2026-11-03T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Vestiricoi"
@@ -51538,7 +51753,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-03T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -53333,16 +53548,21 @@
           "alias": "Teller's Run",
           "heading": null,
           "target": "Geography/Færrin/Calaria/Hallia/Teller's Run/index"
+        },
+        {
+          "alias": "Insuperlex",
+          "heading": null,
+          "target": "Divinity/The Narrative/Insuperlex"
         }
       ],
-      "date": "2026-06-05T16:40:21-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-06-05T16:40:21-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -53645,12 +53865,22 @@
           "target": "Divinity/The Narrative/Menhir"
         },
         {
+          "alias": "Thessian",
+          "heading": null,
+          "target": "Divinity/Thessians"
+        },
+        {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
           "alias": "Metals",
           "heading": null,
           "target": "Phenomena/Metals"
         }
       ],
-      "date": "2024-08-20T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
@@ -53658,7 +53888,7 @@
           "risk-of-ruin"
         ],
         "extra": {
-          "date": "2024-08-20T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -54642,6 +54872,16 @@
           "target": "People/Anzu"
         },
         {
+          "alias": "Gremory",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Esoterica"
+        },
+        {
+          "alias": "Hesperid",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+        },
+        {
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
@@ -54652,7 +54892,7 @@
           "target": "Divinity/Thessians"
         }
       ],
-      "date": "2026-10-29T00:00:00-04:00",
+      "date": "2026-11-17T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "the godkiller"
@@ -54661,7 +54901,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-10-29T00:00:00-04:00"
+          "date": "2026-11-17T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
