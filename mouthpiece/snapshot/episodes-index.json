@@ -42397,6 +42397,2625 @@
           "text": "Oh, don't—"
         }
       ]
+    },
+    {
+      "id": "000.through-a-song-darkly.2026-11-24",
+      "kind": "session",
+      "arcNo": 0,
+      "arcSlug": "through-a-song-darkly",
+      "arcTitle": "Through a Song, Darkly",
+      "episodeNo": 27,
+      "isMain": true,
+      "date": "2026-11-24",
+      "dateSortKey": 20261124,
+      "title": "The Bardic Slideshow",
+      "episodeTitle": "The Bardic Slideshow",
+      "hosts": {
+        "A": {
+          "name": "Bram",
+          "persona": "warm, boisterous, fluent but imprecise; the storyteller who relives the best moments with relish and happily embellishes. Talks in long, rolling run-on sentences that pile clause on clause; makes big sweeping claims he then has to walk back; reliably gets a name, number, or detail wrong and gets corrected (usually by Maeve); now and then runs clean out of sentence and lands on a shrug like \"you... you had to be there.\" Drives the recap forward and overshoots"
+        },
+        "B": {
+          "name": "Maeve",
+          "persona": "warm and dry, precise but easygoing; the long-time regular whose knowledge of the setting is lived rather than studied. Lands the exact word, name, or date Bram fumbles for and hands it to him in a few plain words — she's the crispest talker of the three, short and exact, though she still says \"yeah\" and \"mm\" and restarts a sentence when the thought gets ahead of her — then gets right back into the story with him. She's not the fact-checker; she's the friend who remembers. She's as invested in the characters as he is: she wonders aloud WHY someone did what they did, floats her own theory about what a faction is really up to, and builds on Bram's read as often as she tweaks it. Her wit is dry and fond, aimed at the world and the table's heroics, never at him. Grounds events in how the world actually works; usually right, so let her be plainly wrong exactly once so she isn't an oracle"
+        },
+        "C": {
+          "name": "Nell",
+          "persona": "bright, eager, quick on the uptake; the new friend at the table who has played a LOT of Pathfinder but is hearing this campaign for the first time. Reads every scene as a game before she reads it as a story — how close the fight was, what it cost, what the party gave up by picking that door — and is confidently, cheerfully right about that. Knows nothing of the world yet and doesn't pretend to: when a faction, a place, or a name comes up cold she ASKS what it is, plainly and without guessing, then repeats the answer back to make sure she has it. She never misremembers and never bluffs; her texture is enthusiasm — she over-asks, wants every side-thread pulled at once, is delighted by details the regulars take for granted, and now and then has to be told \"we'll get there.\" Talks fast and slightly too eagerly, often ending on a question, sometimes stacking two questions or swapping a half-asked one for a better one mid-sentence; by the end of the night she's more invested than either of them"
+        }
+      },
+      "synopsis": "Home again — with fuel in hand, four strangers rescued from beyond the sky, and a bargain that will cost two more deaths before anyone sets eyes on Færrin again. An unforgettable performance brings wary allies into the inner circle (minus a few chapters best left unspoken), while a tense summit over the fuel ends with barrels changing hands and nobody telling the whole truth. Deeper below decks, the Machine God unveils a shrine restored to its former glory, and one of the party goes looking for answers of a more divine kind. Then it's out across the endless wastes toward the first splash of color anyone has seen in weeks — where a very prepared welcome is already aiming rifles over the wall.",
+      "durationMs": 0,
+      "hasAudio": false,
+      "hasTranscript": false,
+      "audioVersion": "",
+      "transcript": [
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The thing I cannot get over is Argyle making two more dead gods sound like somebody needs to pick up milk on the way home, just this incredibly practical little errand between getting the fuel and seeing Faerrin again."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yeah, his recap was basically: killed one, nearly died, met something unpleasant, agreed to kill two more, rescued some people, found a wand."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is a wild summary even by this party's standards, but mechanically I get it. The kills were already on the list, so the bargain feels like getting paid for an appointment they'd somehow forgotten was going to kill them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Exactly, and everyone is nodding along like this is very reasonable until Tamara has to sit there and hear it said out loud."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, I heard the white-void part last episode, but give me the clean version. Who is Insuperlex, and why does he get to decide how they go home?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He's the Mountain, one of Aut's narrative siblings. He's the obstacle put in front of a hero, and by reputation he's the worst of that lot to serve."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is such a comforting thing to learn after you've already accepted the lift."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He doesn't decide every way home, though. He says there are four routes through the Firmament, counting his help, and his price is two more Ashen Pact dead."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So his offer is one route, not a cosmic law that they have to obey him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. He just declines to explain the other three."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Very forthcoming entity, excellent communicator, no notes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they killed a god already—Esoterica, right? Why is that also turning into something Johnny has to lie about later?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Esoterica, yes. Sedecium knew him as Gremory, a fourth-generation Thessian whose whole subject was magic. He died at the heart of the Hesperid with holy gold through him."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Before he could monologue, which I think is the detail Argyle considers most important."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That tracks."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The lying gets complicated because Esoterica isn't the only dead divine thing in their rearview mirror. There's also the Menhir, and Johnny's own part in how this whole disaster got rolling."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, those are separate from the Ashen Pact?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Very separate. The Menhir was another narrative being, a ring of standing stones speaking in harmonies. The party took its god-killing weapon, and one shot brought the whole ring down."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And now the aforementioned ring is decorating their front lawn, which is not suspicious at all."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, good. Landscaping."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It really ties the fane together."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So give me the filing system here, because there are Thessians, the Ashen Pact, the original Six on the ceiling later, and I think another set of six gods just floating around?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Thessians are the broad category: beings from beyond the Firmament, antithetical to mortal life. They draw the energy out of stars and worlds, and the people living there die with them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Mm-hm."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Ashen Pact is the six on the iron doors beneath the Gas-n-Go: Pyre, Herald, Giant, War, Esoterica, Regent. Esoterica's dead, five remain, and those are the names the party's treating as its target list."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A list, not a menu. Important distinction."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Six in the shrine are Aurelia's original party, historical people. And the Outer Gods are another group again. The Judge belongs there."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, so \"six\" is doing at least three different jobs in this setting."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It's an efficient number."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It is not."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No, it's terrible for conversation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Anyway, they get back to Hesperid Three with four rescued Sedecium castaways and this enormous bag of fuel, and Tamara and Yao have been holding the outpost with no idea whether anybody's alive, and then the train opens and out come the usual suspects plus four strangers."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Two guns pointed straight at them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is completely correct procedure. They left with one group, came back with extra people and more magic than they departed with, and nobody arranged a recognition phrase?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, and Josh even points out that the Protectorate absolutely should have made them do that."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the first thing you do. Otherwise \"we rescued researchers\" and \"these strangers are steering our friends around\" look identical from the wrong end of a rifle."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Tamara puts Yao on the train to watch the newcomers, takes the party into the refinery with doors that close, and asks for an actual explanation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Day is completely unconcerned, of course. The other three castaways look like they've regret every decision that brought them to this platform."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Poor guys."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There's also that wonderfully casual bit in Argyle's recap where the Sedecium people mention their clones have probably restarted somewhere, and the conversation just keeps moving."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I'm sorry, their what?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Their clones, probably rebooted elsewhere. That's all the detail anybody pauses for."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Sure. Why stop there?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Sedecium is both a people and a service from beyond the Firmament. They're at war with the Thessians, they use a sixteen-pointed star, and what began as one crystal-shell offering has become a hegemony of about fourteen or fifteen member systems."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And these four are survivors of the crew that stopped Gremory?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Their ship went into him at the Hesperid to stop his ascent. That wreck is the whole folded, ugly history the party just walked through."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Johnny presents them as distressed researchers rescued from a shattered complex, which is technically a collection of words that happened."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He's already sanding the edges."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Oh, the sanding has barely started."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But the first answer isn't a performance yet, it's just the facts landing one after another, and you can hear Tamara getting less happy with each one: yes, there was an entity in the complex; yes, they killed it; yes, something else wants two more dead; yes, this is connected to getting through the wall around reality."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "She's doing risk assessment and they keep adding a new category of risk."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. She says she allied with them partly because they seemed competent and comparatively decent. Now they're talking about bargains with things powerful enough to open the known universe."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Johnny's defense is, essentially, the Strider was already involved when they got on it, so this is not their mess."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "To his credit, he does say the quiet part plainly: they're working with what they found."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is not as reassuring as he thinks it is."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No!"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What actually reaches her is Anzu. He admits he thought Varen was everything, and now he understands it's one small piece of something much larger, full of civilizations and creatures he never had to account for."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, because that isn't a sales pitch, that's a frightened person telling the truth."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And then he brings it back to the ground. They're stuck. Getting unstuck will take work. The Firmament doesn't care how overwhelmed anybody feels."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the bit I'd trust too. Not \"we understand this,\" just \"we know we don't, and here's the next necessary thing.\""
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Tamara chooses them anyway. Explicitly over Grayson."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, who is Grayson? Everyone at this table reacts to his name like he walked in holding a leash."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Silven Grayson. Young human, stark-white hair, amber-and-black formalwear, always immaculate, always personable. Amber Call."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the friendliness has that extra coat of polish where you can see your own face in it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "At the gala he bent a Ki-Rin to his will. Later he was seen tending to barghest corpses. So Tamara isn't choosing between two equally unknown quantities."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Got it. Not just \"I dislike his coat,\" but \"he has a history of making powerful creatures into equipment.\""
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And he's got an uncle, Benjamin Grayson, senator and head of Amber Call, not his grandfather, which I have absolutely said wrong before."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You have. The uncle is bad enough; nobody needs to invent an evil grandfather."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Noted."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What I loved is that Tamara doesn't suddenly become carefree. She's still wary. She just decides she'd rather be wary alongside them than take her chances with him."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It's warm in that very hesitant way where nobody hugs, because there are still guns nearby, but the room has changed."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then Johnny immediately rewards that trust by asking whether they'd like to hear about the side quest under the Strider."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She objects to the whole \"do you want to know?\" framing, quite reasonably. She can't defend anybody from threats they refuse to describe."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So Johnny says, fine, show-and-tell, and produces what can only be described as a bardic slideshow."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "A magic PowerPoint."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A magic PowerPoint with an interpretive-dance section and, I believe, slam poetry."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Props later. The second performance gets art supplies."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "There's a second performance?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Oh, yes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He starts reaching for the whole creation myth, right, back to waking up in a burning building, and everyone at the table realizes that if he goes that far back they may have to discuss Calaria and exactly whose fault certain explosions were, so suddenly it's fast-forward, fast-forward—"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, he just edits live?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Continuously. He calls the Thessians \"entities.\" He initially wants the Machine God reduced to a powerful Heart downstairs. Argyle pushes for telling that part properly, so the Machine God goes back in."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Johnny very carefully establishes that they definitely did not kill the Men—"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Menhir."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Did not kill the Menhir. Which is a sentence innocent people famously have to rehearse."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the Judge being a Thessian stays out too?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Completely. So do Insuperlex's name and nature, until Johnny invents \"Mr. Split\" as a way of pretending they don't know who he is."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is going to come back immediately, isn't it?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, later."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We'll get there."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fine, but how does the performance land?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The first version is good, not perfect, and Johnny pours more into it, and by the end Tamara and Yao are sitting on their little barricade just repeating \"okay\" while the entire cosmology gets reorganized around them."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's not simply deception succeeding. The useful thing is that Tamara finally has the whole map, with three conspicuous holes cut out of it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right, she's not gullible. She's making a decision with better information than Grayson gives anybody, even if it still isn't full information."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then she starts turning it into steps, because she is a soldier and they are four lunatics and a bear-shaped logistical complication."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Get the newcomers aboard. Decide who's allowed to know how much fuel exists. Work out ignition. Find the remaining targets. Keep Anzu's sister alive long enough to get the bugs out of her head."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That last one is a whole separate nightmare."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Galzu, yes. And the Strider needs to be moving for the mind work, so it's all chained together."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who makes the fuel list? Because that seems like the sort of secret that dies the moment one frightened refugee wants protection from somebody richer."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's almost exactly Tamara's warning. The Solari subsurface people might tell Grayson or whoever makes them feel safest. Not out of malice—just fear."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which is such a good read on them. They joined the party because the party wasn't visibly sharpening knives behind its back, not because they'd sworn eternal fealty."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the default is no?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Default no. A whitelist. Tamara, Yao, the Scale if Argyle thinks they can hold it. Not Hildebrandt, especially if they're not telling the other senior people."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's sound. Every additional person needs a reason, not just a vibe."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Tamara says the Scale can keep a secret, which frankly surprised me more than the aliens."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "She also wants to help. She likes having a knowable terror instead of sitting in an outpost wondering whether everybody died."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Then they tell her the current assassination plan is Giant because it would be funny."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "She asks if she can come."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Of course she does."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "To be fair, Giant is the known location. Aut says it's stuck behind the Firmament at the far starward end, held there by whoever made the wall."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Johnny has a spell that makes things fall over, so the tactical discussion becomes which direction a god falls and whether they can avoid standing underneath it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That is not a safety plan. \"Three directions out of four probably don't crush us\" is a bit, not a plan."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It is extremely a bit."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The shockwave also occurred to somebody about half a sentence too late."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What happens when it stops being funny? Giant is huge, trapped, and possibly the easiest one to find. None of those make it easy to kill."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And if becoming mortal changes its size or nature, they don't know that either. They're planning around a punchline with no reliable picture of the body afterward."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I still want Tamara there with a rifle, looking up, and up, and up."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Somebody has to pull its attention while Johnny prepares the trip. Preferably somebody who can then get very far away."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There's the Protectorate battletrance for that."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "There's the optimism for that."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They also want Kadou to build a detector, on the theory that entities this saturated with magic must show up somehow."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Kadou, with Alkahest Freight. He knows the Horizon, and he's become their person for \"could you make something useful out of this?\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The Protectorate apparently has the same management technique: find the nerd, describe the problem, come back later."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Tamara recognizes it immediately."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then they have to get an entire alien spaceship home, because of course they've decided the wreck comes too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's a good choice, though. The four survivors know more about Thessians than anyone else aboard, and Day wants to build communications gear. A cup of fuel to recover that capability is cheap."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Oliver Day looks it over and says it can lift, not really travel. Benny takes the controls anyway."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny, the nine-year-old android with the face and entire emotional register of a child, turns out to be a beautiful alien-spacecraft pilot."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does the ship handle badly?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The opposite. You point it somewhere and it goes there. No turbulence, none of the usual arguments with gravity or the curve of a planet."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It floats about two feet up and just glides away, smooth as anything, while everyone else squeezes into the train car and pretends this was a normal towing operation."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's delightful."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The return drive is less delightful. Another dust storm, no real landmarks, and even with both guidance spells running they lose most of the day getting back."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There's no sunset either, because nothing out there gets the dignity of a sun. It's just the same gray until the car's clock says it's nearly ten and everybody's gone a little feral."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So the rescue is successful, but it costs them daylight, fuel, and any chance of coming home looking rested and innocent."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. Then the bottom of the Strider opens and three car-sized lifts come down for them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The Machine God has become their valet."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the spaceship?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Into their garage, with the Machine God sealing it away. They also ask him to misdirect anybody wandering around the undercroft."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which leads directly to him explaining he's been organizing."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Signs. Repaired elevators. Straighter routes. Less maze. He's cleaned out things living in the forsaken sections."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That got ominous quickly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny stops him to ask about the abhumans, because \"cleaned out\" is doing a lot of work there, and the Machine God says they're fine, he didn't harm them."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "But their contracts are with beings that may not exist anymore, and he hasn't told them. If they all leave, the Strider stops working."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He wasn't the only thing operating it originally. He's doing more than he was made to do, and he doesn't know whether he can ever run it alone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny immediately starts asking about food and hydroponics, which I liked, because you meet a new vast machine intelligence and you do have to poke around for its ethical boundaries a little."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Sure, but the labor problem is now sitting underneath every plan they make."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It is. And when Argyle starts offering more projects, the Machine God reminds him he's currently digesting the brains of his fallen brethren on their behalf."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Argyle goes, right, yes, carry on, sorry."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fair enough."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He also doesn't know phlogiston. The Strider used coal. He can try to learn, but he's not a free fuel-conversion machine."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "So they collect the Scale for performance number two, now with props and Tamara and Yao standing behind Johnny like visual citations."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does anyone ask why the Protectorate pair is needed to make the story credible?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny does. Johnny is offended by the implication."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Bishop gets the same edited account. No Menhir, no Judge-as-Thessian, no proper name for Insuperlex. Just Mr. Split and a lot of entities."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "There it is."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Vesper reacts to Mr. Split. Visibly, briefly, and then tries to bury it. Argyle catches it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And says nothing, because why follow up on the one person who might recognize your mysterious multiversal landlord?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, nobody asks him?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Nobody asks him."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They have a name reaction in the room and they just walk away from it?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They're very busy being pleased with themselves."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It goes on the shelf with several other loaded objects."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That shelf is going to collapse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Probably."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Bishop's bigger concern is whether they're just dancing to another thing's tune. He didn't like the Harlequins puppeting everyone, and this doesn't feel structurally different to him, even if the party's friendlier."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He also asks directly whether they mean to kill Grayson."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The party gives him the full range of answers, from \"that was the old plan\" to \"he may be a bozo\" to \"his associates are clearly evil\" to \"we're not going to kill him on sight.\""
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu's the clearest: he doesn't think Grayson has to die."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Good. Because suspicion plus bad fashion isn't an execution warrant, particularly for people working with the Judge."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly. The Judge's whole teaching is just executions and opposing corrupt or bloodthirsty officials. Bishop is not going to be soothed by \"probably needs killing eventually.\""
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "What Bishop wants is for the mission to come from the Judge, not from some weird half-man in a white void."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why is the Judge being a Thessian such a huge deal for Argyle specifically? I get the general horror, but he's sweating through an air-conditioned room."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle's old selves—the failed celestial and the repentant devil—have been separated and scattered. What's left is the celestial, serving as a Scale custode on loan to Iconoclasm."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The Judge isn't just a god he finds interesting. He's the patron behind the Scale and the moral structure Argyle's trying to stand inside. If that patron belongs to a kind of being that eats worlds, the ground moves under him."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Johnny chooses this exact moment, while Argyle is setting up the augury, to wonder whether the Judge knows that they know."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh no."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then he backs away from his own sentence, but the sweat has already happened."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle still asks. In the most Argyle form possible: if they begin thinking about making plans to kill these things, would the Judge be angry within the next half hour?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is a very funny way to respect the spell's limit. Augury only reaches a short distance ahead. It can tell them whether starting this course looks good or bad now, not bless every god-killing decision for the rest of the campaign."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The answer is favorable. Weal. Kill them; the Judge wants them dead."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Bishop looks so relieved you'd think somebody had just produced a signed form."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I understand the relief, but the timing is awful. Johnny's question is still hanging there, Vesper's reaction is still hanging there, and everyone grabs the clean divine permission because it feels better."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. It solves Bishop's immediate problem, not Argyle's deeper one."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Funny relief with a little trapdoor under it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then comes the field trip, and Bishop very sensibly refuses to let the Machine God open a door directly into his bunker."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Because that would defeat the entire point of a bunker, yes."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "So they go outside, down into the garage, and a wall folds itself into a hallway."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does the Machine God get added to their mental network?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny says no."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "His reason is beautiful: how are they supposed to talk about people behind their backs if those people are in their heads?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Honestly? Good operational security."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Also, the Machine God can rearrange the undercroft and see beneath the surface, not look into everyone's Heart-space whenever he likes. Bishop's boundary is meaningful."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then they walk into the shrine, which is where the night stops being a farce for about five entire minutes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yao's reaction?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We'll sit here a second, because it's worth it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, absolutely."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The old approach had six worn statues and a staircase that had been left to dust and breakage. Now there's a circular pavilion, hundreds of feet across, white and terracotta tile, gold and brass figures, incense hanging so thick the room feels full of it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There's a red carpet and the staircase seems twice as long, and every available surface has something carved or painted or gilded on it. Golden gothic maximalism, Josh calls it, and that is exactly it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The mural covers the original Six fighting everything monstrous you could think to put in an army. Not a quiet chapel. A whole argument about what glory used to look like."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The Machine God tilts this enormous metal upper body down and welcomes them, very proud, saying he's restored the place, and Johnny goes, \"You own the place.\""
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Perfect."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's the exact pinprick the scene needs. Genuine awe, then the landlord receives compliments on his renovation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Yao just steps past all of that and asks whether he knew Aurelia."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Then whether he can tell him about her."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why does that hit Yao so hard? I know he carries a piece of the first Aurelia's armor, but what does the Machine God represent to him?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yao's Protectorate faith isn't the Calarian Church's version. They believe Aurelia the First ascended into the horizon, that the Calarian Pontifex is false, and that the true Aurelia is still singing for rescue."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "In the Voidsong."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's what he hears. So this isn't a scholar offering a better date for a saint's life. It's a living relic who stood near the person at the center of his faith."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Somebody who can answer \"what was she like?\" instead of giving him another authorized painting."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, that would undo me too."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He would happily listen for half a day. The party cuts the audience short, but there's no way he doesn't come back."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He's coming back with a notebook. Possibly several notebooks."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does the Machine God know what's actually at the source of the Voidsong?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. And he doesn't know a route through the Firmament, or even how the Strider got out here. That matters—he's ancient, not omniscient."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Tamara asks how she gets home and a hallway simply appears. Very practical deity, when the question is small enough."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Meanwhile Day asks whether everyone will be upset if Sedecium has to kill their other gods, and the party decides that's a later question."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There are at least five emergencies ahead of it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "At least."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Day's communications array could be the real prize, though. Can it find Thessians?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Their equipment was originally built for tracking them, and he thinks some of it might be reworked. The catch is the ping: if you send something out and read what returns, the target knows it got touched."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right, active sonar. You get a direction, and you announce that somebody is looking. That's not automatically bad, but it's a choice."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny wants magical echolocation until he realizes the echolocation can clear its throat back."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They want subtlety. They have not yet worked out what subtlety looks like for a god detector."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Put a pin in that too."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The shelf, Nell."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I know, I know."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Argyle stays behind when the others leave. Alone on the Pilgrim's Way, surrounded by the original Six, he reaches for an omen rather than another yes-or-no."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And gets something much less convenient."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Vertigo first. Then a glint from one of the hanging ornaments, though there's no moving light to explain it. It catches Honorsworn's weapon where it enters a shrouded enemy soldier."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Honorsworn founded the Scale?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. His sword, specifically—the point of impact. But Argyle's eye is also pulled upward, to Aurelia at the top of the fresco, mouth open, clearly trying to tell the others something."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then it stops, and he's left doing that awful thing where you don't know whether you received two messages, one message, or just badly needed lunch."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It's deliberate imagery, though. Not \"go kill.\" A hidden-faced enemy, the exact wound, and Aurelia communicating."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "My read is that the two images belong together. Don't just look at who's being struck; ask what Aurelia is saying while it happens."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Mine was \"the Judge says stab, but listen before you stab,\" which is… actually your read with worse manners."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It's close enough."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could it point back to Yao? He's the person currently desperate to hear her, and he just met somebody who can describe her firsthand."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Could. That's a guess, but it's a good one."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or the shrouded soldier is somebody whose face they're not meant to know yet, which is extremely rude of the fresco."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Also possible."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "What I wouldn't read it as is blanket permission. They just got a favorable augury, and now the omen complicates rather than repeats it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yeah. The gods are being very helpful in a way that creates more homework."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then he catches up with everyone at home and gets scolded by two redheaded twins in pajamas and bathrobes for being out late."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anouk and Anaïs, standing under one lamp like worried parents. Then they notice the guests."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they know what Sedecium is?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Both of them do. Even with the twins being nearly impossible to read, that much comes through. Then they deny knowing anything about it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny tries the extremely effective technique of asking the same question with more suspicion in his eyebrows."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does it work?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It does not."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Eventually they admit they've heard the name through an old source who used to count Sedecium as friends. It's been a long time since that name came up."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So not an immediate threat to the houseguests, but absolutely another secret."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. They're willing to make more bedroom space and let Day's people use the workshop."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They also tell the party, very casually, that everyone smells strongly of narrative, and Johnny says, oh yes, we killed Esoterica and spoke to Insuperlex, and the twins go, good talk, and try to leave."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No follow-up questions from the terrifyingly knowledgeable children?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Plenty of evasions instead."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Johnny says Insuperlex doesn't like them personally, and the twins point out that they did kill his baby brother."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The Menhir again."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny's defense is that it was sort of suicide. The twins are unimpressed, especially when Anzu is standing right there trying to save his own sister."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That whole sibling comparison lands like a saucepan on the floor."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu just says he can fix Galzu. He's been trying very hard not to reach the other outcome."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And Johnny's analogy accidentally asks whether they'd enjoy shooting a friend's sibling because she asked them to. Not their best rhetorical moment."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No, and Benny somehow makes the clarification worse."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The practical part survives the awkwardness. The twins can't hand them a Thessian detector, but converting phlogiston into usable Heart energy is much closer to their sort of project."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which could break the tithe problem without any fraud at all, theoretically."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Theoretically doing so much work in that sentence."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then somebody gets the bright idea to interview the dead standing stones."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Oh, the Speak with Stones attempt."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They go out to the front lawn and address the Menhir like it's a wall that's been withholding information."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The useful answer is that these aren't ordinary rocks. They're still the Menhir—the actual remains of the being—not a pile of gravel that happens to remember some passersby."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So no interview, but the spell does confirm what they're standing in."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Right. And ordinary stones may be chattering away all the time; the spell merely lets you hear them. The Menhir doesn't become cooperative because somebody learned the right trick."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I love the image of two normal rocks nearby suddenly realizing this person can understand them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's the part that would make me leave the yard."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Also, they're not moving the remains. They tried that sort of thing already. The Menhir is effectively infinitely heavy, so the Weekend at Bernie's plan dies before it starts."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "It would have been a very dignified parade."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "No it wouldn't."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny catches Argyle before bed and takes him for a little walk around the oily walls, carrying ciabatta."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The bread is important?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The bread is extremely important."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He asks if Argyle's okay, asks whether he thinks he's a good person, pokes at the religion question without pretending he can resolve it, and then offers bread, a poem, or possibly one of Egan's cigars."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "His one theological suggestion is that not every Thessian has to be the same. The Ashen Pact came to destroy things; the Outer Gods have been around without doing that, at least as far as they know."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's not proof the Judge is good."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "No. It's a little room to breathe."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He doesn't solve Argyle's crisis with baked goods, I should be clear."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He stays with him. That's the useful part."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Next morning, empowering breakfast, everybody's eating toast, and the four newcomers are already mingling with the small village of people the party has adopted."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Kadou brings the scouting report. Jethro's been running more loops, looking for places that might yield fuel."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is the buggy and the pyramid?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. Jethro saw an open vehicle, a roll-cage sort of thing, driving away from the Strider toward the southern settlement. He didn't see who was in it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which means somebody else has wheels and a destination, and I hate both of those facts."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It also means the party isn't the only group making decisions off-screen. That's important before they announce how much fuel they have."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There's another possible site far west, too: something like a pyramid with part of it floating free of the rest. More ruins to the south as well, but the living traffic gets everyone's attention."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Kadou also mentions the Atlas has another half somewhere in the library, starward maps instead of voidward, and then wanders off like that isn't an entire quest hook wearing a little hat."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Wait, the Void Atlas already charts an absurd number of worlds, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Its first page folds out into a voidward chart covering close to two and a half million worlds. The matching starward book would chart the other direction."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they just have the first one sitting around?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They have a lot of things sitting around. It's becoming a problem."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, so they go ask the skull. Remind me whose skull this is? I know he was with them in the last episodes, but I don't have his history."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Osyluth. Tonight he gets called Aslith half the time, but it's the same cheerful artifact. He was curator of the Harlequin Town library aboard the Providence."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Enormous bone creature originally, somewhere between a dragon and an armadillo, very flattering, very unimpressed by gods. Now he travels in Anzu's sleeve and gasps for air he does not need."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then admits he was lying about the sleeve being stuffy, because he has no skin and wouldn't know."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Already lying before breakfast is over. Excellent."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "But he's useful! You dump the phlogiston into the tank on the lift, hook it up, prime the machinery, hit go, and off you trundle."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Toward home?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Toward the Voidsong. That's the problem."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Can they steer?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Apparently not meaningfully. The thing was altered to go forward faster, reverse is broken, and at present it's stopped only because there's no fuel."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There's a lever for forward and stop, under ordinary operation. But Osyluth's answer about stopping is basically that it's as hard as going, which is not comforting when the destination is a wall around reality."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So starting the Strider before they understand the Firmament is not \"progress,\" it's committing to a collision course with a timer they can't read."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I had been treating ignition as the big win, and then it turns out ignition is also how you remove the luxury of sitting still."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's a real cost. Especially with Grayson pushing them to hand over the fuel."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And the Atlas answer makes it worse. The starward book is still in the library, but the library isn't where the library used to be."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What does that mean, physically?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "An infinite library in another dimension, currently being devoured by something. Osyluth used to be the front-desk presence for his little portion of it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny asks whether there's a cool front-desk guy who can just find the book."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Is there?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Almost certainly somebody, somewhere. That's not the same as somebody findable. The normal library is gone."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He also calls them smart but not curious, which is the politest possible way to say they never asked how a library curator ended up inside their machinery."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's fair. They accepted the skull and moved on."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He gives them one more ugly tithe detail before going back in the sleeve. The system pulls from every active Heart ritually attached to it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Could they drain somebody deliberately?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "In principle, if they knew the reserves and could control the draw. Pull too far and the Heart dies; pull the whole system too far and the Strider could blow up."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "His conclusion is that there are easier ways to murder somebody."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He's not wrong."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "But this is the tithe question in miniature. Fuel can replace the levy; pretending there isn't enough fuel means choosing who keeps paying it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, that was my next question. What exactly is the tithe buying them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Energy through those attached Hearts, keeping the stranded Strider's shared machinery sustained. The party has enough actual fuel to move and still keep a reserve, but the public story is that there's only enough to begin, so the tithes must continue."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Preferably paid by people they don't like."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And preferably without their allies knowing they're carrying the difference."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That's the whole summit."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They call a banquet at Giacomo's, which is either a diner or an Italian restaurant depending on which way the wind is blowing, and in comes Walter Stoke, then Grayson, then Manus."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Manus is Pale Lantern, yes? He doesn't do much tonight, but I don't know that organization beyond the name."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He's the leader who joins that side of the parley. The Pale Lantern Society is ancient—once necromantic warlords and aristocrats. After the Firmament cracked, the Pulse declared it her presence in the world."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And now?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Hospitals, research centers, graveyards. Still necromancy in the family history, but a very different public face."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Got it. And Stoke is the blind Church priest with the prismatic vestments?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Walter Stoke, yes. Practiced, political, friendly, and in charge of the churchfolk aboard. He also remembers the last tithe summit, where the party scared him into cooperation."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Which becomes relevant when he accepts their terms with remarkable speed."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "While Grayson opens by hoping they have good news."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny says they found eight barrels."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They have more than that."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Considerably more. They're carrying around fifteen barrels of the real stuff, besides the odder liquids they collected."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny says four get the Strider started and nine get it home, so obviously the tithes have to begin."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Grayson makes the immediately reasonable observation: if one trip produced eight, one more trip could produce the ninth."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That's why he's dangerous in this scene. On pure logistics, he's right. They've been stranded less than a week. Waiting for another run could avoid bleeding Hearts at all."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And Johnny says they nearly died, which is true, and that if Grayson wants to wander the hellish wasteland personally he's welcome to it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Grayson offers to send somebody else instead."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "There's the threat. Not \"I'll argue,\" but \"you're no longer necessary.\""
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And inside their private connection Johnny immediately goes, well, perhaps that's good, perhaps some of Grayson's people leave the Strider and then the Strider accidentally starts without them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They're already planning around his plan."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Openly agreeing to debrief whoever he sends while privately discussing stranding them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "What's the debrief?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The least useful field report ever delivered. Wasteland, monsters, mining station, red ghosts."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny also offers the name Sedecium to the room and watches. Nobody visibly recognizes it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which doesn't mean nobody knows it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Precisely."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They keep the two-god bargain out entirely, then Johnny plays up how exhausted and fragile and generally pathetic the mighty adventurers are."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does Grayson buy it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Enough to become gracious. He tells them to rest, says he'll take over, and asks them to leave the barrels on neutral ground."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "\"I trust you; trust me,\" that whole routine, and inside the connection Johnny realizes that if they walk away, Grayson can start the Strider the second they leave it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The exact maneuver they were considering against him."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Grayson counters with the other reasonable fear: if they hide the fuel inside their defended fane and die, everyone else is stranded."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Also not irrational. Everybody’s telling a partial truth built around a real risk."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then they do the bit where, despite holding every card and most of the table, they agree to divide the imaginary eight."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Three for Grayson’s side, two for Stoke, and Anzu insists the party counts as one of the three-barrel groups because he risked his feathers getting them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Leaving three in the party’s version of the story."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Stoke calls it reasonable insurance and takes his two before anyone can make the meeting worse."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And the party immediately regrets giving up anything, even fictitiously."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Benny says the quiet part: why did they agree at all?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Johnny admits they could have played it better."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "This is where the bomb conversation starts?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Oh, this is where several bomb conversations start, stop, merge, and become less safe."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The first scheme is simpler. Hand Grayson the worthless barrels—oil, Goodberry concentrate, whatever looks plausible—and keep God’s Blood and the crew’s consciousness."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "The crew’s consciousness absolutely stays with them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Yes, no handing a barrel of people to the man with the leash history."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then somebody proposes a contingency that turns opening a barrel into an explosion, so they can shrug and say they warned everybody the fuel was flammable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "But the barrels have sight strips, don’t they? You can see the liquid and level."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Clear titanium strips. So they can’t just fill random containers and hope nobody looks."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There’s also the small issue that a barrel capable of powering the Strider might be capable of removing the Strider from the map."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Slightly more than small. They need an explosion that damages one fortified structure without rupturing the vessel everybody lives in, and they don’t know the fuel’s blast behavior."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Anzu is nervous he’ll be the first thing to explode. He also has to check whether the plan has somehow expanded to bombing the Church."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny’s version is: deliver barrels, later blow up Grayson, then announce that the idiot opened something unstable."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Which is a long way from “he doesn’t have to die.”"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That’s why the table keeps arguing with itself. Benny frames it as Grayson forcing their hand by threatening to replace them and demanding a share. Anzu points out that they also forced their own hand by accepting the demand."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And then, in the middle of all this righteous escalation, somebody remembers the Sedecium people may not be bombmakers at all."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Day might know. The other three might just want to call home and never see another explosion."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "There’s also the older proposal of making the handoff look like an outside attack, but nobody can make that clean either. If somebody steals the Church’s barrels, the Church may die for the privilege of simplifying the party’s arithmetic."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "So what do they actually do? Because the table talk runs in ten directions."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The one thing that works: empty barrels from the lift, filled with God’s Blood."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Five glowing blue barrels of absolutely-not-phlogiston."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That’s why they check Galzu while they’re down there?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes. No obvious physical change, though her raiment may look a little larger. Then they tap the tanks and fill the empties. The Machine God makes the trip easy."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "No heist, no bomb assembled, no fake ignition run. Just fraud with a lovely blue glow."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And God’s Blood isn’t worthless. Radiant Arms is trying to distill it for weapons. They’re spending a useful magical material on the con."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They have a great deal of it available, but yes, it’s not free."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny’s assessment is that Grayson will either decide God’s Blood is phlogiston or decide the party are idiots, and everyone seems willing to live with either."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That’s the dangerous part. The con depends on the targets not knowing the substance, but the party barely knows it either. They can’t predict what happens when somebody tests it."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They keep the oil, the Goodberry concentrate, the crew’s consciousness, and all the real fuel."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Who collects the fakes?"
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Nice Church-robed people for Stoke’s two, and for the other three, two skeletons with muscles grown over them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I’m sorry?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Easy labor, according to Josh."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The muscles really help with the dragging."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Of course they do."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And there’s no big roll at the handoff. The barrels go out. Whatever happens when somebody opens or uses one is still ahead of them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I had this as “the night they bombed Grayson” in my head, and no, they did not. They talked about bombing him with such commitment that the memory added an explosion."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They left the bombs at home."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That becomes important at the cliffhanger."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It does."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "The cover plan afterward is to lie low for a few days, maybe pretend they went back out, maybe find a pub, maybe let Grayson’s hypothetical expedition leave and then do something unwise with the ignition lever."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Instead they pick the settlement with unknown people and drive straight at it?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Pretty much. South first, possibly west afterward. They convince themselves the settlement might have food, drink, music."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "They are manifesting cool guys."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Uh-huh."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Before leaving, Anzu finally uses his new runesmithing, and it’s a lovely little quiet scene after an hour of increasingly criminal logistics."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He gives Benny the Rune of Whetstones—Hwet, with the very important H—on the falcata."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Persistent bleed rather than a bigger hit. That’s nasty in a good way, especially on a weapon with multiple damage dice, and it fits Benny: get in, make the wound matter, keep pressure on."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Then he turns to Johnny with the Rune of Appeal and asks where he wants it."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny offers his forearm, because if you’re going to become supernaturally likable you should do it with a cool forearm."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A shining gold mark, arcane rather than scar tissue."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And it boosts Deception, Diplomacy, and Performance as a status bonus, separate from his items?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "That feeds directly into the new feat letting him use Performance for initiative. The bard can now walk into danger being appealing at people before anyone else has properly started."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "His entire build is becoming “what if the opening number happened before combat?”"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Josh points out he still doesn’t hit harder. Johnny’s response is essentially that he does everything else."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He killed spiders once."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He did kill spiders once."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It’s also just a kind gift. Anzu has two runes he can sustain right now, and he spends one making his friend better at the thing his friend loves."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "After the fuel fraud and the bomb drafting, yes, somebody engraving a little gold kindness onto Johnny’s arm felt almost indecently wholesome."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Does he know how long they last?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "He’s still working that out. Possibly a morning ritual. He’ll figure it out after he’s done being pleased with himself."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Fair."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then they drive south, and nothing happens for hours, which after the week they’ve had feels almost suspicious."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Good driving, good navigation, no crevasse, no dust storm, no monster under the waste. Just flat gray nothing."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Kansas without the agricultural interest."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They make good time, but there’s no stealth value in an empty plain. If anything is ahead, it has the whole approach to watch them."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "About four hours out, the settlement appears."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And the first thing is color. Not another terminal glowing blue in a gray room, not a little grass inside the Strider, but orange and blue and yellow out on the horizon, actual huge sails of fabric above a wall."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Scavenged metal plating around it, not uniform or refined. Huge tent structures inside, some of them tens of feet across. Movement on the walls. People hauling ropes to shift the sails by hand."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Populated and maintained."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "That’s the shock. Not intact because nothing ever touched it—looked after."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Somebody has been sewing those sails and repairing that wall and deciding what color today ought to be, while everywhere else has been dead machinery and old dust."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And they’ve seen the car coming for miles."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Fifteen miles at least, Josh says. No cover, dust rising behind them, nothing to interrupt the view."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then the figures on the wall lift long shapes, and guns have a very recognizable silhouette even when you don’t know who’s holding them."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "How close were they to getting shot? Not in the “a shot already went wide” sense. Nobody fires. But they’re in an open approach with rifles already aligned and no way to pretend they weren’t coming."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "One misunderstanding away."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Exactly. It’s not combat yet; it’s the last social moment before combat becomes easy."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And there are substantially more people than they’ve found anywhere else out here."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Then Josh says they’ll pick it up next session and the entire table deflates like somebody let the air out of the car."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Because of course he does."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Of course."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, I have questions. Are the sails being moved because of them? Is this a settlement closing up, or people just working? And was that buggy Jethro saw coming here from the Strider, because somebody could have warned them?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "All possible. Nothing established."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "My first read was refuge, because the colors feel like people insisting on being alive, and then the rifles made me wonder whether it’s a siege camp that learned to make its walls cheerful."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It could be both. A refuge that survives by aiming first."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "The care doesn’t tell us whether they’re kind. It tells us they intend to remain."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "That’s very good and I dislike it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "If the earlier buggy belonged to somebody aboard the Strider, the settlement might already have a story about these vehicles. Grayson’s people, another faction, scouts—they don’t know."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Or the buggy could belong to the settlement itself. Jethro saw it driving away from the Strider, not leaving it."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. No reason to force that connection."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "What if they stop the car, get out, and Johnny performs the entire presentation again?"
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Absolutely not."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Not the full version."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A shortened edition."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He has the Rune of Appeal and a lot of confidence. That’s not the same as cover from rifle fire."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They also haven’t agreed whether to approach, wait, signal, or turn around. The session ends on the aiming, not on a decision."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And they left the bombs at home, which is either excellent for diplomacy or terrible for the sort of diplomacy this table usually practices."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "It’s excellent for everybody inside the walls."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Probably."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "There was that hospital once."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "I heard the postgame justification. I don’t think “some patients were evil” is the sturdy moral framework Josh briefly wanted it to be."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "It was post hoc. At the time they wanted to get through floors."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "And a psychiatric facility declaring them sane was apparently so alarming that explosives became the next step."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Please let this settlement have a pub and no hospital."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A pub with thick walls."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "A pub outside rifle range."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Seriously, though, the party has spent the whole day deciding which truths to give each faction, and now they’re about to meet people who know nothing about any of it. No Ashen Pact briefing, no fuel story, no Protectorate voucher."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "A clean first impression, which may be the most dangerous thing Johnny’s had all session."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "He can be honest."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "He can."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Selectively."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Selectively honest, yes, that’s the good version."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Do they even mention the Strider? If these people have watched a moving fortress on the horizon, that’s one conversation. If they haven’t, “we live in the giant machine” is another."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "And if the settlement knows about the Voidsong, the party’s direction of travel may mean something to them."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or they’ve just spent weeks watching every nightmare come out of the waste, and now here’s a dust cloud with a child android, a bird aristocrat, a former bartender, and a sweating celestial inside."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Plus the bear."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "You don’t lead with the bear."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "You rarely get to choose whether Arctos leads."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Okay, that’s fair."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "I want the orange tents to be safe so badly. Not necessarily safe-safe, just somewhere somebody has made breakfast recently and isn’t contractually bound to an extinct god."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yao could use that. Anzu could too."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Argyle could use a room with no murals."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Johnny would find the open mic."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Benny would ask whether their vehicle also ignores physics."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "And then somebody would mention the rifles again."
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Yes."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "First color in weeks and they arrive looking like an unexploded problem."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "They're stopping the car before they do anything else, right?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "They hadn't decided."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Right. No, of course they hadn't."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Full speed ahead was suggested."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Why would you say that to me now?"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "We'll find out whether the settlement has a sense of humor."
+        },
+        {
+          "speaker": "A",
+          "name": "Bram",
+          "text": "Or a pub."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Or a wall with extremely patient riflemen who are about to hear the words \"magic PowerPoint\" for the first—"
+        },
+        {
+          "speaker": "B",
+          "name": "Maeve",
+          "text": "Nell."
+        },
+        {
+          "speaker": "C",
+          "name": "Nell",
+          "text": "Sorry. I just really need to know what color the people are wearing."
+        }
+      ]
     }
   ]
 }
