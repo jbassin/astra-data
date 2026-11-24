@@ -10774,6 +10774,27 @@
       "target": "Divinity/Ashen Pact/War"
     },
     {
+      "alias": "Giacomo's",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/Giacomo's",
+      "source": "Org/Amber Call/People/Silven Grayson",
+      "target": "Org/The Harlequins/Providence/Giacomo's"
+    },
+    {
+      "alias": "Walter Stoke",
+      "heading": null,
+      "resolved": "Org/Iridescent Church/People/Walter Stoke",
+      "source": "Org/Amber Call/People/Silven Grayson",
+      "target": "Org/Iridescent Church/People/Walter Stoke"
+    },
+    {
+      "alias": "Manus",
+      "heading": null,
+      "resolved": "Org/Pale Lantern Society/People/Manus Sudrenus",
+      "source": "Org/Amber Call/People/Silven Grayson",
+      "target": "Org/Pale Lantern Society/People/Manus Sudrenus"
+    },
+    {
       "alias": null,
       "heading": null,
       "resolved": "Geography/Færrin/Quiet Below/Nos Mortem",
@@ -12300,6 +12321,20 @@
       "target": "Org/Iconoclasm/People/Anaïs Marchal"
     },
     {
+      "alias": "Anaïs",
+      "heading": null,
+      "resolved": "Org/Iconoclasm/People/Anaïs Marchal",
+      "source": "Org/Iconoclasm/People/Anouk Marchal",
+      "target": "Org/Iconoclasm/People/Anaïs Marchal"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Org/Iconoclasm/People/Anouk Marchal",
+      "target": "Org/Sedecium"
+    },
+    {
       "alias": "Fenrith",
       "heading": null,
       "resolved": "Geography/Færrin/Fenrith/index",
@@ -13357,6 +13392,13 @@
       "target": "Org/Pale Lantern Society/index"
     },
     {
+      "alias": "Providence",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/index",
+      "source": "Org/Pale Lantern Society/People/Manus Sudrenus",
+      "target": "Org/The Harlequins/Providence"
+    },
+    {
       "alias": "Iridescent Church",
       "heading": null,
       "resolved": "Org/Iridescent Church/index",
@@ -13635,6 +13677,48 @@
       "resolved": "People/Sir Arctos",
       "source": "Org/Protectorate/People/Tamara McKay",
       "target": "People/Sir Arctos"
+    },
+    {
+      "alias": "Yao",
+      "heading": null,
+      "resolved": "Org/Protectorate/People/Yao Addington",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Org/Protectorate/People/Yao Addington"
+    },
+    {
+      "alias": "Hesperid 3",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+    },
+    {
+      "alias": "Grayson",
+      "heading": null,
+      "resolved": "Org/Amber Call/People/Silven Grayson",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Org/Amber Call/People/Silven Grayson"
+    },
+    {
+      "alias": "Scale",
+      "heading": null,
+      "resolved": "Org/The Scale/index",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Org/The Scale/index"
+    },
+    {
+      "alias": "Hildebrandt",
+      "heading": null,
+      "resolved": "Org/Hildebrandt Corporation/People/Hildebrandt",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Org/Hildebrandt Corporation/People/Hildebrandt"
+    },
+    {
+      "alias": "Giant",
+      "heading": null,
+      "resolved": "Divinity/Ashen Pact/Giant",
+      "source": "Org/Protectorate/People/Tamara McKay",
+      "target": "Divinity/Ashen Pact/Giant"
     },
     {
       "alias": "Protectorate",
@@ -14638,6 +14722,20 @@
       "target": "Phenomena/Holy Gold"
     },
     {
+      "alias": "Providence",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/index",
+      "source": "Org/Sedecium",
+      "target": "Org/The Harlequins/Providence"
+    },
+    {
+      "alias": "Oliver Day",
+      "heading": null,
+      "resolved": "People/Oliver Day",
+      "source": "Org/Sedecium",
+      "target": "People/Oliver Day"
+    },
+    {
       "alias": "Belvedere",
       "heading": null,
       "resolved": "Org/Belvedere/index",
@@ -15338,6 +15436,20 @@
       "target": "Geography/Færrin/Infinite Horizon/index"
     },
     {
+      "alias": "phlogiston",
+      "heading": null,
+      "resolved": "Phenomena/Phlogiston",
+      "source": "Org/The Harlequins/Providence/Machine God",
+      "target": "Phenomena/Phlogiston"
+    },
+    {
+      "alias": "firmament",
+      "heading": null,
+      "resolved": "Phenomena/Firmament",
+      "source": "Org/The Harlequins/Providence/Machine God",
+      "target": "Phenomena/Firmament"
+    },
+    {
       "alias": "Providence",
       "heading": null,
       "resolved": "Org/The Harlequins/Providence/index",
@@ -15455,6 +15567,41 @@
       "resolved": "Phenomena/Phlogiston",
       "source": "Org/The Harlequins/Providence/index",
       "target": "Phenomena/Phlogiston"
+    },
+    {
+      "alias": "Hesperid 3",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+    },
+    {
+      "alias": "Voidsong",
+      "heading": null,
+      "resolved": "Phenomena/Harmony/Voidsong",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Phenomena/Harmony/Voidsong"
+    },
+    {
+      "alias": "Sedecium",
+      "heading": null,
+      "resolved": "Org/Sedecium",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Org/Sedecium"
+    },
+    {
+      "alias": "Hesperid",
+      "heading": null,
+      "resolved": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+    },
+    {
+      "alias": "Oliver Day",
+      "heading": null,
+      "resolved": "People/Oliver Day",
+      "source": "Org/The Harlequins/Providence/index",
+      "target": "People/Oliver Day"
     },
     {
       "alias": "Hesperid 3",
@@ -20343,6 +20490,20 @@
       "target": "Org/The Harlequins/Providence/Machine God"
     },
     {
+      "alias": "Anzu",
+      "heading": null,
+      "resolved": "People/Anzu",
+      "source": "People/Galzu",
+      "target": "People/Anzu"
+    },
+    {
+      "alias": "Ministry of Cultural Progress",
+      "heading": null,
+      "resolved": "Org/Ministry of Cultural Progress/index",
+      "source": "People/Galzu",
+      "target": "Org/Ministry of Cultural Progress/index"
+    },
+    {
       "alias": "Undercroft",
       "heading": null,
       "resolved": "Geography/Færrin/Istria/Iomenei/Undercroft",
@@ -20908,6 +21069,13 @@
       "resolved": "Divinity/Ashen Pact/Esoterica",
       "source": "People/Oliver Day",
       "target": "Divinity/Ashen Pact/Esoterica"
+    },
+    {
+      "alias": "Providence",
+      "heading": null,
+      "resolved": "Org/The Harlequins/Providence/index",
+      "source": "People/Oliver Day",
+      "target": "Org/The Harlequins/Providence"
     },
     {
       "alias": "Sedecium",
@@ -38246,9 +38414,24 @@
           "alias": "War",
           "heading": null,
           "target": "Divinity/Ashen Pact/War"
+        },
+        {
+          "alias": "Giacomo's",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence/Giacomo's"
+        },
+        {
+          "alias": "Walter Stoke",
+          "heading": null,
+          "target": "Org/Iridescent Church/People/Walter Stoke"
+        },
+        {
+          "alias": "Manus",
+          "heading": null,
+          "target": "Org/Pale Lantern Society/People/Manus Sudrenus"
         }
       ],
-      "date": "2026-08-24T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Silven"
@@ -38257,7 +38440,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-08-24T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -40144,6 +40327,16 @@
           "target": "Org/Iconoclasm/People/Anaïs Marchal"
         },
         {
+          "alias": "Anaïs",
+          "heading": null,
+          "target": "Org/Iconoclasm/People/Anaïs Marchal"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
           "alias": "Fenrith",
           "heading": null,
           "target": "Geography/Færrin/Fenrith/index"
@@ -40154,7 +40347,7 @@
           "target": "Geography/Færrin/Calaria/Hallia/index"
         }
       ],
-      "date": "2026-07-13T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Anouk"
@@ -40163,7 +40356,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-07-13T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": "https://i.imgur.com/bfOqm7b.png",
         "tags": [
@@ -40967,7 +41160,7 @@
           "target": "Org/The Harlequins/Providence/Giacomo's"
         }
       ],
-      "date": "2026-08-24T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Walter"
@@ -40976,7 +41169,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-08-24T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41577,16 +41770,21 @@
           "alias": "Pale Lantern Society",
           "heading": null,
           "target": "Org/Pale Lantern Society/index"
+        },
+        {
+          "alias": "Providence",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence"
         }
       ],
-      "date": "2026-06-05T16:40:21-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Manus"
         ],
         "campaigns": [],
         "extra": {
-          "date": "2026-06-05T16:40:21-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -41931,9 +42129,39 @@
           "alias": "Arctos",
           "heading": null,
           "target": "People/Sir Arctos"
+        },
+        {
+          "alias": "Yao",
+          "heading": null,
+          "target": "Org/Protectorate/People/Yao Addington"
+        },
+        {
+          "alias": "Hesperid 3",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+        },
+        {
+          "alias": "Grayson",
+          "heading": null,
+          "target": "Org/Amber Call/People/Silven Grayson"
+        },
+        {
+          "alias": "Scale",
+          "heading": null,
+          "target": "Org/The Scale/index"
+        },
+        {
+          "alias": "Hildebrandt",
+          "heading": null,
+          "target": "Org/Hildebrandt Corporation/People/Hildebrandt"
+        },
+        {
+          "alias": "Giant",
+          "heading": null,
+          "target": "Divinity/Ashen Pact/Giant"
         }
       ],
-      "date": "2026-07-20T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [
           "Tamara"
@@ -41942,7 +42170,7 @@
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-07-20T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -43044,9 +43272,19 @@
           "alias": "rare gold metal",
           "heading": null,
           "target": "Phenomena/Holy Gold"
+        },
+        {
+          "alias": "Providence",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence"
+        },
+        {
+          "alias": "Oliver Day",
+          "heading": null,
+          "target": "People/Oliver Day"
         }
       ],
-      "date": "2026-11-17T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
@@ -43056,7 +43294,7 @@
           "risk-of-ruin"
         ],
         "extra": {
-          "date": "2026-11-17T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -43878,16 +44116,26 @@
           "alias": "horizon",
           "heading": null,
           "target": "Geography/Færrin/Infinite Horizon/index"
+        },
+        {
+          "alias": "phlogiston",
+          "heading": null,
+          "target": "Phenomena/Phlogiston"
+        },
+        {
+          "alias": "firmament",
+          "heading": null,
+          "target": "Phenomena/Firmament"
         }
       ],
-      "date": "2026-10-05T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-10-05T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -44028,6 +44276,31 @@
           "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
         },
         {
+          "alias": "Voidsong",
+          "heading": null,
+          "target": "Phenomena/Harmony/Voidsong"
+        },
+        {
+          "alias": "Sedecium",
+          "heading": null,
+          "target": "Org/Sedecium"
+        },
+        {
+          "alias": "Hesperid",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid"
+        },
+        {
+          "alias": "Oliver Day",
+          "heading": null,
+          "target": "People/Oliver Day"
+        },
+        {
+          "alias": "Hesperid 3",
+          "heading": null,
+          "target": "Geography/Færrin/Infinite Horizon/Far Realms/Hesperid 3"
+        },
+        {
           "alias": "the Master of Ceremonies",
           "heading": null,
           "target": "Org/The Harlequins/People/The Master of Ceremonies"
@@ -44138,14 +44411,14 @@
           "target": "Bestiary/Mongrel Folk"
         }
       ],
-      "date": "2026-11-17T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-17T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
@@ -49955,16 +50228,26 @@
           "alias": "Machine God",
           "heading": null,
           "target": "Org/The Harlequins/Providence/Machine God"
+        },
+        {
+          "alias": "Anzu",
+          "heading": null,
+          "target": "People/Anzu"
+        },
+        {
+          "alias": "Ministry of Cultural Progress",
+          "heading": null,
+          "target": "Org/Ministry of Cultural Progress/index"
         }
       ],
-      "date": "2026-10-05T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-10-05T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [
@@ -50701,19 +50984,24 @@
           "target": "Divinity/Ashen Pact/Esoterica"
         },
         {
+          "alias": "Providence",
+          "heading": null,
+          "target": "Org/The Harlequins/Providence"
+        },
+        {
           "alias": "Sedecium",
           "heading": null,
           "target": "Org/Sedecium"
         }
       ],
-      "date": "2026-11-17T00:00:00-04:00",
+      "date": "2026-11-24T00:00:00-04:00",
       "frontmatter": {
         "aliases": [],
         "campaigns": [
           "through-a-song-darkly"
         ],
         "extra": {
-          "date": "2026-11-17T00:00:00-04:00"
+          "date": "2026-11-24T00:00:00-04:00"
         },
         "img": null,
         "tags": [],
