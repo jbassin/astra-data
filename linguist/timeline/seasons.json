@@ -7,8 +7,8 @@
       "seasons": [
         {
           "number": 1,
-          "title": "Delivery Boys",
-          "arc_summary": "The party takes mercenary jobs in Hallia, investigates Pyrelight/Embercall and the Roundhat Gang, uncovers Grayson's necromantic experiments beneath the city, and suffers a catastrophic near-total party kill while ambushing the Roundhats at the Crowded Flea.",
+          "title": "Blood Nourishment",
+          "arc_summary": "The party starts as rookie couriers in Hallia and stumbles into a sprawling conspiracy — Ugathul monsters posing as Blackline cops, Embercall radar dishes spreading a destructive resonance, and Grayson's necromantic experiments beneath the city. After a catastrophic near-total party kill at the Crowded Flea, the survivors are resurrected through the Black and White, regroup, and slay both Hlarf and Tywelwyn Leatherhide — uncovering the existence of six Thessian gods attempting to crack the Firmament.",
           "episode_dates": [
             "2025-8-28",
             "2025-10-20",
@@ -16,14 +16,7 @@
             "2025-11-4",
             "2025-11-11",
             "2025-11-18",
-            "2025-12-2"
-          ]
-        },
-        {
-          "number": 2,
-          "title": "The Black and White",
-          "arc_summary": "Following the TPK, Johnny and Benny are resurrected through the Black and White by the entity Aut, Sir Arctos joins the party, and the survivors take brutal revenge on Hlarf and Tywelwyn Leatherhide, uncovering the six Thessian gods' plan to breach the Firmament.",
-          "episode_dates": [
+            "2025-12-2",
             "2025-12-9",
             "2025-12-16",
             "2025-12-23",
@@ -31,9 +24,9 @@
           ]
         },
         {
-          "number": 3,
+          "number": 2,
           "title": "The Pilgrimage",
-          "arc_summary": "The party reports their findings to the Magical Crimes Convox and the Inquisition, learns of the cosmic Narrative from Anaïs, enters the Pilgrimage keystone scavenger hunt, trades art to the Heart Rapid Connection for a keystone, and Argyle returns in half-demonic form.",
+          "arc_summary": "In the aftermath of Tywelwyn's death, the party reports their findings to the Inquisition, rescues Anaïs from an Aut-branded trap (learning of the Narrative — five cosmic siblings), and enters the Pilgrimage scavenger hunt at Ragged Roost. Through puzzle-solving, art theft, diplomacy with the Heart Rapid Connection, and a bloody ambush by Concordia, they secure Keystone 14 and passage aboard the colossal Strider.",
           "episode_dates": [
             "2026-1-6",
             "2026-1-13",
@@ -46,9 +39,9 @@
           ]
         },
         {
-          "number": 4,
-          "title": "Cracks in the Firmament",
-          "arc_summary": "With the keystone secured, the party investigates the quarantined Teller's Run district through the sewers, discovers an imprisoned god behind a fracture in the Firmament, and bombs the secret research facility studying it — collapsing the district and prompting the Pilgrimage departure.",
+          "number": 3,
+          "title": "The Firmament Fracture",
+          "arc_summary": "Argyle returns in half-form as the party enters extended downtime, then descends into Hallia's sewers toward quarantined Teller's Run. They discover a crack in the Firmament imprisoning a two-mile-tall figure, hack a terminal exposing Grayson's and the Prime Minister's conspiracy to shatter reality, bomb the research facility, and flee through a collapsing underground — triggering a mushroom cloud of ash over Teller's Run as the Harlequin announces the Strider's imminent departure.",
           "episode_dates": [
             "2026-3-9",
             "2026-3-16",
@@ -58,9 +51,9 @@
           ]
         },
         {
-          "number": 5,
+          "number": 4,
           "title": "The Strider",
-          "arc_summary": "The party boards the colossal Strider and creates their heart Eerie, then navigates deadly faction politics and the weekly tithe, forges an alliance with the ancient Machine God deep in the Undercroft, and begins confronting the Ashen Pact while recruiting allies and harvesting rival hearts.",
+          "arc_summary": "The party boards the colossal Strider and settles into a new world of faction politics, heart-based base-building, and the Harlequin's deadly Tithe. After surviving a void portal eruption on the gala dance floor, harvesting rival hearts for energy, and forging a coalition of allied factions, they descend into the Undercroft and ally with the ancient Machine God — clearing the Strider's depths of Herald cultists and claiming its infrastructure for the Coalition.",
           "episode_dates": [
             "2026-5-7",
             "2026-5-11",
@@ -71,19 +64,26 @@
             "2026-6-18",
             "2026-6-22",
             "2026-6-29",
-            "2026-7-6",
+            "2026-7-6"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "The Ashen Pact",
+          "arc_summary": "The Coalition consolidates power through loyalty oaths and the Void Atlas, but escalating threats converge: the sleeping clan's hospital is cleared at terrible cost, Anzu discovers the Ashen Pact — six entities overseeing reality — and in a desperate bid for cosmic allies, the party contacts the Menhir and receives a god-killing revolver. When Argyle shoots a Menhir to escape, the entire Narrative turns hostile, the Strider is flung far starward to a dead scoured world, and the Harlequins are annihilated — leaving the party stranded off every known map.",
+          "episode_dates": [
             "2026-7-13",
             "2026-7-20",
             "2026-7-27",
-            "2026-8-3"
+            "2026-8-3",
+            "2026-8-17"
           ]
         },
         {
           "number": 6,
-          "title": "The End",
-          "arc_summary": "The party acquires a god-killing revolver from the Menhir and accidentally destroys a member of the Narrative, flinging the Strider far starward onto a dead world; stranded, they explore time-shifted Hesperid outposts, make first contact with Sedecium survivors, and slay the Thessian Esoterica.",
+          "title": "Far Starward",
+          "arc_summary": "Stranded on a godless horizon, the party rallies the surviving factions, rescues a half-minotaur gunslinger from the Herald's song, infiltrates the Strider's corrupted spire, and pursues Anzu's sister Galzu through three surreal vignettes of history into Tali's Fane. A far-range expedition to the wrecked Hesperid yields phlogiston fuel and first contact with castaway Sedecium researchers, who reveal the Ashen Pact's newly ascended members — culminating in the party diving into Esoterica's lair and destroying the nascent god with the god-killing gun.",
           "episode_dates": [
-            "2026-8-17",
             "2026-8-24",
             "2026-9-7",
             "2026-9-17",
@@ -93,7 +93,8 @@
             "2026-10-19",
             "2026-10-29",
             "2026-11-3",
-            "2026-11-17"
+            "2026-11-17",
+            "2026-11-24"
           ]
         }
       ]
@@ -120,13 +121,20 @@
       "seasons": [
         {
           "number": 1,
-          "title": "A Needle to Kill a God",
-          "arc_summary": "The party kidnaps Yudan from the Leviathan's bio-organic control system, forges an uneasy alliance to learn how to defeat the Feep, and pushes into Oresk's bleak landscape. Navigating a steampunk lava ruin, they discover a nascent divine forge created by Haron Sil, mercy-kill its trapped operator Damien, and plead their case before the five members of the Narrative to earn a godpiercer needle of Holy Gold.",
+          "title": "The Heist and the Forge",
+          "arc_summary": "The party kidnaps Yudan from the Leviathan, forges an uneasy alliance, and ventures into Oresk's underground ruins. After rescuing the mercenary Damien and awakening a nascent divine forge, they plead their case before the Narrative to obtain a godpiercer needle of Holy Gold.",
           "episode_dates": [
             "2024-10-28",
             "2024-11-4",
             "2024-11-11",
-            "2024-12-2",
+            "2024-12-2"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "The Hunted and the Heist",
+          "arc_summary": "Exposed by Insuperlex's planet-wide broadcast, the party flees Oresk through the tundra to Sarengrad, allies with the Golden Sparrows, and infiltrates the First House's RC3 research facility floor by floor. After killing Rampart and ambushing Karkov, they steal the Divinity Leech and escape — only for the Broker to whisk them to an entirely new world.",
+          "episode_dates": [
             "2024-12-9",
             "2024-12-16",
             "2024-12-23",
@@ -134,14 +142,35 @@
             "2025-1-13",
             "2025-1-22",
             "2025-1-27",
-            "2025-2-3",
+            "2025-2-3"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Syrin and the Golden Spire",
+          "arc_summary": "Arriving on the cyberpunk planet Syrin, the party crashes MediaCon to trace the Feep's trail to Omnivox's orbital headquarters. After surviving a space-shard disaster and ascending the Gilded Spire, they confront and slay the god-wannabe Immix in a climactic multi-phase battle.",
+          "episode_dates": [
             "2025-2-10",
             "2025-2-18",
             "2025-2-24",
-            "2025-3-10",
+            "2025-3-10"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Vesper Feep Must Die",
+          "arc_summary": "Empowered by Immix's divine energy, the party learns the Feep's true name and origin — Vesper Feep, a street orphan turned media mogul — and grows backup clones before their final assault. They pin him to the weave with the godpiercer needle and kill him, but his death tears open the Slip and sets the stage for the Deep.",
+          "episode_dates": [
             "2025-3-24",
             "2025-3-31",
-            "2025-4-7",
+            "2025-4-7"
+          ]
+        },
+        {
+          "number": 5,
+          "title": "The Deep and the Lighthouse",
+          "arc_summary": "The party ascends to the 13th Realm and descends into the City in Yellow, completing six shaping trials before battling the Deep as the moon crashes into Althane. Victorious, the Lighthouse quarantines the world and carries the Weft onward; the newly demigod party then convenes the First Council of Althane to reshape the future.",
+          "episode_dates": [
             "2025-4-17",
             "2025-4-21",
             "2025-5-5",
@@ -187,8 +216,8 @@
       "seasons": [
         {
           "number": 1,
-          "title": "The Joker World Mission",
-          "arc_summary": "Scale operatives Sir Cliff, Gregor, the Reverend, and Zangren Lee are dispatched to a shattered Joker World to investigate a mysterious slip-shielded structure. They fight through the fiend-infested Quorum, descend through a bloodfall portal into a surreal cubicle maze, and free Voice of Many — a trapped divine heart and grandchild of the Judge — in a desperate ten-round defense before teleporting back to headquarters.",
+          "title": "The Joker World Expedition",
+          "arc_summary": "The show opens by wrapping up a Cagley Middle School one-shot against the Terror of Cagley, then pivots to a new Scale campaign: four high-ranking operatives investigate a slip-shielded structure on a shattered Joker World, battling through demon hordes, solving the fiendish puzzle-tower called the Quorum, and ultimately rescuing Voice of Many — a trapped divine entity and grandchild of the Judge — before teleporting back to Scale headquarters.",
           "episode_dates": [
             "2025-6-9",
             "2025-6-16",
@@ -220,15 +249,15 @@
         {
           "number": 1,
           "title": "The Everdawn Drift",
-          "arc_summary": "The fire team of Old Man Scrazzy, Lieutenant Foral, and Ozzie investigate an unpowered orbital station half-sunk in the slip, freeing its tortured AI and uncovering that the Thessian 'Esoterica' accessed the observatory's records of a massive magical spike near the Astra's core.",
+          "arc_summary": "Three Sedecium agents investigate an unpowered orbital station partially sunk into the slip, uncovering that the Thessian Esoterica tortured the station's AI and accessed records of a massive magical spike near the Astra's core.",
           "episode_dates": [
             "2026-4-6"
           ]
         },
         {
           "number": 2,
-          "title": "One Last Job: Stealing from a Dead God",
-          "arc_summary": "Pulled out of retirement, the team boards the Sundom planet-killer Heavy Hand of God to raid the divine essence of the freshly-killed god Tithe, navigating Slip puzzles and spider temples to plant a beacon — becoming the first and only fire team to succeed.",
+          "title": "One Last Job",
+          "arc_summary": "Pulled from retirement, the fire team boards a Sundom planet-killer warship to steal divine essence from the freshly-killed Thessian god Tithe before the God Eater Harrow finishes devouring it — navigating slip puzzles and spider temples to become the only team to succeed.",
           "episode_dates": [
             "2026-4-27"
           ]
@@ -266,5 +295,5 @@
       ]
     }
   ],
-  "inputs_hash": "cc082bd17bdf903785d3990d7e7c51d828adb2889fc07858ef1268065b9dff16"
+  "inputs_hash": "af009464e4a61b180ee5663be045ebf9c441fbc26968d013abf3630900b9a763"
 }
